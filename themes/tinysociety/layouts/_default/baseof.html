@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	{{- partial "site-head.html" . -}}
+	<body class="template-slider color-custom style-simple layout-full-width nice-scroll-on mobile-tb-left button-stroke if-zoom no-content-padding header-transparent header-fw minimalist-header-no sticky-dark ab-hide subheader-both-center menuo-right menuo-no-borders">
+		{{ `<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->` | safeHTML }}
+		{{- partial "header/google-tag-manager.html" . -}}
+		<div id="Wrapper">
+		  	{{- partial "site-header.html" . -}}
+			<div id="Content">
+				{{block "main" . }}
+				{{end}}
+			</div>
+			{{- partial "site-footer.html" . -}}
+		</div>
+		<!-- eof #Wrapper -->
+		{{- partial "footer/site-scripts.html" . -}}
+	</body>
+</html>

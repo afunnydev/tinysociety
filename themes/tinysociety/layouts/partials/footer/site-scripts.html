@@ -1,0 +1,24 @@
+{{ with .Site.Params.googleapikey }}
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{.}}"
+  type="text/javascript"></script>
+{{ end }}
+<script src="/js/main.min.js"></script>
+<script id="mfn-dnmc-retina-js">
+    jQuery(window).load(function() {
+        var retina = window.devicePixelRatio > 1 ? true : false;
+        if (retina) {
+            var retinaEl = jQuery("#logo img.logo-main");
+            var retinaLogoW = retinaEl.width();
+            var retinaLogoH = retinaEl.height();
+            retinaEl.attr("src", "/images/retina-lifestyle.png").width(retinaLogoW).height(retinaLogoH);
+            var stickyEl = jQuery("#logo img.logo-sticky");
+            var stickyLogoW = stickyEl.width();
+            var stickyLogoH = stickyEl.height();
+            stickyEl.attr("src", "/images/retina-lifestyle.png").width(stickyLogoW).height(stickyLogoH);
+            var mobileEl = jQuery("#logo img.logo-mobile");
+            var mobileLogoW = mobileEl.width();
+            var mobileLogoH = mobileEl.height();
+            mobileEl.attr("src", "/images/retina-lifestyle.png").width(mobileLogoW).height(mobileLogoH);
+        }
+    });
+</script>

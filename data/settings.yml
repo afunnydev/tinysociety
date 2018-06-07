@@ -1,0 +1,46 @@
+socials:
+  facebookurl: ''
+  linkedinurl: ''
+  twitterurl: ''
+  youtubeurl: ''
+  instagramurl: ''
+  googleplusurl: ''
+  pinteresturl: ""
+  vimeourl: ""
+  dribbleurl: ""
+twitter:
+  share: false
+  id: ""
+address:
+  road:
+  app:
+  city:
+  province:
+  postal:
+  country:
+ouverture:
+  fr:
+    - jour: 
+      heures: 
+    - jour:
+      heures: 
+    - jour: 
+      heures: 
+    - jour: 
+      heures: 
+  en:
+    - jour: 
+      heures: 
+    - jour: 
+      heures: 
+    - jour:
+      heures: 
+    - jour: 
+      heures: 
+phone: 
+mphone: '+'
+email: 
+sitedescription: ""
+sitetitle: ""
+defaultsocialimage: "/images/logo-share.jpg"
+removefromexternalsearch: true
