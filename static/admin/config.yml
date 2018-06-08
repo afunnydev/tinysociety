@@ -59,7 +59,8 @@ collections:
           - label: "Images"
             name: "images"
             widget: "list"
-            options:
+            create: true
+            fields:
               - {label: "Image", name: "link", widget: "image", required: false}
           - {label: "Color", name: "color", widget: "string", required: false}
           - {label: "Number of images", name: "nbimages", widget: "number", required: false}
