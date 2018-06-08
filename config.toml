@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-DefaultContentLanguage = "fr"
+baseURL = "https://www.tinysociety.co/"
+DefaultContentLanguage = "en"
 title = ""
 theme = "tinysociety"
 description = ""

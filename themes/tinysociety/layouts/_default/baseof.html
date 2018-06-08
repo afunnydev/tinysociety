@@ -1,5 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{$.Lang}}">
+	{{ $.Scratch.Add "homePage" ("/" | absLangURL) }}
+	{{ $.Scratch.Add "articlesPage" ("articles/" | absLangURL) }}
+	{{ $.Scratch.Add "portfolioPage" ("portfolio/" | absLangURL) }}
+	{{ $.Scratch.Add "servicesPage" ("services/" | absLangURL) }}
+	{{ $.Scratch.Add "faqPage" ("faq/" | absLangURL) }}
+	{{ if eq .Lang "fr" }}
+	{{ $.Scratch.Add "contactPage" ("contact/" | absLangURL) }}
+	{{ $.Scratch.Add "aboutPage" ("a-propos/" | absLangURL) }}
+	{{ else if eq .Lang "en" }}
+	{{ $.Scratch.Add "contactPage" ("contact-us/" | absLangURL) }}
+	{{ $.Scratch.Add "aboutPage" ("about-us/" | absLangURL) }}
+	{{ end }}
 	{{- partial "site-head.html" . -}}
 	<body class="template-slider color-custom style-simple layout-full-width nice-scroll-on mobile-tb-left button-stroke if-zoom no-content-padding header-transparent header-fw minimalist-header-no sticky-dark ab-hide subheader-both-center menuo-right menuo-no-borders">
 		{{ `<!--[if lt IE 9]>

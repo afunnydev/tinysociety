@@ -5,7 +5,7 @@ description: >-
 titre: À propos
 identifiant: a-propos
 i18nlanguage: fr
-slug: a-propos
+slug: about-us
 layout: a-propos
 image: null
 ---

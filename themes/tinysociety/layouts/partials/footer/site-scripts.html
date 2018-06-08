@@ -2,7 +2,11 @@
 <script async defer src="https://maps.googleapis.com/maps/api/js?key={{.}}"
   type="text/javascript"></script>
 {{ end }}
+{{ if eq .Params.layout "contact" }}
+<script src="/js/main-with-ui.min.js"></script>
+{{ else }}
 <script src="/js/main.min.js"></script>
+{{ end }}
 <script id="mfn-dnmc-retina-js">
     jQuery(window).load(function() {
         var retina = window.devicePixelRatio > 1 ? true : false;

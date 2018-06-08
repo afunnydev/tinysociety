@@ -4,35 +4,43 @@ backend:
     - admin
   branch: development # Branch to update (master by default)
 
-media_folder: "themes/tinysociety/source-images" # Folder where user uploaded files should go
+media_folder: "themes/tinisociety/source-images" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with
 
 publish_mode: editorial_workflow
 
 collections:
 ### AUTRES
-#   - name: "articles-fr" # Used in routes, e.g. /admin/collections/blog
-#     label: "Articles - FR" # Used in the UI
-#     folder: "content/articles" # The path to the folder where the documents are stored
-#     slug: "{{identifiant}}"
-#     editor:
-#       preview: false
-#     create: true # Allow users to create new documents in this collection
-#     filter: 
-#       field: "i18nlanguage"
-#       value: "fr"
-#     fields:
-#       - {label: "Titre", name: "title", widget: "string"}
-#       - {label: "Lien interne (ce qui suit le https://www.lairevisuelle.com/articles)", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
-#       - {label: "Identifiant (utilisé à l'interne seulement pour identifié l'article", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "string"}
-#       - {label: "Description SEO", name: "description", widget: "text", required: false}
-#       - {label: "Image principale (non requise pour article externe)", name: "image", widget: "image" , required: false}
-#       - {label: "Date de publication", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
-# #      - {label: "Catégories (séparées de virgules)", name: "categories", widget: "list", required: false}
-#       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
-#       - {label: "Importance (0 étant le plus important)", name: "ordre", widget: "number", default: 0, required: false}
-#       - {label: "Texte", name: "body", widget: "markdown"}
-#       - {label: "Rendre l'article invisible?", name: "draft", widget: "boolean", required: false, default: false}
+  - name: "articles" # Used in routes, e.g. /admin/collections/blog
+    label: "Articles" # Used in the UI
+    folder: "content/articles" # The path to the folder where the documents are stored
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    create: true # Allow users to create new documents in this collection
+    filter: 
+      field: "i18nlanguage"
+      value: "en"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Description", name: "description", widget: "text", required: false}
+      - {label: "Slug/Link (if link is https://www.kinziplans.com/articles/tiny-house-roof, value is tiny-house-roof)", name: "slug", widget: "string", default: "this-is-an-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+      - {label: "Main image", name: "image", widget: "image" , required: false}
+      - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - name: listing
+        label: "Home page and articles page"
+        widget: object
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Summary", name: "description", widget: "text"}
+      - {label: "Categories (separate with commas)", name: "categories", widget: "list", required: false}
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
+      - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
+      - {label: "Text", name: "body", widget: "markdown"}
+      - {label: "Remove from website?", name: "draft", widget: "boolean", required: false, default: false}
+      - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
 #   - name: "articles-en" # Used in routes, e.g. /admin/collections/blog
 #     label: "Articles - EN" # Used in the UI
 #     folder: "content/articles" # The path to the folder where the documents are stored

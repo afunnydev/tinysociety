@@ -25,6 +25,21 @@ const jsFiles = [
                   'themes/tinysociety/assets/js/theme/jquery.plugins.js',
                   'themes/tinysociety/assets/js/theme/jquery.jplayer.min.js',
                   'themes/tinysociety/assets/js/theme/animations/animations.js',
+                  'themes/tinysociety/assets/js/theme/email.js',
+                  'themes/tinysociety/assets/js/theme/scripts.js',
+                  'themes/tinysociety/assets/js/main.js'
+                ];
+const jsFilesUI = [
+                  'themes/tinysociety/assets/js/theme/jquery-2.1.4.min.js',
+                  'themes/tinysociety/assets/js/theme/ui/jquery.ui.core.js',
+                  'themes/tinysociety/assets/js/theme/ui/jquery.ui.widget.js',
+                  'themes/tinysociety/assets/js/theme/ui/jquery.ui.accordion.js',
+                  'themes/tinysociety/assets/js/theme/ui/jquery.ui.tabs.js',
+                  'themes/tinysociety/assets/js/theme/mfn.menu.js',
+                  'themes/tinysociety/assets/js/theme/jquery.plugins.js',
+                  'themes/tinysociety/assets/js/theme/jquery.jplayer.min.js',
+                  'themes/tinysociety/assets/js/theme/animations/animations.js',
+                  'themes/tinysociety/assets/js/theme/email.js',
                   'themes/tinysociety/assets/js/theme/scripts.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
@@ -66,7 +81,7 @@ gulp.task('sass', function () {
     .pipe(gulp.dest('themes/tinysociety/static/css'));
 });
 
-gulp.task('scripts', function() {
+gulp.task('scripts-normal', function() {
     return gulp.src(jsFiles)
         .pipe(sourcemaps.init())
         .pipe(concat('main.min.js'))
@@ -74,6 +89,17 @@ gulp.task('scripts', function() {
         .pipe(sourcemaps.write())
         .pipe(gulp.dest(jsDest));
 });
+
+gulp.task('scripts-ui', function() {
+    return gulp.src(jsFilesUI)
+        .pipe(sourcemaps.init())
+        .pipe(concat('main-with-ui.min.js'))
+        .pipe(uglify())
+        .pipe(sourcemaps.write())
+        .pipe(gulp.dest(jsDest));
+});
+
+gulp.task('scripts', ['scripts-normal', 'scripts-ui']);
 
 // watching
 gulp.task("watch", function() {
@@ -96,6 +122,5 @@ gulp.task("dev",  function(callback) {
 // optimizing images and calling hugo for production
 gulp.task("prod",  function(callback) {
   runSequence('image-resize',
-              'sass',
               'hugo');
 });

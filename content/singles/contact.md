@@ -5,7 +5,11 @@ description: >-
 titre: Contact
 identifiant: contact
 i18nlanguage: fr
-slug: contact
+slug: contact-us
 layout: contact
 image: null
+subheader:
+  need: true
+  image: "/img/home_lifestyle_subheader.jpg"
+  title: Contact
 ---
