@@ -1,9 +1,9 @@
 socials:
-  facebookurl: ''
+  facebookurl: 'https://www.facebook.com/tinyhouseloversofficial/'
   linkedinurl: ''
   twitterurl: ''
   youtubeurl: ''
-  instagramurl: ''
+  instagramurl: 'https://www.instagram.com/tinyhouse_lovers/'
   googleplusurl: ''
   pinteresturl: ""
   vimeourl: ""
@@ -40,7 +40,8 @@ ouverture:
 phone: 
 mphone: '+'
 email: 
-sitedescription: ""
-sitetitle: ""
-defaultsocialimage: "/images/logo-share.jpg"
+sitedescription: "Kinzi Plans is dedicated to offering the best tiny house plans. We work with the best architects for your specific needs. For those  who wants to live more with less space!"
+sitetitle: "Kinzi Plans | Tiny House Plans"
+defaultsocialimage: "/img/tiny-house-logo-white.jpg"
 removefromexternalsearch: true
+titleautocompletion: false
