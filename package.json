@@ -20,6 +20,7 @@
   "devDependencies": {
     "browser-sync": "^2.24.4",
     "concurrent-transform": "^1.0.0",
+    "create-react-class": "^15.6.3",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
@@ -30,6 +31,11 @@
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
-    "run-sequence": "^2.2.1"
+    "netlify-cms": "^1.8.4",
+    "netlify-cms-widget-native-color": "^2.2.0",
+    "prop-types": "^15.6.1",
+    "react-immutable-proptypes": "^2.1.0",
+    "run-sequence": "^2.2.1",
+    "slate": "^0.33.6"
   }
 }

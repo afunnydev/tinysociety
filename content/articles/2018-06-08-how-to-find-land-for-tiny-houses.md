@@ -20,9 +20,13 @@ categories:
   - Tiny houses
 overlay: true
 quotes:
-  - image: /img/tiny-house-3.jpg
+  - style: style-1
+    images: 
+      - link: /img/tiny-house-3.jpg
     quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
-  - image: /img/tiny-house-6.jpg
+  - style: style-2
+    images: 
+      - link: /img/tiny-house-6.jpg
     quote: "Embarking on the Tiny Life is a major change for many people. If you’re not quite sure whether it’s for you, a trial run may be in order."
 ---
 
