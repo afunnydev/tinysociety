@@ -15,7 +15,7 @@ listing:
 i18nlanguage: en
 ordre: '0'
 draft: false
-noindex: false
+noindex: true
 ---
 One thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effort, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
 
