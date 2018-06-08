@@ -1,7 +1,7 @@
 ---
 title: Is a Tiny House Better for the Environment?
 description: This is a desc
-slug: single1
+slug: single2
 image: /img/tiny-house-2.jpg
 date: 2018-04-30T00:00:00.000Z
 listing:

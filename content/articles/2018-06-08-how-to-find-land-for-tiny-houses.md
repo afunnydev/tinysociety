@@ -16,24 +16,31 @@ i18nlanguage: en
 ordre: '0'
 draft: false
 noindex: true
+categories:
+  - Tiny houses
+overlay: true
+quotes:
+  - image: /img/tiny-house-3.jpg
+    quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
+  - image: /img/tiny-house-6.jpg
+    quote: "Embarking on the Tiny Life is a major change for many people. If you’re not quite sure whether it’s for you, a trial run may be in order."
 ---
-One thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effort, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
+
+#### In this article, I’ll be discussing the details of various options involving buying land, renting land, or buying a Tiny House already situated in place.
+
+<span class="dropcap size-2" style="background-color:transparent; color:#db9d3a;">O</span>ne thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effort, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
 
 Of course, if you’re interested in a Tiny House on foundation rather than a Tiny House on wheels, the journey doesn’t even get off the ground without land (punsters, groan all you want).
 
-In this article, I’ll be discussing the details of various options involving buying land, renting land, or buying a Tiny House already situated in place.
-
-# Buying vs. Renting Land
-
-## The first decision
+## Buying vs. Renting Land
 
 The first decision to make is whether to rent or to buy land. 
 
-## Why would I rent land?
+#### Why would I rent land?
 
 Renting allows for flexibility if your Tiny House is on wheels rather than on a fixed foundation. And it allows for a change of scenery as often as you like. When you’re ready for a change or your lease is up, hitch to a truck and head down the road. 
 
-## Why would I buy land?
+#### Why would I buy land?
 
 A few of the reasons to purchase land include:
 
@@ -41,25 +48,27 @@ A few of the reasons to purchase land include:
 * It also allows more freedom to shape and use the land according to your personal needs.
 * Buying land provides the option of building a Tiny House on a fixed foundation.
 
-## Can I choose both?
+### Can I choose both?
 
-### Budgeting in stages
+#### Budgeting in stages
 
 Many of us opt to rent for a while first and then purchase property of our own later, which allows for budgeting large expenditures in stages.
 
-### A place to build
+#### A place to build
 
 A benefit to purchasing the land first is that you won’t have to look for a separate location to do your construction, whether the Tiny House will be on a foundation or on wheels.
 
-### Customizing the design to fit the land
+#### Customizing the design to fit the land
 
 If you’re building a fixed structure, you can customize it to conform to the specific location on the Earth where it sits—a precept of many a talented designer.
 
-# Renting Land for a Mobile Tiny House
+<!-- split -->
 
-The first scenario I’ll look at is the most common one: finding land to rent for a Tiny House on wheels. As far as factors for choosing a location go, you’ll want to also take a look at the **Buying Land for a Tiny House** section below. 
+## Renting Land for a Mobile Tiny House
 
-## Online resources
+The first scenario I’ll look at is the most common one: finding land to rent for a Tiny House on wheels. As far as factors for choosing a location go, you’ll want to also take a look at the [Buying Land for a Tiny House](#buying-land-for-a-tiny-house) section below. 
+
+### Online resources
 
 Thankfully, some great resources are emerging for connecting Tiny House owners with land hosts who are happy to welcome a Tiny House onto their property in exchange for rent. In some cases, you can trade for skilled labor, property caretaking, help with farm crops or ranch animals, or any other needs that the unique property owner might have. 
 
@@ -69,7 +78,7 @@ Online resources for finding land to rent include:
 * <https://www.tryittiny.com/>
 * the Tiny House Hosting group on Facebook
 
-**Mobile home parks**
+### Mobile home parks
 
 **Do they allow Tiny Houses?**
 
@@ -102,7 +111,7 @@ Again, a current RV license by a certified manufacturer may be a prerequisite.
 
 The process for registering a DIY Tiny House varies from jurisdiction to jurisdiction, and may or may not get you in the door. But the rules are changing, and Tiny House dwellers are making strides towards greater acceptance in a larger range of circumstances.
 
-**WWOOFing** 
+## WWOOFing
 
 ### What is WWOOFing?
 
@@ -134,7 +143,7 @@ You’ll need to pay a fee to join WWOOF in order to browse listings or view hos
 
 <iframe width="570" height="321" src="https://www.youtube.com/embed/lLYt1zlqUtE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Renting a Tiny House Already Built
+## Renting a Tiny House Already Built
 
 Embarking on the Tiny Life is a major change for many people. If you’re not quite sure whether it’s for you, a trial run may be in order. This is where renting a Tiny House that has already been built comes in. 
 
@@ -161,11 +170,13 @@ While these options won’t give you the full experience of living 24/7 in a Tin
 * Post in Facebook’s Tiny House People group and ask whether anyone in your area would mind you dropping by to look.
 * Do be respectful, and refrain from walking up and knocking on the door of any Tiny House you see. You don’t have any more right to access a stranger’s Tiny House or to disturb its occupants’ privacy as you do with any random conventional house you see. Unfortunately many Tiny House dwellers have experienced this sense of entitlement to their private space from curious onlookers.
 
-# Buying Land for a Tiny House
+<!-- split -->
+
+## Buying Land for a Tiny House
 
 ![Buy land for a tiny house](/img/buy-a-land-for-a-tiny-house.jpg)
 
-## What to Look For
+### What to Look For
 
 Whether your Tiny House is on wheels or foundation, you’ll be looking at similar factors if you choose to buy land, rather than to rent. The primary difference, as mentioned earlier, is that with a Tiny House on foundation, the land comes first. With a Tiny House on wheels, you can look for land after the house is built.
 
@@ -216,18 +227,12 @@ When choosing a location for your Tiny House, it helps to make a list of your pe
 * age demographics
 * universities and other higher education institutions
 * community gardens
-* noise factors:
-  ```
-                * are you considering a site adjacent to a major highway or an airport or a manufacturing plant or a dance club or a shooting range or a cattle ranch?
-  ```
+* noise factors (are you considering a site adjacent to a major highway or an airport or a manufacturing plant or a dance club or a shooting range or a cattle ranch?)
 * air quality
 * drinking water quality
 * degree of light pollution at night
 * quality of area schools
-* prevailing odors:
-  ```
-                *  are there pulp mills or rendering plants nearby?
-  ```
+* prevailing odors (are there pulp mills or rendering plants nearby?)
 
 **Types of land**
 
@@ -313,11 +318,11 @@ If your Tiny House is on wheels, you can vacate the property and sell the vacant
 
 A Tiny House on foundation may be a valuable selling point to a future buyer, perhaps as Airbnb income, as a "Mother-in-Law" dwelling, or as the new owner’s primary residence.
 
-# How to Find & Acquire Your Land
+## How to Find & Acquire Your Land
 
 Now that you have a better idea of what you want in a piece of property, how to you go about finding and acquiring it?
 
-**Finding Property**
+### Finding Property
 
 **Real estate agent.** Working with a good real estate agent is the standard traditional route.
 
@@ -331,12 +336,12 @@ Now that you have a better idea of what you want in a piece of property, how to 
 * <https://www.trulia.com/> 
 * <https://www.forsalebyowner.com/>
 
-### Other DIY options.
+#### Other DIY options.
 
 * attending land auctions
 * researching bank foreclosures and tax sales
 
-## Assessing the Property
+### Assessing the Property
 
 **Survey.** Before purchasing property, you’ll want to have it professionally surveyed to determine the legal boundaries. Don’t get caught on the wrong side of a future dispute with your neighbors over whether they have the right to chop down your favorite shade tree or erect a fence through the middle of your herb garden.
 
@@ -379,7 +384,7 @@ Water rights concern usage of bodies of water bordering or near the property. Th
 * In some areas, water rights (the rights to surface water or subterranean streams) may be sold independently of the land.
 * Riparian rights (enjoyment of a body of water adjoining the land, e.g. the lake that lakefront property borders) cannot be sold separately.
 
-**Environmental testing and assessment.** 
+### Environmental testing and assessment.
 
 **Why should I do it?**
 
@@ -409,10 +414,9 @@ Testing tap water is a relatively simple process accomplished with a home water 
 
 If simply looking for general information, the customer service department of a local title company may grant you a free property profile. You’ll want to ask for copies of property deeds and mortgages.
 
-# Purchasing the Property
+## Purchasing the Property
 
-**
-Financing** 
+### Financing 
 
 It’s typical to pay cash for raw or undeveloped land. You may be able to secure a personal loan through your financial institution, but mortgages aren’t always an option. Financing is particularly difficult to find for raw land.
 
@@ -428,10 +432,9 @@ You’ll need to find a location with zoning that allows for multiple dwellings.
 
 Exit strategies will need to be planned so everyone is clear on ownership transference if any members decide to sell their interest and depart.
 
-# Positioning and Orienting Your Tiny House on the Property
+## Positioning and Orienting Your Tiny House on the Property
 
-**
-Access**
+**Access**
 
  If your Tiny House is on wheels, it will need a path of access from the road to its position on the property. You may be limited to pre-existing driveways or vehicle-wide paths if the topography or your budget do not allow for new roads. If building a Tiny House on foundation, take into consideration how far you’ll need to haul building materials from the nearest point that a vehicle can access.
 
@@ -468,7 +471,7 @@ It may make more sense in many situations to employ a detached solar panel array
 
 Proximity to your water source is another consideration that may limit your choices of where to position your Tiny House. Will you be hooking up to a public water source, or to a natural source such as a well on the property?
 
-## Power
+**Power**
 
 The same goes for electricity if you’re not generating your own. Excessively long extension cords are not ideal. Adding infrastructure to access these utilities, if it’s not already in place, is a significant expense that you’ll need to include in your budgeting.
 
@@ -476,7 +479,7 @@ The same goes for electricity if you’re not generating your own. Excessively l
 
 Be aware of the existing setbacks for your property. Be sure to stay within them, especially if building a permanent structure.
 
-# Tiny House Communities
+## Tiny House Communities
 
 An increasingly available option for locating your Tiny House is a Tiny House community. 
 

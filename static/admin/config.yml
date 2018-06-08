@@ -34,6 +34,7 @@ collections:
           - { label: "Michelle Garofano", value: "michelleg" }
           - { label: "David Morneau", value: "davidm" }
       - {label: "Main image", name: "image", widget: "image" , required: false}
+      - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: false}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - name: listing
         label: "Home page and articles page"

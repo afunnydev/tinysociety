@@ -1,0 +1,63 @@
+.bg-extra-dark-gray {
+    background-color: #1c1c1c;
+}
+
+/* opacity */
+.opacity-very-light {position: absolute; height: 100%; width: 100%; opacity: 0.2; top:0; left: 0;}
+.opacity-light {position: absolute; height: 100%; width: 100%; opacity: 0.3; top:0; left: 0;}
+.opacity-extra-medium {position: absolute; height: 100%; width: 100%; opacity: 0.5; top:0; left: 0;}
+.opacity-medium {position: absolute; height: 100%; width: 100%; opacity: 0.75; top:0; left: 0;}
+.opacity-full {position: absolute; height: 100%; width: 100%; opacity: 0.8; top:0; left: 0;}
+.opacity-full-dark {position: absolute; height: 100%; width: 100%; opacity: 0.9; top:0; left: 0;}
+
+.opacity1 {opacity:.1}
+.opacity2 {opacity:.2}
+.opacity3 {opacity:.3}
+.opacity4 {opacity:.4}
+.opacity5 {opacity:.5}
+.opacity6 {opacity:.6}
+.opacity7 {opacity:.7}
+.opacity8 {opacity:.8}
+.opacity9 {opacity:.9}
+
+.single-post {
+	#Intro {
+		.intro-meta {
+			color: rgba(255,255,255,0.9);
+			a {
+				color: rgba(255,255,255,0.9);
+			}
+		}
+	}
+	#Content {
+		.post {
+			h3 {
+				font-size: 22px;
+				line-height: 26px;
+			}
+			h4 {
+				font-size: 20px;
+				line-height: 24px;
+			}
+			h3,h4 {
+				&.article-quote {
+					font-size: 42px;
+			    	line-height: 44px;
+				}
+			}
+			h2 {
+				margin-top: 30px;
+			}
+			p {
+				font-size: 120%;
+			}
+			ul, li, ol {
+				font-size: 105%;
+			}
+			iframe {
+				margin-bottom: 20px;
+			}
+		}
+	}
+}
+	
