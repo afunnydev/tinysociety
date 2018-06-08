@@ -26,7 +26,13 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "SEO Description", name: "description", widget: "text", required: false}
-      - {label: "Slug/Link (if link is https://www.kinziplans.com/articles/tiny-house-roof, value is tiny-house-roof)", name: "slug", widget: "string", default: "this-is-an-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+      - {label: "Slug/Link (if link is https://www.tinysociety.co/articles/tiny-house-roof, value is tiny-house-roof)", name: "slug", widget: "string", default: "this-is-an-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+      - label: "Author" 
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Michelle Garofano", value: "michelleg" }
+          - { label: "David Morneau", value: "davidm" }
       - {label: "Main image", name: "image", widget: "image" , required: false}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - name: listing
