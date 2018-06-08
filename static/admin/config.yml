@@ -41,7 +41,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Summary", name: "description", widget: "text"}
-      - {label: "Categories (separate with commas)", name: "categories", widget: "categories", required: false}
+      - {label: "Categories (separate with commas)", name: "categories", widget: "list", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
       - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
       - {label: "Text", name: "body", widget: "markdown"}
