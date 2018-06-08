@@ -4,7 +4,7 @@ backend:
     - admin
   branch: development # Branch to update (master by default)
 
-media_folder: "themes/tinisociety/source-images" # Folder where user uploaded files should go
+media_folder: "themes/tinysociety/source-images" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with
 
 publish_mode: editorial_workflow
