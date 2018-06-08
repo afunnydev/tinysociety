@@ -57,11 +57,10 @@ collections:
           - label: "Images"
             name: "images"
             widget: "list"
-            required: false
             options:
               - {label: "Image", name: "link", widget: "image" , required: false}
           - {label: "Quote", name: "quote", widget: "string", required: false}
-          - {label: "Color", name: "color", widget: "native-color", required: false}
+          - {label: "Color", name: "color", widget: "string", required: false}
           - {label: "Quote", name: "quote", widget: "string", required: false}
       - {label: "Categories (separate with commas)", name: "categories", widget: "list", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
