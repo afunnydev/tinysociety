@@ -1,0 +1,225 @@
+{{ define "main" }}
+{{ $mymonths := $.Site.Data.mois.mois }}
+{{ $mydays := $.Site.Data.jour.jour }}
+<section class="property">
+  <div class="container">
+    <ul class="ht-breadcrumbs ht-breadcrumbs--y-padding ht-breadcrumbs--b-border">
+      <li class="ht-breadcrumbs__item"><a href="#" class="ht-breadcrumbs__link"><span class="ht-breadcrumbs__title">Home</span></a></li>
+      <li class="ht-breadcrumbs__item"><a href='{{ $.Scratch.Get "plansPage" }}' class="ht-breadcrumbs__link"><span class="ht-breadcrumbs__title">Plans</span></a></li>
+      <li class="ht-breadcrumbs__item"><span class="ht-breadcrumbs__page">{{.Params.listing.title}}</span></li>
+    </ul><!-- ht-breadcrumb -->
+  </div><!-- .container -->
+
+  <div class="property__header">
+    <div class="container">
+      <div class="property__header-container">
+        <ul class="property__main">
+          <li class="property__title property__main-item">
+            <div class="property__meta">
+              <span class="property__offer">Tiny cabins</span>
+              <span class="property__type">New</span>
+            </div><!-- .property__meta -->
+            <h2 class="property__name">Name of the plan</h2>
+            <span class="property__address"><i class="fa fa-heart-o property__address-icon"></i>Why is this plan awesome in one punch line</span>
+          </li>
+          <li class="property__details property__main-item">
+            <ul class="property__stats">
+              <li class="property__stat"><span class="property__figure">2<sup>&plus;</sup></span> Beds</li>
+              <li class="property__stat"><span class="property__figure">$25000</span> Avg Build Cost</li>
+              <li class="property__stat"><span class="property__figure">600</span> sq.ft</li>
+            </ul><!-- .listing__stats -->
+          </li>
+          <li class="property__price property__main-item">
+            <h4 class="property__price-primary">Give us what you want</h4>
+            <span class="property__price-secondary">Current Average: 112$</span>
+          </li>
+        </ul><!-- .property__main -->
+
+        <ul class="property__list">
+          <li class="property__item">
+            <a href="#" class="property__link">
+              <i class="ion-android-share-alt property__icon"></i>
+              <span class="property__item-desc">Share</span>
+            </a>
+          </li>
+        </ul><!-- .property__list -->
+      </div><!-- .property__header-container -->
+    </div><!-- .container -->
+  </div><!-- .property__header -->
+
+  <div class="property__container">
+    <div class="container">
+      <div class="row">
+        <main class="col-md-9">
+          <div class="property__feature-container">
+            <div class="property__slider property__slider--v2">
+                <div class="property__slider-container">
+                  
+                  <div class="property__slider-main">
+                    <div class="property__slider-images">
+                      {{ range .Params.slider }}
+                      <div class="property__slider-image">
+                        <img src="{{.image}}" alt="{{.alttext}}">
+                      </div><!-- .property__slider-image -->
+                      {{ end }}
+          
+                    </div><!-- .property__slider-images -->
+          
+                    <ul class="image-navigation">
+                      <li class="image-navigation__prev">
+                        <span class="ion-ios-arrow-left"></span>
+                      </li>
+                      <li class="image-navigation__next">
+                        <span class="ion-ios-arrow-right"></span>
+                      </li>
+                    </ul>
+          
+                    <span class="property__slider-info"><i class="ion-android-camera"></i><span class="sliderInfo"></span></span>
+                  </div><!-- .property__slider-main -->
+
+                  <ul class="property__slider-nav property__slider-nav--horizontal">
+                    {{ range .Params.slider }}
+                    <li class="property__slider-item">
+                      <img src="{{.image}}" alt="{{.alttext}}">
+                    </li><!-- .property__slider-item -->
+                    {{ end }}
+                  </ul><!-- .property__slider-nav -->
+                </div><!-- .property__slider-container -->
+              </div><!-- .property__slider -->
+
+            <div class="property__feature">
+              <h3 class="property__feature-title property__feature-title--b-spacing">House Description</h3>
+              <p>Spacious and grand, 3 bedroom, 2 bath (one en-suite) condo boasts 1,752 Sq Ft. Middle unit of a beautiful three-unit 1890's Victorian designed by William Armitage. Period details: high ceilings, ornate moldings, 2 fireplaces, stained glass, beveled glass transoms, hardwood floors. Spacious dining room, remodeled kitchen and wonderful deeded walk-out deck. Convenient in-unit laundry room, deeded parking & storage space.</p>
+
+              <p>Nested among stunning Victorians and located in the vibrant Alamo Square District near the park, Painted Ladies and bustling Divisadero and Fillmore St. corridors. Easy access to downtown's Financial district and public transportation. Walk Score of 93 (paradise).</p>
+            </div><!-- .property__feature -->
+
+            <div class="property__feature">
+              <h3 class="property__feature-title property__feature-title--b-spacing">Floor Plans (2)</h3>
+              <div class="property__accordion">
+                <div class="property__accordion-header">
+                  <div class="property__accordion-textcontent">
+                    <span class="property__accordion-title">First Floor</span>
+                    <ul class="property__accordion-stats">
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Size:</span> 2650</li>
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Rooms:</span> 1670 Sqft</li>
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Baths:</span> 980 Sqft</li>
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Prices:</span> $568</li>
+                    </ul><!-- .property__accordion-stats -->
+                  </div><!-- .property__accordion-textcontent -->
+                  <i class="fa fa-caret-up property__accordion-expand" aria-hidden="true"></i> 
+                </div><!-- .property__accordion-header -->
+
+                <div class="property__accordion-content property__accordion-content--active">
+                  <img src="/img/tinycabin-plan.jpg" alt="Floor Plan">
+                </div><!-- .property__accordion-content -->
+              </div><!-- .property__accordion -->
+              <div class="property__accordion">
+                <div class="property__accordion-header">
+                  <div class="property__accordion-textcontent">
+                    <span class="property__accordion-title">Second Floor</span>
+                    <ul class="property__accordion-stats">
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Size:</span> 2650</li>
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Rooms:</span> 1670 Sqft</li>
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Baths:</span> 980 Sqft</li>
+                      <li class="property__accordion-figure"><span class="property__accordion-figure--cat">Prices:</span> $568</li>
+                    </ul><!-- .property__accordion-stats -->
+                  </div><!-- .property__accordion-textcontent -->
+                  <i class="fa fa-caret-down property__accordion-expand" aria-hidden="true"></i>
+                </div><!-- .property__accordion-header -->
+
+                <div class="property__accordion-content">
+                  <img src="/img/tinycabin-plan-2.jpg" alt="Floor Plan">
+                </div><!-- .property__accordion-content -->
+              </div><!-- .property__accordion -->
+            </div><!-- .property__feature -->
+
+            <div class="property__feature">
+              <h3 class="property__feature-title property__feature-title--b-spacing">Property Features</h3>
+              <ul class="property__features-list">
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Air Conditioning</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Barbeque</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Dryer</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Gym</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Laundry</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Lawn</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Microwave</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Outdoor Shower</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Refrigerator</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Sauna</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Swimming Pool</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>TV Cable</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Washer</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Wifi</li>
+                <li class="property__features-item"><span class="property__features-icon ion-checkmark-round"></span>Window Coverings</li>
+              </ul><!-- .property__features-list -->
+            </div><!-- .property__feature -->
+
+            
+
+            <div class="property__feature">
+              <h3 class="property__feature-title property__feature-title--b-spacing">What you get with us</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis rem architecto illo placeat ipsa, id nobis iure numquam libero, cupiditate dolorum, earum nam error sit maxime molestiae velit porro. Perferendis!</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic a ullam, aut ab molestias sequi rem similique quis. Quasi repellendus maiores nisi nobis, non tempora earum alias sequi natus eius.</p>
+            </div><!-- .property__feature -->
+          </div><!-- .property__feature-container -->
+        </main>
+
+        <aside class="col-md-3 plans">
+          <div class="widget__container">
+            
+
+            <section class="widget widget--white widget--padding-20">
+              <h3 class="widget__title">Plan Options</h3>
+              <form class="form-calculator">
+
+                <div class="form-calculator__group">
+                  <label for="loan-term" class="form-calculator__label">Select Plan Set Options</label>
+                  <select id="loan-term" class="ht-field" required>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10" selected>10</option>
+                  </select>
+                  <span class="info"><a href="#">What's included?</a></span>
+                </div><!-- .form-calculator__group -->
+                <div class="form-calculator__group">
+                  <label for="percent" class="form-calculator__label">Select Foundation Options</label>
+                  <select id="percent" class="ht-field" required>
+                    <option value="Weekly">WEEKLY</option>
+                    <option value="Monthly" selected>MONTHLY</option>
+                    <option value="Bi-Weekly">BI-WEEKLY</option>
+                  </select>
+                </div><!-- .form-calculator__group -->
+                <div class="form-calculator__group">
+                  <label for="annual-rate" class="form-calculator__label">Give us what you want</label>
+                  <!-- <div id="flat-slider"></div> -->
+                  <div id="sliderwidget" class="price">
+                    <div id="custom-handle" class="ui-slider-handle"></div>
+                  </div>
+                  <span class="form-calculator__icon form-calculator__percent">$</span>
+                  <input id="give-us" type="text" name="give-us" class="form-calculator__field" disabled required value="117">
+                </div><!-- .form-calculator__group -->
+
+                <input type="submit" class="form-calculator__submit" value="Add to cart">
+                
+                <!-- <div class="form-calculator__result">
+                  <h3 class="mortgage-payment">Mortgage Payments: <span>$22253.28</span></h3>
+                </div> -->
+              </form><!-- .form-calculator -->
+            </section><!-- .widget -->
+
+          </div><!-- .widget__container -->
+        </aside>
+      </div><!-- .row -->
+    </div><!-- .container -->
+  </div><!-- .property__container -->
+</section><!-- .property -->
+{{- partial "site/newsletter.html" . -}}
+{{ end }}

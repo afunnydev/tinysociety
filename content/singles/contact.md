@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Kinzi Plans | Contact us
 description: >-
-  This is a desc
+  Kinzi Plans is dedicated to offer the best tiny house plans. Our plans are easy to understand for DIY constructors and built with professionals in the field.
 titre: Contact
 identifiant: contact
 i18nlanguage: fr

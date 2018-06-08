@@ -1,0 +1,71 @@
+{{ define "main" }}
+{{ $mymonths := $.Site.Data.mois.mois }}
+{{ $mydays := $.Site.Data.jour.jour }}
+<section class="blog">
+  <div class="container">
+    <ul class="ht-breadcrumbs ht-breadcrumbs--y-padding ht-breadcrumbs--b-border">
+      <li class="ht-breadcrumbs__item"><a href='{{ $.Scratch.Get "homePage" }}' class="ht-breadcrumbs__link"><span class="ht-breadcrumbs__title">Home</span></a></li>
+      <li class="ht-breadcrumbs__item"><span class="ht-breadcrumbs__page">Blog</span></li>
+    </ul><!-- ht-breadcrumb -->
+
+    <div class="blog__main">
+      <div class="row">
+        <main class="col-md-8 col-md-main">
+        	<div class="row">
+        		{{ .Content}}
+        	</div>
+          <div class="row">
+						{{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
+            <div class="col-md-6">
+              <article class="news__single--v2 news__single--b-margin">
+                <div class="news__thumbnail">
+                  <a href="{{.Permalink}}">
+                    <div class="news__thumbnail-overlay"></div><!-- .news__thumbnail-overlay -->
+                    <img src="/half{{.Params.image}}" alt="News">
+                  </a>
+                  <!-- <span class="item__label">Pinned</span> -->
+                </div><!-- .news_thumbnail -->
+    
+                <div class="news__content">
+                  <div class="news__body">
+                    <span class="news__meta news__meta-time"><span class="ion-ios-calendar-outline"></span> {{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
+                    <h3 class="news__title"><a href="{{.Permalink}}">{{.Params.listing.title}}</a></h3>
+                    <p class="news__excerpt news__excerpt--v2">{{.Params.listing.description | safeHTML | truncate 255 }}</p>
+                  </div><!-- .news__body -->
+    
+                  <div class="news__footer">
+                    <!-- <span class="news__meta news__meta-comments"><span class="ion-ios-chatboxes-outline"></span> 3 Comment(s)</span> -->
+                    <a href="{{.Permalink}}" class="news__readmore">&plus; Read More</a>
+                  </div><!-- .news__footer -->
+                </div><!-- .news__content -->
+              </article><!-- news__single--v2 -->
+            </div><!-- .col -->
+          	{{ end }}
+
+          </div><!-- .row -->
+
+          <!-- <ul class="pagination pagination--t-margin pagination--b-margin">
+            <li class="pagination__item">
+              <a href="#" class="pagination__link pagination__link_prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+            </li>
+            <li class="pagination__item"><a href="#" class="pagination__link pagination__link--selected">1</a></li>
+            <li class="pagination__item"><a href="#" class="pagination__link">2</a></li>
+            <li class="pagination__item"><a href="#" class="pagination__link">3</a></li>
+            <li class="pagination__item"><a href="#" class="pagination__link pagination__link_next"><i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+          </ul> --><!-- pagination -->
+        </main><!-- .col -->
+       	{{- partial "site/sidebar.html" . -}}
+      </div><!-- .row -->
+    </div><!-- .blog__main -->
+  </div><!-- .container -->
+</section><!-- .blog -->
+{{- partial "site/newsletter.html" . -}}
+<!-- <main class="main" id="{{ .Type }}-list">
+		{{ .Content}}
+			{{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
+			{{ $mod1 := modBool $i 1}}
+			{{ $mod2 := modBool $i 2}}
+			{{ $mod3 := modBool $i 3}}
+		{{ end }}
+</main> -->
+{{ end }}
