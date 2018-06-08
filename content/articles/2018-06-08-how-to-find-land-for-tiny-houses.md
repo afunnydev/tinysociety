@@ -20,14 +20,29 @@ categories:
   - Tiny houses
 overlay: true
 quotes:
-  - style: style-1
+  - style: style-3
     images: 
       - link: /img/tiny-house-3.jpg
+      - link: /img/tiny-house-7.jpg
+      - link: /img/tiny-house-2.jpg
     quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
-  - style: style-2
+  - style: style-4
     images: 
       - link: /img/tiny-house-6.jpg
     quote: "Embarking on the Tiny Life is a major change for many people. If you’re not quite sure whether it’s for you, a trial run may be in order."
+  - style: style-2
+    images: 
+      - link: /img/tiny-house-3.jpg
+      - link: /img/tiny-house-7.jpg
+      - link: /img/tiny-house-2.jpg
+    quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
+  - style: style-1
+    images: 
+      - link: /img/tiny-house-3.jpg
+      - link: /img/tiny-house-7.jpg
+      - link: /img/tiny-house-2.jpg
+    quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
+    color: black
 ---
 
 #### In this article, I’ll be discussing the details of various options involving buying land, renting land, or buying a Tiny House already situated in place.
@@ -322,6 +337,8 @@ If your Tiny House is on wheels, you can vacate the property and sell the vacant
 
 A Tiny House on foundation may be a valuable selling point to a future buyer, perhaps as Airbnb income, as a "Mother-in-Law" dwelling, or as the new owner’s primary residence.
 
+<!-- split -->
+
 ## How to Find & Acquire Your Land
 
 Now that you have a better idea of what you want in a piece of property, how to you go about finding and acquiring it?
@@ -417,6 +434,8 @@ Testing tap water is a relatively simple process accomplished with a home water 
 **Title search.** You’ll also want to hire a title company to run a full, insured title search, especially if purchasing property via a bank foreclosure or tax sale.
 
 If simply looking for general information, the customer service department of a local title company may grant you a free property profile. You’ll want to ask for copies of property deeds and mortgages.
+
+<!-- split -->
 
 ## Purchasing the Property
 

@@ -20,6 +20,15 @@ i18nlanguage: en
 ordre: 1
 draft: false
 noindex: true
+quotes:
+  - style: style-1
+    images: 
+      - link: /img/tiny-house-3.jpg
+    quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
+  - style: style-2
+    images: 
+      - link: /img/tiny-house-6.jpg
+    quote: "Embarking on the Tiny Life is a major change for many people. If you’re not quite sure whether it’s for you, a trial run may be in order."
 ---
 At first glance, the answer to the above question might seem obvious; after all, in a competition between a Tiny House and a full-size house, the Tiny is, well, tinier. It takes up less space on the planet and less resources, right? I’ll take a more in-depth look at the question and discover  whether the ‘obvious’ holds up in this case.
 

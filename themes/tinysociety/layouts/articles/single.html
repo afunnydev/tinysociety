@@ -1,6 +1,8 @@
 {{ define "main" }}
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
+{{ $text := split .Content "<!-- split -->" }}
+{{ $quotes := .Params.quotes }}
 
 <div id="Intro" class="parallax" style="background-image:url(/xl{{ .Params.image }});background-repeat:no-repeat;background-position:center top;background-attachment:fixed;background-size:cover;-webkit-background-size:cover;" data-enllax-ratio="-0.3">
 	{{ if .Params.overlay }}
@@ -36,6 +38,7 @@
         <div class="sections_group">
             <div class="post format-standard has-post-thumbnail category-hot-articles">
                 <div class="post-wrapper-content">
+                	{{ range $i, $e := $text }}
                     <div class="section mcb-section" style="padding-top:50px; padding-bottom:0px; ">
                         <div class="section_wrapper mcb-section-inner">
                             <div class="wrap mcb-wrap one  valign-top clearfix">
@@ -47,89 +50,32 @@
                                     </div>
                                     <div class="column mcb-column three-fifth column_column">
                                         <div class="column_attr">
-                                            {{ $text := split .Content "<!-- split -->" }}
-                                            {{ index $text 0 | markdownify }}
+                                            {{ index $text $i | markdownify }}
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    {{ if (index $text 1)}}
-                    {{ with index .Params.quotes 0 }}
-                    <div class="section mcb-section" style="padding-top:120px; padding-bottom:70px; background-image:url(/xl{{ .image }}); background-repeat:no-repeat; background-position:center top; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3">
-                        <div class="section_wrapper mcb-section-inner">
-                            <div class="wrap mcb-wrap one  valign-top clearfix">
-                                <div class="mcb-wrap-inner">
-                                    <div class="column mcb-column one column_column">
-                                        <div class="column_attr align_center" style=" padding:0 5%;">
-                                            <h3 class="themecolor article-quote">"{{ .quote }}"</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {{ end }}
-                    <div class="section mcb-section" style="padding-top:50px; padding-bottom:0px; ">
-                        <div class="section_wrapper mcb-section-inner">
-                            <div class="wrap mcb-wrap one  valign-top clearfix">
-                                <div class="mcb-wrap-inner">
-                                    <div class="column mcb-column one-fifth column_placeholder">
-                                        <div class="placeholder">
-                                            &nbsp;
-                                        </div>
-                                    </div>
-                                    <div class="column mcb-column three-fifth column_column">
-                                        <div class="column_attr">
-                                            {{ index $text 1 | markdownify }}
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {{ end }}
-                    {{ if (index $text 2) }}
-                    {{ with index .Params.quotes 1 }}
-                    <div class="section mcb-section highlight-right  " style="padding-top:0px; padding-bottom:0px; background-image:url(/xl/{{ .image }}); background-repeat:no-repeat; background-position:center top; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3">
-                        <div class="section_wrapper mcb-section-inner">
-                            <div class="wrap mcb-wrap one-second  valign-top clearfix">
-                                <div class="mcb-wrap-inner">
-                                    <div class="column mcb-column one column_divider ">
-                                        <hr class="no_line" style="margin: 0 auto 200px;" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wrap mcb-wrap one-second  valign-top clearfix">
-                                <div class="mcb-wrap-inner">
-                                    <div class="column mcb-column one column_column">
-                                        <div class="column_attr" style=" padding:120px 8% 70px;">
-                                            <h4 style="color: #fff;" class="article-quote">{{ .quote }}</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {{ end }}
-                    <div class="section mcb-section" style="padding-top:50px; padding-bottom:0px; ">
-                        <div class="section_wrapper mcb-section-inner">
-                            <div class="wrap mcb-wrap one  valign-top clearfix">
-                                <div class="mcb-wrap-inner">
-                                    <div class="column mcb-column one-fifth column_placeholder">
-                                        <div class="placeholder">
-                                            &nbsp;
-                                        </div>
-                                    </div>
-                                    <div class="column mcb-column three-fifth column_column">
-                                        <div class="column_attr">
-                                            {{ index $text 2 | markdownify }}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+	                    {{ with (index $quotes $i) }}
+	                    	<!-- Style 01 -->
+		                    {{ if (eq .style "style-1") }}
+		                    {{ $info := (dict "images" (index .images 0) "quote" .quote "color" .color )}}
+		                    {{- partial "site/article-1.html" $info -}}
+		                    <!-- Style 02 -->
+		                    {{ else if (eq .style "style-2") }}
+		                    {{ $info := (dict "images" (index .images 0) "quote" .quote "color" .color )}}
+		                    {{- partial "site/article-2.html" $info -}}
+		                    <!-- Style 03 -->
+		                    {{ else if (eq .style "style-3") }}
+		                    {{ $info := (dict "images" .images "quote" .quote)}}
+		                    {{- partial "site/article-3.html" $info -}}
+		                    <!-- Style 04 -->
+		                    {{ else if (eq .style "style-4") }}
+		                    {{ $info := (dict "quote" .quote "color" .color)}}
+		                    {{- partial "site/article-4.html" $info -}}
+		                    {{ end }}
+	                    {{ end }}
                     {{ end }}
                     <div class="section the_content no_content">
                         <div class="section_wrapper">

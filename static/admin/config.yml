@@ -62,8 +62,7 @@ collections:
             create: true
             fields:
               - {label: "Image", name: "link", widget: "image", required: false}
-          - {label: "Color", name: "color", widget: "string", required: false}
-          - {label: "Number of images", name: "nbimages", widget: "number", required: false}
+          - {label: "Color (background or text, depending on style)", name: "color", widget: "string", required: false}
       - {label: "Categories (separate with commas)", name: "categories", widget: "list", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
       - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
