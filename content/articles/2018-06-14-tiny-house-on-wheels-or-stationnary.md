@@ -22,7 +22,8 @@ listing:
     on foundation is as likely to be a matter of personal circumstances as it is
     personal preference.
 quotes:
-  - {}
+  - quote: This is a test
+    style: style-3
 categories:
   - ''
 i18nlanguage: en
