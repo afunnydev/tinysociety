@@ -34,7 +34,6 @@ noindex: false
 
 By Michelle Garofano
 
-![image alt text](image_0.jpg) **vs.**![image alt text](image_1.jpg)
 
 Ah, the eternal question. It’s right up there with "To be or not to be," or “Should I stay or should I go?” Okay, maybe not, but it IS one of the first decisions to make when embarking upon the Tiny House life.
 
