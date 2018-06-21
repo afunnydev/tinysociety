@@ -7,6 +7,43 @@ titre: "All you ever wanted to know about Tiny Houses,"
 subtitle: "without ever daring to ask."
 menuid: home
 draft: false
+section1:
+  title: Story of the week
+  description: >-
+    Phasellus fringilla nisl in sem scelerisque, a vestibulum mi elementum. Aenean. Nam vestibulum elit vel felis porta posuere. Nullam luctus rhoncus ligula a scelerisque. Vestibulum suscipit pulvinar.
+  author: Marcus Ettemus
+  overlay: true
+  image: "/img/tiny-house-4.jpg"
+section2:
+  title: "Sustainable Building and Living"
+  category: "Sustainable Building and Living"
+  class: "category-people"
+section3:
+  cols:
+    - title: Architecture and design
+      category: Architecture and design
+      class: "category-places"
+    - title: Energy Efficiency
+      category: Energy Efficiency
+      class: "category-stories"
+section4:
+  col1:
+    title: About us
+    description1: >-
+      **Morbi eget dictum lectus, eget porttitor erat. Vestibulum dictum lacus id turpis egestas mattis. Vestibulum ac leo ultrices, porta libero malesuada, mollis sed.**
+    description2: >-
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat.
+  col2:
+    title: Authors
+  col3:
+    title: Share your story
+    description1: >-
+      **Morbi eget dictum lectus, eget porttitor erat. Vestibulum dictum lacus id turpis egestas mattis. Vestibulum ac leo ultrices, porta libero malesuada, mollis sed.**
+    description2: >-
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat.
+    btn:
+      text: "Read more"
+      link: "#"
 icons:
   - icon: /img/icons/economy.svg
     class: economy

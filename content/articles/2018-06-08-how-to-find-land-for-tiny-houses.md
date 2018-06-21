@@ -5,7 +5,7 @@ description: >-
   land, or buying a Tiny House already situated in place.
 slug: how-to-find-land-for-tiny-houses
 author: michelleg
-image: /img/tiny-house-7.jpg
+image: /img/tiny-house-7-square.jpg
 date: '2018-06-08'
 listing:
   title: How to Find Land for Tiny Houses?
@@ -18,6 +18,7 @@ draft: false
 noindex: true
 categories:
   - Tiny houses
+  - Sustainable building and living
 overlay: true
 quotes:
   - style: style-3

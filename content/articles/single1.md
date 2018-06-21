@@ -2,7 +2,7 @@
 title: What kind of roof can I use on a Tiny House?
 description: This is a desc
 slug: single1
-image: /img/tiny-house-3.jpg
+image: /img/tiny-house-3-square.jpg
 date: 2018-04-23T00:00:00.000Z
 listing:
   title: What kind of roof can I use on a Tiny House?
@@ -20,8 +20,11 @@ categories:
   - DIY
   - Sustainable building and living
   - Tiny cabins
+  - Architecture and design
+  - Energy efficicency
 i18nlanguage: en
 ordre: 1
+author: davidm
 draft: false
 noindex: true
 quotes:

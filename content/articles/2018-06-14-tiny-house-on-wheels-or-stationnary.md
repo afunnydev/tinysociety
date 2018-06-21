@@ -8,7 +8,7 @@ description: >
   Tiny House on wheels.
 slug: tiny-house-wheels-or-stationnary
 author: michelleg
-image: /img/jonathan-percy-501302-unsplash.jpg
+image: /img/tiny-house-9-square.jpg
 overlay: false
 date: '2018-06-14'
 listing:
@@ -24,7 +24,8 @@ listing:
 quotes:
   - {}
 categories:
-  - ''
+  - Sustainable building and living
+  - Energy efficiency
 i18nlanguage: en
 ordre: '1'
 draft: false

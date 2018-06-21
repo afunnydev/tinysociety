@@ -2,7 +2,7 @@
 title: Is a Tiny House Better for the Environment?
 description: This is a desc
 slug: single2
-image: /img/tiny-house-2.jpg
+image: /img/tiny-house-2-square.jpg
 date: 2018-04-30T00:00:00.000Z
 listing:
   title: Is a Tiny House Better for the Environment?
@@ -18,6 +18,7 @@ categories:
   - Energy efficiency
 i18nlanguage: en
 ordre: 1
+author: davidm
 draft: false
 noindex: true
 quotes:

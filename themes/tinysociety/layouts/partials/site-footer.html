@@ -1,20 +1,24 @@
+{{ $mymonths := $.Site.Data.mois.mois }}
+{{ $mydays := $.Site.Data.jour.jour }}
 <footer id="Footer" class="clearfix">
     <div class="widgets_wrapper" style="padding:40px 0 30px;">
         <div class="container">
             <div class="column one-fourth">
-                <aside class="widget widget_mfn_recent_comments">
-                    <h4>Latest comments</h4>
-                    <div class="Recent_comments">
-                        <ul>
+                <aside class="widget widget_text">
+                    <h4>Sitemap</h4>
+                    <div class="textwidget">
+                        <ul style="line-height: 30px;">
                             <li>
-                                <span class="date_label">November 17, 2014</span>
-                                <p>
-                                    <i class="icon-user"></i><strong>admin</strong> commented on <a href="content/lifestyle/item3.html#comment-5" title="admin | Aenean ligula molstie viverra fermentum">Aenean ligula molstie viverra fermentum</a> </p>
+                                <i class="icon-home" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "homePage" }}'>Home </a>
                             </li>
                             <li>
-                                <span class="date_label">November 17, 2014</span>
-                                <p>
-                                    <i class="icon-user"></i><strong>admin</strong> commented on <a href="content/lifestyle/item3.html#comment-4" title="admin | Aenean ligula molstie viverra fermentum">Aenean ligula molstie viverra fermentum</a> </p>
+                                <i class="icon-quote" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "articlesPage" }}'>Articles</a>
+                            </li>
+                            <li>
+                                <i class="icon-user" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "aboutPage" }}'>About Us</a>
+                            </li>
+                            <li>
+                                <i class="icon-email" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "contactPage" }}'>Contact Us</a>
                             </li>
                         </ul>
                     </div>
@@ -25,55 +29,46 @@
                     <h4>Recent posts</h4>
                     <div class="Recent_posts">
                         <ul>
+                            {{ range $i, $e := first 2 (where $.Site.RegularPages "Type" "articles") }}
                             <li class="post ">
-                                <a href="content/lifestyle/item12.html">
-                                    <div class="photo"><img width="80" height="80" src="/images/home_lifestyle_blog_people_1-80x80.jpg" class="scale-with-grid wp-post-image" alt="home_lifestyle_blog_people_1" /><span class="c">0</span>
+                                <a href="{{ .Permalink }}">
+                                    <div class="photo"><img width="80" height="80" src="/quart{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><span class="c">0</span>
                                     </div>
                                     <div class="desc">
-                                        <h6>Vestibulum commodo volutpat laoreet</h6><span class="date"><i class="icon-clock"></i>May 8, 2014</span>
+                                        <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
                                     </div>
                                 </a>
                             </li>
-                            <li class="post ">
-                                <a href="content/lifestyle/item10.html">
-                                    <div class="photo"><img width="80" height="80" src="/images/home_lifestyle_blog_people_2-80x80.jpg" class="scale-with-grid wp-post-image" alt="home_lifestyle_blog_people_2" /><span class="c">0</span>
-                                    </div>
-                                    <div class="desc">
-                                        <h6>Quisque lorem tortor fringilla sed vesti bulum</h6><span class="date"><i class="icon-clock"></i>May 7, 2014</span>
-                                    </div>
-                                </a>
-                            </li>
+                            {{ end }}
                         </ul>
                     </div>
                 </aside>
             </div>
             <div class="column one-fourth">
-                <aside class="widget widget_text">
-                    <h4>Bibendum auctor</h4>
-                    <div class="textwidget">
-                        <p style="margin-right: 5%;">
-                            Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, dapibus at dolor elit lectus felis.
-                        </p>
-                        <ul style="line-height: 30px;">
-                            <li>
-                                <i class="icon-right-circled" style="color: #fff;"></i><a href="#">Mauris in erat justo venenatis </a>
+                <aside class="widget widget_mfn_recent_posts">
+                    <h4 style="visibility: hidden;">Recent posts</h4>
+                    <div class="Recent_posts">
+                        <ul>
+                            {{ range $i, $e := first 2 (after 2 (where $.Site.RegularPages "Type" "articles")) }}
+                            <li class="post ">
+                                <a href="{{ .Permalink }}">
+                                    <div class="photo"><img width="80" height="80" src="/quart{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><span class="c">0</span>
+                                    </div>
+                                    <div class="desc">
+                                        <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
+                                    </div>
+                                </a>
                             </li>
-                            <li>
-                                <i class="icon-right-circled" style="color: #fff;"></i><a href="#">Interdum nulla lectus vel</a>
-                            </li>
-                            <li>
-                                <i class="icon-right-circled" style="color: #fff;"></i><a href="#">Ut enim ad minim veniam</a>
-                            </li>
+                            {{ end }}
                         </ul>
                     </div>
                 </aside>
             </div>
             <div class="column one-fourth">
                 <aside class="widget widget_tag_cloud">
-                    <h4>Tags</h4>
-                    <div class="tagcloud">
-                        <a href='content/lifestyle/tag-page.html' class='tag-link-7' title='3 topics' style='font-size: 15pt;'>Design</a> <a href='content/lifestyle/tag-page.html' class='tag-link-3' title='4 topics' style='font-size: 17.333333333333pt;'>Framework</a> <a href='content/lifestyle/tag-page.html' class='tag-link-10' title='1 topic' style='font-size: 8pt;'>Grid</a> <a href='content/lifestyle/tag-page.html' class='tag-link-8' title='4 topics' style='font-size: 17.333333333333pt;'>Motion</a> <a href='content/lifestyle/tag-page.html' class='tag-link-5' title='5 topics' style='font-size: 19.2pt;'>Themeforest</a> <a href='content/lifestyle/tag-page.html' class='tag-link-9' title='5 topics' style='font-size: 19.2pt;'>Video</a> <a href='content/lifestyle/tag-page.html' class='tag-link-6' title='7 topics' style='font-size: 22pt;'>Wordpress</a>
-                    </div>
+                    <h4>Follow Us</h4>
+                    <!-- LightWidget WIDGET -->
+                        <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3ded93ea1ba457bbaccbf8405fbc9668.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
                 </aside>
             </div>
         </div>
@@ -83,7 +78,7 @@
             <div class="column one">
                 <a id="back_to_top" class="button button_left button_js" href="#"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
                 <div class="copyright">
-                    &copy; 2017 BeLifestyle - BeTheme. Muffin group - HTML by <a target="_blank" rel="nofollow" href="http://bit.ly/1M6lijQ">BeantownThemes</a>
+                    &copy; 2018 Tiny House Lovers - Tiny Society - Made with <i class="icon-heart-fa"></i> for you
                 </div>
                 <ul class="social"></ul>
             </div>
