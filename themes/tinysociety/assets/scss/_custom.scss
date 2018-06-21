@@ -200,7 +200,7 @@ h6.regular-text {
 }
 
 @media only screen and (max-width: 768px) {
-	.header-overlay .header_cta {
+	.header-overlay .header_cta, div.social-icons {
 		display: none;
 	}
 	h1.home-title {

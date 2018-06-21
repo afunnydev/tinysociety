@@ -46,7 +46,7 @@
             </div>
             <div class="column one-fourth">
                 <aside class="widget widget_mfn_recent_posts">
-                    <h4 style="visibility: hidden;">Recent posts</h4>
+                    <h4 style="visibility: hidden;" class="hidden-xs">Recent posts</h4>
                     <div class="Recent_posts">
                         <ul>
                             {{ range $i, $e := first 2 (after 2 (where $.Site.RegularPages "Type" "articles")) }}
