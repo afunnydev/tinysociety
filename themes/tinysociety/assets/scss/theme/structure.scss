@@ -2068,7 +2068,7 @@ body.header-stack:not(.template-slider) #Header {
 }
 .header-overlay .overlay-menu-toggle {
 	position: absolute;
-	right: 30px;
+	left: 30px;
 	top: 30px;
 	font-size: 30px;
 	z-index: 9911;
@@ -5914,7 +5914,7 @@ html, body {
 		min-width: 0;
 	}
 	#Wrapper {
-		max-width: 960px;
+		// max-width: 960px;
 	}
 	.section_wrapper, .container, .with_aside .content_wrapper {
 		max-width: 940px;
@@ -6015,7 +6015,7 @@ html, body {
 		min-width: 0;
 	}
 	#Wrapper {
-		max-width: 728px;
+		// max-width: 728px;
 	}
 	.section_wrapper, .container, .with_aside .content_wrapper {
 		max-width: 708px;
@@ -6722,7 +6722,7 @@ html, body {
 	/* Header menu */
 	.header-overlay .overlay-menu-toggle {
 		right: 10px;
-		top: 20px;
+		top: 30px;
 	}
 	#overlay-menu ul li a {
 		font-size: 22px;

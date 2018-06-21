@@ -75,7 +75,7 @@ gulp.task("hugo", function (cb) {
 gulp.task('sass', function () {
   return gulp.src('themes/tinysociety/assets/scss/main.scss')
     .pipe(sourcemaps.init())
-    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
     .pipe(rename('main.min.css'))
     .pipe(sourcemaps.write())
     .pipe(gulp.dest('themes/tinysociety/static/css'));
@@ -104,9 +104,9 @@ gulp.task('scripts', ['scripts-normal', 'scripts-ui']);
 // watching
 gulp.task("watch", function() {
 
-  browserSync.init({
-      proxy: "http://localhost:1313/"
-  });
+  // browserSync.init({
+  //     proxy: "http://localhost:1313/"
+  // });
 
   gulp.watch('themes/tinysociety/source-images/*.{jpg,png,jpeg,gif}', ['image-resize'] );
   gulp.watch('themes/tinysociety/assets/scss/**/*.scss', ['sass']);

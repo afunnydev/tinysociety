@@ -60,4 +60,119 @@
 		}
 	}
 }
+
+/********** HEADER **********/
+
+// To fix the logo moving on load
+#Top_bar .top_bar_left {
+	width: 100%
+}
+
+.header-overlay .header_cta {
+	position: absolute;
+    right: 30px;
+    top: 30px;
+    z-index: 9900;
+    background-color: $gray;
+    color: $brown;
+    padding: 0px 20px;
+    font-weight: 500;
+    border-radius: 2px;
+    -webkit-transition: 0.2s background-color;
+    -moz-transition: 0.2s background-color;
+    -ms-transition: 0.2s background-color;
+    -o-transition: 0.2s background-color;
+    transition: 0.2s background-color;
+    &:hover {
+    	background-color: $brown;
+    	color: $gray;
+    }
+}
+
+.header-overlay .overlay-menu-toggle.focus .close {
+	color: $brown;
+}
+
+#Overlay {
+	background: $gray;
+}
+#overlay-menu ul li {
+	&.current-menu-item, &.current_page_item, &.current-menu-parent, &.current-page-parent, &.current-menu-ancestor, &.current-page-ancestor, &.current_page_ancestor {
+		a {
+			color: $brown;
+		}
+	}
+	&.buy-now-btn {
+		a {
+			color: $orange;
+			padding: 0;
+		}
+	}
+}
+
+/********* HOME **********/
+
+h1.home-title {
+	font-size: 50px;
+	font-weight: 700;
+	color: $gray;
+}
+span.home-subtitle {
+	font-size: 30px;
+	font-family: $hfont;
+	color: $gray;
+}
+
+/******** CONTACT ********/
+h6.regular-text {
+	font-family: $pfont;
+}
+
+@media only screen and (max-width: 959px) {
 	
+}
+
+@media only screen and (max-width: 768px) {
+	.header-overlay .header_cta {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 479px) {
+
+}
+
+@media only screen and (min-width: 1921px) {
+	
+}
+
+@media only screen and (min-width: 960px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+	#Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
+		height: $logo_height;
+		line-height: $logo_height;
+		padding: 0px 0;
+	}
+	#Top_bar #logo {
+		display: block;
+		height: $logo_height;
+		line-height: $logo_height;
+		padding: 15px 0px;
+		text-align: center;
+		margin-left: 21px
+	}
+	#Top_bar .logo {
+		float: none;
+	}
+}	
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	
+}
+@media only screen and (min-width: 960px) and (max-width: 1239px) {
+	
+}
+

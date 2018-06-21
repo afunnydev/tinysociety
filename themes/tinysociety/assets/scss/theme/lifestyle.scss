@@ -1232,7 +1232,7 @@ a.mfn-link-6:before {
 	background: #db9d3a;
 }
 .overlay-menu-toggle {
-	color: #db9d3a !important;
+	color: $gray !important;
 }
 #Overlay {
 	background: rgba(219, 157, 58, 0.95);
@@ -1430,46 +1430,46 @@ body:not(.template-slider) #Header_wrapper {
 	background-image: url("../images/home_lifestyle_subheader.jpg");
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $pfont;
 	font-weight: 400;
 }
 #menu>ul>li>a, .action_button, #overlay-menu ul li a {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 400;
 }
 #Subheader .title {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 400;
 }
 h1, .text-logo #logo {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 300;
 }
 h2 {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 300;
 }
 h3 {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 300;
 }
 h4 {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 300;
 }
 h5 {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 700;
 }
 h6 {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $hfont;
 	font-weight: 400;
 }
 blockquote {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $pfont;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
-	font-family: "Lora", Arial, Tahoma, sans-serif;
+	font-family: $pfont;
 }
 body {
 	font-size: 14px;

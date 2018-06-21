@@ -2,7 +2,10 @@
 title: "Kinzi Plans | Tiny House Plans"
 description: >-
   Kinzi Plans is dedicated to offering the best tiny house plans. We work with the best architects for your specific needs. For those  who wants to live more with less space! 
-image: 
+image: /img/tiny-house-2.jpg
+titre: "All you ever wanted to know about Tiny Houses,"
+subtitle: "without ever daring to ask."
+menuid: home
 draft: false
 icons:
   - icon: /img/icons/economy.svg

@@ -1,61 +1,40 @@
 <div id="Header_wrapper" class="bg-parallax" data-enllax-ratio="0.3" {{ if .Params.subheader.need }}style="background-image: url('/xl{{ .Params.subheader.image }}');"{{ end }}>
     <header id="Header">
+        <div id="Overlay">
+            <nav id="overlay-menu">
+                <ul id="menu-main-menu" class="menu overlay-menu">
+                    <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "homePage" }}'>Home</a>
+                    </li>
+                    <li class="{{ if eq .Params.menuid "articles" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "articlesPage" }}'>Articles.</a>
+                    </li>
+                    <li class="{{ if eq .Params.menuid "about" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "aboutPage" }}'>About us.</a>
+                    </li>
+                    <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "contactPage" }}'>Contact.</a>
+                    </li>
+                    <li class="buy-now-btn">
+                        <a target="_blank" href="#">Buy a plan</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <a class="overlay-menu-toggle" href="#"><i class="open icon-menu-fine"></i><i class="close icon-cancel-fine"></i></a>
+        <a href="#" class="button button_theme button_js action_button header_cta" target="_blank"><span class="button_label">Buy a plan</span></a>
         <div class="header_placeholder"></div>
         <div id="Top_bar">
             <div class="container">
                 <div class="column one">
                     <div class="top_bar_left clearfix">
                         <div class="logo">
-                            <a id="logo" href='{{ $.Scratch.Get "homePage" }}' title="BeLifestyle - BeTheme"><img class="logo-main   scale-with-grid" src="/images/lifestyle.png" alt="BeLifestyle - BeTheme" /><img class="logo-sticky scale-with-grid" src="/images/lifestyle.png" alt="BeLifestyle - BeTheme" /><img class="logo-mobile scale-with-grid" src="/images/lifestyle.png" alt="BeLifestyle - BeTheme" />
+                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0"><img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup"><img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup"><img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
                             </a>
-                        </div>
-                        <div class="menu_wrapper">
-                            <nav id="menu" class="menu-main-menu-container">
-                                <ul id="menu-main-menu" class="menu">
-                                    {{ range .Site.Data.menu.main }}
-                                        {{ if .submenu }}
-                                            <li class="dropdown simple-dropdown"><a href="javascript:void(0);">{{ if eq $.Lang "fr" }}{{.fr}}{{ else if eq $.Lang "en" }}{{.en}}{{end}}</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
-                                                <!-- start sub menu -->
-                                                <ul class="dropdown-menu" role="menu">
-                                                    {{ range .links }}
-                                                    {{ $link := .link }}
-                                                    <li><a href='{{ $.Scratch.Get $link }}'>{{ if eq $.Lang "fr" }}{{.fr}}{{ else if eq $.Lang "en" }}{{.en}}{{end}}</a></li>
-                                                    {{ end }}
-                                                </ul>
-                                            </li>
-                                        {{ else }}
-                                            {{ $link := .link }}
-                                            <li>
-                                                <a href='{{ $.Scratch.Get $link }}'>
-                                                    {{ with .space }}<span>{{ end }}<span style="{{ with .color }}color: {{ . }}; {{ end }}">{{ if eq $.Lang "fr" }}{{.fr}}{{ else if eq $.Lang "en" }}{{.en}}{{end}}</span>{{ with .space }}</span>{{ end }}
-                                                </a>
-                                            </li>
-                                        {{ end }}
-                                    {{ end }}
-                                </ul>
-                            </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu"></i></a>
-                        </div>
-                        <div class="secondary_menu_wrapper"></div>
-                        <div class="banner_wrapper"></div>
-                        <div class="search_wrapper">
-                            <form method="get" id="searchform" action="#">
-                                <i class="icon_search icon-search"></i><a href="#" class="icon_close"><i class="icon-cancel"></i></a>
-                                <input type="text" class="field" name="s" id="s" placeholder="Enter your search" />
-                                <input type="submit" class="submit" value="" style="display:none;" />
-                            </form>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </header>
-    {{ if .Params.subheader.need }}
-    <div id="Subheader" style="padding:180px 0 100px;">
-        <div class="container">
-            <div class="column one">
-                <h1 class="title">{{ .Params.subheader.title }}</h1>
-            </div>
-        </div>
-    </div>
-    {{ end }}
 </div>

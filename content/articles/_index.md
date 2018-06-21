@@ -5,4 +5,5 @@ description: >-
 image: 
 draft: false
 noindex: true
+menuid: articles
 ---

@@ -3,7 +3,7 @@
 	<div class="content_wrapper clearfix">
         <div class="sections_group">
             <div class="entry-content">
-                <div class="section mcb-section dark   has-navi" style="padding-top:300px; padding-bottom:260px; background-image:url(/images/home_lifestyle_about1.jpg); background-repeat:no-repeat; background-position:center top; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3">
+                <div class="section mcb-section dark   has-navi" style="padding-top:300px; padding-bottom:260px; background-image:url('{{ .Params.image }}'); background-repeat:no-repeat; background-position:center center; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3">
                     <div class="section-nav prev">
                         <i class="icon-up-open-big"></i>
                     </div>
@@ -15,7 +15,7 @@
                             <div class="mcb-wrap-inner">
                                 <div class="column mcb-column one column_column">
                                     <div class="column_attr align_center">
-                                        <h1>We are group of independent journalists</h1>
+                                        <h1>{{ .Params.titre }}</h1>
                                     </div>
                                 </div>
                             </div>

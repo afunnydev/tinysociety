@@ -7,7 +7,8 @@ identifiant: contact
 i18nlanguage: fr
 slug: contact-us
 layout: contact
-image: null
+image: /img/tiny-house-society-6.jpg
+menuid: contact
 subheader:
   need: true
   image: "/img/home_lifestyle_subheader.jpg"
