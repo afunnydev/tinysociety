@@ -2,212 +2,74 @@
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
 {{ $text := split .Content "<!-- split -->" }}
-{{ $quotes := .Params.quotes }}
-
-<div id="Intro" class="parallax" style="background-image:url(/xl{{ .Params.image }});background-repeat:no-repeat;background-position:center top;background-attachment:fixed;background-size:cover;-webkit-background-size:cover;" data-enllax-ratio="-0.3">
-	{{ if .Params.overlay }}
-	<div class="opacity-light bg-extra-dark-gray"></div>
-	{{ end }}
-    <div class="intro-inner" style="padding:300px 10%;">
-        <h1 class="intro-title">{{ .Params.listing.title }}</h1>
-        <div class="intro-meta">
-        	{{ if isset .Params "author" }}
-			    {{ $author := index .Site.Data.authors .Params.author }}
-			    <div class="author">
-	                <i class="icon-user"></i><span><a href="#">{{ $author.name }}</a></span>
-	            </div>
-			{{ end }}
-            <div class="date">
-                <i class="icon-clock"></i><span>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
-            </div>
-            <div class="categories">
-                <i class="icon-tag"></i><span>
-                	{{ range $i, $e := .Params.categories }}{{ if $i }},{{ end }}
-                	<a href="{{ $.Site.BaseURL }}categories/{{ $e | urlize }}">{{ $e }}</a>
-                	{{end}}
-                </span>
+<div id="article">
+    <div id="Intro" class="parallax {{ if .Params.overlay }}overlayed{{ end }}" style="background-image:url(/xl{{ .Params.listing.image }});" data-enllax-ratio="-0.3">
+        {{ if .Params.overlay }}
+        <div class="opacity-medium bg-extra-dark-gray"></div>
+        {{ end }}
+        <div class="intro-inner">
+            <h1 class="intro-title">{{ .Params.listing.title }}</h1>
+            <div class="intro-meta">
+                <div class="date">
+                    <i class="icon-calendar"></i><span>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
+                </div>
+                {{ if isset .Params "author" }}
+                    {{ $author := index .Site.Data.authors .Params.author }}
+                    <div class="author">
+                        <i class="icon-user"></i><span><a href="#">{{ $author.name }}</a></span>
+                    </div>
+                {{ end }}
+                <div class="categories">
+                    <i class="moon-category"></i><span>
+                        {{ range $i, $e := .Params.categories }}{{ if $i }},{{ end }}
+                        <a href="{{ $.Site.BaseURL }}categories/{{ $e | urlize }}">{{ $e }}</a>
+                        {{end}}
+                    </span>
+                </div>
             </div>
         </div>
+        <div class="intro-next">
+            <i class="icon-down-open-big"></i>
+        </div>
     </div>
-    <div class="intro-next">
-        <i class="icon-down-open-big"></i>
-    </div>
-</div>
-<div id="Content">
-    <div class="content_wrapper clearfix">
-        <div class="sections_group">
-            <div class="post format-standard has-post-thumbnail category-hot-articles">
-                <div class="post-wrapper-content">
-                	{{ range $i, $e := $text }}
-                    <div class="section mcb-section" style="padding-top:50px; padding-bottom:0px; ">
-                        <div class="section_wrapper mcb-section-inner">
-                            <div class="wrap mcb-wrap one  valign-top clearfix">
-                                <div class="mcb-wrap-inner">
-                                    <div class="column mcb-column one-fifth column_placeholder">
-                                        <div class="placeholder">
-                                            &nbsp;
+    <div id="Content">
+        <div class="content_wrapper clearfix">
+            <div class="sections_group">
+                <div class="post format-standard has-post-thumbnail category-hot-articles">
+                    <div class="post-wrapper-content">
+                        <div class="section mcb-section article-text" style="padding-top:50px;padding-bottom:0px; ">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap one  valign-top clearfix">
+                                    <div class="mcb-wrap-inner">
+                                        <div id="sidebar" class="column mcb-column one-third column_placeholder sidebar">
+                                            <div class="table-of-contents sidebar__inner">
+                                                <!-- {{ .TableOfContents }} -->
+                                                {{- partial "site/table-of-contents.html" . -}}
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="column mcb-column three-fifth column_column">
-                                        <div class="column_attr">
-                                            {{ index $text $i | markdownify }}
+                                        <div class="column mcb-column two-third column_column content" id="content">
+                                            <div class="column_attr">
+                                                {{ .Content | markdownify }}
+                                            </div>
+                                            <!-- {{- partial "site/post-author.html" . -}} -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-	                    {{ with (index $quotes $i) }}
-	                    	<!-- Style 01 -->
-		                    {{ if (eq .style "style-1") }}
-		                    {{ $info := (dict "images" (index .images 0) "quote" .quote "color" .color )}}
-		                    {{- partial "site/article-1.html" $info -}}
-		                    <!-- Style 02 -->
-		                    {{ else if (eq .style "style-2") }}
-		                    {{ $info := (dict "images" (index .images 0) "quote" .quote "color" .color )}}
-		                    {{- partial "site/article-2.html" $info -}}
-		                    <!-- Style 03 -->
-		                    {{ else if (eq .style "style-3") }}
-		                    {{ $info := (dict "images" .images "quote" .quote)}}
-		                    {{- partial "site/article-3.html" $info -}}
-		                    <!-- Style 04 -->
-		                    {{ else if (eq .style "style-4") }}
-		                    {{ $info := (dict "quote" .quote "color" .color)}}
-		                    {{- partial "site/article-4.html" $info -}}
-		                    {{ end }}
-	                    {{ end }}
-                    {{ end }}
-                    <div class="section the_content no_content">
-                        <div class="section_wrapper">
-                            <div class="the_content_wrapper"></div>
-                        </div>
-                    </div>
-                    <div class="section section-post-footer">
-                        <div class="section_wrapper clearfix">
-                            <div class="column one post-pager"></div>
-                        </div>
-                    </div>
-                    <div class="section section-post-about">
-                        <div class="section_wrapper clearfix">
-                            <div class="column one author-box">
-                                <div class="author-box-wrapper">
-                                    <div class="avatar-wrapper">
-                                        <img alt='Muffin Group' src='http://2.gravatar.com/avatar/b8da4787ca5ff7a6bb9bbabecce2daa2?s=64&amp;d=mm&amp;r=g' />
-                                    </div>
-                                    <div class="desc-wrapper">
-                                        <h5><a href="#">Muffin Group</a></h5>
-                                        <div class="desc">
-                                            Aliquam tristique convallis tortor id ultrices! Vivamus fermentum tempus lectus eu finibus? Quisque vitae eleifend velit, et porta ex. Maecenas metus. Duis aute irure dolor in reprehenderit in voluptate ullamco laboris nisi ut aliquip.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="section section-post-related">
-                    <div class="section_wrapper clearfix">
-                        <div class="section-related-adjustment simple">
-                            <h4>Related posts</h4>
-                            <div class="section-related-ul col-3">
-                                <div class="column post-related  post  format-standard has-post-thumbnail  category-hot-articles   ">
-                                    <div class="image_frame scale-with-grid">
-                                        <div class="image_wrapper">
-                                            <a href="item3.html">
-                                                <div class="mask"></div><img width="767" height="750" src="/images/home_lifestyle_blog_hot_1-767x750.jpg" class="scale-with-grid wp-post-image" alt="home_lifestyle_blog_hot_1" itemprop="image" />
-                                            </a>
-                                            <div class="image_links double">
-                                                <a href="/images/home_lifestyle_blog_hot_1.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a><a href="item3.html" class="link"><i class="icon-link"></i></a>
+                        <div class="section mcb-section" style="">
+                            <div class="section_wrapper mcb-section-inner">
+                                <div class="wrap mcb-wrap one  valign-top clearfix">
+                                    <div class="mcb-wrap-inner">
+                                        <div id="" class="column mcb-column one-third column_placeholder">
+                                            <div class="placeholder">
+                                                &nbsp;
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="date_label">
-                                        March 12, 2014
-                                    </div>
-                                    <div class="desc">
-                                        <h4><a href="item3.html">Aenean ligula molstie viverra fermentum</a></h4>
-                                        <hr class="hr_color" />
-                                        <a href="item3.html" class="button button_left button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">Read more</span></a>
-                                    </div>
-                                </div>
-                                <div class="column post-related post-2273 post  format-standard has-post-thumbnail  category-hot-articles tag-design tag-motion tag-video">
-                                    <div class="image_frame scale-with-grid">
-                                        <div class="image_wrapper">
-                                            <a href="item11.html">
-                                                <div class="mask"></div><img width="767" height="750" src="/images/home_lifestyle_blog_hot_3-767x750.jpg" class="scale-with-grid wp-post-image" alt="home_lifestyle_blog_hot_3" itemprop="image" />
-                                            </a>
-                                            <div class="image_links double">
-                                                <a href="/images/home_lifestyle_blog_hot_3.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a><a href="item11.html" class="link"><i class="icon-link"></i></a>
-                                            </div>
+                                        <div class="column mcb-column two-third column_column content" id="content">
+                                            {{- partial "site/related-posts.html" . -}}
                                         </div>
                                     </div>
-                                    <div class="date_label">
-                                        March 10, 2014
-                                    </div>
-                                    <div class="desc">
-                                        <h4><a href="item11.html">Suspen disse pellen tesque dui proin cursus magna</a></h4>
-                                        <hr class="hr_color" />
-                                        <a href="item11.html" class="button button_left button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">Read more</span></a>
-                                    </div>
-                                </div>
-                                <div class="column post-related post-2275 post  format-standard has-post-thumbnail  category-hot-articles  tag-grid ">
-                                    <div class="image_frame scale-with-grid">
-                                        <div class="image_wrapper">
-                                            <a href="item8.html">
-                                                <div class="mask"></div><img width="767" height="750" src="/images/home_lifestyle_blog_hot_4-767x750.jpg" class="scale-with-grid wp-post-image" alt="home_lifestyle_blog_hot_4" itemprop="image" />
-                                            </a>
-                                            <div class="image_links double">
-                                                <a href="/images/home_lifestyle_blog_hot_4.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a><a href="item8.html" class="link"><i class="icon-link"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="date_label">
-                                        March 9, 2014
-                                    </div>
-                                    <div class="desc">
-                                        <h4><a href="item8.html">Proin dui sodales imperdiet sit  sapien fames ac luctus</a></h4>
-                                        <hr class="hr_color" />
-                                        <a href="item8.html" class="button button_left button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">Read more</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="section section-post-comments">
-                    <div class="section_wrapper clearfix">
-                        <div class="column one comments">
-                            <div id="comments">
-                                <div id="respond" class="comment-respond">
-                                    <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="item14.html#respond" style="display:none;">Cancel reply</a></small></h3>
-                                    <form action="http://themes.muffingroup.com/be/lifestyle/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-                                        <p class="comment-notes">
-                                            <span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span>
-                                        </p>
-                                        <p class="comment-form-comment">
-                                            <label for="comment">Comment</label>
-                                            <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" required="required"></textarea>
-                                        </p>
-                                        <p class="comment-form-author">
-                                            <label for="author">Name <span class="required">*</span>
-                                            </label>
-                                            <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' />
-                                        </p>
-                                        <p class="comment-form-email">
-                                            <label for="email">Email <span class="required">*</span>
-                                            </label>
-                                            <input id="email" name="email" type="text" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' />
-                                        </p>
-                                        <p class="comment-form-url">
-                                            <label for="url">Website</label>
-                                            <input id="url" name="url" type="text" value="" size="30" />
-                                        </p>
-                                        <p class="form-submit">
-                                            <input name="submit" type="submit" id="submit" class="submit" value="Post Comment" />
-                                            <input type='hidden' name='comment_post_ID' value='2271' id='comment_post_ID' />
-                                            <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-                                        </p>
-                                    </form>
                                 </div>
                             </div>
                         </div>

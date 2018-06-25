@@ -35,6 +35,19 @@ jQuery( document ).ready(function($) {
         }
       }
     });
+  // Activate the sidebar
+  $('#sidebar').stickySidebar({
+      topSpacing: 40,
+      bottomSpacing: 40,
+      containerSelector: ".article-text",
+      innerWrapperSelector: '.sidebar__inner'
+  });
+  // Sidebar link styling
+  var tableLinks = $('#sidebar a');
+  tableLinks.click(function(){
+    tableLinks.removeClass('active');
+    $(this).addClass('active');
+  })
 });
 jQuery( document ).load(function($) {
   

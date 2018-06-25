@@ -28,6 +28,7 @@ const jsFiles = [
                   'themes/tinysociety/assets/js/theme/email.js',
                   'themes/tinysociety/assets/js/theme/scripts.js',
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
+                  'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsFilesUI = [
@@ -43,6 +44,7 @@ const jsFilesUI = [
                   'themes/tinysociety/assets/js/theme/email.js',
                   'themes/tinysociety/assets/js/theme/scripts.js',
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
+                  'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsDest = 'themes/tinysociety/static/js';

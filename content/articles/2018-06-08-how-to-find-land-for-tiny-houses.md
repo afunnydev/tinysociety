@@ -7,6 +7,7 @@ slug: how-to-find-land-for-tiny-houses
 author: michelleg
 image: /img/tiny-house-7-square.jpg
 date: '2018-06-08'
+overlay: true
 listing:
   title: How to Find Land for Tiny Houses?
   description: >-
@@ -48,7 +49,7 @@ quotes:
     color: black
 ---
 
-#### In this article, I’ll be discussing the details of various options involving buying land, renting land, or buying a Tiny House already situated in place.
+**In this article, I’ll be discussing the details of various options involving buying land, renting land, or buying a Tiny House already situated in place.**
 
 <span class="dropcap size-2" style="background-color:transparent; color:#db9d3a;">O</span>ne thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effort, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
 

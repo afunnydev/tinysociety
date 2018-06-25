@@ -2,14 +2,6 @@
     background-color: #1c1c1c;
 }
 
-/* opacity */
-.opacity-very-light {position: absolute; height: 100%; width: 100%; opacity: 0.2; top:0; left: 0;}
-.opacity-light {position: absolute; height: 100%; width: 100%; opacity: 0.3; top:0; left: 0;}
-.opacity-extra-medium {position: absolute; height: 100%; width: 100%; opacity: 0.5; top:0; left: 0;}
-.opacity-medium {position: absolute; height: 100%; width: 100%; opacity: 0.75; top:0; left: 0;}
-.opacity-full {position: absolute; height: 100%; width: 100%; opacity: 0.8; top:0; left: 0;}
-.opacity-full-dark {position: absolute; height: 100%; width: 100%; opacity: 0.9; top:0; left: 0;}
-
 .opacity1 {opacity:.1}
 .opacity2 {opacity:.2}
 .opacity3 {opacity:.3}
@@ -204,8 +196,19 @@ div.overlayed {
 		left: 0;
 		z-index: 5
 	}
+	/* opacity */
+	.opacity-very-light {position: absolute; height: 100%; width: 100%; opacity: 0.2; top:0; left: 0;}
+	.opacity-light {position: absolute; height: 100%; width: 100%; opacity: 0.3; top:0; left: 0;}
+	.opacity-extra-medium {position: absolute; height: 100%; width: 100%; opacity: 0.5; top:0; left: 0;}
+	.opacity-medium {position: absolute; height: 100%; width: 100%; opacity: 0.75; top:0; left: 0;}
+	.opacity-full {position: absolute; height: 100%; width: 100%; opacity: 0.8; top:0; left: 0;}
+	.opacity-full-dark {position: absolute; height: 100%; width: 100%; opacity: 0.9; top:0; left: 0;}
 }
 
+.masonry.tiles .post-item:not(.no-img) .post-photo-wrapper:after {
+	background: rgba(0, 0, 0, 0.6);
+	opacity: 0.5;
+}
 /******** BLOG *********/
 #blog {
 	.categories-choices {
@@ -359,10 +362,114 @@ div.overlayed {
 	}
 }
 
+/******** ARTICLE ********/
+#article {
+	#Intro {
+		background-repeat:no-repeat;
+		background-position:center center;
+		background-attachment:fixed;
+		background-size:cover;
+		-webkit-background-size:cover;
+		h1.intro-title {
+			font-size: 45px;
+			line-height: 50px;
+		}
+		.moon-category {
+			position: relative;
+			top: 2px;
+			font-size: 15px;
+			&:before {
+				color: white
+			}
+		}
+		.intro-inner {
+			padding:200px 10% 125px;
+		}
+	}
+	#Content {
+		.column {
+			color: $brown;
+			h1, h2, h3, h4, h5, h6, ul, li, p, span {
+				color: $brown;
+			}
+		}
+		.table-of-contents {
+			a {
+				color: #9e9487;
+				font-family: $hfont;
+				&.active {
+					color: $brown;
+				}
+			}
+		}
+		.other-title {
+			background-color: white;
+			padding: 15px 30px 15px 15px;
+			margin: 60px 0 30px;
+			display: inline-block;
+			h4 {
+				margin: 0;
+			}
+		}
+		.sidebar{
+		    will-change: min-height;
+		}
+
+		.sidebar__inner{
+		    transform: translate(0, 0); /* For browsers don't support translate3d. */
+		    transform: translate3d(0, 0, 0);
+		    will-change: position, transform;
+		}
+		.toc {
+			ul.toc-h1 {
+				li a {
+					font-size: 20px
+				}
+				ul.toc-h2 {
+					li a {
+						font-size: 18px
+					}
+					ul.toc-h3 {
+						padding-left: 10px;
+						li a {
+							font-size: 16px
+						}
+						ul.toc-h4 {
+							padding-left: 10px;
+							li a {
+								font-size: 14px
+							}
+							ul.toc-h5 {
+								padding-left: 10px;
+								li a {
+									font-size: 12px
+								}
+								ul.toc-h6 {
+									li a {font-size: 10px}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		#related_posts {
+			span {color: white}
+		}
+	}
+}
+
 /******** CONTACT ********/
 h6.regular-text {
 	font-family: $pfont;
 }
+#Subheader.contact {
+	background-repeat: no-repeat; 
+	background-position: center 77%;
+	padding:230px 0 100px !important;
+}
+
+/******** RESPONSIVE ********/
 
 @media only screen and (max-width: 959px) {
 	#blog {
@@ -387,7 +494,7 @@ h6.regular-text {
 	}
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
 	.header-overlay .header_cta, div.social-icons {
 		display: none;
 	}
@@ -443,6 +550,26 @@ h6.regular-text {
 			}
 		}
 	}
+	#article {
+		#Intro {
+			h1.intro-title {
+				font-size: 35px;
+				line-height: 40px;
+			}
+			.intro-inner {
+				margin-top: 90px;
+				padding:100px 10% 125px;
+			}
+		}
+		#Content {
+			#sidebar {
+				display: none;
+			}
+			.other-title {
+				margin-top: 0px;
+			}
+		}
+	}
 }
 
 @media only screen and (max-width: 479px) {
@@ -470,6 +597,20 @@ h6.regular-text {
 						margin-top: 15px;
 					}
 				}
+			}
+		}
+	}
+	#Subheader.contact {
+		margin-top: 90px;
+		padding:30px 0 100px !important;
+		background-size: cover;
+	}	
+}
+@media only screen and (max-width: 400px) {
+	#blog .column_blog .post-item {
+		.post-desc-wrapper {
+			.post-desc {
+				min-height: 500px;
 			}
 		}
 	}

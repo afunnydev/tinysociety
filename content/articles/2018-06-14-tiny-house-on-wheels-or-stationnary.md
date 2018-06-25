@@ -33,9 +33,6 @@ ordre: '1'
 draft: false
 noindex: false
 ---
-# Tiny House on Wheels or Stationary Tiny House?
-
-By Michelle Garofano
 
 ![image alt text](image_0.jpg) **vs.**![image alt text](image_1.jpg)
 
@@ -45,11 +42,11 @@ Whether or not to choose a Tiny House on wheels or a stationary Tiny House on fo
 
 Assume for the sake of this discussion that you do have a choice between two options. Let’s take a look at some of the factors that can come into play when making your decision.
 
-**Flexibility**
+## Flexibility
 
-**When is mobility an advantage?** 
+### When is mobility an advantage?
 
-### Moving
+#### Moving
 
 Changing locations is easier if you don’t have to sell your home and buy a new one. Among the many reasons for moving are:
 
@@ -61,11 +58,11 @@ Changing locations is easier if you don’t have to sell your home and buy a new
 
 * You’re ready for a change of scenery
 
-### The Nomad Lifestyle
+#### The Nomad Lifestyle
 
 Continuous travel is another possibility. With a Tiny House on wheels, you can see the country while literally bringing the comforts of home with you.
 
-### Change in Current Location Circumstances
+#### Change in Current Location Circumstances
 
 Things change. With a stationary Tiny House, you may be stuck either living with what happens around you or moving out of your home.  With a Tiny House on wheels, there’s no need to sell. Here are some potential situations that might cause you to hitch up a Tiny House on wheels and find a new place to park:
 
@@ -79,7 +76,7 @@ Things change. With a stationary Tiny House, you may be stuck either living with
 
 * The zoning in your area changes
 
-### Changes in Family Dynamics
+#### Changes in Family Dynamics
 
 People also change. A Tiny House on wheels can provide flexibility by acting as temporary or permanent extra housing for the people in your life. Even if you’re not a Tiny Home dweller, you can add a Tiny House to your property for these situations:
 
@@ -93,9 +90,9 @@ People also change. A Tiny House on wheels can provide flexibility by acting as 
 
 These purposes can be fulfilled by a stationary Tiny House as well, but depending on how well you get along with your Mother in Law, wheels might be the wiser move (rimshot).
 
-**Size and Shape**
+## Size and Shape*
 
-## Does my Tiny House on wheels have to be a box?
+### Does my Tiny House on wheels have to be a box?
 
 A Tiny House on wheels has to fit on its trailer "foundation." Unless you want to deal with oversized load permits, stick to highway-legal standards. This usually means:
 
@@ -109,7 +106,7 @@ A Tiny House on wheels has to fit on its trailer "foundation." Unless you want t
 
 Despite these limitations, there’s an impressive range of creativity being displayed in the Tiny House world for Tiny Houses on wheels. 
 
-## What Shape Should a Stationary Tiny House Be?
+### What Shape Should a Stationary Tiny House Be?
 
 With a stationary Tiny House, you have so much more freedom as to the size and shape of your Tiny Home. "Tiny" is generally considered 500 square feet or less. But within that debatable parameter you have an immense range of possibilities for shaping your space. Try one of these ideas on for size, and shape your stationary Tiny House to your heart’s content:
 
@@ -129,7 +126,7 @@ With a stationary Tiny House, you have so much more freedom as to the size and s
 
 * A teeny Gothic cathedral complete with tiny flying buttresses
 
-## Weight Distribution
+### Weight Distribution
 
 A Tiny House on wheels requires attention to weight distribution. Heavier components must be placed in relation to a trailer’s tongue and axles. A stationary Tiny House isn’t restricted in this way. 
 
@@ -141,11 +138,11 @@ There’s no 13.5-foot limit in height for a stationary Tiny House. Plus you hav
 
 Along with a wider range of options for size and shape, a stationary Tiny House allows you more freedom with materials. 
 
-## Weight 
+### Weight 
 
 A Tiny House on wheels has a set weight limit dictated by its trailer base. Heavier construction materials may not be viable. For a stationary Tiny House, on the other hand, the weight of your construction materials is not an issue. 
 
-## Fragility
+### Fragility
 
 Much stress is put on a Tiny House on wheels when it is traveling down the highway. Fragile materials can crack or fail in transit. This is obviously not an issue for stationary Tiny Homes. 
 
@@ -165,11 +162,11 @@ Some examples of materials that make more sense for stationary Tiny Houses than 
 
 **Location Options** 
 
-## Where can I park my Tiny House on Wheels?
+### Where can I park my Tiny House on Wheels?
 
 A Tiny House on wheels allows you to sample as many changes of scenery as you desire. But it is limited to relatively flat, stable places to park. And it requires decent road access to the parking spot. 
 
-## Where can I build my stationary Tiny House?
+### Where can I build my stationary Tiny House?
 
 A stationary Tiny House can be built in many places that a Tiny House on wheels cannot access or comfortably park on.
 
@@ -185,7 +182,7 @@ Thanks to pier foundations and pilings, stationary Tiny Houses can be built on:
 
 * waterlogged land
 
-## Gale forces
+### Gale forces
 
 ### Batten down or evacuate?
 
@@ -195,9 +192,9 @@ A stationary Tiny House is rooted more firmly to the ground. And it can be shape
 
 Conversely, in the event of a natural disaster, you can evacuate your entire house if you have a Tiny House on wheels and enough forewarning.
 
-**Zoning and Legal Concerns** 
+## Zoning and Legal Concerns 
 
-## How do zoning and legal designations affect my choice?
+### How do zoning and legal designations affect my choice?
 
 * A stationary Tiny House may have to adhere to local minimum size restrictions for permanent residential structures. This might be more than what’s generally considered "Tiny."
 
@@ -205,9 +202,9 @@ Conversely, in the event of a natural disaster, you can evacuate your entire hou
 
 * Tiny Houses on wheels are less likely to fully comply with existing building codes than are permanent Tiny Houses on foundations. 
 
-**Utilities** 
+## Utilities 
 
-## What Utility Options are Available for Stationary Tiny Houses vs. Tiny Homes on Wheels?
+### What Utility Options are Available for Stationary Tiny Houses vs. Tiny Homes on Wheels?
 
 The systems onboard a Tiny House on wheels are usually akin to those on an RV or boat:
 
@@ -229,9 +226,9 @@ The systems onboard a Tiny House on wheels are usually akin to those on an RV or
 
 * Heating system components that aren’t mobile-friendly, such as a geothermal heat pump or boiler 
 
-**Theft **
+## Theft
 
-## A concern for mobile Tiny Houses?
+### A concern for mobile Tiny Houses?
 
 Theft is unfortunately a potential concern for the owner of a Tiny House on wheels. It’s a situation that stationary Tiny House owners do not have to worry about.
 
@@ -243,13 +240,13 @@ The following precautions can greatly reduce the risk of your Tiny Home being st
 
 * Hidden GPS location devices (oftentimes paired with an app on your phone)
 
-**Grounding/Earthing** 
+## Grounding/Earthing 
 
-## What is Earthing?
+### What is Earthing?
 
 Although considered somewhat controversial, the concept of earthing (or grounding) is gaining wider acceptance. Its premise is that being in contact with the earth is highly beneficial to our health by reducing inflammation through direct contact with the slightly negative electromagnetic charge of the earth. 
 
-## How do I do it?
+### How do I do it?
 
 There are several ways to ground yourself naturally:
 
@@ -269,7 +266,7 @@ There are several ways to ground yourself naturally:
 
 * Sitting or lying on the bare ground (preferably with some skin in contact with the earth)
 
-## How do I implement it in my Tiny House?
+### How do I implement it in my Tiny House?
 
 To take full advantage of grounding, implement it in your home environment. 
 
@@ -279,19 +276,19 @@ To take full advantage of grounding, implement it in your home environment.
 
 * Use grounding sheets or mats on your bed (they plug into an outlet like the grounding mat). Many people report better sleep with the use of these tools.
 
-### For a Stationary Tiny House:
+#### For a Stationary Tiny House:
 
 * In a stationary Tiny House you have the option of the ultimate earthing tool: a concrete slab foundation. Every square inch of your ground level floor puts you in direct contact with the earth’s beneficial electromagnetic frequencies. (Just don’t cover it with nonconductive materials such as wood).
 
 * You also have the same tools available as can be used in a Tiny House on wheels.
 
-### For more on the benefits of Earthing, check out this video:
+#### For more on the benefits of Earthing, check out this video:
 
 <iframe src="https://player.vimeo.com/video/205264910" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/205264910">DOWN TO EARTH</a> from <a href="https://vimeo.com/bigpictureranch">Big Picture Ranch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-**Feeling of Home** 
+## Feeling of Home
 
 For some people, living in a Tiny House on wheels might not feel enough like a "real" house. These reasons might lead you to choose a stationary Tiny Home instead:
 
@@ -299,9 +296,9 @@ For some people, living in a Tiny House on wheels might not feel enough like a "
 
 * The space below a Tiny House on wheels is open. Therefore floors can be a bit chilly in cold climates. Skirting around the trailer frame can make a difference. And the addition of floor rugs and ample floor insulation can abate this issue. 
 
-**Best or Worst of Both Worlds?** 
+## Best or Worst of Both Worlds?
 
-## Can a Stationary Tiny House be Mobile?
+### Can a Stationary Tiny House be Mobile?
 
  Maybe you prefer the idea of a stationary Tiny Home, but still want the ability to take it with you if you move.
 
@@ -309,9 +306,9 @@ You can build a fixed structure in ways that allow it to be lifted onto a truck 
 
 It’s wise to choose a rectangle shape typical of a Tiny House on wheels. That way it will fit on a towing truck that’s road-legal without special hauling permits. Even if you opt for an oversize footprint, there are limits to what a truck can haul. 
 
-**Floating Home** 
+## Floating Home
 
-## The life aquatic?
+### The life aquatic?
 
 Yet another possibility is the Tiny House on a floating platform. 
 
