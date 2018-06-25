@@ -3,20 +3,12 @@
     <div class="sections_group">
         <div class="entry-content">
             <div id="home-slider" class="section mcb-section dark has-navi" style="padding-top:270px; padding-bottom:230px; background-color:#b0b3b5; background-image:url({{ .Params.image }}); background-repeat:no-repeat; background-position:center center; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3">
-                <div class="section-nav prev">
-                    <i class="icon-up-open-big"></i>
-                </div>
                 <div class="section-nav next">
                     <i class="icon-down-open-big"></i>
                 </div>
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one  valign-top clearfix">
                         <div class="mcb-wrap-inner">
-                            <!-- <div class="column mcb-column one-fourth column_placeholder">
-                                <div class="placeholder">
-                                    &nbsp;
-                                </div>
-                            </div> -->
                             <div class="column mcb-column one column_image ">
                                 <div class="scale-with-grid aligncenter no_border">
                                     <h1 class="home-title">{{ .Params.titre }}</h1>
@@ -99,7 +91,7 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-3 masonry tiles isotope" style="background: #f0f1f2">
-                                            {{ $mytag := (.category | urlize) }}
+                                            {{ $mytag := (.category) }}
                                             {{ range first 3 (index $.Site.Taxonomies.categories $mytag).Pages }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people">
                                               {{- partial "site/articles-post.html" . $ -}}
@@ -135,9 +127,9 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-2 masonry tiles isotope" style="background: #f0f1f2">
-                                            {{ $mytag := (.category | urlize) }}
+                                            {{ $mytag := (.category) }}
                                             {{ $class := .class}}
-                                            {{ range first 3 (index $.Site.Taxonomies.categories $mytag).Pages }}
+                                            {{ range first 2 (index $.Site.Taxonomies.categories $mytag).Pages }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail {{ $class }}">
                                               {{ partial "site/articles-post.html" . $}}
                                             </div>

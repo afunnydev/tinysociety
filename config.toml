@@ -12,7 +12,7 @@ disableKinds = ["RSS"]
 ignoreFiles = []
 # Enable Logging
 log = false
-preserveTaxonomyNames = false
+preserveTaxonomyNames = true
 pygmentsUseClasses = true
 relativeURLs = true
 languageCode = "en-us"

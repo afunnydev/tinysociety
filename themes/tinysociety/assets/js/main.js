@@ -36,3 +36,18 @@ jQuery( document ).ready(function($) {
       }
     });
 });
+jQuery( document ).load(function($) {
+  
+}) 
+var userFeed = new Instafeed({
+      get: 'user',
+      userId: '7328857212',
+      accessToken: '7328857212.1677ed0.7160b9e79e0542f39a0001cb4cb0eda6',
+      limit: '8',
+      resolution: "thumbnail",
+      error: {
+          template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
+      },
+      template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
+  });
+  userFeed.run();

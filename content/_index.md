@@ -16,7 +16,7 @@ section1:
   image: "/img/tiny-house-4.jpg"
 section2:
   title: "Sustainable Building and Living"
-  category: "Sustainable Building and Living"
+  category: "Sustainable building and living"
   class: "category-people"
 section3:
   cols:
@@ -24,7 +24,7 @@ section3:
       category: Architecture and design
       class: "category-places"
     - title: Energy Efficiency
-      category: Energy Efficiency
+      category: Energy efficiency
       class: "category-stories"
 section4:
   col1:

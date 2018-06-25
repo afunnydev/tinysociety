@@ -11,17 +11,15 @@ listing:
     source like Home Depot or Lowes can be used for your Tiny House, but you
     should consider how the house will be used and where it will be located. If
     you build a house in the Southern United States the options will most likely
-    be different from what you would want to use in the far North. The
-    differences will be most profound in the insulation that is used between the
-    North and the South. Be sure to become familiar with the R-values of
-    insulation types. Don’t shortcut the amount of insulation that is needed for
-    the region that the home will be in. 
+    be different from what you would want to use in the far North.
+  image: /img/tiny-house-3.jpg
+likes: 54
 categories:
   - DIY
   - Sustainable building and living
   - Tiny cabins
   - Architecture and design
-  - Energy efficicency
+  - Energy efficiency
 i18nlanguage: en
 ordre: 1
 author: davidm

@@ -4,7 +4,7 @@
             <nav id="overlay-menu">
                 <ul id="menu-main-menu" class="menu overlay-menu">
                     <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
-                        <a href='{{ $.Scratch.Get "homePage" }}'>Home</a>
+                        <a href='{{ $.Scratch.Get "homePage" }}'>Home.</a>
                     </li>
                     <li class="{{ if eq .Params.menuid "articles" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "articlesPage" }}'>Articles.</a>
@@ -26,7 +26,7 @@
             <a href="#" class="pinterest"><span class="moon-pinterest"></span></a>
             <a href="https://www.facebook.com/tinyhouseloversofficial" class="facebook"><span class="moon-facebook"></span></a>
         </div>
-        <a href="#" class="button button_theme button_js action_button header_cta" target="_blank"><span class="button_label">Buy a plan</span></a>
+        <a href="#" class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Buy a plan</span></a>
         <div class="header_placeholder"></div>
         <div id="Top_bar">
             <div class="container">

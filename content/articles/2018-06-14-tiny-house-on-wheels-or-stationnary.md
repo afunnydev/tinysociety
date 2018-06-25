@@ -21,6 +21,8 @@ listing:
     Whether or not to choose a Tiny House on wheels or a stationary Tiny House
     on foundation is as likely to be a matter of personal circumstances as it is
     personal preference.
+  image: /img/tiny-house-9.jpg
+likes: 103
 quotes:
   - {}
 categories:

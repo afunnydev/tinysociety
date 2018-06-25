@@ -12,6 +12,8 @@ listing:
     is, well, tinier. It takes up less space on the planet and less resources,
     right? I’ll take a more in-depth look at the question and discover  whether
     the ‘obvious’ holds up in this case.
+  image: /img/tiny-house-2.jpg
+likes: 23
 categories:
   - Tiny houses
   - Architecture and design
