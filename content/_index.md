@@ -28,11 +28,11 @@ section3:
       class: "category-stories"
 section4:
   col1:
-    title: About us
+    title: About Tiny House Society
     description1: >-
-      **Morbi eget dictum lectus, eget porttitor erat. Vestibulum dictum lacus id turpis egestas mattis. Vestibulum ac leo ultrices, porta libero malesuada, mollis sed.**
+      **Living small is a new trend, and we think it is one that needs to last. It is hard not to realize what kind of impact human beings had on our planet and its ecosystems in the last decades. Our influence is growing more every year and it’s not on the positive side of the spectrum. We think that living tiny is not just a trend; it is a mindset.**
     description2: >-
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat.
+      Building a house is the single biggest investment of a lifetime for most of us. It is a big project that can last months, even years in some case. But ultimately it is the place that will become our everyday peaceful nest. We are dedicated to offer the best advices to fit your lifestyle and help you optimize your house. 
   col2:
     title: Authors
   col3:

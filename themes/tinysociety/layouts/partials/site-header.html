@@ -12,8 +12,11 @@
                     <li class="{{ if eq .Params.menuid "about" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "aboutPage" }}'>About us.</a>
                     </li>
+                    <li class="{{ if eq .Params.menuid "write" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "writePage" }}'>Write with us.</a>
+                    </li>
                     <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
-                        <a href='{{ $.Scratch.Get "contactPage" }}'>Contact.</a>
+                        <a href='{{ $.Scratch.Get "contactPage" }}'>Contact us.</a>
                     </li>
                     <li class="buy-now-btn">
                         <a target="_blank" href="#">Buy a plan</a>
