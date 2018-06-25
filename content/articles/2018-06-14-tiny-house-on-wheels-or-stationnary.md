@@ -23,8 +23,6 @@ listing:
     personal preference.
   image: /img/tiny-house-9.jpg
 likes: 103
-quotes:
-  - {}
 categories:
   - Sustainable building and living
   - Energy efficiency

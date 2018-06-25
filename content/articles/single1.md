@@ -25,15 +25,7 @@ ordre: 1
 author: davidm
 draft: false
 noindex: true
-quotes:
-  - style: style-1
-    images: 
-      - link: /img/tiny-house-3.jpg
-    quote: "Buying also allows more freedom to shape and use the land according to your personal needs."
-  - style: style-2
-    images: 
-      - link: /img/tiny-house-6.jpg
-    quote: "Embarking on the Tiny Life is a major change for many people. If you’re not quite sure whether it’s for you, a trial run may be in order."
+overlay: true
 ---
 Roofing materials that are readily available from a local building supply source like Home Depot or Lowes can be used for your Tiny House, but you should consider how the house will be used and where it will be located. If you build a house in the Southern United States the options will most likely be different from what you would want to use in the far North. The differences will be most profound in the insulation that is used between the North and the South. Be sure to become familiar with the R-values of insulation types. Don’t shortcut the amount of insulation that is needed for the region that the home will be in. 
 
