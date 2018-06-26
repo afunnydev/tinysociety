@@ -1,6 +1,6 @@
 ---
 title: Tiny House on wheels or stationnary ?
-description: >
+description: >-
   Whether or not to choose a Tiny House on wheels or a stationary Tiny House on
   foundation is as likely to be a matter of personal circumstances as it is
   personal preference. If you have long-term access to a piece of property, then
@@ -13,7 +13,7 @@ overlay: false
 date: '2018-06-14'
 listing:
   title: Tiny House on wheels or stationnary ?
-  description: >
+  description: >-
     Ah, the eternal question. It’s right up there with “To be or not to be,” or
     “Should I stay or should I go?” Okay, maybe not, but it IS one of the first
     decisions to make when embarking upon the Tiny House life.
