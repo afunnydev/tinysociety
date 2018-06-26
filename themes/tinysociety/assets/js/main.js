@@ -19,7 +19,7 @@ jQuery( document ).ready(function($) {
           // Only prevent default if animation is actually gonna happen
           event.preventDefault();
           $('html, body').animate({
-            scrollTop: target.offset().top
+            scrollTop: target.offset().top - 50
           }, 1000, function() {
             // Callback after animation
             // Must change focus!
@@ -44,6 +44,7 @@ jQuery( document ).ready(function($) {
   });
   // Sidebar link styling
   var tableLinks = $('#sidebar a');
+  tableLinks.first().addClass('active');
   tableLinks.click(function(){
     tableLinks.removeClass('active');
     $(this).addClass('active');

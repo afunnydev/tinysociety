@@ -1,7 +1,7 @@
 ---
-title: Kinzi Plans | About us
+title: Tiny House Society | About us
 description: >-
-  Kinzi Plans is dedicated to offer the best tiny house plans. Our plans are easy to understand for DIY constructors and built with professionals in the field.
+  Tiny House Society is dedicated to offer the best tiny house content and plans. All of our stuff is put together by professionals.
 titre: "Start with Why - Tiny House Society"
 identifiant: a-propos
 i18nlanguage: fr

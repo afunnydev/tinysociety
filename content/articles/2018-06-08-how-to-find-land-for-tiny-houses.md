@@ -18,11 +18,12 @@ likes: 95
 i18nlanguage: en
 ordre: '0'
 draft: false
-noindex: true
+noindex: false
 categories:
   - Tiny houses
   - Sustainable building and living
 overlay: true
+menuid: articles
 ---
 
 **In this article, I’ll be discussing the details of various options involving buying land, renting land, or buying a Tiny House already situated in place.**

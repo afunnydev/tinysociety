@@ -40,12 +40,6 @@
 			h2 {
 				margin-top: 30px;
 			}
-			p {
-				font-size: 120%;
-			}
-			ul, li, ol {
-				font-size: 105%;
-			}
 			iframe {
 				margin-bottom: 20px;
 			}
@@ -82,6 +76,20 @@
 	    z-index: 9900;
 	}
 }
+.button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme, .button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {
+	border-color: $brown;
+    color: $brown !important;
+    &:hover {
+    	background-color: $brown !important;
+    	color: #fff !important;
+    }
+}
+.ui-tabs .ui-tabs-nav li.ui-state-active a, .accordion .question.active .title > .acc-icon-plus, .accordion .question.active .title > .acc-icon-minus, .faq .question.active .title > .acc-icon-plus, .faq .question.active .title, .accordion .question.active .title {
+	color: $brown;
+}
+.ui-tabs .ui-tabs-nav li.ui-state-active a:after {
+	background: $brown;
+}
 /********** HEADER **********/
 
 // To fix the logo moving on load
@@ -95,6 +103,11 @@ div.social-icons {
     top: 28px;
     z-index: 9900;
     font-size: 50px;
+    .instagram {
+    	font-size: 42px;
+	    position: relative;
+	    top: -4px;
+    }
     a {
     	color: $gray;
     	&:hover {
@@ -208,6 +221,25 @@ div.overlayed {
 .masonry.tiles .post-item:not(.no-img) .post-photo-wrapper:after {
 	background: rgba(0, 0, 0, 0.6);
 	opacity: 0.5;
+}
+
+.pre-footer {
+	p {
+		font-size: 1.2em;
+	}
+	a {
+		font-size: 1.4em;
+	}
+	.author-list {
+		.icon-user {
+			position: absolute;
+			left:0;
+			top: 50%;
+			transform: translateY(-50%);
+			color: $brown;
+			font-size: 25px;
+		}
+	}
 }
 /******** BLOG *********/
 #blog {
@@ -364,6 +396,7 @@ div.overlayed {
 
 /******** ARTICLE ********/
 #article {
+	font-size: 1.3em;
 	#Intro {
 		background-repeat:no-repeat;
 		background-position:center center;
@@ -387,6 +420,67 @@ div.overlayed {
 		}
 	}
 	#Content {
+		.post {
+			#content {
+				ul, ol {
+					list-style-type: none;
+					padding-left: 30px;
+					margin: 0 0 20px 0
+				}
+				li {
+					list-style: none;
+					list-style-type: none;
+					position: relative;
+	    			padding: 3px 0 3px 0;
+	    			&:before {
+						content: '\e900';
+						font-family: 'icomoon' !important;
+						speak: none;
+						font-style: normal;
+						font-weight: normal;
+						font-variant: normal;
+						text-transform: none;
+					    position: absolute;
+					    left: -30px;
+					    top: 4px;
+	    			}
+	    			&:first-child {
+	    				padding-top: 0;
+	    				&:before {
+	    					top: 4px;
+	    				}
+	    			}
+				}
+				p {
+
+				}
+				h2, h3, h4, h5, h6 {
+					&:focus {
+						outline: none;
+					}
+				}
+				h2 {
+					font-size: 28px;
+					margin: 50px 0 30px;
+				}
+				h3 {
+					font-size: 26px;
+					margin: 40px 0 25px;
+				}
+				h4 {
+					font-size: 24px;
+					margin: 30px 0 20px;
+				}
+				h5 {
+					font-size: 22px;
+					margin: 20px 0 15px;
+				}
+				h6, strong {
+					font-size: 20px;
+					margin: 20px 0 15px;
+				}
+			}
+		}
 		.column {
 			color: $brown;
 			h1, h2, h3, h4, h5, h6, ul, li, p, span {
@@ -421,31 +515,34 @@ div.overlayed {
 		    will-change: position, transform;
 		}
 		.toc {
+			ul {
+				line-height: 1.5;
+			}
 			ul.toc-h1 {
 				li a {
-					font-size: 20px
+					font-size: 26px
 				}
 				ul.toc-h2 {
 					li a {
-						font-size: 18px
+						font-size: 24px
 					}
 					ul.toc-h3 {
 						padding-left: 10px;
 						li a {
-							font-size: 16px
+							font-size: 22px
 						}
 						ul.toc-h4 {
 							padding-left: 10px;
 							li a {
-								font-size: 14px
+								font-size: 20px
 							}
 							ul.toc-h5 {
 								padding-left: 10px;
 								li a {
-									font-size: 12px
+									font-size: 18px
 								}
 								ul.toc-h6 {
-									li a {font-size: 10px}
+									li a {font-size: 16px}
 								}
 							}
 						}
@@ -467,6 +564,27 @@ h6.regular-text {
 	background-repeat: no-repeat; 
 	background-position: center 77%;
 	padding:230px 0 100px !important;
+}
+.contact-separator {
+	width: 110px; 
+	height: 4px; 
+	background: $brown; 
+	display: inline-block;
+}
+.thank-you-page {
+	h1 {
+		span {
+			&:before {
+				color: white;
+			}
+		}
+	}
+	h4 {
+		a {
+			color: $brown;
+			text-decoration: underline
+		}
+	}
 }
 
 /******** RESPONSIVE ********/
@@ -602,7 +720,7 @@ h6.regular-text {
 	}
 	#Subheader.contact {
 		margin-top: 90px;
-		padding:30px 0 100px !important;
+		padding:60px 0 70px !important;
 		background-size: cover;
 	}	
 }

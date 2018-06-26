@@ -12,7 +12,9 @@
                             <div class="column mcb-column one column_image ">
                                 <div class="scale-with-grid aligncenter no_border">
                                     <h1 class="home-title">{{ .Params.titre }}</h1>
-                                    <span class="home-subtitle">{{ .Params.subtitle }}</span>
+                                    {{ with .Params.subtitle }}
+                                    <span class="home-subtitle">{{ . }}</span>
+                                    {{ end }}
                                 </div>
                             </div>
                         </div>
@@ -145,7 +147,7 @@
             </div>
             {{ end }}
             {{ with .Params.section4 }}
-            <div class="section mcb-section" style="padding-top:40px; padding-bottom:0px; ">
+            <div class="section mcb-section pre-footer" style="padding-top:40px; padding-bottom:0px; ">
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one  valign-top clearfix">
                         <div class="mcb-wrap-inner">
@@ -153,7 +155,7 @@
                             <div class="column mcb-column one-third column_column">
                                 <div class="column_attr">
                                     <h2>{{ .title }}</h2>
-                                    <hr class="no_line" style="margin: 0 auto 30px;" />
+                                    <hr class="no_line" style="margin: 0 auto 15px;" />
                                     <p>{{ .description1 | markdownify }}</p>
                                     <p>
                                         {{ .description2 | markdownify}}
@@ -162,12 +164,13 @@
                             </div>
                             {{ end }}
                             {{ with .col2 }}
-                            <div class="column mcb-column one-third column_column">
+                            <div class="column mcb-column one-third column_column author-list">
                                 <div class="column_attr">
                                     <h2>{{ .title }}</h2>
-                                    <hr class="no_line" style="margin: 0 auto 30px;" />
+                                    <hr class="no_line" style="margin: 0 auto 15px;" />
                                     {{ range sort $.Site.Data.authors "weight" "asce" }}
-                                    <div style="background: url(/images/home_lifestyle_author.png) no-repeat left top; padding: 0 0 0 40px;">
+                                    <div style="position: relative; padding: 0 0 0 40px;">
+                                        <span class="icon-user place-left"></span>
                                         <h5 style="font-weight: 700; margin: 0 0 6px 0">{{ .name }}</h5>
                                         <p>
                                             {{ .bio }}
@@ -181,13 +184,14 @@
                             <div class="column mcb-column one-third column_column">
                                 <div class="column_attr">
                                     <h2>{{ .title }}</h2>
-                                    <hr class="no_line" style="margin: 0 auto 30px;" />
+                                    <hr class="no_line" style="margin: 0 auto 15px;" />
                                     <p>{{ .description1 | markdownify }}</p>
                                     <p>
                                         {{ .description2 | markdownify }}
                                     </p>
                                     {{ with .btn }}
-                                    <a class="button button_theme button_js" href="{{ .link }}"><span class="button_label">{{ .text }}</span></a> </div>
+                                    {{ $link := .link }}
+                                    <a class="button button_theme button_js" href="{{ $.Scratch.Get $link }}"><span class="button_label">{{ .text }}</span></a> </div>
                                     {{ end }}
                             </div>
                             {{ end }}

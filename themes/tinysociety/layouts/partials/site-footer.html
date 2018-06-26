@@ -20,6 +20,9 @@
                             <li>
                                 <i class="icon-email" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "contactPage" }}'>Contact Us</a>
                             </li>
+                            <li>
+                                <i class="icon-pencil-line" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "writePage" }}'>Write with Us</a>
+                            </li>
                         </ul>
                     </div>
                 </aside>
@@ -32,7 +35,7 @@
                             {{ range $i, $e := first 2 (where $.Site.RegularPages "Type" "articles") }}
                             <li class="post ">
                                 <a href="{{ .Permalink }}">
-                                    <div class="photo"><img width="80" height="80" src="/quart{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><span class="c">0</span>
+                                    <div class="photo"><img width="80" height="80" src="/quart{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><span class="c">{{ .Params.likes }}</span>
                                     </div>
                                     <div class="desc">
                                         <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
@@ -52,7 +55,7 @@
                             {{ range $i, $e := first 2 (after 2 (where $.Site.RegularPages "Type" "articles")) }}
                             <li class="post ">
                                 <a href="{{ .Permalink }}">
-                                    <div class="photo"><img width="80" height="80" src="/quart{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><span class="c">0</span>
+                                    <div class="photo"><img width="80" height="80" src="/quart{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><span class="c">{{ .Params.likes }}</span>
                                     </div>
                                     <div class="desc">
                                         <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>

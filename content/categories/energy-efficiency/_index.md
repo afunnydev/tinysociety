@@ -1,9 +1,9 @@
 ---
-title: Kinzi Plans Blog | Energy Efficiency
+title: Tiny House Society Blog | Energy Efficiency
 description: >-
-  Kinzi Plans is dedicated to offer the best tiny house plans. Our focus ranges from energy efficiency to sustainability. 
+  Tiny House Society is dedicated to offer the best tiny house content on any topic. We hold energy efficiency as a core value.
 image: /img/tiny-house-3.jpg
-titre: Energy efficiency of tiny houses
+titre: Energy Efficiency and Living a Tiny House
 draft: false
 noindex: false
 ---

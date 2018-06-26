@@ -1,9 +1,9 @@
 ---
-title: Kinzi Plans Blog | Tiny Houses
+title: Tiny House Society Blog | Tiny Homes
 description: >-
-  Kinzi Plans is dedicated to offer the best tiny house plans. You might want to build your own or you might want to have the council of an expert: Kinzi Plans offers both!
+  Tiny House Society is dedicated to offer the best tiny house content and plans. You might want to build your tiny house or simply know the legislation. We got you covered!
 image: /img/tiny-house-3.jpg
-titre: What Are Tiny Houses?
+titre: Tiny Houses, Everything There Is To Know
 draft: false
 noindex: false
 ---

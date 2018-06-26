@@ -22,7 +22,8 @@ i18nlanguage: en
 ordre: 1
 author: davidm
 draft: false
-noindex: true
+noindex: false
+menuid: articles
 quotes:
   - style: style-1
     images: 

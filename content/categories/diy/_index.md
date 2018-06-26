@@ -1,7 +1,7 @@
 ---
-title: Kinzi Plans Blog | DIY Tiny Home Articles 
+title: Tiny House Society Blog | DIY Tiny Home Articles
 description: >-
-  Kinzi Plans is dedicated to offer the best tiny house plans. Our plans are easy to understand for DIY constructors and are designed by professionals in the field. 
+  We offer the best information regarding tiny homes. Our articles and plans are easy to understand for DIY constructors.
 image: /img/tiny-house-3.jpg
 titre: DIY Tiny Houses Plans
 draft: false

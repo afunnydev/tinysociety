@@ -1,8 +1,11 @@
 ---
-title: Merci
+title: "Tiny House Society | Thank you"
 description: >-
-  This is a desc
-slug: merci
+  Thank you for your interest in Tiny Houses.
+slug: thank-you
 layout: merci
-image: null
+titre: "Thank you for your interest in Tiny Houses"
+image: /img/tiny-house-lovers-contact.jpg
+noindex: true
 ---
+#### We'll get in touch soon! While we're at it, discover our [lastest advices to help you optimize your Tiny House](/articles), or some of our most awesome [Tiny Houses Plans](/tiny-houses-plans).

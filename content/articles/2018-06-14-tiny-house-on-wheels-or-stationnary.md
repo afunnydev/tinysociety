@@ -30,6 +30,7 @@ i18nlanguage: en
 ordre: '1'
 draft: false
 noindex: false
+menuid: articles
 ---
 
 ![image alt text](image_0.jpg) **vs.**![image alt text](image_1.jpg)

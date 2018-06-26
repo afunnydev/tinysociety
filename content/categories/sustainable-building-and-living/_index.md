@@ -1,9 +1,9 @@
 ---
-title: Kinzi Plans Blog | Sustainable Building and Living
+title: Tiny House Society Blog | Sustainable Building and Living
 description: >-
-  Kinzi Plans has in its best interests sustainable building and living. If you consider buying or making your own tiny house, make sure to do it sustainably! 
+  Tiny House Society has in its best interests sustainable building and living. If you consider buying or making your own tiny house, make sure to do it sustainably! 
 image: /img/tiny-house-3.jpg
-titre: "Sustainable Living: Is It Possible?"
+titre: "Living Tiny and Sustainable"
 draft: false
 noindex: false
 ---

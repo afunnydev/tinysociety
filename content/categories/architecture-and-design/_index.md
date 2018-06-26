@@ -1,9 +1,9 @@
 ---
-title: Kinzi Plans Blog | Architecture & Design 
+title: Tiny House Society Blog | Architecture & Design
 description: >-
-  Having a tiny house doesn’t mean compromise when it comes to architecture and design. At Kinzi Plans, we understand that fully. We’re dedicated to offer you the best architecture and design tips and tricks on the market!
+  Having a tiny house doesn’t mean compromise when it comes to architecture and design. At Tiny House Society, we understand that fully. We’re dedicated to offer you the best architecture and design tips and tricks on the market!
 image: /img/tiny-house-3.jpg
-titre: "Tiny house : Architecture And Design"
+titre: "Architecture And Design | Tiny Doesn’t Mean Ugly"
 draft: false
 noindex: false
 ---
