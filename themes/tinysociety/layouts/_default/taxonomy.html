@@ -16,7 +16,7 @@
                                     <div class="categories-choices">
                                     	{{ $tags := $.Site.Taxonomies.categories.Alphabetical }}
                                     	{{ range $tags }}
-                                    	<a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ .Term }}</span></a>
+                                    	<a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}#category-articles" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ .Term }}</span></a>
 									    {{ end }} 
                                     </div>
                                 </div>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
             </div>
-            <div class="section section-filters" style="background-color: #dcdfe1">
+            <div class="section section-filters" style="background-color: #dcdfe1" id="category-articles">
                 <div class="section_wrapper clearfix">
                 	<div class="column one">
                 		<p class="nb_articles">We have found <span>{{ len .Pages }}</span> articles that will interest you!</p>

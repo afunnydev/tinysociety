@@ -1,9 +1,9 @@
-  ---
+---
 title: What kind of roof can I use on a Tiny House?
 description: This is a desc
 slug: single1
 image: /img/tiny-house-3-square.jpg
-date: 2018-04-23T00:00:00.000Z
+date: '2018-04-23'
 listing:
   title: What kind of roof can I use on a Tiny House?
   description: >-

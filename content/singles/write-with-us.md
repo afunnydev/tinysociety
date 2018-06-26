@@ -7,7 +7,7 @@ identifiant: write-with-us
 i18nlanguage: fr
 slug: write-with-us
 layout: contact
-image: /img/tiny-house-lovers-contact.jpg
+image: /img/write-for-us.jpg
 menuid: write
 subheader:
   need: true
