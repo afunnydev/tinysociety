@@ -46,84 +46,32 @@ The following list is a sample of what a typical Tiny House might involve.
 
 ### Itemized Tiny House Materials Cost List:
 
-```
-        Trailer (Tumbleweed 20' trailer):  $5300
-
-
-        Lumber, sheathing & house wrap: $3200
-
-
-        Rigid foam insulation: $1200
-
-
-        Siding: $2500
-
-
-        Roofing: $800
-
-
-        Windows: $320 each
-
-
-        Skylight: $400
-
-
-        Exterior door: $400
-
-
-        Interior paneling: $2000
-
-
-        Flooring: $350
-
-
-        Cabinetry & countertops: $800
-
-
-        Hardware: $250
-
-
-        Finishes: $500
-
-
-        Electrical components: $500
-
-
-        Plumbing components: $700
-
-
-        Propane components: $320
-
-
-        Tankless water heater: $1200
-
-
-        Light fixtures & fans: $500
-
-
-        Composting toilet: $960
-
-
-        Shower: $450
-
-
-        Kitchen sink & faucet: $250
-
-
-        Refrigerator: $1200
-
-
-        Stovetop: $180
-
-
-        Clothes washer: $500
-
-
-        <span style="text-decoration:underline;">Tiny house plans: $760</span>
-
-
-        **Total (assuming 4 windows): $26,500**
-```
+- Trailer (Tumbleweed 20' trailer):  $5300
+- Lumber, sheathing & house wrap: $3200
+- Rigid foam insulation: $1200
+- Siding: $2500
+- Roofing: $800
+- Windows: $320 each
+- Skylight: $400
+- Exterior door: $400
+- Interior paneling: $2000
+- Flooring: $350
+- Cabinetry & countertops: $800
+- Hardware: $250
+- Finishes: $500
+- Electrical components: $500
+- Plumbing components: $700
+- Propane components: $320
+- Tankless water heater: $1200
+- Light fixtures & fans: $500
+- Composting toilet: $960
+- Shower: $450
+- Kitchen sink & faucet: $250
+- Refrigerator: $1200
+- Stovetop: $180
+- Clothes washer: $500
+- <span style="text-decoration:underline;">Tiny house plans: $760</span>
+- **Total (assuming 4 windows): $26,500**
 
 ## Tips for Minimizing the Cost of a DIY Tiny House
 
@@ -166,26 +114,14 @@ The fastest and easiest option for acquiring a Tiny House is to buy one ready-ma
 
 ### Here is a small sampling of current new Tiny House price tags:
 
-```
-**Tumbleweed Tiny Houses:** 26' Roanoke Pacific model currently available for $83,000
+- **Tumbleweed Tiny Houses:** 26' Roanoke Pacific model currently available for $83,000
+- **Timbercraft Tiny Homes**: 20' basic model starts at $50,000
+- **Tiny Innovations:** 24' Catalina model starts at $65,000
+- **Wind River Tiny Homes:** 24' Bumper Pull Tiny House with Level 2 Finishes $62,000
+- **Modern Tiny Living:** 24' models start at $56,000
+- **Mustard Seed Tiny Homes:** 28' Juniper model starts at $68,000
 
-
-**Timbercraft Tiny Homes**: 20' basic model starts at $50,000
-
-
-**Tiny Innovations:** 24' Catalina model starts at $65,000
-
-
-**Wind River Tiny Homes:** 24' Bumper Pull Tiny House with Level 2 Finishes $62,000
-
-
-**Modern Tiny Living:** 24' models start at $56,000
-
-
-**Mustard Seed Tiny Homes:** 28' Juniper model starts at $68,000
-```
-
-### Reasons to Buy a Finished Tiny House:
+### Reasons to Buy a Finished Tiny House
 
 * Buying a ready-made Tiny House will save you time. Many Tiny House companies carry in-stock models ready to go. You can walk right up and purchase one like you would a new car. Even if there's a lead time involved, a Tiny House company have a relatively short construction schedule for its standard models.
 * Some Tiny House companies offer their own payment plans, eliminating the need to find financing through a traditional financial institution.

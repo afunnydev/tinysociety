@@ -452,7 +452,7 @@ div.overlayed {
 	    			}
 				}
 				p {
-
+				
 				}
 				h2, h3, h4, h5, h6 {
 					&:focus {
@@ -462,6 +462,9 @@ div.overlayed {
 				h2 {
 					font-size: 28px;
 					margin: 50px 0 30px;
+					&:first-child {
+						margin-top: 5px;
+					}
 				}
 				h3 {
 					font-size: 26px;
@@ -478,6 +481,9 @@ div.overlayed {
 				h6, strong {
 					font-size: 20px;
 					margin: 20px 0 15px;
+				}
+				img {
+					margin: 40px auto
 				}
 			}
 		}
@@ -503,6 +509,7 @@ div.overlayed {
 			display: inline-block;
 			h4 {
 				margin: 0;
+				font-size: 24px;
 			}
 		}
 		.sidebar{

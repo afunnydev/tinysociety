@@ -36,9 +36,9 @@ Assume for the sake of this discussion that you do have a choice between two opt
 
 ![](/img/tiny-house-on-wheel-or-stationary-3.jpg)
 
-**Flexibility**
+## Flexibility
 
-**When is mobility an advantage?** 
+### When is mobility an advantage? 
 
 #### Moving
 
@@ -74,7 +74,7 @@ People also change. A Tiny House on wheels can provide flexibility by acting as 
 
 These purposes can be fulfilled by a stationary Tiny House as well, but depending on how well you get along with your Mother in Law, wheels might be the wiser move (rimshot).
 
-**Size and Shape**
+## Size and Shape
 
 ### Does my Tiny House on wheels have to be a box?
 
@@ -135,7 +135,7 @@ Some examples of materials that make more sense for stationary Tiny Houses than 
 * Cob, adobe, and other earthen construction materials
 * Large expanses of glass
 
-**Location Options** 
+## Location Options 
 
 ### Where can I park my Tiny House on Wheels?
 
@@ -166,7 +166,7 @@ A stationary Tiny House is rooted more firmly to the ground. And it can be shape
 
 Conversely, in the event of a natural disaster, you can evacuate your entire house if you have a Tiny House on wheels and enough forewarning.
 
-**Zoning and Legal Concerns** 
+## Zoning and Legal Concerns
 
 ### How do zoning and legal designations affect my choice?
 
@@ -174,7 +174,7 @@ Conversely, in the event of a natural disaster, you can evacuate your entire hou
 * A Tiny House on wheels is usually legally designated an RV. In some areas there are restrictions against living in an RV full-time.
 * Tiny Houses on wheels are less likely to fully comply with existing building codes than are permanent Tiny Houses on foundations. 
 
-**Utilities** 
+## Utilities
 
 ### What Utility Options are Available for Stationary Tiny Houses vs. Tiny Homes on Wheels?
 
@@ -192,7 +192,7 @@ The systems onboard a Tiny House on wheels are usually akin to those on an RV or
 * Permanent connection to the local electrical grid
 * Heating system components that aren't mobile-friendly, such as a geothermal heat pump or boiler 
 
-**Theft **
+## Theft
 
 ### A concern for mobile Tiny Houses?
 
@@ -206,7 +206,7 @@ The following precautions can greatly reduce the risk of your Tiny Home being st
 
 ![](/img/tiny-house-on-wheel-or-stationary-8.jpg)
 
-**Grounding/Earthing** 
+## Grounding/Earthing
 
 ### What is Earthing?
 
@@ -247,14 +247,14 @@ To take full advantage of grounding, implement it in your home environment.
 
 <p><a href="https://vimeo.com/205264910">DOWN TO EARTH</a> from <a href="https://vimeo.com/bigpictureranch">Big Picture Ranch</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-**Feeling of Home** 
+## Feeling of Home
 
 For some people, living in a Tiny House on wheels might not feel enough like a "real" house. These reasons might lead you to choose a stationary Tiny Home instead:
 
 * There can occasionally be a slight sense of wobbliness to a Tiny on wheels, especially in areas with high winds.
 * The space below a Tiny House on wheels is open. Therefore floors can be a bit chilly in cold climates. Skirting around the trailer frame can make a difference. And the addition of floor rugs and ample floor insulation can abate this issue. 
 
-**Best or Worst of Both Worlds?** 
+## Best or Worst of Both Worlds? 
 
 ### Can a Stationary Tiny House be Mobile?
 
@@ -266,7 +266,7 @@ It's wise to choose a rectangle shape typical of a Tiny House on wheels. That wa
 
 ![](/img/tiny-house-on-wheel-or-stationary-9.jpg)
 
-**Floating Home** 
+## Floating Home 
 
 ### The life aquatic?
 
