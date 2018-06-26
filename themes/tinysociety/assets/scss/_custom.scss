@@ -571,6 +571,11 @@ h6.regular-text {
 	background: $brown; 
 	display: inline-block;
 }
+.style-simple .ui-tabs .ui-tabs-panel {
+	&:focus {
+		outline: none;
+	}
+}
 .thank-you-page {
 	h1 {
 		span {

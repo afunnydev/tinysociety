@@ -13,4 +13,8 @@ subheader:
   need: true
   image: "/img/home_lifestyle_subheader.jpg"
   title: Contact
+section1: "You can contact our team at all times. We will get back to you as soon as we can!"
+section2:
+  subtitle: Do you have any question ?
+  description: "Drop us a few lines and we will get back to you as soon as possible. Since we are busy writing articles, it may take a few days, but we’ll be happy to get back to you between two paragraphs."
 ---

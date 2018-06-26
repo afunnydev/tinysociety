@@ -38,9 +38,9 @@ section4:
   col3:
     title: Write with us
     description1: >-
-      **Morbi eget dictum lectus, eget porttitor erat. Vestibulum dictum lacus id turpis egestas mattis. Vestibulum ac leo ultrices, porta libero malesuada, mollis sed.**
+      **Yes, you can! We’re always looking for some passionate people that want to share their stories and experiences. If you’ve got an idea that can bring more to the Tiny House community, we want to hear about it!  But that idea doesn’t need to redefine the whole Tiny House world! Just some fresh new tips and tricks or fresh story about your personal experience.**
     description2: >-
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat.
+      You don’t have experience writing articles? We’ll help you get on board with our content experts! Innovative and bold Tiny House ideas should be highlighted and you should get the credit for it.
     btn:
       text: "Learn more"
       link: "writePage"
