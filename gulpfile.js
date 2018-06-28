@@ -79,27 +79,27 @@ gulp.task("hugo", function (cb) {
 gulp.task('sass', function () {
   return gulp.src('themes/tinysociety/assets/scss/main.scss')
     .pipe(sourcemaps.init())
-    .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
     .pipe(rename('main.min.css'))
-    .pipe(sourcemaps.write())
+    .pipe(sourcemaps.write('themes/tinysociety/static/css'))
     .pipe(gulp.dest('themes/tinysociety/static/css'));
 });
 
 gulp.task('scripts-normal', function() {
     return gulp.src(jsFiles)
-        .pipe(sourcemaps.init())
+        // .pipe(sourcemaps.init())
         .pipe(concat('main.min.js'))
         .pipe(uglify())
-        .pipe(sourcemaps.write())
+        // .pipe(sourcemaps.write(jsDest))
         .pipe(gulp.dest(jsDest));
 });
 
 gulp.task('scripts-ui', function() {
     return gulp.src(jsFilesUI)
-        .pipe(sourcemaps.init())
+        // .pipe(sourcemaps.init())
         .pipe(concat('main-with-ui.min.js'))
         .pipe(uglify())
-        .pipe(sourcemaps.write())
+        // .pipe(sourcemaps.write(jsDest))
         .pipe(gulp.dest(jsDest));
 });
 
