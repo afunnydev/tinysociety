@@ -18,4 +18,3 @@ Tiny houses have to be well isolated because they are evidently tiny. Tiny homes
 Tiny houses have to have a good electricity system to power all the electronic devices in the house. And because a tiny house is tiny, it’s way easier to find and install products that are efficient. Tiny houses buyers want energy efficient house, not only for financial reasons, but for sustainability reasons as well. 
 
 Kinzi Plans offers you the plans for energy efficient tiny houses, but also the experts to build a tiny house that fits your tastes and that is also highly energy efficient. 
-

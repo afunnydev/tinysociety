@@ -3,7 +3,7 @@
 <!-- at least one header to link to -->
 {{ $has_headers := ge (len $headers) 1 }}
 {{ if $has_headers }}
-<div class="table-of-contents toc bd-callout">
+<div class="table-of-contents toc bd-callout" id="toc">
     <!-- TOC header -->
     <!-- <h4 class="text-muted">Table of Contents</h4> -->
     {{ $.Scratch.Set "counting" 0 }}
