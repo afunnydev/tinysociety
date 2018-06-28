@@ -52,7 +52,7 @@ const jsDest = 'themes/tinysociety/static/js';
  
 // resize and optimize images
 gulp.task("image-resize", () => {
-  return gulp.src("themes/tinysociety/source-images/*.{jpg,png,jpeg,gif}")
+  return gulp.src("themes/tinysociety/source-images/*.{jpg,png,jpeg,JPG}")
     .pipe(newer("themes/tinysociety/static/img"))
     .pipe(imagemin())
     .pipe(imageresize({ width: imagexl}))

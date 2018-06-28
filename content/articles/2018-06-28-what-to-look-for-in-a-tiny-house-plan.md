@@ -89,7 +89,7 @@ Here are a few examples showing the range of possibilities:
 
 ### Metal Clad Tiny House
 
-![Metal Clad Tiny House](/img/what-to-look-for-tiny-house-plan-53.JPG "Metal Clad Tiny House")
+![Metal Clad Tiny House](/img/what-to-look-for-tiny-house-plan-52.jpeg "Metal Clad Tiny House")
 
 ### Gooseneck Tiny House
 
@@ -109,7 +109,7 @@ Here are a few examples showing the range of possibilities:
 
 ### Tiny House A-Frame
 
-![Tiny House A-Frame](/img/what-to-look-for-tiny-house-plan-45.jpg "Tiny House A-Frame")
+![Tiny House A-Frame](/img/what-to-look-for-tiny-house-plan-45.jpeg "Tiny House A-Frame")
 
 ### Round Tiny House
 
@@ -148,7 +148,7 @@ Here are a few examples showing the range of possibilities:
 * **Details/instructions for properly attaching to trailer (for Tiny Houses on wheels)**
 * **R-values of building envelope**
 * **Construction price**
-  * **If the plans don't include this information, here's a free online construction cost calculator that you can use: <http://www.building-cost.net/Valuation/Start> **
+  * **If the plans don't include this information, here's a [free online construction cost calculator that you can use](http://www.building-cost.net/Valuation/Start).**
 * **Step-by-step instructions (if planning to build it yourself)**
 * **Tools needed**
 * **Materials list**
@@ -158,7 +158,7 @@ Here are a few examples showing the range of possibilities:
 * **House dimensions:**
   * **Overall width, including roof overhangs, not to exceed 8'-6" for Tiny House on wheels, to avoid travel permits in most areas**
   * **Overall height not to exceed 13'-6" for Tiny House on wheels, to avoid travel permits in most areas**
-* **House square footage **
+* **House square footage**
 * **Rules and regulations**
 * **Disclaimers regarding designers, codes, etc.**
 * **All drawings should be drawn to scale.**
@@ -262,7 +262,7 @@ Ana White is an inspirational self-taught Alaskan mom with some great design ide
 
 The designers at Tiny House Design offer a handful of free Tiny House designs from 8-feet long to 24-feet long. Some of their designs, such as this 8x16 Tiny Solar House, can be built either as a Tiny House on wheels, or as a stationary Tiny House on a foundation.
 
-![8×16 Tiny Solar House v.2](/img/what-to-look-for-tiny-house-plan-54.jpg "8×16 Tiny Solar House v.2")
+![8×16 Tiny Solar House v.2](/img/what-to-look-for-tiny-house-plan-54.JPG "8×16 Tiny Solar House v.2")
 
 [Find the plans for the 8x16 Tiny Solar House v.2 here](https://tinyhousedesign.com/downloads/8x16-tiny-solar-house-plans-v2-.pdf)
 
@@ -278,7 +278,7 @@ The designers at Tiny House Design offer a handful of free Tiny House designs fr
 The Classic Archives offers a free set of plans for this 108 square foot cabin with a sleeping loft. Their website is a source of plans for many other types of woodworking projects as well.
 
 ![Cottage Wood Cabin](/img/what-to-look-for-tiny-house-plan-31.jpg "Cottage Wood Cabin")
-![Cottage Wood Cabin](/img/what-to-look-for-tiny-house-plan-32.jpg "Cottage Wood Cabin")
+![Cottage Wood Cabin](/img/what-to-look-for-tiny-house-plan-32.JPG "Cottage Wood Cabin")
 
 Find plans for the Cottage Wood Cabin here: <http://www.theclassicarchives.com/how-to-guides/free-wood-cabin-plans> 
 
@@ -286,8 +286,8 @@ Find plans for the Cottage Wood Cabin here: <http://www.theclassicarchives.com/h
 
 Here's another example of a project by Tiny House Design, better suited for stationary placement on a foundation, given its dimensions. As the design title implies, this is a 12-foot by 24-foot Tiny House. It has 12-foot high walls and a 12/12 roof pitch that allow for highly usable loft space. 
 
-![12×24 Homesteader's Cabin v.2](/img/what-to-look-for-tiny-house-plan-48.jpg "12×24 Homesteader's Cabin v.2")
-![12×24 Homesteader's Cabin v.2](/img/what-to-look-for-tiny-house-plan-55.jpg "12×24 Homesteader's Cabin v.2")
+![12×24 Homesteader's Cabin v.2](/img/what-to-look-for-tiny-house-plan-48.JPG "12×24 Homesteader's Cabin v.2")
+![12×24 Homesteader's Cabin v.2](/img/what-to-look-for-tiny-house-plan-55.JPG "12×24 Homesteader's Cabin v.2")
 
 Find plans for the 12×24 Homesteader's Cabin v.2 here:  <https://tinyhousedesign.com/downloads/12x24-Homesteaders-Cabin-v2-.pdf> 
 
@@ -295,8 +295,8 @@ Find plans for the 12×24 Homesteader's Cabin v.2 here:  <https://tinyhousedesig
 
 Today's Plans provides a free set of plans for its 500 square foot Lookout Cabin, including a main floor, second floor, and balcony.
 
-![Lookout Cabin](/img/what-to-look-for-tiny-house-plan-33.jpg "Lookout Cabin")
-![Lookout Cabin](/img/what-to-look-for-tiny-house-plan-22.jpg "Lookout Cabin")
+![Lookout Cabin](/img/what-to-look-for-tiny-house-plan-33.JPG "Lookout Cabin")
+![Lookout Cabin](/img/what-to-look-for-tiny-house-plan-22.JPG "Lookout Cabin")
 
 Find plans for the Lookout Cabin here: <http://www.todaysplans.com/DO-Lookout-1-Cabin-Plans.pdf> 
 
@@ -340,7 +340,7 @@ The Tumbleweed Cypress is a popular design including bay windows and a porch.
 
 The aforementioned Four Lights Tiny House Company is currently selling their plans through [www.houseplans.com](http://www.houseplans.com). The uncreatively named Plan #896-6 is a classic Jay Shafer design of 290 square feet featuring a loft with a skylight. The design is meant to be built on foundation. The plans are customizable and available as a PDF download.
 
-![PLAN #896-6](/img/what-to-look-for-tiny-house-plan-51.jpg "PLAN #896-6")
+![PLAN #896-6](/img/what-to-look-for-tiny-house-plan-51.JPG "PLAN #896-6")
 ![PLAN #896-6](/img/what-to-look-for-tiny-house-plan-47.jpg "PLAN #896-6")
 
 [Purchase plans for Plan #896-6 here for $699 ](https://www.houseplans.com/plan/290-square-feet-1-bedroom-1-bathroom-0-garage-cottage-38266)
@@ -349,7 +349,7 @@ The aforementioned Four Lights Tiny House Company is currently selling their pla
 
 For a more budget-friendly set of plans, Tiny House Design offers a good selection of low-cost plan sets in addition to their free options. The Potter Valley 24 is a 169 square foot Tiny House on wheels. It includes a porch, a loft, and clerestory windows. Plan purchase includes a printable PDF download, original SketchUp file, and a materials worksheet list.
 
-![Potter Valley 24](/img/what-to-look-for-tiny-house-plan-21.jpg "Potter Valley 24")
+![Potter Valley 24](/img/what-to-look-for-tiny-house-plan-21.JPG "Potter Valley 24")
 ![Potter Valley 24](/img/what-to-look-for-tiny-house-plan-23.jpg "Potter Valley 24")
 
 [Purchase plans for Potter Valley 24 here for $29](https://tinyhousedesign.com/plans/potter-valley-24/)
@@ -360,8 +360,8 @@ While The Small House Catalog no longer seems to be offering free Tiny House pla
 
 The Bohemian Tiny House is an 8-foot by 20-foot Tiny House on wheels with a sleeping loft, a storage loft, and a cathedral ceiling. Plan purchase includes a PDF download. Customizable SketchUp files are available.
 
-![The Bohemian Tiny House](/img/what-to-look-for-tiny-house-plan-43.jpg "The Bohemian Tiny House")
-![The Bohemian Tiny House](/img/what-to-look-for-tiny-house-plan-44.jpg "The Bohemian Tiny House")
+![The Bohemian Tiny House](/img/what-to-look-for-tiny-house-plan-43.JPG "The Bohemian Tiny House")
+![The Bohemian Tiny House](/img/what-to-look-for-tiny-house-plan-44.JPG "The Bohemian Tiny House")
 
 [Purchase plans for The Bohemian Tiny House here for $29.99](https://smallhousecatalog.com/plans/no-30-the-bohemian-tiny-house)
 
@@ -369,8 +369,8 @@ The Bohemian Tiny House is an 8-foot by 20-foot Tiny House on wheels with a slee
 
 TinyHouseBuild.com offers the 28' hOMe in various package options including 'just SketchUp,' 'just digital download,' and 'total' packages which include DVD video instruction. The 28' hOMe design is 317 square feet with lofts. It includes full-sized kitchen appliances, tall ceilings, and road-legal dimensions for a 3-axle trailer.
 
-![28′ hOMe](/img/what-to-look-for-tiny-house-plan-26.jpg "28′ hOMe")
-![28′ hOMe](/img/what-to-look-for-tiny-house-plan-30.JPG "28′ hOMe")
+![28 hOMe](/img/what-to-look-for-tiny-house-plan-26.jpg "28 hOMe")
+![28 hOMe](/img/what-to-look-for-tiny-house-plan-30.JPG "28 hOMe")
 
 [Purchase plans for the 28' hOMe here in options ranging from $99 to $299](https://tinyhousebuild.com/home-plans/?rfsn=1251828.0de4c2) 
 
@@ -378,7 +378,7 @@ TinyHouseBuild.com offers the 28' hOMe in various package options including 'jus
 
 Chris and Malissa Tack offer plans for the 140 square foot, 20-foot long Tiny Tack House that they live in and write about in their popular Tiny House blog. The house is on wheels and sports 11 windows including a skylight, for a naturally light-filled design.
 
-![Tiny Tack House](/img/what-to-look-for-tiny-house-plan-12.jpg "Tiny Tack House")
+![Tiny Tack House](/img/what-to-look-for-tiny-house-plan-12.JPG "Tiny Tack House")
 ![Tiny Tack House](/img/what-to-look-for-tiny-house-plan-13.JPG "Tiny Tack House")
 
 [Purchase plans for the Tiny Tack House here for $175 ](http://chrisandmalissa.com/tiny-tack-house-plans/)
