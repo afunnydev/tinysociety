@@ -50,7 +50,7 @@ collections:
       - {label: "Menu ID", name: "menuid", widget: "hidden", default: "articles"}
       - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
       - {label: "Text", name: "body", widget: "markdown"}
-      - {label: "Remove from website?", name: "draft", widget: "boolean", required: false, default: false}
+      - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
 #   - name: "articles-en" # Used in routes, e.g. /admin/collections/blog
 #     label: "Articles - EN" # Used in the UI
