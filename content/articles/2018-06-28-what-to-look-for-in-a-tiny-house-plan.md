@@ -7,7 +7,6 @@ description: >-
 slug: what-to-look-for-in-a-tiny-house-plan
 image: "/img/what-to-look-for-in-a-tiny-house-plan-square.jpg"
 author: michelleg
-overlay: false
 date: '2018-06-28'
 listing:
   title: 'What to Look for in a Tiny House Plan? '
