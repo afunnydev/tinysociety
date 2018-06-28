@@ -376,7 +376,8 @@ div.overlayed {
 		font-size: 18px;
 		line-height: 20px;
 		p {
-			font-weight: 600
+			font-weight: 400;
+			line-height: 1.4;
 		}
 		.one-second {
 			text-align: left;
@@ -461,6 +462,7 @@ div.overlayed {
 				}
 				h2 {
 					font-size: 28px;
+					line-height: 32px;
 					margin: 50px 0 30px;
 					&:first-child {
 						margin-top: 5px;
@@ -468,18 +470,22 @@ div.overlayed {
 				}
 				h3 {
 					font-size: 26px;
+					line-height: 30px;
 					margin: 40px 0 25px;
 				}
 				h4 {
 					font-size: 24px;
+					line-height: 28px;
 					margin: 30px 0 20px;
 				}
 				h5 {
 					font-size: 22px;
+					line-height: 26px;
 					margin: 20px 0 15px;
 				}
-				h6, strong {
+				h6 {
 					font-size: 20px;
+					line-height: 24px;
 					margin: 20px 0 15px;
 				}
 				img {
@@ -621,6 +627,11 @@ h6.regular-text {
 				}
 			}
 		}
+		#category-content {
+			h2 {
+				font-size: 20px;
+			}
+		}
 	}
 }
 
@@ -698,6 +709,43 @@ h6.regular-text {
 			.other-title {
 				margin-top: 0px;
 			}
+			.post {
+				#content {
+					ul {
+						font-size: inherit;
+					}
+					img {
+						margin: 20px auto 30px;
+					}
+				}
+			}
+		}
+	}
+	.masonry.tiles .post-item.format-quote blockquote, .masonry.tiles .post-item.format-quote blockquote a, .masonry.tiles .post-item.format-link .post-title .icon-link, .masonry.tiles .post-item.format-link .post-title .link-wrapper h4, .masonry.tiles .post-item.format-link .post-title .link-wrapper a, .masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title .entry-title a {
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.posts_group.masonry.tiles.col-3 .post-item {
+		margin-bottom: 20px !important;
+	}
+	#quote-section {
+		h4 {
+			font-size: 20px;
+			line-height: 24px;
+		}
+		.description {
+			font-size: 16px;
+			line-height: 20px;
+		}
+		.author {
+			font-size: 14px;
+			line-height: 18px;
+		}
+	}
+	.pre-footer {
+		h2 {
+			font-size: 22px;
+			line-height: 26px;
 		}
 	}
 }

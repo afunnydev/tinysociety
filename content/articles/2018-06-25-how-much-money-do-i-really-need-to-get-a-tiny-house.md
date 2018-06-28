@@ -127,7 +127,7 @@ The fastest and easiest option for acquiring a Tiny House is to buy one ready-ma
 * Some Tiny House companies offer their own payment plans, eliminating the need to find financing through a traditional financial institution.
 * Tiny House companies offer "tried and true" designs. You may be able to talk to prior customers or read reviews to find out what models and features are the most popular.
 
-**The Cost of a Pre-Owned Tiny House**
+## The Cost of a Pre-Owned Tiny House
 
 The price tag for a brand new Tiny House may not be to your liking. And perhaps the DIY building option isn't either. What might fit the bill instead is buying a pre-owned Tiny House. People are selling their pre-owned Tiny Houses on websites such as <https://tinyhouselistings.com/> for anywhere from $1500 to $1.25 million.
 

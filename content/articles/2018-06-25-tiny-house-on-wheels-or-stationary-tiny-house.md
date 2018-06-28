@@ -231,7 +231,7 @@ There are several ways to ground yourself naturally:
 
 To take full advantage of grounding, implement it in your home environment. 
 
-**For a Tiny House on wheels:**
+#### For a Tiny House on wheels:
 
 * Use a grounding mat at your computer desk that plugs into a grounded outlet. This helps protect you from the negative effects of electromagnetic frequencies from your electronics.
 * Use grounding sheets or mats on your bed (they plug into an outlet like the grounding mat). Many people report better sleep with the use of these tools.
