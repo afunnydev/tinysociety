@@ -20,7 +20,7 @@
                 {{ $base := ($.Page.File.LogicalName) }}
                 {{ $anchorId := ($header | plainify | htmlUnescape | anchorize) }}
                 {{ $href := delimit (slice $base $anchorId) "#" | string }}
-                <li><a href="{{ relref $.Page $href }}">
+                <li><a href="#{{ $anchorId }}">
                     {{ $.Scratch.Get "counting" }}. {{ $header | plainify | htmlUnescape }}
                 </a></li>
                 <!-- close list -->

@@ -500,11 +500,15 @@ div.overlayed {
 			}
 		}
 		.table-of-contents {
-			a {
-				color: #9e9487;
-				font-family: $hfont;
+			li {
 				&.active {
-					color: $brown;
+					a {
+						color: $brown;
+					}
+				}
+				a {
+					color: #9e9487;
+					font-family: $hfont;
 				}
 			}
 		}
