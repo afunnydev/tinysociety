@@ -3,7 +3,7 @@
 {{ $mydays := $.Site.Data.jour.jour }}
 {{ $text := split .Content "<!-- split -->" }}
 <div id="article">
-    <div id="Intro" class="parallax {{ if .Params.overlay }}overlayed{{ end }}" style="background-image:url(/xl{{ .Params.image }});" data-enllax-ratio="-0.3">
+    <div id="Intro" class="parallax {{ if .Params.overlay }}overlayed{{ end }}" style="background-image:url(/half{{ .Params.image }});" data-enllax-ratio="-0.3">
         {{ if .Params.overlay }}
         <div class="opacity-medium bg-extra-dark-gray"></div>
         {{ end }}
