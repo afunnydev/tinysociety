@@ -6,7 +6,7 @@ description: >-
   the stability of a stationary tiny house.
 slug: tiny-house-on-wheels-or-stationary-tiny-house
 author: michelleg
-image: /img/tiny-house-9-square.jpg
+image: /img/tiny-house-9.jpg
 overlay: true
 date: '2018-06-19'
 listing:
@@ -15,7 +15,7 @@ listing:
     Whether it is mobility, size or materials, discover the key points to
     consider when you need to decide between the flexibility of a tiny house on
     wheels and the stability of a stationary tiny house.
-  image: /img/tiny-house-9.jpg
+  image: /img/tiny-house-9-square.jpg
 likes: '97'
 categories:
   - Sustainable building and living

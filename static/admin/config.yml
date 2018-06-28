@@ -34,7 +34,7 @@ collections:
           - { label: "Michelle Garofano", value: "michelleg" }
           - { label: "David Morneau", value: "davidm" }
           - { label: "Jubaer Ahmed Prodhan", value: "jubaer" }
-      - {label: "Main image (square - 800px by 800px)", name: "image", widget: "image" , required: false}
+      - {label: "Banner and share image (rectangle - 2700px by 1800px)", name: "image", widget: "image" , required: false}
       - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: false}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - name: listing
@@ -43,7 +43,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Summary", name: "description", widget: "text"}
-          - {label: "Image (rectangle - 2700px by 1800px)", name: "image", widget: "image", required: false}
+          - {label: "Square Image (square - 800px by 800px)", name: "image", widget: "image", required: false}
       - {label: "Likes", name: "likes", widget: "string"}
       - {label: "Categories (separate with commas)", name: "categories", widget: "list", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}

@@ -7,7 +7,7 @@ description: >-
   options for getting a Tiny House of your own.
 slug: how-much-money-do-i-really-need-to-get-a-tiny-house
 author: michelleg
-image: /img/how-much-money-tiny-house-square.jpg
+image: /img/how-much-money-tiny-house-14.jpg
 overlay: true
 date: '2018-06-25'
 listing:
@@ -17,7 +17,7 @@ listing:
     is that a Tiny House carries a tinier price tag than a conventional house.
     But how tiny is that price tag, really? Let’s take a look at the bottom line
     and options for getting a Tiny House of your own.
-  image: /img/how-much-money-tiny-house-14.jpg
+  image: /img/how-much-money-tiny-house-square.jpg
 likes: '28'
 categories:
   - DIY
