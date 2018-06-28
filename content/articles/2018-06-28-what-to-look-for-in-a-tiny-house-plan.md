@@ -277,17 +277,27 @@ The designers at Tiny House Design offer a handful of free Tiny House designs fr
 
 The Classic Archives offers a free set of plans for this 108 square foot cabin with a sleeping loft. Their website is a source of plans for many other types of woodworking projects as well.
 
+![Cottage Wood Cabin](/img/what-to-look-for-tiny-house-plan-31.jpg "Cottage Wood Cabin")
+![Cottage Wood Cabin](/img/what-to-look-for-tiny-house-plan-32.jpg "Cottage Wood Cabin")
+
 Find plans for the Cottage Wood Cabin here: <http://www.theclassicarchives.com/how-to-guides/free-wood-cabin-plans> 
 
 #### 12×24 Homesteader's Cabin v.2
 
 Here's another example of a project by Tiny House Design, better suited for stationary placement on a foundation, given its dimensions. As the design title implies, this is a 12-foot by 24-foot Tiny House. It has 12-foot high walls and a 12/12 roof pitch that allow for highly usable loft space. 
 
+![12×24 Homesteader's Cabin v.2](/img/what-to-look-for-tiny-house-plan-48.jpg "12×24 Homesteader's Cabin v.2")
+![12×24 Homesteader's Cabin v.2](/img/what-to-look-for-tiny-house-plan-55.jpg "12×24 Homesteader's Cabin v.2")
+
 Find plans for the 12×24 Homesteader's Cabin v.2 here:  <https://tinyhousedesign.com/downloads/12x24-Homesteaders-Cabin-v2-.pdf> 
 
 #### Lookout Cabin
 
-Today's Plans provides a free set of plans for its 500 square foot Lookout Cabin, including a main floor, second floor, and balcony. \
+Today's Plans provides a free set of plans for its 500 square foot Lookout Cabin, including a main floor, second floor, and balcony.
+
+![Lookout Cabin](/img/what-to-look-for-tiny-house-plan-33.jpg "Lookout Cabin")
+![Lookout Cabin](/img/what-to-look-for-tiny-house-plan-22.jpg "Lookout Cabin")
+
 Find plans for the Lookout Cabin here: <http://www.todaysplans.com/DO-Lookout-1-Cabin-Plans.pdf> 
 
 ### Websites providing free plans for Tiny Houses on Foundation:
@@ -322,7 +332,7 @@ The Tumbleweed Tiny House Company is one of the well-established players in the 
 
 The Tumbleweed Cypress is a popular design including bay windows and a porch.
 
-![alt_text](/img/what-to-look-for-tiny-house-plan-17.jpg title)
+![Tumbleweed Tiny House Company](/img/what-to-look-for-tiny-house-plan-9.jpg "Tumbleweed Tiny House Company")
 
 [Purchase plans for the Tumbleweed Cypress in 18-foot, 20-foot, or 24-foot options here for $759](https://www.tumbleweedhouses.com/product-tag/cypress/)
 
@@ -330,11 +340,17 @@ The Tumbleweed Cypress is a popular design including bay windows and a porch.
 
 The aforementioned Four Lights Tiny House Company is currently selling their plans through [www.houseplans.com](http://www.houseplans.com). The uncreatively named Plan #896-6 is a classic Jay Shafer design of 290 square feet featuring a loft with a skylight. The design is meant to be built on foundation. The plans are customizable and available as a PDF download.
 
+![PLAN #896-6](/img/what-to-look-for-tiny-house-plan-51.jpg "PLAN #896-6")
+![PLAN #896-6](/img/what-to-look-for-tiny-house-plan-47.jpg "PLAN #896-6")
+
 [Purchase plans for Plan #896-6 here for $699 ](https://www.houseplans.com/plan/290-square-feet-1-bedroom-1-bathroom-0-garage-cottage-38266)
 
 #### Potter Valley 24
 
 For a more budget-friendly set of plans, Tiny House Design offers a good selection of low-cost plan sets in addition to their free options. The Potter Valley 24 is a 169 square foot Tiny House on wheels. It includes a porch, a loft, and clerestory windows. Plan purchase includes a printable PDF download, original SketchUp file, and a materials worksheet list.
+
+![Potter Valley 24](/img/what-to-look-for-tiny-house-plan-21.jpg "Potter Valley 24")
+![Potter Valley 24](/img/what-to-look-for-tiny-house-plan-23.jpg "Potter Valley 24")
 
 [Purchase plans for Potter Valley 24 here for $29](https://tinyhousedesign.com/plans/potter-valley-24/)
 
@@ -344,11 +360,17 @@ While The Small House Catalog no longer seems to be offering free Tiny House pla
 
 The Bohemian Tiny House is an 8-foot by 20-foot Tiny House on wheels with a sleeping loft, a storage loft, and a cathedral ceiling. Plan purchase includes a PDF download. Customizable SketchUp files are available.
 
+![The Bohemian Tiny House](/img/what-to-look-for-tiny-house-plan-43.jpg "The Bohemian Tiny House")
+![The Bohemian Tiny House](/img/what-to-look-for-tiny-house-plan-44.jpg "The Bohemian Tiny House")
+
 [Purchase plans for The Bohemian Tiny House here for $29.99](https://smallhousecatalog.com/plans/no-30-the-bohemian-tiny-house)
 
 #### 28′ hOMe
 
 TinyHouseBuild.com offers the 28' hOMe in various package options including 'just SketchUp,' 'just digital download,' and 'total' packages which include DVD video instruction. The 28' hOMe design is 317 square feet with lofts. It includes full-sized kitchen appliances, tall ceilings, and road-legal dimensions for a 3-axle trailer.
+
+![28′ hOMe](/img/what-to-look-for-tiny-house-plan-26.jpg "28′ hOMe")
+![28′ hOMe](/img/what-to-look-for-tiny-house-plan-30.JPG "28′ hOMe")
 
 [Purchase plans for the 28' hOMe here in options ranging from $99 to $299](https://tinyhousebuild.com/home-plans/?rfsn=1251828.0de4c2) 
 
@@ -356,9 +378,14 @@ TinyHouseBuild.com offers the 28' hOMe in various package options including 'jus
 
 Chris and Malissa Tack offer plans for the 140 square foot, 20-foot long Tiny Tack House that they live in and write about in their popular Tiny House blog. The house is on wheels and sports 11 windows including a skylight, for a naturally light-filled design.
 
+![Tiny Tack House](/img/what-to-look-for-tiny-house-plan-12.jpg "Tiny Tack House")
+![Tiny Tack House](/img/what-to-look-for-tiny-house-plan-13.JPG "Tiny Tack House")
+
 [Purchase plans for the Tiny Tack House here for $175 ](http://chrisandmalissa.com/tiny-tack-house-plans/)
 
 ## How Much Should I Pay for Tiny House Plans?
+
+![Buy Tiny House Plan](/img/what-to-look-for-tiny-house-plan-11.jpg "Buy Tiny House Plan")
 
 The answer to this question is up to personal discernment. If you find a design that you really like, it's up to you to decide whether the price is worth it. If it's not, keep looking until you find something that's in your price range.
 
@@ -366,13 +393,15 @@ The cost of a set of plans is one item in a long list that makes up the total bu
 
 ## Have the Plans Been Used to Construct a Real World Tiny House?
 
-![alt_text](/img/what-to-look-for-tiny-house-plan-17.jpg title)
+![Build Tiny House](/img/what-to-look-for-tiny-house-plan-1.jpg "Build Tiny House")
 
 If the plans have been used to construct an actual Tiny House, this gives the plan set an extra "tried and true" validation. It's not to say that a set of plans that has not been built is no good, but the experimentation and guessing game factors are lessened if it has.
 
 Seeing photographs of the finished house will give you a clearer idea of what the finished product will look like. Plus it helps to be able to read reviews or even contact people who have built or are living in a model you're considering, in order to get feedback on the pros and cons of that design.
 
 ### Structural Drawings
+
+![Tiny House Structural Drawings](/img/what-to-look-for-tiny-house-plan-40.jpg "Tiny House Structural Drawings")
 
 A set of Tiny House construction drawings should include schematic diagrams that show exactly how to frame the walls, floor, and roof.
 
@@ -381,6 +410,8 @@ You'll also want to refer to the included materials list for information about w
 And the instructions should provide information on recommended fasteners and methods.
 
 ### Electrical/Mechanical Drawings
+
+![Tiny House Electricity](/img/what-to-look-for-tiny-house-plan-25.jpg "Tiny House Electricity")
 
 The construction documents should provide schematics for electrical wiring and plumbing components. Depending on your level of skill and experience, you'll want to pay attention to whether the schematics are rough diagrams, or whether they're detailed enough to show you exactly how to assemble the systems. If you're planning on using alternative energy methods, you may need to do research in addition to the standard information provided with the plans. You'll want to educate yourself on how to integrate alternative energy systems with your Tiny Home's inner components. Look for the following items on your electrical plan, and edit it as needed:
 
@@ -420,6 +451,8 @@ Your Tiny House roof drawings should include the following:
 * Any skylights
 
 ### Floor Plans
+
+![Tiny House Floor Plans](/img/tinycabin-plan.jpg "Tiny House Floor Plans")
 
 Reading a set of construction documents does not come naturally to everyone. A floor plan refers to a bird's eye view of the house design. In the case of a main level floor plan, imagine that the house has been cut off at 4'-0" above the floor, and you're looking down at what's left. 
 
@@ -482,6 +515,8 @@ Typical items shown in interior elevations:
 
 ### Rules and Regulations
 
+![Tiny House Regulations](/img/what-to-look-for-tiny-house-plan-19.jpg "Tiny House Regulations")
+
 There are a number of rules and regulations to be considered when choosing a Tiny House design. These will vary widely according to location, but some potential issues to consider include the following:
 
 * Due to zoning, some areas require a permanent residence on foundation to be above a minimum size, which may exceed what is typically considered a "Tiny" House.
@@ -491,7 +526,7 @@ There are a number of rules and regulations to be considered when choosing a Tin
 
 ### Hiring an Architect 
 
-![Tiny House Architect](/img/what-to-look-for-tiny-house-plan-17.jpg "Tiny House Architect")
+![Tiny House Architect](/img/what-to-look-for-tiny-house-plan-16.jpg "Tiny House Architect")
 
 #### Professional Expertise
 
