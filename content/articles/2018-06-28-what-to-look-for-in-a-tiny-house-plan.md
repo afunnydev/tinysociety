@@ -23,7 +23,7 @@ noindex: false
 ---
 ## What to Look for in a Tiny House Plan?
 
-![alt_text](images/what-to0.jpg title)
+![Tiny House Plan](/img/what-to-look-for-tiny-house-plan-41.jpg "Tiny House Plan")
 
 So you're ready to build your Tiny House, or to have someone build it for you. Where to start? As the saying goes, you need a vision before you can create the reality. This is where your Tiny House plan comes in. 
 
@@ -51,7 +51,7 @@ As mentioned above, overnight guests are completely up to your discretion. Many 
 
 ## Mobile or Stationary?
 
-![alt_text](images/what-to1.jpg title)
+![Mobile Tiny House](/img/what-to-look-for-tiny-house-plan-17.jpg "Mobile Tiny House")
 
 The next decision to make with regards to your Tiny House plan is whether to choose a Tiny House on wheels or a Tiny House on foundation. There are many factors to consider in this decision, as detailed in our 'Tiny House on Wheels or Stationary Tiny House' article, but it primarily boils down to whether or not you have long-term access to land and whether or not you want to remain in one place.
 
@@ -347,24 +347,19 @@ Chris and Malissa Tack offer plans for the 140 square foot, 20-foot long Tiny Ta
 
 ## How Much Should I Pay for Tiny House Plans?
 
-
-
 The answer to this question is up to personal discernment. If you find a design that you really like, it's up to you to decide whether the price is worth it. If it's not, keep looking until you find something that's in your price range.
 
 The cost of a set of plans is one item in a long list that makes up the total budget for your Tiny House project. It makes sense to take a look at whether the price tag works with your overall budgeting bottom line. A purchasable set of construction plans should provide information about the estimated construction cost of the entire project. This bottom line number can help you determine whether the cost of the plans fits into your overall budget.
 
 ## Have the Plans Been Used to Construct a Real World Tiny House?
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/what-to19.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 ![alt_text](images/what-to19.jpg title)
 
- \
 If the plans have been used to construct an actual Tiny House, this gives the plan set an extra "tried and true" validation. It's not to say that a set of plans that has not been built is no good, but the experimentation and guessing game factors are lessened if it has.
 
 Seeing photographs of the finished house will give you a clearer idea of what the finished product will look like. Plus it helps to be able to read reviews or even contact people who have built or are living in a model you're considering, in order to get feedback on the pros and cons of that design.
 
-## Structural Drawings  \
+### Structural Drawings
 
 A set of Tiny House construction drawings should include schematic diagrams that show exactly how to frame the walls, floor, and roof.
 
@@ -372,7 +367,7 @@ You'll also want to refer to the included materials list for information about w
 
 And the instructions should provide information on recommended fasteners and methods.
 
-## Electrical/Mechanical Drawings \
+### Electrical/Mechanical Drawings
 
 The construction documents should provide schematics for electrical wiring and plumbing components. Depending on your level of skill and experience, you'll want to pay attention to whether the schematics are rough diagrams, or whether they're detailed enough to show you exactly how to assemble the systems. If you're planning on using alternative energy methods, you may need to do research in addition to the standard information provided with the plans. You'll want to educate yourself on how to integrate alternative energy systems with your Tiny Home's inner components. Look for the following items on your electrical plan, and edit it as needed:
 
@@ -395,9 +390,8 @@ The construction documents should provide schematics for electrical wiring and p
 * Breaker box
 * 30- or 50-amp input
 
-## Roof
+### Roof
 
- \
 A few considerations when choosing a roof shape:
 
 * Shed roofs are the simplest to build, and a good choice for a novice builder.
@@ -412,7 +406,7 @@ Your Tiny House roof drawings should include the following:
 * Roof pitch
 * Any skylights
 
-## Floor Plans
+### Floor Plans
 
 Reading a set of construction documents does not come naturally to everyone. A floor plan refers to a bird's eye view of the house design. In the case of a main level floor plan, imagine that the house has been cut off at 4'-0" above the floor, and you're looking down at what's left. 
 
@@ -458,9 +452,8 @@ Although some of these items are better viewed in the Interior Elevations (see b
 * A deck, porch, or patio (detachable if it's a mobile Tiny House), and/or stairs to access the entry door or porch
 * Detachable awnings or other shelter or protection at entry
 
-## Interior Elevations
+### Interior Elevations
 
- \
 This is where you'll see views of the interior spaces of the Tiny House, including front views of vertical surfaces from the finished floor to the ceiling. Interior elevations enable you to see the heights of elements such windows, which can only be seen cut-through in section in the floor plans.
 
 Typical items shown in interior elevations:
@@ -474,9 +467,8 @@ Typical items shown in interior elevations:
 * Shower head height
 * Vertical location of electrical outlets and switches
 
-## Rules and Regulations
+### Rules and Regulations
 
- \
 There are a number of rules and regulations to be considered when choosing a Tiny House design. These will vary widely according to location, but some potential issues to consider include the following:
 
 * Due to zoning, some areas require a permanent residence on foundation to be above a minimum size, which may exceed what is typically considered a "Tiny" House.
@@ -484,11 +476,9 @@ There are a number of rules and regulations to be considered when choosing a Tin
 * In some places, it's not considered legal to live in an RV full-time.
 * Accessory dwelling units are becoming more acceptable in certain areas, and may be an option for a Tiny House to legally share property with a standard-sized permanent structure.
 
-## Hiring an Architect \
+### Hiring an Architect 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/what-to20.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/what-to20.jpg title)
+![Tiny House Architect](images/what-to20.jpg "Tiny House Architect")
 
 #### Professional Expertise
 
