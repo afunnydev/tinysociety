@@ -3,7 +3,7 @@
 <div class="date_label">
     {{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}
 </div>
-<div class="post-photo-wrapper scale-with-grid"><a href="{{ .Permalink }}" title="{{ .Params.listing.title }}"><img width="767" height="850" src="{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" itemprop="image" /></a>
+<div class="post-photo-wrapper scale-with-grid"><a href="{{ .Permalink }}" title="{{ .Params.listing.title }}"><img src="/quart{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" itemprop="image" /></a>
 </div>
 <div class="post-desc-wrapper">
     <div class="post-desc">
