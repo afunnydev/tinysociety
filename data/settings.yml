@@ -43,5 +43,5 @@ email:
 sitedescription: "Tiny House Society is your ultimate source of information to know anything about tiny homes. From building to legislation, we got you covered."
 sitetitle: "Tiny House Society | Your Only Source For Small Living"
 defaultsocialimage: "/img/tiny-house-logo-white.jpg"
-removefromexternalsearch: true
+removefromexternalsearch: false
 titleautocompletion: false

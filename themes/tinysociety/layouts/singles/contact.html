@@ -43,7 +43,7 @@
                                     <div class="column mcb-column two-third column_column">
                                         <div class="column_attr">
                                             <div id="contactWrapper">
-                                                <form id="contactform" name="form-{{ .Params.identifiant }}" netlify action="/thank-you" method="post">
+                                                <form id="form-contact" name="form-{{ .Params.identifiant }}" netlify action="/thank-you" onsubmit="return check_values()"method="post">
                                                     <div class="column one-second">
                                                         <input placeholder="Your name" type="text" name="name" id="name" size="40" aria-required="true" aria-invalid="false" />
                                                     </div>
@@ -69,7 +69,7 @@
                                                     </div>
                                                     {{ end }}
                                                     <div class="column one">
-                                                        <input type="button" value="Send A Message" id="submit">
+                                                        <input type="submit" value="Send A Message" id="submit">
                                                     </div>
                                                 </form>
                                             </div>
