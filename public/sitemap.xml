@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.tinysociety.co/articles/tiny-house-wheels-or-stationnary/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <loc>https://www.tinysociety.co/articles/what-to-look-for-in-a-tiny-house-plan/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/articles/how-much-money-do-i-really-need-to-get-a-tiny-house/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/articles/what-are-the-challenges-of-living-in-a-tiny-house-with-a-family/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/articles/off-grid-living-in-a-tiny-house/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/articles/tiny-house-on-wheels-or-stationary-tiny-house/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,65 +38,8 @@
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/articles/single2/</loc>
-    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/articles/single1/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.tinysociety.co/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/categories/architecture-and-design/</loc>
-    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/categories/diy/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/categories/energy-efficiency/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/categories/sustainable-building-and-living/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/categories/tiny-houses/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/categories/tiny-cabins/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/about-us/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/contact-us/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/merci/</loc>
   </url>
   
   <url>
@@ -90,11 +58,62 @@
   
   <url>
     <loc>https://www.tinysociety.co/articles/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tinysociety.co/plans/tiny-cabin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/categories/architecture-and-design/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/categories/diy/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/categories/energy-efficiency/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/categories/sustainable-building-and-living/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/categories/tiny-cabins/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/categories/tiny-houses/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/about-us/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/contact-us/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/thank-you/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/write-for-us/</loc>
   </url>
   
 </urlset>
