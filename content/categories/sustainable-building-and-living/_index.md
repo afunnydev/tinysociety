@@ -3,6 +3,9 @@ title: Tiny House Society Blog | Sustainable Building and Living
 description: >-
   Tiny House Society has in its best interests sustainable building and living. If you consider buying or making your own tiny house, make sure to do it sustainably! 
 image: /img/tiny-house-3.jpg
+notloaded:
+  need: true
+  image: /img/tiny-house-3-loader.jpg
 titre: "Living Tiny and Sustainable"
 draft: false
 noindex: false

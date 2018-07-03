@@ -18,6 +18,8 @@ listing:
     comes from purchasing a ready-made Tiny House. In that case, the middle
     route of hiring a Tiny House builder may be for you.
   image: /img/tiny-house-builder-square.jpg
+notloaded:
+  need: true
 likes: '97'
 categories:
   - Sustainable building and living

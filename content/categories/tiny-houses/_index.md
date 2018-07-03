@@ -3,6 +3,9 @@ title: Tiny House Society Blog | Tiny Homes
 description: >-
   Tiny House Society is dedicated to offer the best tiny house content and plans. You might want to build your tiny house or simply know the legislation. We got you covered!
 image: /img/tiny-house-3.jpg
+notloaded:
+  need: true
+  image: /img/tiny-house-3-loader.jpg
 titre: Tiny Houses, Everything There Is To Know
 draft: false
 noindex: false

@@ -9,6 +9,8 @@ slug: contact-us
 layout: contact
 image: /img/tiny-house-lovers-contact.jpg
 menuid: contact
+notloaded:
+  need: true
 subheader:
   need: true
   image: "/img/home_lifestyle_subheader.jpg"

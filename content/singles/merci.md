@@ -5,6 +5,8 @@ description: >-
 slug: thank-you
 layout: merci
 titre: "Thank you for your interest in Tiny Houses"
+notloaded:
+  need: true
 image: /img/tiny-house-lovers-contact.jpg
 noindex: true
 ---

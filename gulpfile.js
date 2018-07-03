@@ -19,6 +19,7 @@ const imagefull = 1920;
 const imagehalf = 1024;
 const imagequart = 600;
 const imagethumb = 80;
+const imageload = 20;
 const jsFiles = [
                   'themes/tinysociety/assets/js/theme/jquery-2.1.4.min.js',
                   'themes/tinysociety/assets/js/theme/mfn.menu.js',
@@ -28,6 +29,7 @@ const jsFiles = [
                   'themes/tinysociety/assets/js/theme/email.js',
                   'themes/tinysociety/assets/js/theme/scripts.js',
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
+                  'themes/tinysociety/assets/js/vendor/lazyload.js',
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
@@ -44,6 +46,7 @@ const jsFilesUI = [
                   'themes/tinysociety/assets/js/theme/email.js',
                   'themes/tinysociety/assets/js/theme/scripts.js',
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
+                  'themes/tinysociety/assets/js/vendor/lazyload.js',
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
@@ -64,7 +67,9 @@ gulp.task("image-resize", () => {
     .pipe(imageresize({ width: imagequart }))
     .pipe(gulp.dest("themes/tinysociety/static/quart/img"))
     .pipe(imageresize({ width: imagethumb }))
-    .pipe(gulp.dest("themes/tinysociety/static/thumb/img"));
+    .pipe(gulp.dest("themes/tinysociety/static/thumb/img"))
+    .pipe(imageresize({ width: imageload }))
+    .pipe(gulp.dest("themes/tinysociety/static/load/img"));
 });
 
 // hugo production call

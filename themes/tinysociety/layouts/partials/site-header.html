@@ -1,4 +1,4 @@
-<div id="Header_wrapper" class="bg-parallax" data-enllax-ratio="0.3" {{ if .Params.subheader.need }}style="background-image: url('/xl{{ .Params.subheader.image }}');"{{ end }}>
+<div id="Header_wrapper">
     <header id="Header">
         <div id="Overlay">
             <nav id="overlay-menu">
@@ -13,7 +13,7 @@
                         <a href='{{ $.Scratch.Get "aboutPage" }}'>About us.</a>
                     </li>
                     <li class="{{ if eq .Params.menuid "write" }}current-menu-item{{ end }}">
-                        <a href='{{ $.Scratch.Get "writePage" }}'>Write with us.</a>
+                        <a href='{{ $.Scratch.Get "writePage" }}'>Write for us.</a>
                     </li>
                     <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "contactPage" }}'>Contact us.</a>

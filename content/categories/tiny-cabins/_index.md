@@ -3,6 +3,9 @@ title: Tiny House Society Blog | Tiny Cabins
 description: >-
   Tiny houses are all the rage nowadays, but tiny cabins are great too! Tiny House Society is dedicated to offer what’s best in the industry in terms of tiny cabins and houses!
 image: /img/tiny-house-3.jpg
+notloaded:
+  need: true
+  image: /img/tiny-house-3-loader.jpg
 titre: "Tiny Secondary Homes, What To Know?"
 draft: false
 noindex: false

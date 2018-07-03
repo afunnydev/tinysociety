@@ -7,6 +7,9 @@ titre: "Tiny House Society | Think Big, Live Tiny"
 subtitle: "It's not just a trend; it's a mindset"
 menuid: home
 draft: false
+notloaded: 
+  need: true
+  image: /img/tiny-house-2-loader.jpg
 section1:
   title: Quote of the week
   description: >-

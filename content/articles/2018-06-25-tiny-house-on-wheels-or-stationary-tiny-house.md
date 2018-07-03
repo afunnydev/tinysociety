@@ -16,6 +16,8 @@ listing:
     consider when you need to decide between the flexibility of a tiny house on
     wheels and the stability of a stationary tiny house.
   image: /img/tiny-house-9-square.jpg
+notloaded:
+  need: true
 likes: '97'
 categories:
   - Sustainable building and living

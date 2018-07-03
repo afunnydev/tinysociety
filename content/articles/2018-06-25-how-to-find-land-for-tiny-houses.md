@@ -14,6 +14,8 @@ listing:
     Discover more details about various options involving buying land, renting
     land, or buying a Tiny House already situated in place.
   image: /img/tiny-house-7-square.jpg
+notloaded:
+  need: true
 likes: '95'
 categories:
   - Tiny houses

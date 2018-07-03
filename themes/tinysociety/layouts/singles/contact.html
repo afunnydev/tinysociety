@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div id="Subheader" style="background-image: url('{{ .Params.image }}');" class="contact">
+<div id="Subheader" style="" class="contact not-loaded" data-large="{{ .Params.image }}">
     <div class="container">
         <div class="column one">
             <h1 class="title">{{ .Params.titre }}</h1>
@@ -43,7 +43,7 @@
                                     <div class="column mcb-column two-third column_column">
                                         <div class="column_attr">
                                             <div id="contactWrapper">
-                                                <form id="contactform">
+                                                <form id="contactform" name="form-{{ .Params.identifiant }}" netlify action="/thank-you" method="post">
                                                     <div class="column one-second">
                                                         <input placeholder="Your name" type="text" name="name" id="name" size="40" aria-required="true" aria-invalid="false" />
                                                     </div>
@@ -69,7 +69,7 @@
                                                     </div>
                                                     {{ end }}
                                                     <div class="column one">
-                                                        <input type="button" value="Send A Message" id="submit" onClick="return check_values();">
+                                                        <input type="button" value="Send A Message" id="submit">
                                                     </div>
                                                 </form>
                                             </div>

@@ -3,6 +3,9 @@ title: Tiny House Society Blog | DIY Tiny Home Articles
 description: >-
   We offer the best information regarding tiny homes. Our articles and plans are easy to understand for DIY constructors.
 image: /img/tiny-house-3.jpg
+notloaded:
+  need: true
+  image: /img/tiny-house-3-loader.jpg
 titre: DIY Tiny Houses Plans
 draft: false
 noindex: false

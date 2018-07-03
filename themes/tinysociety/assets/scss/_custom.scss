@@ -243,17 +243,18 @@ div.overlayed {
 	}
 }
 
-#home-slider {
+.not-loaded {
 	position: relative;
 	#slider-text {
 		position: absolute;
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%,-50%);
+		z-index: 999;
 	}
 }
 .not-loaded {
-	filter: blur(50px);
+	filter: blur(20px);
 	transform: scale(1);
 	-webkit-transition: filter 0.3s linear;
 	-moz-transition: filter 0.3s linear;
@@ -611,9 +612,15 @@ h6.regular-text {
 	font-family: $pfont;
 }
 #Subheader.contact {
-	background-repeat: no-repeat; 
-	background-position: center 77%;
-	padding:230px 0 100px !important;
+	background-repeat: no-repeat;
+	&.not-loaded {
+		background-size: cover;
+		&.loaded {
+			background-position: center 77%;
+			padding:230px 0 100px !important;
+			background-size: initial;
+		}
+	} 
 }
 .contact-separator {
 	width: 110px; 

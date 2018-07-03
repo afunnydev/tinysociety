@@ -3,6 +3,9 @@ title: Tiny House Society Blog | Energy Efficiency
 description: >-
   Tiny House Society is dedicated to offer the best tiny house content on any topic. We hold energy efficiency as a core value.
 image: /img/tiny-house-3.jpg
+notloaded:
+  need: true
+  image: /img/tiny-house-3-loader.jpg
 titre: Energy Efficiency and Living a Tiny House
 draft: false
 noindex: false

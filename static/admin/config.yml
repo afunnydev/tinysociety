@@ -37,6 +37,11 @@ collections:
       - {label: "Banner and share image (rectangle - 2700px by 1800px)", name: "image", widget: "image" , required: false}
       - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: false}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - name: notloaded
+        label: "Loading effect"
+        widget: object
+        fields:
+          - {label: "Do you need it?", name: "need", required: false, default: true}
       - name: listing
         label: "Home page and articles page"
         widget: object

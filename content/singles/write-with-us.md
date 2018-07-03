@@ -1,14 +1,16 @@
 ---
-title: Write with Us | Our Tiny House Blog is Always Looking For Experts
+title: Write for Us | Our Tiny House Blog is Always Looking For Experts
 description: >-
   We are always seeking new people to guest post and contribute to our blog. If you have a kickass idea or an expertise that is worth sharing, drop us a line and we’ll be contacting you shortly!
-titre: Our Tiny House Blog is always looking for experts. Write with us!
-identifiant: write-with-us
+titre: Our Tiny House Blog is always looking for experts. Write for us!
+identifiant: write-for-us
 i18nlanguage: fr
-slug: write-with-us
+slug: write-for-us
 layout: contact
 image: /img/write-for-us.jpg
 menuid: write
+notloaded:
+  need: true
 subheader:
   need: true
   image: "/img/home_lifestyle_subheader.jpg"
@@ -26,7 +28,7 @@ section3:
       id: experience
       description: >-
         You don’t have experience writing articles? That’s fine, we’ll help you get on board with our content experts! But we’ll be honest with you, writing with us takes some work. We want your article to shine and be a real knockout when coming out. Once received, we will get the editorial team to look at it and guide you to make the final touch. 
-    - title: Why write with us?
+    - title: Why write for us?
       id: why
       description: >-
         We think Innovative and bold Tiny House ideas should be highlighted and we want you to get credit for it! That is why we put the name of our content writers on every single article with a link to his/her bio. It is also rewarding! Thousands of people around the community read your content. Builders, architects, and other employers are reading your thoughts on different Tiny living subjects! An excellent opportunity to show what you can bring to the Tiny Community :) 

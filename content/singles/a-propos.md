@@ -5,6 +5,9 @@ description: >-
 titre: "Start with Why - Tiny House Society"
 identifiant: a-propos
 i18nlanguage: fr
+notloaded:
+  need: true
+  image: /img/tiny-house-society-7-loader.jpg
 slug: about-us
 layout: a-propos
 menuid: about

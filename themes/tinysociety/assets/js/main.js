@@ -35,13 +35,6 @@ jQuery( document ).ready(function($) {
         }
       }
     });
-  // Activate the sidebar
-  $('#sidebar').stickySidebar({
-      topSpacing: 40,
-      bottomSpacing: 40,
-      containerSelector: ".article-text",
-      innerWrapperSelector: '.sidebar__inner'
-  });
   // Sidebar link styling
   var tableLinks = $('#sidebar li');
   tableLinks.first().addClass('active');
@@ -97,25 +90,16 @@ jQuery( document ).ready(function($) {
       template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
   });
   userFeed.run();
-  var slider = document.getElementById('home-slider');
-  
-  // 2: load large image
-  var imgLarge = new Image();
-  imgLarge.src = slider.dataset.large; 
-  imgLarge.onload = function () {
-    slider.style.backgroundImage = 'url('+slider.dataset.large+')';
-    slider.classList.add('loaded');
-  };
+  var myLazyLoad = new LazyLoad({
+      elements_selector: "#article #Content .post #content img"
+  });
+  $( window ).load(function() {
+    // Activate the sidebar
+    $('#sidebar').stickySidebar({
+        topSpacing: 40,
+        bottomSpacing: 40,
+        containerSelector: ".article-text",
+        innerWrapperSelector: '.sidebar__inner'
+    });
+  });
 });
-// window.onload = function() {
-  
-//   var slider = document.getElementById('home-slider');
-  
-//   // 2: load large image
-//   var imgLarge = new Image();
-//   imgLarge.src = slider.dataset.large; 
-//   imgLarge.onload = function () {
-//     slider.style.backgroundImage = 'url('+slider.dataset.large+')';
-//     slider.classList.add('loaded');
-//   };
-// }

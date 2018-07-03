@@ -9,7 +9,8 @@
                                 <h4>Other posts that could interest you</h4>
                             </div>
                             <div class="posts_group lm_wrapper col-3 masonry tiles isotope" id="related_posts">
-                                {{ range $i, $e := first 3 (where $.Site.RegularPages "Type" "articles") }}
+                                {{ $slug := .Params.slug }}
+                                {{ range $i, $e := first 3 (where (where $.Site.RegularPages "Type" "articles") ".Params.slug" "!=" $slug) }}
                                 <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles">
                                     {{- partial "site/articles-post.html" . $ -}}
                                 </div>

@@ -16,6 +16,8 @@ listing:
     like when you’re sharing 200 square feet with three or four other people…
     plus maybe a few furry, four-legged family members? 
   image: /img/challenges-living-in-tiny-house-with-family.jpg
+notloaded:
+  need: true
 likes: '104'
 categories:
   - Tiny houses

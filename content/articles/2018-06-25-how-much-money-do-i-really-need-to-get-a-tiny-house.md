@@ -8,6 +8,8 @@ description: >-
 slug: how-much-money-do-i-really-need-to-get-a-tiny-house
 author: michelleg
 image: /img/how-much-money-tiny-house-14.jpg
+notloaded:
+  need: true
 overlay: true
 date: '2018-06-25'
 listing:
