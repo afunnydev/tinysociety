@@ -1,17 +1,21 @@
 ---
 title: What Are the Challenges of Living in a Tiny House with a Family?
 description: >-
-  A Tiny House can feel quite spacious for a single occupant, but what is it like when you’re sharing 200 square feet with three or four other people… plus maybe a few furry, four-legged family members? 
+  A Tiny House can feel quite spacious for a single occupant, but what is it
+  like when you’re sharing 200 square feet with three or four other people… plus
+  maybe a few furry, four-legged family members? 
 slug: what-are-the-challenges-of-living-in-a-tiny-house-with-a-family
 author: michelleg
-image: /img/tiny-house-9.jpg
+image: /img/challenges-living-in-tiny-house-with-family-2.jpg
 overlay: true
 date: '2018-06-23'
 listing:
   title: What Are the Challenges of Living in a Tiny House with a Family?
   description: >-
-    A Tiny House can feel quite spacious for a single occupant, but what is it like when you’re sharing 200 square feet with three or four other people… plus maybe a few furry, four-legged family members? 
-  image: /img/tiny-house-9-square.jpg
+    A Tiny House can feel quite spacious for a single occupant, but what is it
+    like when you’re sharing 200 square feet with three or four other people…
+    plus maybe a few furry, four-legged family members? 
+  image: /img/challenges-living-in-tiny-house-with-family.jpg
 likes: '104'
 categories:
   - Tiny houses
@@ -22,10 +26,7 @@ ordre: '0'
 draft: false
 noindex: false
 ---
-
 ## What Are the Challenges of Living in a Tiny House with a Family?
-
-![alt_text](images/what-are0.jpg "image_tooltip")
 
 A Tiny House can feel quite spacious for a single occupant, but what is it like when you're sharing 200 square feet with three or four other people… plus maybe a few furry, four-legged family members? 
 
@@ -41,15 +42,19 @@ The primary consideration when creating or choosing a Tiny House floor plan for 
 
 #### What to look for in a Tiny House floor plan:
 
-*   Are there adequate spaces in the Tiny House for everyone in the family to sleep? 
-*   What are the relationships of the sleeping spaces to each other? Should they be close together or far apart? How much privacy does each family member need? 
-*   Do certain family members require closer proximity to the bathroom facilities?
-*   Is a loft bed suitable for any family members?  
-*   What about bunk beds? Equipping bunks with a closable curtain across the front is one way to give each child a private space of her own.
+* Are there adequate spaces in the Tiny House for everyone in the family to sleep? 
+* What are the relationships of the sleeping spaces to each other? Should they be close together or far apart? How much privacy does each family member need? 
+* Do certain family members require closer proximity to the bathroom facilities?
+* Is a loft bed suitable for any family members?  
+* What about bunk beds? Equipping bunks with a closable curtain across the front is one way to give each child a private space of her own.
 
 #### Convertible sleeping spaces
 
 Another useful strategy for family Tiny House floor plans is to include convertible sleeping spaces. This allows a nighttime bed to become a daytime sofa. Murphy beds are another convertible option. And hammocks can be a great way to fit in a number of sleeping spaces that can disappear into a closet or a storage ottoman in the daytime.
+
+![Convertible sleeping space](/img/convertible-sleeping-spaces-2.jpg)
+
+Image credit: [HomeKlondike](http://homeklondike.site/2017/05/20/hideaway-foldable-convertible-beds-20-ideas-for-small-spaces/)
 
 #### Considerations around sleeping arrangements
 
@@ -57,7 +62,7 @@ How much space does a person really need? Modern society tends to want to put ea
 
 Speaking of taboos around sleeping arrangements, the couple at the head of the family may have concerns about experiencing intimacy in a space without much sound or space privacy. Some couples address the issue by having regular overnight date nights at local hotels, leaving a babysitter with the kids. Others are simply relaxed about it, and opt for demonstrating a philosophy that this is a normal part of life, not to be hidden or shamed.
 
-### Wardrobe 
+### Wardrobe
 
 Another potential challenge for Tiny House families is clothing storage. Any Tiny House dweller learns to deal with wardrobe limitations. Capsule wardrobes are key. With a number of family members sharing or limited available clothing storage space, it might make sense to keep only the current season clothing on hand. Off-season wardrobes might be stored with a friend or relative.
 
@@ -73,7 +78,7 @@ Image credit: [Mint Tiny Homes](https://www.minttinyhomes.com/tiny-house-gallery
 
 This spacious Tiny House by Mint Tiny Homes is available in lengths up to 34 feet (with the option of a steel frame to lighten the towing load). Its floor plan includes two sleeping lofts plus a downstairs bedroom.
 
-More details on Mint Tiny Homes Loft Edition can be found here: [https://www.minttinyhomes.com/tiny-home-products-loft](https://www.minttinyhomes.com/tiny-home-products-loft) 
+More details on Mint Tiny Homes Loft Edition can be found [here](https://www.minttinyhomes.com/tiny-home-products-loft).
 
 #### The Pemberley 37′ Gooseneck by Rocky Mountain Tiny Houses
 
@@ -81,7 +86,7 @@ Image credit: [Rocky Mountain Tiny Houses](http://rockymountaintinyhouses.com/th
 
 Rocky Mountain Tiny Houses offers a 37-foot gooseneck Tiny House called The Pemberley. It runs 460 square feet including the loft and catwalk. In addition to the bedroom on the gooseneck, there's a master bedroom in the rear of the house and a third bedroom in a loft.
 
-To see more on The Pemberley, visit here: [http://rockymountaintinyhouses.com/the-pemberley-37-gooseneck/](http://rockymountaintinyhouses.com/the-pemberley-37-gooseneck/) 
+To see more on The Pemberley, visit [here](http://rockymountaintinyhouses.com/the-pemberley-37-gooseneck/). 
 
 #### Traveler XL from Escape Traveler
 
@@ -89,7 +94,7 @@ Image credit: [Escape Traveler](http://www.escapetraveler.net/traveler-xl)
 
 The Escape Traveler is 344 square feet and off-grid-ready. It sleeps up to ten people (assuming some of them are little people). A private queen bedroom is on the main level. In addition to sleeping lofts, there's also a fold-down couch in the living room.
 
-To see more details on the Traveler XL, visit here: [http://www.escapetraveler.net/traveler-xl](http://www.escapetraveler.net/traveler-xl) 
+To see more details on the Traveler XL, visit [here](http://www.escapetraveler.net/traveler-xl). 
 
 ## Strategies for Families Living in Tiny Houses
 
@@ -125,7 +130,7 @@ It may be a bit more difficult to create a quiet environment in a Tiny House for
 
 And laundry is something that usually has to be done more frequently, given the smaller loads possible in most Tiny House-sized laundry appliances.
 
-### Children 
+### Children
 
 #### An education in values
 
@@ -139,7 +144,7 @@ Self-tidying is a necessary habit to be learned by all members of a Tiny House f
 
 Living in a Tiny House also teaches environmentalism. Not only does the house itself take up less space and resources on the planet, but its systems use less energy. And a composting toilet is much easier on the planet than a chemical-laden septic or sewer system. It's up to the individual family whether they wish to also incorporate water saving practices.
 
-#### Homeschooling 
+#### Homeschooling
 
 Homeschooling becomes a more viable option with the Tiny lifestyle. The adults potentially have more time available with fewer work hours required to support a mortgage-free lifestyle. And if the Tiny House is located in a homesteading situation, there's a wealth of valuable learning experiences available right on site. In an urban setting, incorporate museum visits and other cultural opportunities into your curriculum.
 
@@ -147,7 +152,7 @@ Homeschooling becomes a more viable option with the Tiny lifestyle. The adults p
 
 There seems to be a misconception that younger kids will dislike being 'cooped up' in a Tiny House. The truth is, kids are enchanted by Tiny Houses. It's almost like living full time in a tree fort or a playhouse. There are even reports from the Tiny House community that kids are more willing to help out with chores in a Tiny House than they were previously in a normal-sized house.
 
-### Teenagers 
+### Teenagers
 
 In a Tiny House, there generally isn't the option of storming off and slamming doors. Tiny House families either are-- or become-- good at interpersonal communication.
 
@@ -159,12 +164,12 @@ Some Tiny House families engage a strategy that involves helping teenagers build
 
 Tiny House considerations for your furry, scaled, or feathered family members:
 
-*   space for pet beds (unless they share yours or are fine on the furniture or the floor)
-*   litter boxes (tip: a litter box in a bathroom cabinet allows you to make use of the bathroom's exhaust fan to mitigate odors)
-*   food and water dishes
-*   pet food and supplies
-*   perhaps a pet door?
-*   pets in Tiny Houses may mean _very_ frequent vacuuming, but they're worth it, arent' they?
+* space for pet beds (unless they share yours or are fine on the furniture or the floor)
+* litter boxes (tip: a litter box in a bathroom cabinet allows you to make use of the bathroom's exhaust fan to mitigate odors)
+* food and water dishes
+* pet food and supplies
+* perhaps a pet door?
+* pets in Tiny Houses may mean _very_ frequent vacuuming, but they're worth it, arent' they?
 
 ## Guests and Entertaining
 
@@ -184,4 +189,4 @@ And all members of the family will share a special pride in a home in which they
 
 ## Family Closeness
 
-It won't always be easy. Especially during a transition period from a standard house to a Tiny House, there are likely to be many collisions of the physical and the emotional sort. But Tiny House families find that a rhythm develops. It's almost a subconscious dance that comes when people live in close quarters with each other, as humans have done for centuries before the invention of the larger-than-we-really-need house. 
+It won't always be easy. Especially during a transition period from a standard house to a Tiny House, there are likely to be many collisions of the physical and the emotional sort. But Tiny House families find that a rhythm develops. It's almost a subconscious dance that comes when people live in close quarters with each other, as humans have done for centuries before the invention of the larger-than-we-really-need house.
