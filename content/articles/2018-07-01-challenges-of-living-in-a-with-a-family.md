@@ -74,25 +74,25 @@ Larger families will likely be more comfortable in Tiny Houses that are toward t
 
 #### Mint Tiny Homes' Loft Edition
 
-Image credit: [Mint Tiny Homes](https://www.minttinyhomes.com/tiny-house-gallery-loft) 
-
 This spacious Tiny House by Mint Tiny Homes is available in lengths up to 34 feet (with the option of a steel frame to lighten the towing load). Its floor plan includes two sleeping lofts plus a downstairs bedroom.
+
+![Mint Tiny Homes Loft Edition](/img/challenges-living-in-tiny-house-with-family-5.jpg)
 
 More details on Mint Tiny Homes Loft Edition can be found [here](https://www.minttinyhomes.com/tiny-home-products-loft).
 
 #### The Pemberley 37′ Gooseneck by Rocky Mountain Tiny Houses
 
-Image credit: [Rocky Mountain Tiny Houses](http://rockymountaintinyhouses.com/the-pemberley-37-gooseneck/) 
-
 Rocky Mountain Tiny Houses offers a 37-foot gooseneck Tiny House called The Pemberley. It runs 460 square feet including the loft and catwalk. In addition to the bedroom on the gooseneck, there's a master bedroom in the rear of the house and a third bedroom in a loft.
+
+![The Pemberley](/img/challenges-living-in-tiny-house-with-family-4.jpg)
 
 To see more on The Pemberley, visit [here](http://rockymountaintinyhouses.com/the-pemberley-37-gooseneck/). 
 
 #### Traveler XL from Escape Traveler
 
-Image credit: [Escape Traveler](http://www.escapetraveler.net/traveler-xl) 
-
 The Escape Traveler is 344 square feet and off-grid-ready. It sleeps up to ten people (assuming some of them are little people). A private queen bedroom is on the main level. In addition to sleeping lofts, there's also a fold-down couch in the living room.
+
+![Traveler XL](/img/challenges-living-in-tiny-house-with-family-3.jpg)
 
 To see more details on the Traveler XL, visit [here](http://www.escapetraveler.net/traveler-xl). 
 
