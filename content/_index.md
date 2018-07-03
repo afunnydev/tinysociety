@@ -39,7 +39,7 @@ section4:
   col2:
     title: Authors
   col3:
-    title: Write with us
+    title: Write for us
     description1: >-
       **Yes, you can! We’re always looking for some passionate people that want to share their stories and experiences. If you’ve got an idea that can bring more to the Tiny House community, we want to hear about it!  But that idea doesn’t need to redefine the whole Tiny House world! Just some fresh new tips and tricks or fresh story about your personal experience.**
     description2: >-
