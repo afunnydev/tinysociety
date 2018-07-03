@@ -10,4 +10,4 @@ notloaded:
 image: /img/tiny-house-lovers-contact.jpg
 noindex: true
 ---
-#### We'll get in touch soon! While we're at it, discover our [lastest advices to help you optimize your Tiny House](/articles), or some of our most awesome [Tiny Houses Plans](/tiny-houses-plans).
+#### We'll get in touch soon! While we're at it, discover our [lastest advices to help you optimize your Tiny House](/articles).
