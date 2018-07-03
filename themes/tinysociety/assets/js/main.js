@@ -85,8 +85,6 @@ jQuery( document ).ready(function($) {
        }                   
     });
   }
-});
-jQuery( document ).load(function($) {
   var userFeed = new Instafeed({
       get: 'user',
       userId: '7328857212',
@@ -99,4 +97,25 @@ jQuery( document ).load(function($) {
       template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
   });
   userFeed.run();
-}) 
+  var slider = document.getElementById('home-slider');
+  
+  // 2: load large image
+  var imgLarge = new Image();
+  imgLarge.src = slider.dataset.large; 
+  imgLarge.onload = function () {
+    slider.style.backgroundImage = 'url('+slider.dataset.large+')';
+    slider.classList.add('loaded');
+  };
+});
+// window.onload = function() {
+  
+//   var slider = document.getElementById('home-slider');
+  
+//   // 2: load large image
+//   var imgLarge = new Image();
+//   imgLarge.src = slider.dataset.large; 
+//   imgLarge.onload = function () {
+//     slider.style.backgroundImage = 'url('+slider.dataset.large+')';
+//     slider.classList.add('loaded');
+//   };
+// }

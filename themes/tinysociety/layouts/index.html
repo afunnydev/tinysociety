@@ -2,11 +2,11 @@
 <div class="content_wrapper clearfix">
     <div class="sections_group">
         <div class="entry-content">
-            <div id="home-slider" class="section mcb-section dark has-navi" style="padding-top:270px; padding-bottom:230px; background-color:#b0b3b5; background-image:url({{ .Params.image }}); background-repeat:no-repeat; background-position:center center; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3">
+            <div id="home-slider" class="section mcb-section dark has-navi not-loaded" style="min-height: 650px; background-color:#fff; background-repeat:no-repeat; background-position:center center; background-attachment:fixed; background-size:cover; -webkit-background-size:cover;" data-enllax-ratio="-0.3" data-large="{{ .Params.image }}">
                 <div class="section-nav next">
                     <i class="icon-down-open-big"></i>
                 </div>
-                <div class="section_wrapper mcb-section-inner">
+                <div class="section_wrapper mcb-section-inner" id="slider-text">
                     <div class="wrap mcb-wrap one  valign-top clearfix">
                         <div class="mcb-wrap-inner">
                             <div class="column mcb-column one column_image ">
@@ -29,7 +29,7 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
-                                            {{ range $i, $e := (where $.Site.RegularPages "Type" "articles") }}
+                                            {{ range $i, $e := (first 4 (where $.Site.RegularPages "Type" "articles")) }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles">
                                                 {{- partial "site/articles-post.html" . $ -}}
                                             </div>

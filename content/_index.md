@@ -8,10 +8,10 @@ subtitle: "It's not just a trend; it's a mindset"
 menuid: home
 draft: false
 section1:
-  title: Story of the week
+  title: Quote of the week
   description: >-
-    Phasellus fringilla nisl in sem scelerisque, a vestibulum mi elementum. Aenean. Nam vestibulum elit vel felis porta posuere. Nullam luctus rhoncus ligula a scelerisque. Vestibulum suscipit pulvinar.
-  author: Marcus Ettemus
+    Own less stuff. Enjoy more freedom. It really is that simple.
+  author: Joshua Becker
   overlay: true
   image: "/img/tiny-house-4.jpg"
 section2:
@@ -23,8 +23,8 @@ section3:
     - title: Architecture and design
       category: Architecture and design
       class: "category-places"
-    - title: Energy Efficiency
-      category: Energy efficiency
+    - title: DIY
+      category: DIY
       class: "category-stories"
 section4:
   col1:
