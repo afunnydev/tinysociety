@@ -43,7 +43,7 @@
                                     <div class="column mcb-column two-third column_column">
                                         <div class="column_attr">
                                             <div id="contactWrapper">
-                                                <form id="form-contact" name="form-{{ .Params.identifiant }}" action="/thank-you" onsubmit="return check_values()" method="POST">
+                                                <form id="form-contact" name="form-{{ .Params.identifiant }}-live" action="/thank-you" onsubmit="return check_values()" method="POST" netlify>
                                                     <p class="hidden">
                                                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                                                     </p>
