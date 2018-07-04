@@ -23,7 +23,7 @@ listing:
 likes: '28'
 categories:
   - DIY
-  - Tiny Houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'

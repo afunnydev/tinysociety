@@ -23,7 +23,7 @@ categories:
   - Sustainable building and living
   - Energy efficiency
   - DIY
-  - Tiny Houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
