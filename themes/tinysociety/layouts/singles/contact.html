@@ -44,7 +44,7 @@
                                         <div class="column_attr">
                                             <div id="contactWrapper">
                                                 <form id="form-contact" name="form-{{ .Params.identifiant }}-live" action="/thank-you" onsubmit="return check_values()" method="POST" netlify>
-                                                    <p class="hidden">
+                                                    <p style="display: none !important;">
                                                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                                                     </p>
                                                     <div class="column one-second">
@@ -71,7 +71,7 @@
                                                         <textarea placeholder="Message" name="body" id="body" style="width:100%;" rows="10" aria-invalid="false"></textarea>
                                                     </div>
                                                     {{ end }}
-                                                    <div data-netlify-recaptcha></div>
+                                                    <div class="column one" data-netlify-recaptcha></div>
                                                     <div class="column one">
                                                         <input type="submit" value="Send A Message" id="submit">
                                                     </div>
