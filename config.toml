@@ -1,6 +1,6 @@
 baseURL = "https://www.tinysociety.co/"
 DefaultContentLanguage = "en"
-title = ""
+title = "Tiny House Society"
 theme = "tinysociety"
 description = ""
 
@@ -24,15 +24,15 @@ defaultContentLanguageInSubdir = false
   ## Include google maps, with API Key
   googleapikey = ""
   ## This is used when the BaseURL does not need to modified (eg, in share links)
-  siteaddress = "/"
-  siteaddressno = ""
+  siteaddress = "https://www.tinysociety.co/"
+  siteaddressno = "https://www.tinysociety.co"
   ## FB share info
-  fbpagename = ""
-  fbappid = ""
+  fbpagename = "tinyhouseloversofficial"
+  fbappid = "236775637052135"
   ## Business name in Schema.org
-  schemabiz = ""
+  schemabiz = "Tiny House Society"
   ## Google Tag Manager tracking ID
-  gtmid = ""
+  gtmid = "GTM-M53C3ZX"
 
 # MARKDOWN
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
