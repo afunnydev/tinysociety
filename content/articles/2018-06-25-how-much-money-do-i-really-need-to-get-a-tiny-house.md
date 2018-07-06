@@ -1,19 +1,19 @@
 ---
-title: How Much Money Do I Really Need to Get a Tiny House?
+title: How Much Does a Tiny House Cost?
 description: >-
   One of the reasons that the Tiny lifestyle is attractive to so many people is
   that a Tiny House carries a tinier price tag than a conventional house. But
   how tiny is that price tag, really? Let’s take a look at the bottom line and
   options for getting a Tiny House of your own.
-slug: how-much-money-do-i-really-need-to-get-a-tiny-house
+slug: how-much-money-does-a-tiny-house-cost
 author: michelleg
 image: /img/how-much-money-tiny-house-14.jpg
-notloaded:
-  need: true
 overlay: true
 date: '2018-06-25'
+notloaded:
+  need: true
 listing:
-  title: How Much Money Do I Really Need to Get a Tiny House?
+  title: How Much Does a Tiny House Cost?
   description: >-
     One of the reasons that the Tiny lifestyle is attractive to so many people
     is that a Tiny House carries a tinier price tag than a conventional house.
@@ -30,7 +30,7 @@ ordre: '0'
 draft: false
 noindex: false
 ---
-## How Much Money Do I Really Need to Get a Tiny House?
+## How Much Does a Tiny House Cost?
 
 One of the reasons that the Tiny lifestyle is attractive to so many people is that a Tiny House carries a tinier price tag than a conventional house. But how tiny is that price tag, really? Let's take a look at the bottom line and options for getting a Tiny House of your own. Before we get into numbers, note that all figures quoted are in US Dollars. 
 
