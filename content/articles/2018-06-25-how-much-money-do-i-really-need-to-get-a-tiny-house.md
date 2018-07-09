@@ -1,10 +1,11 @@
 ---
 title: How Much Does a Tiny House Cost?
 description: >-
-  One of the reasons that the Tiny lifestyle is attractive to so many people is
-  that a Tiny House carries a tinier price tag than a conventional house. But
-  how tiny is that price tag, really? Let’s take a look at the bottom line and
-  options for getting a Tiny House of your own.
+  Onhttps://www.tinysociety.co/admin/#/collections/articlese of the reasons that
+  the Tiny lifestyle is attractive to so many people is that a Tiny House
+  carries a tinier price tag than a conventional house. But how tiny is that
+  price tag, really? Let’s take a look at the bottom line and options for
+  getting a Tiny House of your own.
 slug: how-much-money-does-a-tiny-house-cost
 author: michelleg
 image: /img/how-much-money-tiny-house-14.jpg
@@ -91,8 +92,6 @@ The following list is a sample of what a typical Tiny House might involve.
   * Craigslist is also still a viable resource for finding hired help and budget—or free-- materials.
 * **Find out if your area has a tool library**. 
   There's usually a nominal membership fee, but the ability to borrow many or all of the tools you need to do the job can greatly reduce your expenses.
-
-<iframe src="https://giphy.com/embed/KaZJMA15qOPiE" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dot-marie-jones-coach-beiste-glee-rph-KaZJMA15qOPiE">via GIPHY</a></p>
 
 ![null](/img/man-i-love-welding.gif)
 
