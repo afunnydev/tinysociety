@@ -92,6 +92,8 @@ The following list is a sample of what a typical Tiny House might involve.
 * **Find out if your area has a tool library**. 
   There's usually a nominal membership fee, but the ability to borrow many or all of the tools you need to do the job can greatly reduce your expenses.
 
+<iframe src="https://giphy.com/embed/KaZJMA15qOPiE" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dot-marie-jones-coach-beiste-glee-rph-KaZJMA15qOPiE">via GIPHY</a></p>
+
 ![null](/img/man-i-love-welding.gif)
 
 * **Purchasing a set of Tiny House plans** is less expensive than hiring an architect (you can purchase [your tiny home plans right here](https://tinysociety.co/tiny-house-plans)). And using free Sketchup software to create your own set of building plans will save you even more.
