@@ -5,6 +5,7 @@ description: >-
   movement is growing and we see it going strong!
 slug: tiny-house-statistics
 author: davidm
+image: /img/tinyhousestatistics.jpg
 overlay: false
 date: '2018-07-10'
 notloaded:
@@ -12,6 +13,7 @@ notloaded:
 listing:
   title: Tiny House Statistics
   description: Infographic gathering the current tiny house statistics.
+  image: /img/tinyhousestatistics2.jpg
 likes: '23'
 i18nlanguage: en
 menuid: articles
