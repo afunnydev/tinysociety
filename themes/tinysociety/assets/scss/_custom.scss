@@ -145,8 +145,18 @@ div.social-icons {
 	margin-right: 5px;
 	color: $gray;
 }
-#Footer a {
-	color: $gray;
+#Footer {
+	a {
+		color: $gray;
+	}
+	.one-fourth {
+		&.footer-recents {
+			margin-left: -60px;
+		}
+		&.second-recents {
+			margin-right: 59px;
+		}
+	}
 }
 #Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c, #Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {
 	background-color: $brown;
@@ -698,6 +708,18 @@ h6.regular-text {
 			}
 		}
 	}
+	#Footer {
+		.one-fourth {
+			&.footer-recents {
+				margin-left: 0px;
+				// width: 46% !important;
+			}
+			&.second-recents {
+				margin-right: 0px;
+				// display: none !important;
+			}
+		}
+	}
 }
 
 @media only screen and (max-width: 767px) {
@@ -778,6 +800,9 @@ h6.regular-text {
 				#content {
 					ul {
 						font-size: inherit;
+						li {
+							padding: 5px 0 5px 0
+						}
 					}
 					img {
 						margin: 20px auto 30px;
@@ -935,6 +960,18 @@ h6.regular-text {
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	#hot-articles .post-item {
 		width: 49.99%;
+	}
+	#Footer {
+		.one-fourth {
+			&.footer-recents {
+				// margin-left: 0px;
+				// width: 46% !important;
+			}
+			&.second-recents {
+				// margin-right: 0px;
+				// display: none !important;
+			}
+		}
 	}
 }
 @media only screen and (min-width: 960px) and (max-width: 1239px) {

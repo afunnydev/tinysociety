@@ -27,9 +27,9 @@
                     </div>
                 </aside>
             </div>
-            <div class="column one-fourth">
+            <div class="column one-fourth footer-recents">
                 <aside class="widget widget_mfn_recent_posts">
-                    <h4>Recent posts</h4>
+                    <h4>Recent Posts</h4>
                     <div class="Recent_posts">
                         <ul>
                             {{ range $i, $e := first 2 (where $.Site.RegularPages "Type" "articles") }}
@@ -47,9 +47,9 @@
                     </div>
                 </aside>
             </div>
-            <div class="column one-fourth">
+            <div class="column one-fourth second-recents">
                 <aside class="widget widget_mfn_recent_posts">
-                    <h4 style="visibility: hidden;" class="hidden-xs">Recent posts</h4>
+                    <h4 style="visibility: hidden;" class="hidden-xs">Recent Posts</h4>
                     <div class="Recent_posts">
                         <ul>
                             {{ range $i, $e := first 2 (after 2 (where $.Site.RegularPages "Type" "articles")) }}
@@ -69,7 +69,7 @@
             </div>
             <div class="column one-fourth hidden-xs">
                 <aside class="widget widget_tag_cloud">
-                    <h4>Follow Us</h4>
+                    <h4>Follow Us On Instagram</h4>
                     <div id="instafeed"></div>
                 </aside>
             </div>
