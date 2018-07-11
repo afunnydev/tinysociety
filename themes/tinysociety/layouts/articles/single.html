@@ -38,9 +38,16 @@
                 <div class="post format-standard has-post-thumbnail category-hot-articles">
                     <div class="post-wrapper-content">
                         <div class="section mcb-section article-text" style="padding-top:50px;padding-bottom:0px; ">
-                            <div class="section_wrapper mcb-section-inner">
+                            <div class="section_wrapper mcb-section-inner{{ if .Params.infographic }} infographic{{ end }}">
                                 <div class="wrap mcb-wrap one  valign-top clearfix">
                                     <div class="mcb-wrap-inner">
+                                        {{ if .Params.infographic }}
+                                        <div class="column mcb-column one column_column content" id="content">
+                                            <div class="column_attr">
+                                                {{ .Content | markdownify }}
+                                            </div>
+                                        </div>
+                                        {{ else }}
                                         <div id="sidebar" class="column mcb-column one-third column_placeholder sidebar">
                                             <div class="table-of-contents sidebar__inner">
                                                 <!-- {{ .TableOfContents }} -->
@@ -53,14 +60,20 @@
                                             </div>
                                             <!-- {{- partial "site/post-author.html" . -}} -->
                                         </div>
+                                        {{ end }}
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="section mcb-section" style="">
-                            <div class="section_wrapper mcb-section-inner">
+                            <div class="section_wrapper mcb-section-inner{{ if .Params.infographic }} infographic{{ end }}">
                                 <div class="wrap mcb-wrap one  valign-top clearfix">
                                     <div class="mcb-wrap-inner">
+                                        {{ if .Params.infographic }}
+                                        <div class="column mcb-column one column_column content">
+                                            {{- partial "site/related-posts.html" . -}}
+                                        </div>
+                                        {{ else }}
                                         <div id="" class="column mcb-column one-third column_placeholder">
                                             <div class="placeholder">
                                                 &nbsp;
@@ -69,6 +82,7 @@
                                         <div class="column mcb-column two-third column_column content">
                                             {{- partial "site/related-posts.html" . -}}
                                         </div>
+                                        {{ end }}
                                     </div>
                                 </div>
                             </div>

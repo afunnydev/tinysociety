@@ -6,7 +6,7 @@ description: >-
 slug: tiny-house-statistics
 author: davidm
 image: /img/tinyhousestatistics.jpg
-overlay: false
+overlay: true
 date: '2018-07-10'
 notloaded:
   need: 'Yes'
@@ -16,13 +16,19 @@ listing:
   image: /img/tinyhousestatistics2.jpg
 likes: '23'
 i18nlanguage: en
+categories:
+  - DIY
+  - Tiny houses
 menuid: articles
 ordre: 0
 draft: false
 noindex: false
+infographic: true
 ---
 ## A little about this big tiny life infographic
 
 Here are some stats gathered by our experts. We gathered the data through various sources. We found the average price of a tiny home by collecting all listings from top tiny house listing sources and calculating the average. It is stunning to see the tiny house movement by the numbers.
 
-<iframe width="800" height="5512" frameborder="0" scrolling="no" style="overflow-y:hidden;" src="https://create.piktochart.com/embed/31093409-new-piktochart" ></iframe>
+<div class="iframe-container" style="padding-top: 685%">
+    <iframe frameborder="0" scrolling="no" src="https://create.piktochart.com/embed/31093409-new-piktochart" allowfullscreen></iframe>
+</div>

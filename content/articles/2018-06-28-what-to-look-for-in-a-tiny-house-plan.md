@@ -65,7 +65,7 @@ A stationary Tiny House grants you more freedom in the shape and size of your fl
 
 ## Loft or Single-Level?
 
-![Tiny House Stairs](/img/what-to-look-for-tiny-house-plan-8.jpg title)
+![Tiny House Stairs](/img/what-to-look-for-tiny-house-plan-8.jpg)
 
 This is an important consideration that will narrow down your selection of Tiny House plans or design options. If you feel comfortable with stairs or ladders, a loft (or two) can significantly add to your available space. If not, you can limit your choices to among the single-story options.
 
@@ -79,55 +79,55 @@ Here are a few examples showing the range of possibilities:
 
 ### Modern Tiny House
 
-![Modern Tiny House](/img/what-to-look-for-tiny-house-plan-3.jpg title)
+![Modern Tiny House](/img/what-to-look-for-tiny-house-plan-3.jpg)
 
 ### Tumbleweed Tiny House
 
-![Tumbleweed Tiny House](/img/what-to-look-for-tiny-house-plan-7.JPG title)
+![Tumbleweed Tiny House](/img/what-to-look-for-tiny-house-plan-7.JPG)
 
 ### Concrete Tiny House
 
-![Concrete Tiny House](/img/what-to-look-for-tiny-house-plan-49.jpg title)
+![Concrete Tiny House](/img/what-to-look-for-tiny-house-plan-49.jpg)
 
 ### Metal Clad Tiny House
 
-![Metal Clad Tiny House](/img/what-to-look-for-tiny-house-plan-52.jpeg title)
+![Metal Clad Tiny House](/img/what-to-look-for-tiny-house-plan-52.jpeg)
 
 ### Gooseneck Tiny House
 
-![Gooseneck Tiny House](/img/what-to-look-for-tiny-house-plan-29.jpg title)
+![Gooseneck Tiny House](/img/what-to-look-for-tiny-house-plan-29.jpg)
 
 ### Luxury Tiny House
 
-![Luxury Tiny House](/img/what-to-look-for-tiny-house-plan-20.jpg title)
+![Luxury Tiny House](/img/what-to-look-for-tiny-house-plan-20.jpg)
 
 ### Tiny House Cabin
 
-![Tiny House Cabin](/img/what-to-look-for-tiny-house-plan-4.jpg title)
+![Tiny House Cabin](/img/what-to-look-for-tiny-house-plan-4.jpg)
 
 ### Tiny House Shed
 
-![Tiny House Shed](/img/what-to-look-for-tiny-house-plan-14.jpg title)
+![Tiny House Shed](/img/what-to-look-for-tiny-house-plan-14.jpg)
 
 ### Tiny House A-Frame
 
-![Tiny House A-Frame](/img/what-to-look-for-tiny-house-plan-45.jpeg title)
+![Tiny House A-Frame](/img/what-to-look-for-tiny-house-plan-45.jpeg)
 
 ### Round Tiny House
 
-![Round Tiny House](/img/what-to-look-for-tiny-house-plan-5.jpg title)
+![Round Tiny House](/img/what-to-look-for-tiny-house-plan-5.jpg)
 
 ### Tiny House Tower
 
-![Tiny House Tower](/img/what-to-look-for-tiny-house-plan-2.jpg title)
+![Tiny House Tower](/img/what-to-look-for-tiny-house-plan-2.jpg)
 
 ### Tiny Tree House
 
-![Tiny Tree House](/img/what-to-look-for-tiny-house-plan-46.jpg title)
+![Tiny Tree House](/img/what-to-look-for-tiny-house-plan-46.jpg)
 
 ### Micro Tiny House
 
-![Micro Tiny House](/img/what-to-look-for-tiny-house-plan-28.jpg title)
+![Micro Tiny House](/img/what-to-look-for-tiny-house-plan-28.jpg)
 
 ## Tiny House Plans Checklist
 
@@ -185,7 +185,7 @@ Here are a few examples showing the range of possibilities:
 
 ## DIY Tiny House plans
 
-![DIY Tiny House Plans](/img/what-to-look-for-tiny-house-plan-37.jpg title)
+![DIY Tiny House Plans](/img/what-to-look-for-tiny-house-plan-37.jpg)
 
 If you are on a very tight budget and have a lot of time to spare,  you can design your set  of Tiny House plans yourself. If you have construction knowledge or are willing to acquire it through research, this is completely doable. The idea of designing can seem daunting. If you need a confidence boost, check out the book <span style="text-decoration:underline;">Buildings without Architects: A Global Guide to Everyday Architecture </span>by John May. It's a delightful collection of vernacular architecture examples. And it demonstrates that humans have been building and planning their own homes since well before the first architect grabbed a T-square.
 
@@ -211,7 +211,7 @@ This frees you from thinking you need to provide separate enclosed rooms for eac
 
 #### Relational Dynamics
 
-![Relation in Tiny House](/img/what-to-look-for-tiny-house-plan-24.jpg title)
+![Relation in Tiny House](/img/what-to-look-for-tiny-house-plan-24.jpg)
 
 Next, qualify the relationships between the elements. Bubble diagrams are a great place to start, if you're into loose brainstorming sessions to get your creativity flowing. This can help you get an idea of where different house functions are located in relationship to others.
 
@@ -225,7 +225,7 @@ Some people are more linear and prefer to start with a rectangle that represents
 
 #### Structural Design
 
-![Tiny House Structural Design](/img/what-to-look-for-tiny-house-plan-6.jpg title)
+![Tiny House Structural Design](/img/what-to-look-for-tiny-house-plan-6.jpg)
 
 Once you have your plan layout, you can start dealing with the structural aspects. If this is an area that you don't have knowledge or experience in, you have a few options:
 
@@ -272,7 +272,7 @@ Ana White is an inspirational self-taught Alaskan mom with some great design ide
 
 The designers at Tiny House Design offer a handful of free Tiny House designs from 8-feet long to 24-feet long. Some of their designs, such as this 8x16 Tiny Solar House, can be built either as a Tiny House on wheels, or as a stationary Tiny House on a foundation.
 
-![8×16 Tiny Solar House v.2](/img/what-to-look-for-tiny-house-plan-54.JPG title)
+![8×16 Tiny Solar House v.2](/img/what-to-look-for-tiny-house-plan-54.JPG)
 
 [Find the plans for the 8x16 Tiny Solar House v.2 here](https://tinyhousedesign.com/downloads/8x16-tiny-solar-house-plans-v2-.pdf)
 
@@ -342,7 +342,7 @@ The Tumbleweed Tiny House Company is one of the well-established players in the 
 
 The Tumbleweed Cypress is a popular design including bay windows and a porch.
 
-![Tumbleweed Tiny House Company](/img/what-to-look-for-tiny-house-plan-9.jpg title)
+![Tumbleweed Tiny House Company](/img/what-to-look-for-tiny-house-plan-9.jpg)
 
 [Purchase plans for the Tumbleweed Cypress in 18-foot, 20-foot, or 24-foot options here for $759](https://www.tumbleweedhouses.com/product-tag/cypress/)
 
@@ -401,7 +401,7 @@ The cost of a set of plans is one item in a long list that makes up the total bu
 
 ## Have the Plans Been Used to Construct a Real World Tiny House?
 
-![Build Tiny House](/img/what-to-look-for-tiny-house-plan-1.jpg title)
+![Build Tiny House](/img/what-to-look-for-tiny-house-plan-1.jpg)
 
 If the plans have been used to construct an actual Tiny House, this gives the plan set an extra "tried and true" validation. It's not to say that a set of plans that has not been built is no good, but the experimentation and guessing game factors are lessened if it has.
 
@@ -409,7 +409,7 @@ Seeing photographs of the finished house will give you a clearer idea of what th
 
 ### Structural Drawings
 
-![Tiny House Structural Drawings](/img/what-to-look-for-tiny-house-plan-40.jpg title)
+![Tiny House Structural Drawings](/img/what-to-look-for-tiny-house-plan-40.jpg)
 
 A set of Tiny House construction drawings should include schematic diagrams that show exactly how to frame the walls, floor, and roof.
 
@@ -419,7 +419,7 @@ And the instructions should provide information on recommended fasteners and met
 
 ### Electrical/Mechanical Drawings
 
-![Tiny House Electricity](/img/what-to-look-for-tiny-house-plan-25.jpg title)
+![Tiny House Electricity](/img/what-to-look-for-tiny-house-plan-25.jpg)
 
 The construction documents should provide schematics for electrical wiring and plumbing components. Depending on your level of skill and experience, you'll want to pay attention to whether the schematics are rough diagrams, or whether they're detailed enough to show you exactly how to assemble the systems. If you're planning on using alternative energy methods, you may need to do research in addition to the standard information provided with the plans. You'll want to educate yourself on how to integrate alternative energy systems with your Tiny Home's inner components. Look for the following items on your electrical plan, and edit it as needed:
 
@@ -459,7 +459,7 @@ Your Tiny House roof drawings should include the following:
 
 ### Floor Plans
 
-![Tiny House Floor Plans](/img/tinycabin-plan.jpg title)
+![Tiny House Floor Plans](/img/tinycabin-plan.jpg)
 
 Reading a set of construction documents does not come naturally to everyone. A floor plan refers to a bird's eye view of the house design. In the case of a main level floor plan, imagine that the house has been cut off at 4'-0" above the floor, and you're looking down at what's left. 
 
@@ -522,7 +522,7 @@ Typical items shown in interior elevations:
 
 ### Rules and Regulations
 
-![Tiny House Regulations](/img/what-to-look-for-tiny-house-plan-19.jpg title)
+![Tiny House Regulations](/img/what-to-look-for-tiny-house-plan-19.jpg)
 
 There are a number of rules and regulations to be considered when choosing a Tiny House design. These will vary widely according to location, but some potential issues to consider include the following:
 
@@ -533,7 +533,7 @@ There are a number of rules and regulations to be considered when choosing a Tin
 
 ### Hiring an Architect
 
-![Tiny House Architect](/img/what-to-look-for-tiny-house-plan-16.jpg title)
+![Tiny House Architect](/img/what-to-look-for-tiny-house-plan-16.jpg)
 
 #### Professional Expertise
 

@@ -55,9 +55,13 @@ const jsDest = 'themes/tinysociety/static/js';
  
 // resize and optimize images
 gulp.task("image-resize", () => {
-  return gulp.src("themes/tinysociety/source-images/*.{jpg,png,jpeg,JPG}")
+  return gulp.src("themes/tinysociety/source-images/*.{jpg,png,jpeg,JPG,gif}")
     .pipe(newer("themes/tinysociety/static/img"))
-    .pipe(imagemin())
+    .pipe(imagemin([
+        imagemin.gifsicle({interlaced: true}),
+        imagemin.jpegtran({progressive: true}),
+        imagemin.optipng({optimizationLevel: 5})
+      ]))
     .pipe(imageresize({ width: imagexl}))
     .pipe(gulp.dest("themes/tinysociety/static/xl/img"))
     .pipe(imageresize({ width: imagefull }))
@@ -113,11 +117,11 @@ gulp.task('scripts', ['scripts-normal', 'scripts-ui']);
 // watching
 gulp.task("watch", function() {
 
-  browserSync.init({
-      proxy: "http://localhost:1313/"
-  });
+  // browserSync.init({
+  //     proxy: "http://localhost:1313/"
+  // });
 
-  gulp.watch('themes/tinysociety/source-images/*.{jpg,png,jpeg,gif}', ['image-resize'] );
+  gulp.watch('themes/tinysociety/source-images/*.{jpg,png,jpeg,JPG,gif}', ['image-resize'] );
   gulp.watch('themes/tinysociety/assets/scss/**/*.scss', ['sass']);
   gulp.watch('themes/tinysociety/assets/js/**/*.js', ['scripts']);
 });
