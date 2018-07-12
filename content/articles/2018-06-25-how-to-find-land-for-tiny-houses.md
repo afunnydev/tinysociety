@@ -382,8 +382,6 @@ Now that you have a better idea of what you want in a piece of property, how to 
 * A real estate agent should have good knowledge of the local zoning, and be able to advise you on what options you have for a Tiny House.
 * You’ll want to work with an agent who specializes in land purchases, unless you’re interested in purchasing property with a conventional house already on it.
 
-![null](/img/find-land-for-a-tiny-house-10.jpg)
-
 **Online resources.** Alternative routes to working with a realtor include online resources such as:
 
 * <https://www.zillow.com/> 
@@ -399,12 +397,11 @@ Now that you have a better idea of what you want in a piece of property, how to 
 
 **Survey.** Before purchasing property, you’ll want to have it professionally surveyed to determine the legal boundaries. Don’t get caught on the wrong side of a future dispute with your neighbors over whether they have the right to chop down your favorite shade tree or erect a fence through the middle of your herb garden.
 
+![null](/img/find-land-for-a-tiny-house-15.jpg)
+
 **Restrictions.** Check for any restrictions on the land. A reputable title company will provide and explain these restrictions, which may include:
 
 * **Environmental restrictions:** Wetlands and waterfronts are particularly prone to regulations of what you can and cannot do on them. 
-
-![null](/img/find-land-for-a-tiny-house-15.jpg)
-
 * **Easements:** Find out if there are any easements on the property under consideration.
   * You’ll want to know ahead of time whether anyone is going to be rightfully driving across your property.
   * An easement remains with a property indefinitely unless both parties choose to remove it.
@@ -427,8 +424,6 @@ For example, different zoning will allow for different property density; that is
 Don’t assume that you’ll be able to change the zoning already in place in order to suit your plans. I’m not saying it can’t be done, but you may be in for a lengthy uphill battle.
 
 Be aware of whether the land’s zoning allows for any previous activity that may cause the property value to depreciate over time. An example is industrial farming which may have contaminated the land with pollutants. 
-
-![null](/img/find-land-for-a-tiny-house-47.jpg)
 
 **Water rights.** 
 
@@ -454,8 +449,6 @@ Water rights concern usage of bodies of water bordering or near the property. Th
 
 * To avoid the dangers of living with contaminants present on the property.
 * To avoid the responsibility of cleaning up any issues that are later discovered or uncovered.
-
-![null](/img/find-land-for-a-tiny-house-38.jpg)
 
 **What’s involved?**
 
@@ -484,15 +477,13 @@ If simply looking for general information, the customer service department of a 
 
 ## Purchasing the Property
 
-\*\*Financing\*\* 
+**Financing** 
 
 It’s typical to pay cash for raw or undeveloped land. You may be able to secure a personal loan through your financial institution, but mortgages aren’t always an option. Financing is particularly difficult to find for raw land.
 
 There may be specialized loans available for purchasing land to be developed for farming or ranching.
 
 Or if you have the means, you could purchase a spacious lot with a permanent residence already on it, using traditional mortgage financing. Then park your Tiny House on the lot and rent the existing house to cover your mortgage payments.
-
-![null](/img/find-land-for-a-tiny-house-27.jpg)
 
 **Buying land with a group** 
 
@@ -510,8 +501,6 @@ Exit strategies will need to be planned so everyone is clear on ownership transf
 
 If your Tiny House is on wheels, it will need a path of access from the road to its position on the property. You may be limited to pre-existing driveways or vehicle-wide paths if the topography or your budget do not allow for new roads. If building a Tiny House on foundation, take into consideration how far you’ll need to haul building materials from the nearest point that a vehicle can access.
 
-![null](/img/find-land-for-a-tiny-house-32.jpg)
-
 **Site planning**
 
  Before making a decision about where your Tiny House will sit, take into consideration all of its support systems:
@@ -526,7 +515,6 @@ If your Tiny House is on wheels, it will need a path of access from the road to 
 
 Take a look at the property’s land features when determining the ideal spot for your Tiny House:
 
-* Large trees
 * Bodies of water
 * Grade changes
 * Soil stability
@@ -534,6 +522,9 @@ Take a look at the property’s land features when determining the ideal spot fo
 * Below-ground pipes and wires if you’re energetically sensitive
 * Desirable views
 * Prevailing wind direction
+* Large trees
+
+![trees](/img/matt-artz-353129-unsplash.jpg)
 
 **Alternative energy**
 
