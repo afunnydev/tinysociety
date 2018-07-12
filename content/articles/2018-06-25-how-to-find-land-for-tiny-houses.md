@@ -30,7 +30,7 @@ noindex: false
 
 ![tiny house land](/img/find-land-for-a-tiny-house-29.jpg)
 
-One thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effort, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
+One thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effor, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
 
 Of course, if you’re interested in a Tiny House on foundation rather than a Tiny House on wheels, the journey doesn’t even get off the ground without land (punsters, groan all you want).
 
@@ -147,7 +147,7 @@ Most WWOOFing hosts offer rooms of their own in exchange for farm labor. But the
 
 ![null](/img/find-land-for-a-tiny-house-31.jpg)
 
-** What to watch for?**
+**What to watch for?**
 
 * Some WWOOFing opportunities are seasonal, so be sure to ask how long you can stay in one place.
 * Ranches are more likely than produce farms to need WWOOFers year-round, so if you have skills with animals or are willing to learn, this might be a good option for you.
