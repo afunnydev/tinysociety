@@ -127,9 +127,9 @@ The process for registering a DIY Tiny House varies from jurisdiction to jurisdi
 
 ![Rv picture](/img/find-land-for-a-tiny-house-48.jpg)
 
-**WWOOFing** 
+#### WWOOFing
 
-#### What is WWOOFing?
+**What is WWOOFing?**
 
 WWOOF stands for World Wide Opportunities on Organic Farms. As the name implies, there are opportunities all over the world. Most do not require previous experience or skills. 
 
@@ -137,7 +137,7 @@ WWOOF stands for World Wide Opportunities on Organic Farms. As the name implies,
 
 Most WWOOFing hosts offer rooms of their own in exchange for farm labor. But they generally have plenty of open space on their farms and are often amenable to alternative arrangements. Providing your own Tiny House lodging may be an ideal situation for all parties.
 
-#### What can I expect?
+**What can I expect?**
 
 * You will be expected to offer a certain number of hours per week of farm labor in exchange for your space.
 * A fantastic fringe benefit of free farm produce, poultry eggs, or the like is often thrown into the deal.
@@ -147,13 +147,13 @@ Most WWOOFing hosts offer rooms of their own in exchange for farm labor. But the
 
 ![null](/img/find-land-for-a-tiny-house-31.jpg)
 
-#### What to watch for?
+** What to watch for?**
 
 * Some WWOOFing opportunities are seasonal, so be sure to ask how long you can stay in one place.
 * Ranches are more likely than produce farms to need WWOOFers year-round, so if you have skills with animals or are willing to learn, this might be a good option for you.
 * Be aware that WWOOFing is a non-monetary exchange. You’ll need to balance your farm work-trade commitment with any additional income-earning that you need to do.
 
-#### How do I start?
+**How do I start?**
 
 You’ll need to pay a fee to join WWOOF in order to browse listings or view host details. The international site can be found here, and will direct you to your own country’s site: <http://wwoof.net/>. 
 
