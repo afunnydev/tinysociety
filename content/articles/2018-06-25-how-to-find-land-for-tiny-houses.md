@@ -170,11 +170,11 @@ Embarking on the Tiny Life is a major change for many people. If you’re not qu
 * The aforementioned <https://www.tryittiny.com/> provides opportunities to rent a Tiny House.
 * The more widely known <https://www.airbnb.com/> is another option. Tiny Houses are showing up among its listings in greater and greater numbers.
 
-#### What do I do with my stuff?
+#### What to do with my stuff?
 
 Put most of your belongings in storage, find an available Tiny House rental, and give it a go. If it doesn’t work out for you, you can always pull your stuff out of storage and go back to the big life. And if it does, sell what you don’t need and put it towards a new Tiny House of your own!
 
-![null](/img/find-land-for-a-tiny-house-35.jpg)
+![moving gif](/img/moving.gif)
 
 #### What if I don’t like it?
 
@@ -186,11 +186,13 @@ While these options won’t give you the full experience of living 24/7 in a Tin
 
 * Tiny House companies often bring a display model to area home show events. They’ll be happy to talk to you about the various features available in all of their models.
 * If you know Tiny House owners, ask what works well for them and what doesn’t. Request an in-person visit.
-* Browse the abundant stock of examples available online to get ideas.
-* Post in Facebook’s Tiny House People group and ask whether anyone in your area would mind you dropping by to look.
-* Do be respectful, and refrain from walking up and knocking on the door of any Tiny House you see. You don’t have any more right to access a stranger’s Tiny House or to disturb its occupants’ privacy as you do with any random conventional house you see. Unfortunately many Tiny House dwellers have experienced this sense of entitlement to their private space from curious onlookers.
+* Browse the abundant stock of [examples](https://www.instagram.com/tiny.house.society/) available online to get ideas.
+* Post in Facebook’s [Tiny House People group](https://www.facebook.com/groups/tinyhousepeople/) and ask whether anyone in your area would mind you dropping by to look.
+* Be respectful, and refrain from walking up and knocking on the door of any Tiny House you see. You don’t have any more right to access a stranger’s Tiny House or to disturb its occupants’ privacy as you do with any random conventional house you see. Unfortunately many Tiny House dwellers have experienced this sense of entitlement to their private space from curious onlookers.
 
-![null](/img/find-land-for-a-tiny-house-12.jpg)
+![Tiny house interior](/img/tiny-house-interior.jpg)
+
+Image source: [rmccc.org](https://www.rmccc.org/mC6o-16167/drop-gorgeous-small-16169/)
 
 ## Buying Land for a Tiny House
 
