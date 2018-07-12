@@ -22,6 +22,8 @@ slider:
     image: /img/tinycabin-interior1.jpg
   - alttext: Tiny House
     image: /img/tinycabin-interior2.jpg 
+collections:
+  - Tiny house plans
 i18nlanguage: en
 ordre: 1
 draft: false

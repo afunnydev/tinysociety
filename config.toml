@@ -45,6 +45,10 @@ defaultContentLanguageInSubdir = false
 [permalinks]
   singles = "/:slug/"
 
+[taxonomies]
+  category = "categories"
+  collection = "collections"
+
 # [Languages.fr]
 # [Languages.fr.Taxonomies]
 # category = "categories"
