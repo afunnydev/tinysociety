@@ -70,9 +70,9 @@ A benefit to purchasing the land first is that you won’t have to look for a se
 
 If you’re building a fixed structure, you can customize it to conform to the specific location on the Earth where it sits—a precept of many a talented designer.
 
-![Tiny cabin in the mountains](/img/well-architeted-tiny-house.jpg)
+![Tiny Cabin in the mountains](/img/well-architeted-tiny-house.jpg)
 
-[Image source](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)
+Image source: [inhabitat.com](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)
 
 ## Renting Land for a Mobile Tiny House
 
