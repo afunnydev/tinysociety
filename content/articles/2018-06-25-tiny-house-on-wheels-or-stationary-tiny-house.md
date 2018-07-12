@@ -166,7 +166,7 @@ A stationary Tiny House is rooted more firmly to the ground. And it can be shape
 
 Conversely, in the event of a natural disaster, you can evacuate your entire house if you have a Tiny House on wheels and enough forewarning.
 
-![](/img/hurricane.gif)
+![null](/img/hurricane.gif)
 
 ## Zoning and Legal Concerns
 
@@ -268,6 +268,10 @@ It's wise to choose a rectangle shape typical of a Tiny House on wheels. That wa
 
 ## Floating Home
 
+![floating home](/img/floating-homes-interiors-portage-bay-exterior-thumb-630xauto-57312.jpg)
+
+Image source: [trendir.com](https://www.trendir.com/floating-home-interiors-for-west-coast-living/)
+
 ### The life aquatic?
 
 Yet another possibility is the Tiny House on a floating platform. 
@@ -275,8 +279,6 @@ Yet another possibility is the Tiny House on a floating platform.
 #### Stationary:
 
 A floating Tiny House could be considered stationary if permanently moored to pilings in a particular location.
-
-![null](/img/tiny-house-on-wheel-or-stationary-12.jpg)
 
 #### Mobile:
 
