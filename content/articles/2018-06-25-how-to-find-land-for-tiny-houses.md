@@ -70,15 +70,15 @@ A benefit to purchasing the land first is that you won’t have to look for a se
 
 If you’re building a fixed structure, you can customize it to conform to the specific location on the Earth where it sits—a precept of many a talented designer.
 
-![Tiny cabin in the mountains](/img/well-architeted-tiny-house.jpg)
+![Tiny Cabin in the mountains](/img/well-architeted-tiny-house.jpg)
 
-[Image source](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)
+Image source: [inhabitat.com](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)
 
 ## Renting Land for a Mobile Tiny House
 
-The first scenario I’ll look at is the most common one: finding land to rent for a Tiny House on wheels. As far as factors for choosing a location go, you’ll want to also take a look at the **Buying Land for a Tiny House** section below. 
+The first scenario I’ll look at is the most common one: finding land to rent for a Tiny House on wheels. As far as factors for choosing a location, you’ll want to also take a look at the **Buying Land for a Tiny House** section below. 
 
-### Online resources
+### Online resources for renting a land
 
 Thankfully, some great resources are emerging for connecting Tiny House owners with land hosts who are happy to welcome a Tiny House onto their property in exchange for rent. In some cases, you can trade for skilled labor, property caretaking, help with farm crops or ranch animals, or any other needs that the unique property owner might have. 
 
@@ -86,9 +86,9 @@ Online resources for finding land to rent include:
 
 * <https://www.parkmybnb.com/>
 * <https://www.tryittiny.com/>
-* the Tiny House Hosting group on Facebook
+* the Tiny Houses/Land/Lots for Sale/Rent [Facebook group](https://www.facebook.com/groups/498815593612411/)
 
-![null](/img/find-land-for-a-tiny-house-20.jpg)
+![Computer-success gif](/img/computer-success.gif)
 
 **Mobile home parks**
 
@@ -111,7 +111,7 @@ A major benefit to mobile home parks is that they’re set up to accommodate the
 * Garbage and recycling services are provided.
 * Internet and subscription tv services may also be included, or available for additional fees.
 
-![null](/img/find-land-for-a-tiny-house-14.jpg)
+![Mobile home park](/img/find-land-for-a-tiny-house-14.jpg)
 
 #### Any downsides?
 
@@ -125,11 +125,11 @@ Again, a current RV license by a certified manufacturer may be a prerequisite.
 
 The process for registering a DIY Tiny House varies from jurisdiction to jurisdiction, and may or may not get you in the door. But the rules are changing, and Tiny House dwellers are making strides towards greater acceptance in a larger range of circumstances.
 
-![null](/img/find-land-for-a-tiny-house-48.jpg)
+![Rv picture](/img/find-land-for-a-tiny-house-48.jpg)
 
-**WWOOFing** 
+#### WWOOFing
 
-#### What is WWOOFing?
+**What is WWOOFing?**
 
 WWOOF stands for World Wide Opportunities on Organic Farms. As the name implies, there are opportunities all over the world. Most do not require previous experience or skills. 
 
@@ -137,7 +137,7 @@ WWOOF stands for World Wide Opportunities on Organic Farms. As the name implies,
 
 Most WWOOFing hosts offer rooms of their own in exchange for farm labor. But they generally have plenty of open space on their farms and are often amenable to alternative arrangements. Providing your own Tiny House lodging may be an ideal situation for all parties.
 
-#### What can I expect?
+**What can I expect?**
 
 * You will be expected to offer a certain number of hours per week of farm labor in exchange for your space.
 * A fantastic fringe benefit of free farm produce, poultry eggs, or the like is often thrown into the deal.
@@ -147,13 +147,13 @@ Most WWOOFing hosts offer rooms of their own in exchange for farm labor. But the
 
 ![null](/img/find-land-for-a-tiny-house-31.jpg)
 
-#### What to watch for?
+** What to watch for?**
 
 * Some WWOOFing opportunities are seasonal, so be sure to ask how long you can stay in one place.
 * Ranches are more likely than produce farms to need WWOOFers year-round, so if you have skills with animals or are willing to learn, this might be a good option for you.
 * Be aware that WWOOFing is a non-monetary exchange. You’ll need to balance your farm work-trade commitment with any additional income-earning that you need to do.
 
-#### How do I start?
+**How do I start?**
 
 You’ll need to pay a fee to join WWOOF in order to browse listings or view host details. The international site can be found here, and will direct you to your own country’s site: <http://wwoof.net/>. 
 
@@ -170,11 +170,11 @@ Embarking on the Tiny Life is a major change for many people. If you’re not qu
 * The aforementioned <https://www.tryittiny.com/> provides opportunities to rent a Tiny House.
 * The more widely known <https://www.airbnb.com/> is another option. Tiny Houses are showing up among its listings in greater and greater numbers.
 
-#### What do I do with my stuff?
+#### What to do with my stuff?
 
 Put most of your belongings in storage, find an available Tiny House rental, and give it a go. If it doesn’t work out for you, you can always pull your stuff out of storage and go back to the big life. And if it does, sell what you don’t need and put it towards a new Tiny House of your own!
 
-![null](/img/find-land-for-a-tiny-house-35.jpg)
+![moving gif](/img/moving.gif)
 
 #### What if I don’t like it?
 
@@ -186,11 +186,13 @@ While these options won’t give you the full experience of living 24/7 in a Tin
 
 * Tiny House companies often bring a display model to area home show events. They’ll be happy to talk to you about the various features available in all of their models.
 * If you know Tiny House owners, ask what works well for them and what doesn’t. Request an in-person visit.
-* Browse the abundant stock of examples available online to get ideas.
-* Post in Facebook’s Tiny House People group and ask whether anyone in your area would mind you dropping by to look.
-* Do be respectful, and refrain from walking up and knocking on the door of any Tiny House you see. You don’t have any more right to access a stranger’s Tiny House or to disturb its occupants’ privacy as you do with any random conventional house you see. Unfortunately many Tiny House dwellers have experienced this sense of entitlement to their private space from curious onlookers.
+* Browse the abundant stock of [examples](https://www.instagram.com/tiny.house.society/) available online to get ideas.
+* Post in Facebook’s [Tiny House People group](https://www.facebook.com/groups/tinyhousepeople/) and ask whether anyone in your area would mind you dropping by to look.
+* Be respectful, and refrain from walking up and knocking on the door of any Tiny House you see. You don’t have any more right to access a stranger’s Tiny House or to disturb its occupants’ privacy as you do with any random conventional house you see. Unfortunately many Tiny House dwellers have experienced this sense of entitlement to their private space from curious onlookers.
 
-![null](/img/find-land-for-a-tiny-house-12.jpg)
+![Tiny house interior](/img/tiny-house-interior.jpg)
+
+Image source: [rmccc.org](https://www.rmccc.org/mC6o-16167/drop-gorgeous-small-16169/)
 
 ## Buying Land for a Tiny House
 
