@@ -30,7 +30,7 @@ noindex: false
 
 ![tiny house land](/img/find-land-for-a-tiny-house-29.jpg)
 
-One thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effor, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
+One thing that often looms large as an obstacle for those wishing to embark on the Tiny House lifestyle is concern that once you put the time, effort, and funds into acquiring your very own Tiny House, you won’t have any place to put it.
 
 Of course, if you’re interested in a Tiny House on foundation rather than a Tiny House on wheels, the journey doesn’t even get off the ground without land (punsters, groan all you want).
 
