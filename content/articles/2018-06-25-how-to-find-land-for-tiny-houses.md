@@ -8,14 +8,14 @@ author: michelleg
 image: /img/tiny-house-7.jpg
 overlay: true
 date: '2018-06-08'
+notloaded:
+  need: true
 listing:
   title: How to Find Land for Tiny Houses?
   description: >-
     Discover more details about various options involving buying land, renting
     land, or buying a Tiny House already situated in place.
   image: /img/tiny-house-7-square.jpg
-notloaded:
-  need: true
 likes: '95'
 categories:
   - Tiny houses
@@ -46,7 +46,7 @@ The first decision to make is whether to rent or to buy land.
 
 Renting allows for flexibility if your Tiny House is on wheels rather than on a fixed foundation. And it allows for a change of scenery as often as you like. When you’re ready for a change or your lease is up, hitch to a truck and head down the road. 
 
-![null](/img/find-land-for-a-tiny-house-36.jpg)
+![road trip gif](/img/road-trip.gif)
 
 ### Why would I buy land?
 
@@ -70,7 +70,9 @@ A benefit to purchasing the land first is that you won’t have to look for a se
 
 If you’re building a fixed structure, you can customize it to conform to the specific location on the Earth where it sits—a precept of many a talented designer.
 
-![null](/img/find-land-for-a-tiny-house-2.jpg)
+![Tiny Cabin in the mountains](/img/well-architeted-tiny-house.jpg)
+
+[Image source](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)
 
 ## Renting Land for a Mobile Tiny House
 
@@ -488,7 +490,7 @@ There may be specialized loans available for purchasing land to be developed for
 
 Or if you have the means, you could purchase a spacious lot with a permanent residence already on it, using traditional mortgage financing. Then park your Tiny House on the lot and rent the existing house to cover your mortgage payments.
 
-![](/img/find-land-for-a-tiny-house-27.jpg)
+![null](/img/find-land-for-a-tiny-house-27.jpg)
 
 **Buying land with a group** 
 
@@ -498,7 +500,7 @@ You’ll need to find a location with zoning that allows for multiple dwellings.
 
 Exit strategies will need to be planned so everyone is clear on ownership transference if any members decide to sell their interest and depart.
 
-![](/img/find-land-for-a-tiny-house-49.jpg)
+![null](/img/find-land-for-a-tiny-house-49.jpg)
 
 ## Positioning and Orienting Your Tiny House on the Property
 
@@ -506,7 +508,7 @@ Exit strategies will need to be planned so everyone is clear on ownership transf
 
 If your Tiny House is on wheels, it will need a path of access from the road to its position on the property. You may be limited to pre-existing driveways or vehicle-wide paths if the topography or your budget do not allow for new roads. If building a Tiny House on foundation, take into consideration how far you’ll need to haul building materials from the nearest point that a vehicle can access.
 
-![](/img/find-land-for-a-tiny-house-32.jpg)
+![null](/img/find-land-for-a-tiny-house-32.jpg)
 
 **Site planning**
 
@@ -537,7 +539,7 @@ Take a look at the property’s land features when determining the ideal spot fo
 
 It may make more sense in many situations to employ a detached solar panel array (such as on a wheeled cart tethered to the house). This allows you to position the house in the shade while leaving the solar array in full sun. 
 
-![](/img/find-land-for-a-tiny-house-18.jpg)
+![null](/img/find-land-for-a-tiny-house-18.jpg)
 
 **Water**
 
@@ -561,7 +563,7 @@ An increasingly available option for locating your Tiny House is a Tiny House co
 * Others offer places to rent for people providing their own Tiny Houses.
 * Sometimes the community is composed of a group of Tiny House owners who get together and plan their own community. They buy the land together or pay rent to one land owner who may or may not be part of the community. 
 
-![](/img/find-land-for-a-tiny-house-4.jpg)
+![null](/img/find-land-for-a-tiny-house-4.jpg)
 
 ### Benefits of Tiny House Communities
 
@@ -579,4 +581,4 @@ One final option is to forgo the land question altogether and just keep moving. 
 
 Some campgrounds offer monthly rates, which is a great way to explore the country and meet new people. This option also allows you to follow the weather of your choice, the most common pattern being to head further north in the summer and south in the winter, but that of course is a matter of personal preference.
 
-![](/img/find-land-for-a-tiny-house-3.jpg)
+![null](/img/find-land-for-a-tiny-house-3.jpg)
