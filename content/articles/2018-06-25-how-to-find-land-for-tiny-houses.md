@@ -76,9 +76,9 @@ Image source: [inhabitat.com](https://inhabitat.com/sublime-tiny-cabins-in-briti
 
 ## Renting Land for a Mobile Tiny House
 
-The first scenario I’ll look at is the most common one: finding land to rent for a Tiny House on wheels. As far as factors for choosing a location go, you’ll want to also take a look at the **Buying Land for a Tiny House** section below. 
+The first scenario I’ll look at is the most common one: finding land to rent for a Tiny House on wheels. As far as factors for choosing a location, you’ll want to also take a look at the **Buying Land for a Tiny House** section below. 
 
-### Online resources
+### Online resources for renting a land
 
 Thankfully, some great resources are emerging for connecting Tiny House owners with land hosts who are happy to welcome a Tiny House onto their property in exchange for rent. In some cases, you can trade for skilled labor, property caretaking, help with farm crops or ranch animals, or any other needs that the unique property owner might have. 
 
@@ -86,9 +86,9 @@ Online resources for finding land to rent include:
 
 * <https://www.parkmybnb.com/>
 * <https://www.tryittiny.com/>
-* the Tiny House Hosting group on Facebook
+* the Tiny Houses/Land/Lots for Sale/Rent [Facebook group](https://www.facebook.com/groups/498815593612411/)
 
-![null](/img/find-land-for-a-tiny-house-20.jpg)
+![Computer-success gif](/img/computer-success.gif)
 
 **Mobile home parks**
 
@@ -111,7 +111,7 @@ A major benefit to mobile home parks is that they’re set up to accommodate the
 * Garbage and recycling services are provided.
 * Internet and subscription tv services may also be included, or available for additional fees.
 
-![null](/img/find-land-for-a-tiny-house-14.jpg)
+![Mobile home park](/img/find-land-for-a-tiny-house-14.jpg)
 
 #### Any downsides?
 
@@ -125,7 +125,7 @@ Again, a current RV license by a certified manufacturer may be a prerequisite.
 
 The process for registering a DIY Tiny House varies from jurisdiction to jurisdiction, and may or may not get you in the door. But the rules are changing, and Tiny House dwellers are making strides towards greater acceptance in a larger range of circumstances.
 
-![null](/img/find-land-for-a-tiny-house-48.jpg)
+![Rv picture](/img/find-land-for-a-tiny-house-48.jpg)
 
 **WWOOFing** 
 
