@@ -18,6 +18,8 @@
 {{ end }}
 {{ if eq .Params.layout "contact" }}
 <script src="/js/main-with-ui.min.js"></script>
+{{ else if (eq .Type "plans") }}
+<script src="/js/main-plans.min.js"></script>
 {{ else }}
 <script src="/js/main.min.js"></script>
 {{ end }}

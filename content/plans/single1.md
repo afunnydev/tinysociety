@@ -2,28 +2,26 @@
 title: Tiny Cabin
 description: This is a desc
 slug: tiny-cabin
-image: /img/tiny-house-3.jpg
+image: /img/tiny-house-lovers-contact.jpg
+overlay: true
+author: hesham
 listing:
   title: Tiny Cabin
   description: >-
     It's simply awesome
 slider:
-  - alttext: Tiny House
-    image: /img/tinycabin-bathroom.jpg
-  - alttext: Tiny House
-    image: /img/tinycabin-exterior1-2.jpg
-  - alttext: Tiny House
-    image: /img/tinycabin-exterior2-1.jpg
-  - alttext: Tiny House
-    image: /img/tinycabin-exterior2-2.jpg
-  - alttext: Tiny House
-    image: /img/tinycabin-exterior2.jpg
-  - alttext: Tiny House
-    image: /img/tinycabin-interior1.jpg
-  - alttext: Tiny House
-    image: /img/tinycabin-interior2.jpg 
+  - image: /img/awesome-tiny-house-interior-1.jpg
+  - image: /img/awesome-tiny-house-interior-2.jpg
+  - image: /img/awesome-tiny-house-interior-3.jpg
+  - image: /img/awesome-tiny-house-exterior-1.jpg
+  - image: /img/awesome-tiny-house-exterior-2.jpg
+  - image: /img/awesome-tiny-house-interior-1.jpg
+  - image: /img/awesome-tiny-house-interior-2.jpg
+  ## - image: /img/awesome-tiny-house-interior-4.jpg    
 collections:
   - Tiny house plans
+notloaded:
+  need: true
 i18nlanguage: en
 ordre: 1
 draft: false

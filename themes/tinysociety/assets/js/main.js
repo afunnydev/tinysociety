@@ -78,27 +78,101 @@ jQuery( document ).ready(function($) {
        }                   
     });
   }
-  var userFeed = new Instafeed({
-      get: 'user',
-      userId: '7328857212',
-      accessToken: '7328857212.1677ed0.7160b9e79e0542f39a0001cb4cb0eda6',
-      limit: '8',
-      resolution: "thumbnail",
-      error: {
-          template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
-      },
-      template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
-  });
-  userFeed.run();
+  // var userFeed = new Instafeed({
+  //     get: 'user',
+  //     userId: '7328857212',
+  //     accessToken: '7328857212.1677ed0.7160b9e79e0542f39a0001cb4cb0eda6',
+  //     limit: '8',
+  //     resolution: "thumbnail",
+  //     error: {
+  //         template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
+  //     },
+  //     template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
+  // });
+  // userFeed.run();
   var myLazyLoad = new LazyLoad({
       elements_selector: "#article #Content .post #content img"
   });
+  $('.plans-slider-navigation').slick({
+      vertical: true,
+      verticalSwiping: true,
+      slidesToShow: 5,
+      slidesToScroll: 1,
+      focusOnSelect: true,
+      autoplay: false,
+      infinite: false,
+      variableWidth: false,
+      prevArrow: '<span class="nav-arrow icon-left-open"></span>',
+      nextArrow: '<span class="nav-arrow icon-right-open"></span>',
+      asNavFor: '.plans-slider-images',
+      responsive: [
+        {
+          breakpoint: 1199,
+          settings: {
+            prevArrow: '<span class="nav-arrow icon-left-open"></span>',
+            nextArrow: '<span class="nav-arrow icon-right-open"></span>',
+            vertical: true,
+            verticalSwiping: true,
+            slidesToShow: 5,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            prevArrow: '<span class="nav-arrow icon-left-open"></span>',
+            nextArrow: '<span class="nav-arrow icon-right-open"></span>',
+            vertical: false,
+            verticalSwiping: false,
+            slidesToShow: 4,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 479,
+          settings: {
+            prevArrow: '<span class="nav-arrow icon-left-open"></span>',
+            nextArrow: '<span class="nav-arrow icon-right-open"></span>',
+            vertical: false,
+            verticalSwiping: false,
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+      ]
+  });
+
+  $(".plans-slider-images").slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: false,
+      infinite: false,
+      arrows: false,
+      fade: true,
+      asNavFor: '.plans-slider-navigation',
+  });
+
+  $(".image-navigation__prev").on('click', function () {
+      $(".plans-slider-images").slick('slickPrev');
+  });
+
+  $(".image-navigation__next").on('click', function () {
+      $(".plans-slider-images").slick('slickNext');
+  });
+  var selectemVal = document.querySelector('input[name="selectemVal"]');
+  console.log (selectemVal); // returns the selected data-val attribute from the selectem-items list
   $( window ).load(function() {
     // Activate the sidebar
     $('#sidebar').stickySidebar({
         topSpacing: 40,
         bottomSpacing: 40,
         containerSelector: ".article-text",
+        innerWrapperSelector: '.sidebar__inner'
+    });
+    $('#sidebar-plan').stickySidebar({
+        topSpacing: 40,
+        bottomSpacing: 100,
+        containerSelector: ".plan-main-section",
         innerWrapperSelector: '.sidebar__inner'
     });
   });

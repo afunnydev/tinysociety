@@ -1,7 +1,6 @@
 {{ define "main" }}
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
-{{ $text := split .Content "<!-- split -->" }}
 <div id="plan">
     <div id="Intro" class="parallax{{ if .Params.overlay }} overlayed{{ end }}{{ if .Params.notloaded }} not-loaded"{{ else }}" style="background-image: url('/half{{- .Params.image -}}')"{{ end }} data-enllax-ratio="-0.3" data-large="/half{{- .Params.image -}}">
         {{ if .Params.overlay }}
@@ -10,19 +9,16 @@
         <div class="intro-inner">
             <h1 class="intro-title">{{ .Params.listing.title }}</h1>
             <div class="intro-meta">
-                <div class="date">
-                    <i class="icon-calendar"></i><span>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
-                </div>
                 {{ if isset .Params "author" }}
-                    {{ $author := index .Site.Data.authors .Params.author }}
+                    {{ $author := index .Site.Data.architects .Params.author }}
                     <div class="author">
                         <i class="icon-user"></i><span>{{ $author.name }}</span>
                     </div>
                 {{ end }}
                 <div class="categories">
                     <i class="moon-category"></i><span>
-                        {{ range $i, $e := .Params.categories }}{{ if $i }},{{ end }}
-                        <a href="{{ $.Site.BaseURL }}categories/{{ $e | urlize }}">{{ $e }}</a>
+                        {{ range $i, $e := .Params.collections }}{{ if $i }},{{ end }}
+                        <a href="{{ $.Site.BaseURL }}collections/{{ $e | urlize }}">{{ $e }}</a>
                         {{end}}
                     </span>
                 </div>
@@ -37,36 +33,59 @@
             <div class="sections_group">
                 <div class="post format-standard has-post-thumbnail category-hot-articles">
                     <div class="post-wrapper-content">
-                        <div class="section mcb-section article-text" style="padding-top:50px;padding-bottom:0px; ">
+                        <div class="section mcb-section article-text equal-height" style="padding-top:50px;padding-bottom:0px; ">
                             <div class="section_wrapper mcb-section-inner">
-                                <div class="wrap mcb-wrap one  valign-top clearfix">
+                                <div class="wrap mcb-wrap one valign-top clearfix" >
                                     <div class="mcb-wrap-inner">
-                                        <div id="sidebar" class="column mcb-column one-third column_placeholder sidebar">
-                                            <div class="sidebar__inner">
-                                                <!-- {{ .TableOfContents }} -->
-                                                {{- partial "site/table-of-contents.html" . -}}
-                                            </div>
-                                        </div>
-                                        <div class="column mcb-column two-third column_column content" id="content">
+                                        <div class="column mcb-column column_column content slider-left-column" id="content">
                                             <div class="column_attr">
-                                                {{ .Content | markdownify }}
+                                                <div class="plans-slider-container">
+                                                	<div class="plans-slider-images">
+														{{ range .Params.slider }}
+														<div class="plans-slider-image">
+															<img src="{{ .image }}" alt="" style="width: 100%;">
+														</div>
+														{{ end }}
+													</div>
+													<ul class="plans-slider-arrows">
+											            <li class="image-navigation__prev">
+											              <span class="icon-left-open"></span>
+											            </li>
+											            <li class="image-navigation__next">
+											              <span class="icon-right-open"></span>
+											            </li>
+											          </ul>
+												</div>
                                             </div>
                                             <!-- {{- partial "site/post-author.html" . -}} -->
+                                        </div>
+                                        <div class="column mcb-column column_placeholder slider-right-column">
+                                            <div class="column_attr">
+                                            	<ul class="plans-slider-navigation">
+													{{ range .Params.slider }}
+													<li class="plans-slider-item">
+														<img src="/quart{{ .image }}" alt="" style="width: 100%;">
+													</li>
+													{{ end }}
+												</ul>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="section mcb-section" style="">
+                        <div class="section mcb-section plan-main-section" style="padding-top:50px;padding-bottom:0px; margin-bottom: 100px ">
                             <div class="section_wrapper mcb-section-inner">
                                 <div class="wrap mcb-wrap one  valign-top clearfix">
                                     <div class="mcb-wrap-inner">
-                                    	<div class="column mcb-column two-third column_column content">
-                                            {{- partial "site/related-posts.html" . -}}
+                                    	<div class="column mcb-column two-third column_column content" id="plan-description">
+                                            <div class="column_attr">
+                                            	{{- partial "site/plan-description.html" . -}}
+                                            </div>
                                         </div>
-                                        <div id="" class="column mcb-column one-third column_placeholder">
-                                            <div class="placeholder">
-                                                &nbsp;
+                                    	<div id="sidebar-plan" class="column mcb-column one-third column_placeholder sidebar plan-options">
+                                            <div class="sidebar__inner">
+												{{- partial "site/plan-options.html" . -}}
                                             </div>
                                         </div>
                                     </div>

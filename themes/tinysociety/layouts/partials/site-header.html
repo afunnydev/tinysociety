@@ -29,14 +29,25 @@
             <a href="{{- $.Site.Data.settings.socials.instagramurl -}}" class="instagram" target="_blank"><span class="moon-instagram"></span></a>
             <a href="{{- $.Site.Data.settings.socials.facebookurl -}}" class="facebook" target="_blank"><span class="moon-facebook"></span></a>
         </div>
-        <!-- <a href="#" class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Buy a plan</span></a> -->
+        {{ if (eq .Type "plans") }}
+        <a href='{{ $.Scratch.Get "articlesPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Read our articles</span></a>
+        {{ else }}
+        <a href='{{ $.Scratch.Get "plansPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Buy a plan</span></a>
+        {{ end }}
         <div class="header_placeholder"></div>
         <div id="Top_bar">
             <div class="container">
                 <div class="column one">
                     <div class="top_bar_left clearfix">
                         <div class="logo">
-                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0"><img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup"><img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup"><img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0">
+                                {{ if (eq .Type "false") }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-tiny-house.png" data-retina="/img/logo-tiny-house.png" data-height="36" alt="mockup">
+                                {{ else }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                {{ end }}
+                                <img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
                             </a>
                         </div>
                     </div>
