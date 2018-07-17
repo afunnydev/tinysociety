@@ -1,6 +1,13 @@
 .bg-extra-dark-gray {
     background-color: #1c1c1c;
 }
+.no-margin-bottom {
+	margin-bottom: 0 !important;
+}
+
+.text-center {
+	text-align: center;
+}
 
 .opacity1 {opacity:.1}
 .opacity2 {opacity:.2}
@@ -741,12 +748,17 @@ body.no-content-padding:not(.with_aside).plan-page {
 			background-color: white !important;
 			padding: 20px 20px;
 			border-radius: 4px;
+			position: relative;
+			margin-bottom: 20px;
 			label {
 				margin-top: 20px;
 				span {
 					font-size: 0.7em; 
 					position: absolute;
 					right: 20px;
+					a {
+						color: $brown;
+					}
 				}
 			}
 			.selectem_label .pull-right {
@@ -757,11 +769,25 @@ body.no-content-padding:not(.with_aside).plan-page {
 				text-align: center;
 				p {
 					text-align: left;
+					margin-bottom: 5px;
+					height: 20px;
 					span {
 						position: absolute;
-						right: 30px;
+						right: 20px;
 						font-weight: 700;
 					}
+					&.question {
+						font-size: 0.7em;
+						margin-bottom: 20px;
+						a {
+							color: $brown;
+						}
+					}
+				}
+				span.phone {
+					display: block;
+					font-size: 0.8em;
+					text-align: center;
 				}
 			}
 			.selectem {
@@ -808,6 +834,21 @@ body.no-content-padding:not(.with_aside).plan-page {
 						margin: 7px 0 10px;
 					}
 				}
+			}
+		}
+		#cost-to-build {
+			background: white !important;
+			background-color: white !important;
+			padding: 20px 20px;
+			border-radius: 4px;
+			position: relative;
+			text-align: center;
+			p {
+				text-align: left;
+				font-size: 0.9em;
+			}
+			a.cost_to_build {
+				padding: 0;
 			}
 		}
 		#plan-description {
@@ -863,28 +904,61 @@ body.no-content-padding:not(.with_aside).plan-page {
 					}
 				}
 				&.pricing {
+					.main-row {
+						margin-bottom: 30px;
+					}
 					.column {
 						position: relative;
-						// p {
-						// 	position: absolute;
-						// 	top: 50%;
-						// 	transform: translate(0, 0);
-						// }
-					}
-					.options {
-						width: 25%;
-						text-align: right;
-					}
-					.price {
-						width: 15%;
-					}
-					.explanation {
-						width: 50%;
+						margin: 0;
+						min-height: 70px;
+						border: 1px solid #cccccc;
+						font-size: 14px;
 						p {
-							width: 100%;
+							position: absolute;
+							top: 50%;
+							transform: translate(0, -50%);
+						}
+						&.options {
+							width: 25%;
+							text-align: right;
+							p {
+								right: 10px;
+								font-size: 1.2em;
+							}
+							&.first {
+								background: rgb(242, 249, 241);
+							}
+						}
+						&.price {
+							width: 15%;
+							background: #e6e7e8;
+							p {
+								left: 50%;
+								transform: translate(-50%, -50%);
+								font-size: 1.2em;
+							}
+							&.first {
+								background: rgb(209, 234, 205);
+							}
+						}
+						&.explanation {
+							width: 50%;
+							p {
+								width: 90%;
+								left: 10px
+							}
+							&.first {
+								background: rgb(242, 249, 241);
+							}
 						}
 					}
 				}
+			}
+		}
+		#plan-support {
+			padding: 60px 0;
+			p {
+				margin-bottom: 30px;
 			}
 		}
 	}

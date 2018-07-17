@@ -170,8 +170,8 @@ jQuery( document ).ready(function($) {
         innerWrapperSelector: '.sidebar__inner'
     });
     $('#sidebar-plan').stickySidebar({
-        topSpacing: 40,
-        bottomSpacing: 100,
+        topSpacing: 20,
+        bottomSpacing: 20,
         containerSelector: ".plan-main-section",
         innerWrapperSelector: '.sidebar__inner'
     });
