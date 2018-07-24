@@ -46,82 +46,62 @@ Without further ado, here are some tiny house bathroom ideas that will hopefully
 
 Essentially, your entire bathroom is the shower. While this is a particularly great idea for space saving, it can also be tricky when it comes to moisture control. Check out this [waterproofing system](https://www.schluter.com/schluter-us/en_US/Membranes/Waterproofing-%28KERDI%29/Schluter%C2%AE-KERDI/p/KERDI) that will save your walls.
 
-Pro Tip: While heavy, tiles are a great option for waterproofing and design options! A light color tile can also make a tiny space look bigger.
+_Pro Tip:_ While heavy, tiles are a great option for waterproofing and design options! A light color tile can also make a tiny space look bigger.
 
-![](/img/1_wetbath.jpg)
+![null](/img/1_wetbath.jpg)
 
 ## 2. Galvanized Tub
 
 Pretty much anyone can soak in this rustic-chic tub. The durability and lightness of the metal is a huge plus, as well as the the fact that the metal is relatively inexpensive in comparison to other freestanding tubs. 
 
-![](/img/2_galvanisedtub.jpeg)
-
-
+![null](/img/2_galvanisedtub.jpeg)
 
 ## 3. Composting Toilet
 
 Finding the perfect porcelain throne for your tiny home can be daunting for obvious reasons. A really useful and sustainable option is the composting toilet which doesn’t require any plumbing and actually benefits the environment. 
 
-![](/img/3_composttoilet.jpg)
-
-
+![null](/img/3_composttoilet.jpg)
 
 ## 4. Go Mirrorless
 
 Is a mirror something you can live without? Consider putting the mirror elsewhere or forgoing one altogether. Leaving a mirror out of your tiny bathroom leaves more room for shelving or additional storage. Other options include installing a mirror on the back of a door or inside a medicine cabinet. 
 
-![](/img/4_mirrorless.jpeg)
-
-
+![null](/img/4_mirrorless.jpeg)
 
 ## 5. Sliding Door
 
 Your tiny house bathroom layout is already small, why make it even smaller by adding an inward swinging door? A sliding door is your best option. It will always stay parallel to a rail and looks quite stylish! 
 
- 
-
-![](/img/5_slidingdoor.jpg)
-
-
+![null](/img/5_slidingdoor.jpg)
 
 ## 6. Toilet + Sink
 
 In the spirit of universal design, this toilet-sink combo is as eco-friendly as it is design-friendly. The sink uses recycled water which cuts down on your water bill, while also conserving space--a key factor in a tiny house bathroom. 
 
-![](/img/6_sinktoiletcombo.png)
-
-
+![null](/img/6_sinktoiletcombo.png)
 
 ## 7. Corner Tub
 
 Super stylish and space-saving, this tiny bathtub is perfect for a tiny house bathroom. With the biggest obstacle being space, this tiny tub makes a small bathroom appear bigger. 
 
-![](/img/7_tinytub.png)
-
-
+![null](/img/7_tinytub.png)
 
 ## 8. Sink in Shower
 
-This is another great alternative when it comes to saving floor space. A tiny corner sink installed in the shower is a smart way to minimize on space but still have all of the bathroom amenities.
+This is another great alternative when it comes to saving floor space. A tiny corner sink installed in the shower is a smart way to maximize on space but still have all of the bathroom amenities.
 
-![](/img/8_sinkshower.png)
-
-
+![null](/img/8_sinkshower.png)
 
 ## 9. Rustic Wooden Tub
 
 Sacrificing design to conserve space doesn’t have to be an issue. This tiny wooden tub catches water like a traditional shower pan and looks good doing it. A curtain hanging from the ceiling keeps water from splashing onto the walls and allows you to really utilize the tiny space. 
 
-![](/img/9_bucketshower.png)
-
-
+![null](/img/9_bucketshower.png)
 
 ## 10. Glass
 
 A solid way to save space and make an area look bigger is to eliminate the tub and add a walk in shower. With glass walls surrounding the shower, it will make the room look bigger but also be far more durable than a shower curtain. If you’re not yet ready to give up the bathtub, then you can also add glass enclosures to a tub. 
 
-![](/img/glass-trio.jpg)
-
-
+![null](/img/glass-trio.jpg)
 
 When it comes to a tiny bathroom, sacrificing style for efficiency doesn’t have to be a problem. While you could choose to not have an indoor bathroom at all, it’s good to know all of your options before committing to the outdoor bucket. The most important thing is choosing what fixtures and amenities best suit your lifestyle and budget.
