@@ -1,5 +1,5 @@
 ---
-title: How to create your minimalist wardrobe
+title: How To Create Your Minimalist Wardrobe
 description: >-
   Living in a tiny house means you will have less space for unnecessary clothes
   in your closet. By creating a minimalist wardrobe that suits your personal
