@@ -23,7 +23,7 @@ listing:
   image: /img/webp.net-resizeimage.jpg
 likes: '18'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
