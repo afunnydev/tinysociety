@@ -7,7 +7,7 @@ description: >-
   and vertical construction. The ideas are endless but the goal is same. 
 slug: smart-tiny-house-storage-ideas
 author: jubaer
-image: /img/mr-chen-327899-unsplash.jpg
+image: /img/siniz-kim-626146-unsplash.jpg
 overlay: true
 date: '2018-07-27'
 notloaded:
@@ -19,7 +19,7 @@ listing:
     but did you ever wonder how are you going to fit everything you need in such
     a tiny space? 
 
-  image: /img/mr-chen-327899-unsplash.jpg
+  image: /img/siniz-kim-626146-unsplash.jpg
 likes: '16'
 categories:
   - tiny houses
