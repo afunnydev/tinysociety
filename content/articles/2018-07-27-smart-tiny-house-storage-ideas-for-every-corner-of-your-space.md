@@ -7,7 +7,7 @@ description: >-
   and vertical construction. The ideas are endless but the goal is same. 
 slug: smart-tiny-house-storage-ideas
 author: jubaer
-image: /img/diy-tiny-house-storage-and-organization-ideas-on-a-budget-9.jpg
+image: /img/mr-chen-327899-unsplash.jpg
 overlay: true
 date: '2018-07-27'
 notloaded:
@@ -19,7 +19,7 @@ listing:
     but did you ever wonder how are you going to fit everything you need in such
     a tiny space? 
 
-  image: /img/diy-tiny-house-storage-and-organization-ideas-on-a-budget-9.jpg
+  image: /img/mr-chen-327899-unsplash.jpg
 likes: '16'
 categories:
   - tiny houses
@@ -34,29 +34,33 @@ noindex: false
 
 Living in a tiny house might be your dream or you are already building one but did you ever wonder how are you going to fit everything you need in such a tiny space? 
 
-The first time when I heard about the tiny house movement I was baffled by the thought “I love tiny house but how in the world am I going to fit everything in this?” 
+The first time I heard about the tiny house movement I was baffled by the thought “I love tiny house but how in the world am I going to fit everything in this?” 
 
-But the good news is as I started my own research I got to know that there are smart genius ideas that can be used to maximize tiny house storage space. 
+![](/img/thinking.gif)
 
-As much as the satisfaction of living in a tiny home, a lot of open room should be available to make it breathable inside the rooms. People have come up with all sorts of ideas from moveable walls, doors and windows to furniture and vertical construction. The ideas are endless but the goal is same. 
+But the good news is as I started my own research I got to know that there are genius ideas to maximize tiny house storage space. 
+
+As much as the satisfaction of living in a tiny home, a lot of open room should be available to make it breathable inside the rooms. People have come up with all sorts of ideas from moveable walls, doors and windows to furniture and vertical construction. 
 
 At the end of this article you can get an organized set of ideas about what you can do with your storage space in your kitchen, bathroom, office and lots more. 
 
-
-
-Let’s start with the kitchen as it is the root to all delicious foods made at home. Kitchens can become messy, be it 500 square feet or 50 square feet. Some of these ideas can help decrease the clutter and make smart storage in the kitchen. 
-
 ## Tiny house kitchen storage ideas
+
+Let’s start with the kitchen since it is the root to all delicious foods made at home. Kitchens can become messy, be it 500 square feet or 50 square feet. Some of these ideas can help decrease the clutter and create smart storage in the kitchen. 
 
 **1. Side shelves in cabinets**
 
- 
+![](/img/1469673145-alpha-tiny-house-kitchen.jpg)
+
+Image source: [Country living](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/)
 
 Most tiny houses are made with lots of cabinet covering the walls and making them useful. If you intend to use cabinets all over your tiny home and the kitchen then you can use the side of the cabinets to put shelves on them. Check it out on [Country Living](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/). This will give additional space to keep hot food. You can even use it to grow spice plants like rosemary, basil or mint. 
 
 **2. Double sided shelves**
 
 ![mason jar shelf](/img/mason-jar-shelf-3-1024x601.jpg)
+
+Image source: [Hildalblue](http://www.hildablue.com/2012/04/10/mason-jar-shelf-transparent-labels/)
 
 If you are thinking of using the side of the cabinets to fit some shelves, there is another idea you can use also. This idea can make you think “why didn’t I think of that before?”. We put everything on the shelf, but the surface below is always wasted. 
 
@@ -65,6 +69,8 @@ This hanging mason jar shelf idea on [Hildalblue](http://www.hildablue.com/2012/
 **3. Overhead shelf can create more storage spaces in tiny houses**
 
 ![overhead shelf](/img/abear_etzell_livingroomfinal-1000x563.jpg)
+
+Image source: [Hildalblue](http://www.hildablue.com/2012/04/10/mason-jar-shelf-transparent-labels/)
 
 One of the concepts that really made me baffled was this overhead open shelf in the kitchen. This is a good way to get rid of some of the cabinets and make space for other furniture. The concept is very simple. The cabinet stays over the stove. It is built by wide open cubes that also provide a sense of openness in the kitchen. Genius isn’t it? 
 
@@ -87,8 +93,6 @@ These shelves are put on together vertically to create a contemporary storage un
 If you have a room where you want to set up office, this is the perfect way to divide the room without wasting space. The Book shelf will bring life into the room and also add additional storage opportunity.
 
 **3. Standing work stations**
-
-
 
 ![standing work station](/img/29-fin-corner-desk-5a1c4ac1da2715003754ce9b.jpg)
 
@@ -395,6 +399,8 @@ The assembling and handling becomes easier as the sizes and functionalities are 
 For even more maximizing your storage space, check out resourcefulness. I love their innovative and stylish outlook on furniture. 
 
 They have marvellous transforming storage furniture that can serve you multiple purpose without killing any space at all.
+
+## Summary
 
 To wrap it up, this piece of article can give you an overall guide for your tiny house storage space ideas. 
 
