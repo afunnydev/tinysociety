@@ -19,7 +19,8 @@ listing:
   image: /img/michael-shannon-474807-unsplash-1-.jpg
 likes: '12'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Energy efficiency
 i18nlanguage: en
 menuid: articles
 ordre: '0'
