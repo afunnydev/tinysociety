@@ -6,8 +6,8 @@ description: >-
   toilet or learning about the many options for building a bathroom sink, you
   don't have to worry about sacrificing design for function. 
 slug: 10-creative-ideas-for-your-tiny-house-bathroom
-author: davidm
-image: /img/shower-shower-head-water-drop-of-water-161502.jpeg
+author: molli
+image: /img/charles-deluvio-625891-unsplash.jpg
 overlay: false
 date: '2018-07-24'
 notloaded:
@@ -20,7 +20,7 @@ listing:
     be extra efficient when it comes to design. Luckily, with a little creative
     thinking and some research, you won’t have to sacrifice practicality for
     design. 
-  image: /img/shower-shower-head-water-drop-of-water-161502-1-.jpeg
+  image: /img/charles-deluvio-625891-unsplash.jpg
 likes: '18'
 categories:
   - tiny houses
