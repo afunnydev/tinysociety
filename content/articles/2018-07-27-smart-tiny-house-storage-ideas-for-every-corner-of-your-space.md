@@ -23,6 +23,7 @@ listing:
 likes: '16'
 categories:
   - tiny houses
+  - architecture and design
 i18nlanguage: en
 menuid: articles
 ordre: '0'
