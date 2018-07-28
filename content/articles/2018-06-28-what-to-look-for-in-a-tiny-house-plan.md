@@ -311,7 +311,7 @@ Find plans for the Lookout Cabin here: <http://www.todaysplans.com/DO-Lookout-1-
 * <https://tinyhousedesign.com/free-plans/>
 * <http://www.theclassicarchives.com/> 
 * <http://todaysplans.com/> 
-* https://tinyhouseplans.com
+* <https://tinyhouseplans.com>
 
 ## Tiny House Plans for Sale
 
