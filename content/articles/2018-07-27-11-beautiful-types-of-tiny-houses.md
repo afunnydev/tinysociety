@@ -130,4 +130,6 @@ Any Lord of the Rings fans out there? Aside from [building your own Hobbiton](ht
 
 Source: [Off The Grid News](https://www.offthegridnews.com/grid-threats/the-surprising-facts-about-earth-sheltered-living/)
 
+## Summary
+
 What is it about tiny houses that captures our hearts and minds? Why are these little guys so appealing? The answer is simple, really. It is the desire that we have for the simple pleasures of life; to live simply and big at the same time. Hopefully looking at the different types of tiny houses has inspired you!
