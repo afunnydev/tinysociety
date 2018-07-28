@@ -20,7 +20,7 @@ listing:
     be extra efficient when it comes to design. Luckily, with a little creative
     thinking and some research, you won’t have to sacrifice practicality for
     design. 
-  image: /img/charles-deluvio-625891-unsplash.jpg
+  image: /img/webp.net-resizeimage.jpg
 likes: '18'
 categories:
   - tiny houses
