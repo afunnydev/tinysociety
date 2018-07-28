@@ -7,7 +7,7 @@ description: >-
   don't have to worry about sacrificing design for function. 
 slug: 10-creative-ideas-for-your-tiny-house-bathroom
 author: molli
-image: /img/charles-deluvio-625891-unsplash.jpg
+image: /img/charles-deluvio-625891-unsplash-1-.jpg
 overlay: false
 date: '2018-07-24'
 notloaded:
