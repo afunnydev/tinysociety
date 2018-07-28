@@ -70,13 +70,15 @@ This hanging mason jar shelf idea on [Hildalblue](http://www.hildablue.com/2012/
 
 ![overhead shelf](/img/abear_etzell_livingroomfinal-1000x563.jpg)
 
-Image source: [Hildalblue](http://www.hildablue.com/2012/04/10/mason-jar-shelf-transparent-labels/)
+Image source: [weehouse](http://www.weehouse.com/?portfolio=abear-etzell-remodel)
 
 One of the concepts that really made me baffled was this overhead open shelf in the kitchen. This is a good way to get rid of some of the cabinets and make space for other furniture. The concept is very simple. The cabinet stays over the stove. It is built by wide open cubes that also provide a sense of openness in the kitchen. Genius isn’t it? 
 
-Office storage in tiny home? I can't even imagine having space for a bed in it! 
+
 
 ## Tiny house office storage ideas
+
+Office storage in tiny home? I can't even imagine having space for a bed in it!
 
 When the word office comes to mind what do we usually think? We think of a big, spacious room with furniture and computers. But in fact a tiny house space can be managed in such a way that an office room can feel spacious and effective. Let’s look at some of these ideas.
 
@@ -84,17 +86,23 @@ When the word office comes to mind what do we usually think? We think of a big, 
 
 ![tiny house office](/img/33-cool-small-home-office-ideas-10.jpg)
 
+Image source: [digsdigs](https://www.digsdigs.com/33-cool-small-home-office-ideas/)
+
 These shelves are put on together vertically to create a contemporary storage unit. It can be used as an office space and just about anything necessary can be put on the shelves.
 
 **2. Using book shelve as a wall**
 
 ![book shelf](/img/33-cool-small-home-office-ideas-10.jpg)
 
+Image source: [shelterness](https://www.shelterness.com/51-cool-storage-idea-for-a-home-office/)
+
 If you have a room where you want to set up office, this is the perfect way to divide the room without wasting space. The Book shelf will bring life into the room and also add additional storage opportunity.
 
 **3. Standing work stations**
 
 ![standing work station](/img/29-fin-corner-desk-5a1c4ac1da2715003754ce9b.jpg)
+
+Image source: [thespruce](https://www.thespruce.com/stylish-small-home-offices-4154965)
 
 The corners of the walls are always wasted. 
 
@@ -112,6 +120,8 @@ Some of these ideas might help you a great deal.
 
 ![tub shelf](/img/capture-d’écran-2018-07-27-à-10.24.44.png)
 
+Image source: [tinyhouse.heininge](http://tinyhouse.heininge.com/)
+
 You can put up a shelf right beside the bathtub. This will save space for putting up a shower and storing bathroom accessories.
 
 What more do you want in your bathroom?
@@ -119,6 +129,8 @@ What more do you want in your bathroom?
 **2. Turn your mirror into a shelf**
 
 ![mirror shelf](/img/capture-d’écran-2018-07-27-à-10.27.12.png)
+
+Image source: [shanty2chic](https://www.shanty-2-chic.com/)
 
 Mirrors are common to use in bathrooms. In tiny house bathrooms, findings space for it is almost impossible.
 
@@ -138,6 +150,8 @@ Let’s quickly have a look!
 
 ![tiny house bedroom](/img/luketinaorlando-tinyhouse-7.jpg)
 
+Image source:  [daystartinyhomes](http://www.daystartinyhomes.com/gallery/#itemId=57ab67c203596ee7257f3728)
+
 This is one of my most favourite bedroom storage ideas.
 
 Windows and doors can consume quite a lot of space in your bedroom but you can say it goodbye and cover it all up by closets and cupboards.
@@ -150,6 +164,8 @@ Brilliant! Total space usage opportunity!
 
 ![high shelf bedroom](/img/capture-d’écran-2018-07-27-à-10.30.53.png)
 
+Image source: [smud](https://www.smud.org/en/about-smud/environment/renewable-energy/tiny-house-competition.htm)
+
 Folded beds are not at all new but most people forget how easily this can be used to save space and make storage.
 
 High shelves in tiny house bedrooms can be used to store books and other staffs. Add to this a folding bed, you have plenty of room now.
@@ -157,6 +173,8 @@ High shelves in tiny house bedrooms can be used to store books and other staffs.
 **3. Hidden drawers conceal enormous space!**
 
 ![3. Hidden drawers ](/img/400-sq-ft-apartment-renovation-joseph-chiarucci-fort-14.jpg)
+
+Image source: [treehugger](https://www.treehugger.com/tiny-houses/400-sq-ft-apartment-renovation-joseph-chiarucci.html)
 
 Tiny house storage can be tricky but fun.
 
@@ -170,6 +188,8 @@ Congratulations! Now your entire bed is a storage unit!
 
 ![couch storage](/img/capture-d’écran-2018-07-27-à-10.33.29.png)
 
+Image source: [nelsontinyhouses](http://www.nelsontinyhouses.com/)
+
 Too much shelves in the living room can hamper both the aesthetic as well as space of your room.
 
 The ultimate storage solution here is turn your couch into a mini storage unit by implementing sliding drawers. Believe me, these drawers can store lots of things, almost eliminating the need for shelf in the entire living room.
@@ -178,11 +198,13 @@ Need more on couch storage? Here is another idea that you can try.
 
 ![couch storage 2](/img/capture-d’écran-2018-07-27-à-10.35.02.png)
 
-Check this out, this is even more creative!
+Image source: [fredstinyhouses](http://www.fredstinyhouses.com.au/)
 
 **2. Floor storage unit**
 
 ![tiny house floor storage](/img/capture-d’écran-2018-07-27-à-10.36.08.png)
+
+Image source: [treehuggers](http://www.treehugger.com/tiny-houses/lily-duval-tiny-house-new-zealand.html)
 
 Most of your storage plans must be done before you start building your tiny house. So if you think ahead you can create floor storage units easily all around your living room and your entire home.
 
@@ -200,6 +222,8 @@ Let’s see what ideas we have.
 
 ![stairs storage](/img/screen-shot-2015-03-31-at-11-45-32-am.png)
 
+Image source: [brevatdtinyhouse](https://brevardtinyhouse.com/existing-tiny-houses/tiny-house-living/)
+
 This is personally one of my favourite ideas. You can find this in almost all tiny house blog posts on the internet.
 
 This genius tiny house storage idea implements cabinets under the staircase. You can store everything from books, shoes to cloths.
@@ -209,6 +233,8 @@ This should be in your checklist when planning about tiny house storage spaces.
 **2. Hollow staircase**
 
 ![hollow staircase](/img/wild-rose-tiny-house-ana-white07_0.jpg)
+
+Image source: 
 
 These staircases look absolutely beautiful and can be even useful in storing toys and shoes below. 
 
