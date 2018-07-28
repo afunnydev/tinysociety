@@ -19,7 +19,7 @@ listing:
     these little guys so appealing? The answer is simple, really. It is the
     desire that we have for the simple pleasures of life; to live simply and big
     at the same time.
-  image: /img/agriculture-alone-barn-259618-1-.jpg
+  image: /img/agriculture-alone-barn-259618-2-.jpg
 likes: '31'
 categories:
   - tiny houses
