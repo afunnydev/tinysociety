@@ -32,6 +32,8 @@ noindex: false
 ---
 Going tiny? Then keep reading! The key to choosing tiny house furniture is more than just making sure it fits inside your new home. Downsizing will mean you’ll have less space than you’re used to. This means it’s essential that each piece of furniture serves more than one purpose as well. Either that or it should be able to tuck away neatly in a closet or corner when it's not being used. Living in a small space doesn't mean you have to give up having a coffee table to put your feet up on each night or a desk to sit at throughout the day. Minimalist living can provide you with the same comforts as a full-sized house, as long as it's done right.  
 
+![](/img/impressed.gif)
+
 Part of doing it right is choosing furniture for your tiny house that best suit your needs. For example, if you don’t cook often, then you certainly don’t need a large stove. In fact, you might not even need a small one. (Is it just me, or are toaster ovens more useful anyway?) Skipping the oven will give you more counter or floor space, which might end up being more useful to you. Another example is deciding where you’ll eat. If you prefer to eat on the couch, then you probably won’t be needing a kitchen table. These are the kinds of decisions you’ll need to make during the design process of your new house of wheels.
 
 Think you’re ready to dive into building your tiny house? Check out this list of must-have furniture that will help make your transition into minimal living much easier. 
@@ -55,7 +57,7 @@ Since having both a couch and a bed in your tiny house would take up too much ro
 
 Regardless of whether you want a single desk chair or a few chairs to go around a small table, they should all fold. This will allow you to easily store them when they're not being used. Perhaps the extra space underneath your sofa bed will be the ideal spot to tuck them in. Or, you might prefer to hang them up on your wall and utilize some of your vertical storage. Consider choosing chairs that are suitable for both inside your tiny house as well as outside since you likely won’t have room for both. These days folding chairs come in so many different styles and colors, you won’t get stuck having to use those hideous metal seats you were likely forced to sit in all throughout grade school. They can be padded, they can be wood, they can be plastic. If folding chairs aren’t for you, then look into bar stools instead. They’re the perfect piece of furniture to have around for you and your guests since they’re stackable and they don't take up much space.
 
-## 3. Space Saving Table 
+## 3. Space Saving Table
 
 ![space saving table](/img/apartment-chair-contemporary-9538.jpg)
 
@@ -77,7 +79,11 @@ Depending on the size and shape of your tiny house design, you might be able to 
 
 ![tiny house kitchen](/img/jens-johnsson-471362-unsplash.jpg)
 
-Having a full kitchen in a tiny house is near impossible. Especially if you plan to put your new home on wheels, you’ll want to keep things as light as possible. A Swiss Army knife-like kitchen is all the rage right now in the tiny house community. Similar to the knife we’re all familiar with, these compact kitchens practically unfold before your eyes. Depending on the model you get, your collapsible kitchen can include a sink, stove top, dining area, a counter, and much-needed storage space. Some are even equipped with a wine glass rack, and we all know just how important those are. When you’re all done cooking, everything collapses back into place so that it doesn’t look like it’s more than a small cabinet. If a collapsible kitchen isn’t for you though, these other options just might be:
+Having a full kitchen in a tiny house is near impossible. Especially if you plan to put your new home on wheels, you’ll want to keep things as light as possible. A Swiss Army knife-like kitchen is all the rage right now in the tiny house community. Similar to the knife we’re all familiar with, these compact kitchens practically unfold before your eyes. Depending on the model you get, your collapsible kitchen can include a sink, stove top, dining area, a counter, and much-needed storage space. Some are even equipped with a wine glass rack, and we all know just how important those are.
+
+![](/img/cheers.gif)
+
+ When you’re all done cooking, everything collapses back into place so that it doesn’t look like it’s more than a small cabinet. If a collapsible kitchen isn’t for you though, these other options just might be:
 
 * Wood Stove
 * Solar Ovens
