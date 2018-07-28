@@ -6,7 +6,7 @@ description: >-
   feet or wasting precious energy opening windows in an overheated small space.
 slug: how-to-heat-tiny-house-complete-guide
 author: molli
-image: /img/sergei-solo-594895-unsplash.jpg
+image: /img/michael-shannon-474807-unsplash-2-.jpg
 overlay: false
 date: '2018-07-27'
 notloaded:
