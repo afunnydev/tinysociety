@@ -7,7 +7,7 @@ description: >-
   than one purpose as well.
 slug: 6-pieces-of-furniture-you-need-in-your-tiny-house
 author: kristen
-image: /img/architecture-bed-bedroom-271743.jpg
+image: /img/architecture-bed-bedroom-banner.jpg
 overlay: true
 date: '2018-07-27'
 notloaded:
@@ -19,10 +19,11 @@ listing:
     table to put your feet up on each night or a desk to sit at throughout the
     day. Minimalist living can provide you with the same comforts as a
     full-sized house, as long as it's done right.  
-  image: /img/architecture-bed-bedroom-271743.jpg
+  image: /img/architecture-bed-bedroom-271743-1-1-.jpg
 likes: '21'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Architecture and design
 i18nlanguage: en
 menuid: articles
 ordre: '0'
