@@ -234,7 +234,7 @@ This should be in your checklist when planning about tiny house storage spaces.
 
 ![hollow staircase](/img/wild-rose-tiny-house-ana-white07_0.jpg)
 
-Image source: 
+Image source: [anawhite](http://www.ana-white.com/2017/01/free_plans/tiny-house-stairs-spiral-storage-style)
 
 These staircases look absolutely beautiful and can be even useful in storing toys and shoes below. 
 
@@ -243,6 +243,8 @@ If you have a child who likes to play with toys, you can keep it at the lowest s
 **3. Cabinet inside the staircase**
 
 ![stairs cabinet](/img/awesome-tiny-house-spiral-staircase.jpeg)
+
+Image source: [dluphotography](http://dluphotography.com/tiny-house-spiral-staircase-style/small-tiny-house-spiral-staircase/)
 
 If you open up the sides of your staircase you can even put up a closet inside it. This will save spaces in your bedroom if you have a lot of cloths to hang. 
 
@@ -274,6 +276,8 @@ So let’s see how you can fit them!
 
 ![toy baskets](/img/screen-shot-2017-10-24-at-3.44.18-pm.png)
 
+Image source: [tinycanalcottage](https://www.tinycanalcottage.com/blog/2017/10/25/toys-for-tiny-homes)
+
 These baskets can be your child’s favourite spot to hide out in your tiny house or it can be his favourite place to search toys.
 
 Place few of them with his toys in your home and the little one will never forget his childhood!
@@ -281,6 +285,8 @@ Place few of them with his toys in your home and the little one will never forge
 **2. Storage beneath the bed**
 
 ![Storage beneath the bed](/img/static1.squarespace.jpg)
+
+Image source: [tinycanalcottage](https://www.tinycanalcottage.com/blog/2017/10/25/toys-for-tiny-homes)
 
 I have mentioned about the drawers beneath your bed before. But this storage unit can be specially be helpful for your kids to take their toys out and throw them in again.
 
@@ -291,6 +297,8 @@ Bedtime play will never be hard again and even for you to put them back in their
 **1. Hanging closet**
 
 ![hanging closet](/img/capture-d’écran-2018-07-27-à-10.51.21.png)
+
+Image source: [buzzfeed](https://www.buzzfeed.com/morganshanahan/tiny-house-hacks-to-maximize-your-space?utm_term=.dcgA5EXqA#.rl20BavN0)
 
 Clothes can be hard to keep in a tiny home. And if you see that there is not much room left for additional clothes to fit in closet then make a hanging closet wherever you want. 
 
@@ -304,6 +312,8 @@ Ready for the second idea?
 
 ![underbed storage](/img/aaaaaaa.jpg)
 
+Image source:  [tinyhouseblog](http://tinyhouseblog.com/tiny-house/18-brilliant-storage-ideas-for-tiny-homes/)
+
 I couldn’t find a better image for you but you can clearly get idea of how it works. 
 
 The sliding drawer idea I mentioned earlier is an alternative to this idea. But you can use this to store clothes, blankets and shoes and quite a lot them actually. 
@@ -313,6 +323,8 @@ Even your cat can also enjoy the upside down movement every time you open the un
 **3. Hanging baskets**
 
 ![hanging baskets](/img/capture-d’écran-2018-07-27-à-10.54.01.png)
+
+Image source: [makespace](https://makespace.com/blog/posts/bedroom-storage-hacks-solutions/)
 
 Hanging fruit baskets are generally used in kitchen but people like us who own or want to own a tiny home are very clever to make these more efficient. 
 
@@ -330,6 +342,8 @@ So, let’s look at some of the furniture that can be used in tiny houses to max
 
 ![modular furniture](/img/capture-d’écran-2018-07-27-à-10.56.13.png)
 
+Image source:  [livingbiginatinyhouse](http://www.livingbiginatinyhouse.com/high-spec-tiny-house/)
+
 Modular furniture cubes can be one of the best things to buy for your tiny house.
 
 Sometimes you might get a call from a friend who is coming in to stay for a few days. But you don’t have anything on which he can sleep. 
@@ -346,6 +360,8 @@ Use your ideas and make whatever you like of them and you will not even notice t
 
 ![folding table2](/img/capture-d’écran-2018-07-27-à-10.58.11.png)
 
+Images source:  [godownsize](https://www.godownsize.com/)
+
 If I tell you that you can make dinner arrangements for 10 people in your tiny house, you will say “are you kidding me?” 
 
 This folding dinner table is the best furniture you can buy for your home. 
@@ -355,6 +371,8 @@ In normal days you and your little family can have lunch and dinner on the small
 **3. Hidden platform bed**
 
 ![Hidden platform bed](/img/capture-d’écran-2018-07-27-à-11.00.44.png)
+
+Image source: [godownsize](https://www.godownsize.com/)
 
 Known as trundle bed, this bed can hide below any platform and make up an open space for your kids to play.
 
@@ -368,6 +386,8 @@ So, grab one of these, I bet you will not regret!
 
 ![closet underneath bed](/img/image.jpg)
 
+Image source: [refinery29](https://www.refinery29.com/small-space-sweden#slide-5)
+
 This is known as lofted bedroom in tiny house terminology. As the bedroom is placed high above the surface, enough space is made for you to use it as a closet.
 
 Just grab a T-shirt and come down from bed! Tada!
@@ -375,6 +395,8 @@ Just grab a T-shirt and come down from bed! Tada!
 **2. Floor cabinets**
 
 ![floor cabinet](/img/capture-d’écran-2018-07-27-à-11.03.31.png)
+
+Image source: [architecturaldigest](https://www.architecturaldigest.com/story/storage-ideas-for-small-spaces)
 
 Cabinets eating up your precious space? 
 
@@ -385,6 +407,8 @@ Why not make the entire floor with cabinets? This will create room for storing c
 **3. How about a ceiling shelf?**
 
 ![ceiling shelf](/img/capture-d’écran-2018-07-27-à-11.05.03.png)
+
+Image source: [goodhousekeeping](https://www.goodhousekeeping.com/home/organizing/tips/a26982/tiny-house-storage-tricks/)
 
 You can easily custom build a shelf in your ceiling. Your floor space will not be used up in this process.
 
