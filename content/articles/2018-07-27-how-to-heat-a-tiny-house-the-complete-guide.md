@@ -16,7 +16,7 @@ listing:
   description: >
     Let’s take a look at some recommendations and tips for staying toasty (and
     smart!) in your tiny home this winter.
-  image: /img/sergei-solo-594895-unsplash.jpg
+  image: /img/michael-shannon-474807-unsplash-1-.jpg
 likes: '12'
 categories:
   - tiny houses
@@ -27,7 +27,11 @@ infographic: false
 draft: false
 noindex: false
 ---
-Depending on where you live, you’ll want to spend the winter in your tiny home feeling warm and cozy. Without proper research, you could end up with ice cold feet or wasting precious energy opening windows in an overheated small space. This is why choosing the correctly sized heater for your tiny house is so important. Let’s take a look at some recommendations and tips for staying toasty (and smart!) in your tiny home this winter.
+Depending on where you live, you’ll want to spend the winter in your tiny home feeling warm and cozy. Without proper research, you could end up with ice cold feet or wasting precious energy opening windows in an overheated small space.
+
+![](/img/cold-af.gif)
+
+ This is why choosing the correctly sized heater for your tiny house is so important. Let’s take a look at some recommendations and tips for staying toasty (and smart!) in your tiny home this winter.
 
 First, you need to calculate how many BTUs your tiny home will need to regulate the temperature in a manner that is both efficient and comfortable. British Thermal Units are the approximate amount of energy it takes to heat one pound of water by one degree Fahrenheit. Use this [calculator](https://www.calculator.net/btu-calculator.html) to help determine the number of BTUs based on the dimensions of your space, insulation conditions, and desired temperature changes. 
 
@@ -43,7 +47,7 @@ These are sleek, fairly compact units that are mounted inside the home with a co
 
 Pros:
 
-\- Extremely ideal because you have the option of both heating and cooling. 
+\- Ideal because you have the option of both heating and cooling. 
 
 \- Energy efficient 
 
@@ -145,8 +149,6 @@ Cons:
 
 \- Unless you’re a professional, you might want some installation assistance!
 
-
-
 ![solar heater](/img/4_solarair.jpg)
 
 Source : [Electrofix Group](http://www.electrofixgroup.com/renewable-energy-solar-air-heater)
@@ -201,8 +203,6 @@ Cons:
 
 \- You’ll need to create space to carry your firewood
 
-
-
 ![firewood heater](/img/6_firewoodheater.png)
 
 Source: [The Stove Yard](https://www.thestoveyard.com/catalogue/salamander-stoves/the-hobbit-multi-fuel-stove)
@@ -250,5 +250,7 @@ Consider these questions before you go:
 \- Do I have access to sources of fuel (i.e. wood, propane etc.)
 
 \- Am I willing to pay more for alternative energy?
+
+\-Am I on wheels or on fixed foundations?
 
 At the end of the day, many tiny house enthusiasts support a mindful way of living--this is particularly true when it comes energy consumption. However, if the most cost-efficient option is your goal, then choose what best works for you and your lifestyle. Remember, the power is in your hands!
