@@ -9,7 +9,7 @@ slug: 11-beautiful-types-of-tiny-houses
 author: molli
 image: /img/cover_pexel.png
 overlay: true
-date: '2018-07-27'
+date: '2018-07-24'
 notloaded:
   need: 'true'
 listing:
