@@ -1,8 +1,8 @@
 ---
 title: How to Power your Tiny House With Solar Energy
 description: >
-  How does  a tiny home become energy efficient and self-sufficient? Let’s take
-  a closer look at tiny house solar energy and the effect it has on an off-grid
+  How does a tiny home become energy efficient and self-sufficient? Let’s take a
+  closer look at tiny house solar energy and the effect it has on an off-grid
   home.
 slug: how-to-power-tiny-house-with-solar-energy
 author: molli
@@ -21,11 +21,12 @@ listing:
   image: /img/solar-panel-241903_960_720.jpg
 likes: '26'
 categories:
-  - tiny houses
-  - sustainability
+  - Tiny houses
+  - Energy efficiency
+  - Sustainable building and living
 i18nlanguage: en
 menuid: articles
-ordre: '-4'
+ordre: '0'
 infographic: false
 draft: false
 noindex: false
