@@ -9,7 +9,7 @@ slug: 6-pieces-of-furniture-you-need-in-your-tiny-house
 author: kristen
 image: /img/architecture-bed-bedroom-banner.jpg
 overlay: true
-date: '2018-07-27'
+date: '2018-07-17'
 notloaded:
   need: 'true'
 listing:
