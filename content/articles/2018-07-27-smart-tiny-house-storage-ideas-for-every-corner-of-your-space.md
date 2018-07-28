@@ -22,8 +22,8 @@ listing:
   image: /img/webp.net-resizeimage-1-.jpg
 likes: '16'
 categories:
-  - tiny houses
-  - architecture and design
+  - Tiny houses
+  - Architecture and design
 i18nlanguage: en
 menuid: articles
 ordre: '0'
