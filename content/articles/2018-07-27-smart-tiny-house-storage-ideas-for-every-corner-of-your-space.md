@@ -19,7 +19,7 @@ listing:
     but did you ever wonder how are you going to fit everything you need in such
     a tiny space? 
 
-  image: /img/webp.net-resizeimage-1-.jpg
+  image: /img/siniz-kim-626146-unsplash-2-.jpg
 likes: '16'
 categories:
   - Tiny houses
