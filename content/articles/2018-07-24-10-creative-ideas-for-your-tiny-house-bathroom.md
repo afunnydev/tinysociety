@@ -9,7 +9,7 @@ slug: 10-creative-ideas-for-your-tiny-house-bathroom
 author: molli
 image: /img/charles-deluvio-625891-unsplash-2-.jpg
 overlay: false
-date: '2018-07-24'
+date: '2018-07-22'
 notloaded:
   need: 'true '
 listing:
