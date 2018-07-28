@@ -37,7 +37,7 @@ Living in a tiny house might be your dream or you are already building one but d
 
 The first time I heard about the tiny house movement I was baffled by the thought “I love tiny house but how in the world am I going to fit everything in this?” 
 
-![](/img/thinking.gif)
+![null](/img/thinking.gif)
 
 But the good news is as I started my own research I got to know that there are genius ideas to maximize tiny house storage space. 
 
@@ -51,9 +51,9 @@ Let’s start with the kitchen since it is the root to all delicious foods made 
 
 **1. Side shelves in cabinets**
 
-![](/img/1469673145-alpha-tiny-house-kitchen.jpg)
+![null](/img/1469673145-alpha-tiny-house-kitchen.jpg)
 
-Image source: [Country living](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/)
+_Image source: _[_Country living_](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/)
 
 Most tiny houses are made with lots of cabinet covering the walls and making them useful. If you intend to use cabinets all over your tiny home and the kitchen then you can use the side of the cabinets to put shelves on them. Check it out on [Country Living](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/). This will give additional space to keep hot food. You can even use it to grow spice plants like rosemary, basil or mint. 
 
@@ -74,8 +74,6 @@ This hanging mason jar shelf idea on [Hildalblue](http://www.hildablue.com/2012/
 Image source: [weehouse](http://www.weehouse.com/?portfolio=abear-etzell-remodel)
 
 One of the concepts that really made me baffled was this overhead open shelf in the kitchen. This is a good way to get rid of some of the cabinets and make space for other furniture. The concept is very simple. The cabinet stays over the stove. It is built by wide open cubes that also provide a sense of openness in the kitchen. Genius isn’t it? 
-
-
 
 ## Tiny house office storage ideas
 
