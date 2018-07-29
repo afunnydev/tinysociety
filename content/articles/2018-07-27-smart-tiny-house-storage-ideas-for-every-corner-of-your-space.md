@@ -53,7 +53,7 @@ Let’s start with the kitchen since it is the root to all delicious foods made 
 
 ![null](/img/1469673145-alpha-tiny-house-kitchen.jpg)
 
-_Image source: _[_Country living_](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/)
+Image source: [Country living](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/)
 
 Most tiny houses are made with lots of cabinet covering the walls and making them useful. If you intend to use cabinets all over your tiny home and the kitchen then you can use the side of the cabinets to put shelves on them. Check it out on [Country Living](https://www.countryliving.com/home-design/decorating-ideas/news/g3549/alpha-tiny-home/). This will give additional space to keep hot food. You can even use it to grow spice plants like rosemary, basil or mint. 
 
@@ -61,7 +61,7 @@ Most tiny houses are made with lots of cabinet covering the walls and making the
 
 ![mason jar shelf](/img/mason-jar-shelf-3-1024x601.jpg)
 
-_Image source: _[_Hildalblue_](http://www.hildablue.com/2012/04/10/mason-jar-shelf-transparent-labels/)
+Image source: [Hildalblue](http://www.hildablue.com/2012/04/10/mason-jar-shelf-transparent-labels/)
 
 If you are thinking of using the side of the cabinets to fit some shelves, there is another idea you can use also. This idea can make you think “why didn’t I think of that before?”. We put everything on the shelf, but the surface below is always wasted. 
 
@@ -71,7 +71,7 @@ This hanging mason jar shelf idea on [Hildalblue](http://www.hildablue.com/2012/
 
 ![overhead shelf](/img/abear_etzell_livingroomfinal-1000x563.jpg)
 
-_Image source: _[_weehouse_](http://www.weehouse.com/?portfolio=abear-etzell-remodel)
+Image source: [weehouse](http://www.weehouse.com/?portfolio=abear-etzell-remodel)
 
 One of the concepts that really made me baffled was this overhead open shelf in the kitchen. This is a good way to get rid of some of the cabinets and make space for other furniture. The concept is very simple. The cabinet stays over the stove. It is built by wide open cubes that also provide a sense of openness in the kitchen. Genius isn’t it? 
 
@@ -85,7 +85,7 @@ When the word office comes to mind what do we usually think? We think of a big, 
 
 ![tiny house office](/img/33-cool-small-home-office-ideas-10.jpg)
 
-_Image source: _[_digsdigs_](https://www.digsdigs.com/33-cool-small-home-office-ideas/)
+Image source: [digsdigs](https://www.digsdigs.com/33-cool-small-home-office-ideas/)
 
 These shelves are put on together vertically to create a contemporary storage unit. It can be used as an office space and just about anything necessary can be put on the shelves.
 
@@ -93,7 +93,7 @@ These shelves are put on together vertically to create a contemporary storage un
 
 ![book shelf](/img/33-cool-small-home-office-ideas-10.jpg)
 
-_Image source: _[_shelterness_](https://www.shelterness.com/51-cool-storage-idea-for-a-home-office/)
+Image source: [shelterness](https://www.shelterness.com/51-cool-storage-idea-for-a-home-office/)
 
 If you have a room where you want to set up office, this is the perfect way to divide the room without wasting space. The Book shelf will bring life into the room and also add additional storage opportunity.
 
@@ -101,7 +101,7 @@ If you have a room where you want to set up office, this is the perfect way to d
 
 ![standing work station](/img/29-fin-corner-desk-5a1c4ac1da2715003754ce9b.jpg)
 
-_Image source: _[_thespruce_](https://www.thespruce.com/stylish-small-home-offices-4154965)
+Image source: [thespruce](https://www.thespruce.com/stylish-small-home-offices-4154965)
 
 The corners of the walls are always wasted. 
 
@@ -119,7 +119,7 @@ Some of these ideas might help you a great deal.
 
 ![tub shelf](/img/capture-d’écran-2018-07-27-à-10.24.44.png)
 
-_Image source: _[_tinyhouse.heininge_](http://tinyhouse.heininge.com/)
+Image source: [tinyhouse.heininge](http://tinyhouse.heininge.com/)
 
 You can put up a shelf right beside the bathtub. This will save space for putting up a shower and storing bathroom accessories.
 
@@ -129,7 +129,7 @@ What more do you want in your bathroom?
 
 ![mirror shelf](/img/capture-d’écran-2018-07-27-à-10.27.12.png)
 
-_Image source: _[_shanty2chic_](https://www.shanty-2-chic.com/)
+Image source: [shanty2chic](https://www.shanty-2-chic.com/)
 
 Mirrors are common to use in bathrooms. In tiny house bathrooms, findings space for it is almost impossible.
 
@@ -149,7 +149,7 @@ Let’s quickly have a look!
 
 ![tiny house bedroom](/img/luketinaorlando-tinyhouse-7.jpg)
 
-_Image source:  _[_daystartinyhomes_](http://www.daystartinyhomes.com/gallery/#itemId=57ab67c203596ee7257f3728)
+Image source:  [daystartinyhomes](http://www.daystartinyhomes.com/gallery/#itemId=57ab67c203596ee7257f3728)
 
 This is one of my most favourite bedroom storage ideas.
 
@@ -163,7 +163,7 @@ Brilliant! Total space usage opportunity!
 
 ![high shelf bedroom](/img/capture-d’écran-2018-07-27-à-10.30.53.png)
 
-_Image source: _[_smud_](https://www.smud.org/en/about-smud/environment/renewable-energy/tiny-house-competition.htm)
+Image source: [smud](https://www.smud.org/en/about-smud/environment/renewable-energy/tiny-house-competition.htm)
 
 Folded beds are not at all new but most people forget how easily this can be used to save space and make storage.
 
@@ -173,7 +173,7 @@ High shelves in tiny house bedrooms can be used to store books and other staffs.
 
 ![3. Hidden drawers ](/img/400-sq-ft-apartment-renovation-joseph-chiarucci-fort-14.jpg)
 
-_Image source: _[_treehugger_](https://www.treehugger.com/tiny-houses/400-sq-ft-apartment-renovation-joseph-chiarucci.html)
+Image source: [treehugger](https://www.treehugger.com/tiny-houses/400-sq-ft-apartment-renovation-joseph-chiarucci.html)
 
 Tiny house storage can be tricky but fun.
 
@@ -187,7 +187,7 @@ Congratulations! Now your entire bed is a storage unit!
 
 ![couch storage](/img/capture-d’écran-2018-07-27-à-10.33.29.png)
 
-_Image source: _[_nelsontinyhouses_](http://www.nelsontinyhouses.com/)
+Image source: [nelsontinyhouses](http://www.nelsontinyhouses.com/)
 
 Too much shelves in the living room can hamper both the aesthetic as well as space of your room.
 
@@ -197,13 +197,13 @@ Need more on couch storage? Here is another idea that you can try.
 
 ![couch storage 2](/img/capture-d’écran-2018-07-27-à-10.35.02.png)
 
-_Image source: _[_fredstinyhouses_](http://www.fredstinyhouses.com.au/)
+Image source: [fredstinyhouses](http://www.fredstinyhouses.com.au/)
 
 **2. Floor storage unit**
 
 ![tiny house floor storage](/img/capture-d’écran-2018-07-27-à-10.36.08.png)
 
-_Image source: _[_treehuggers_](http://www.treehugger.com/tiny-houses/lily-duval-tiny-house-new-zealand.html)
+Image source: [treehuggers](http://www.treehugger.com/tiny-houses/lily-duval-tiny-house-new-zealand.html)
 
 Most of your storage plans must be done before you start building your tiny house. So if you think ahead you can create floor storage units easily all around your living room and your entire home.
 
@@ -221,7 +221,7 @@ Let’s see what ideas we have.
 
 ![stairs storage](/img/screen-shot-2015-03-31-at-11-45-32-am.png)
 
-_Image source: _[_brevatdtinyhouse_](https://brevardtinyhouse.com/existing-tiny-houses/tiny-house-living/)
+Image source: [brevatdtinyhouse](https://brevardtinyhouse.com/existing-tiny-houses/tiny-house-living/)
 
 This is personally one of my favourite ideas. You can find this in almost all tiny house blog posts on the internet.
 
@@ -233,7 +233,7 @@ This should be in your checklist when planning about tiny house storage spaces.
 
 ![hollow staircase](/img/wild-rose-tiny-house-ana-white07_0.jpg)
 
-_Image source: _[_anawhite_](http://www.ana-white.com/2017/01/free_plans/tiny-house-stairs-spiral-storage-style)
+Image source: [anawhite](http://www.ana-white.com/2017/01/free_plans/tiny-house-stairs-spiral-storage-style)
 
 These staircases look absolutely beautiful and can be even useful in storing toys and shoes below. 
 
@@ -243,7 +243,7 @@ If you have a child who likes to play with toys, you can keep it at the lowest s
 
 ![stairs cabinet](/img/awesome-tiny-house-spiral-staircase.jpeg)
 
-_Image source: _[_dluphotography_](http://dluphotography.com/tiny-house-spiral-staircase-style/small-tiny-house-spiral-staircase/)
+Image source: [dluphotography](http://dluphotography.com/tiny-house-spiral-staircase-style/small-tiny-house-spiral-staircase/)
 
 If you open up the sides of your staircase you can even put up a closet inside it. This will save spaces in your bedroom if you have a lot of cloths to hang. 
 
@@ -275,7 +275,7 @@ So let’s see how you can fit them!
 
 ![toy baskets](/img/screen-shot-2017-10-24-at-3.44.18-pm.png)
 
-_Image source: _[_tinycanalcottage_](https://www.tinycanalcottage.com/blog/2017/10/25/toys-for-tiny-homes)
+Image source: [tinycanalcottage](https://www.tinycanalcottage.com/blog/2017/10/25/toys-for-tiny-homes)
 
 These baskets can be your child’s favourite spot to hide out in your tiny house or it can be his favourite place to search toys.
 
@@ -285,7 +285,7 @@ Place few of them with his toys in your home and the little one will never forge
 
 ![Storage beneath the bed](/img/static1.squarespace.jpg)
 
-_Image source: _[_tinycanalcottage_](https://www.tinycanalcottage.com/blog/2017/10/25/toys-for-tiny-homes)
+Image source: [tinycanalcottage](https://www.tinycanalcottage.com/blog/2017/10/25/toys-for-tiny-homes)
 
 I have mentioned about the drawers beneath your bed before. But this storage unit can be specially be helpful for your kids to take their toys out and throw them in again.
 
@@ -297,7 +297,7 @@ Bedtime play will never be hard again and even for you to put them back in their
 
 ![hanging closet](/img/capture-d’écran-2018-07-27-à-10.51.21.png)
 
-_Image source: _[_buzzfeed_](https://www.buzzfeed.com/morganshanahan/tiny-house-hacks-to-maximize-your-space?utm_term=.dcgA5EXqA#.rl20BavN0)
+Image source: [buzzfeed](https://www.buzzfeed.com/morganshanahan/tiny-house-hacks-to-maximize-your-space?utm_term=.dcgA5EXqA#.rl20BavN0)
 
 Clothes can be hard to keep in a tiny home. And if you see that there is not much room left for additional clothes to fit in closet then make a hanging closet wherever you want. 
 
@@ -311,7 +311,7 @@ Ready for the second idea?
 
 ![underbed storage](/img/aaaaaaa.jpg)
 
-_Image source:  _[_tinyhouseblog_](http://tinyhouseblog.com/tiny-house/18-brilliant-storage-ideas-for-tiny-homes/)
+Image source:  [tinyhouseblog](http://tinyhouseblog.com/tiny-house/18-brilliant-storage-ideas-for-tiny-homes/)
 
 I couldn’t find a better image for you but you can clearly get idea of how it works. 
 
@@ -323,7 +323,7 @@ Even your cat can also enjoy the upside down movement every time you open the un
 
 ![hanging baskets](/img/capture-d’écran-2018-07-27-à-10.54.01.png)
 
-_Image source: _[_makespace_](https://makespace.com/blog/posts/bedroom-storage-hacks-solutions/)
+Image source: [makespace](https://makespace.com/blog/posts/bedroom-storage-hacks-solutions/)
 
 Hanging fruit baskets are generally used in kitchen but people like us who own or want to own a tiny home are very clever to make these more efficient. 
 
@@ -341,7 +341,7 @@ So, let’s look at some of the furniture that can be used in tiny houses to max
 
 ![modular furniture](/img/capture-d’écran-2018-07-27-à-10.56.13.png)
 
-_Image source:  _[_livingbiginatinyhouse_](http://www.livingbiginatinyhouse.com/high-spec-tiny-house/)
+Image source:  [livingbiginatinyhouse](http://www.livingbiginatinyhouse.com/high-spec-tiny-house/)
 
 Modular furniture cubes can be one of the best things to buy for your tiny house.
 
@@ -359,7 +359,7 @@ Use your ideas and make whatever you like of them and you will not even notice t
 
 ![folding table2](/img/capture-d’écran-2018-07-27-à-10.58.11.png)
 
-_Images source:  _[_godownsize_](https://www.godownsize.com/)
+Images source:  [godownsize](https://www.godownsize.com/)
 
 If I tell you that you can make dinner arrangements for 10 people in your tiny house, you will say “are you kidding me?” 
 
@@ -371,7 +371,7 @@ In normal days you and your little family can have lunch and dinner on the small
 
 ![Hidden platform bed](/img/capture-d’écran-2018-07-27-à-11.00.44.png)
 
-_Image source: _[_godownsize_](https://www.godownsize.com/)
+Image source: [godownsize](https://www.godownsize.com/)
 
 Known as trundle bed, this bed can hide below any platform and make up an open space for your kids to play.
 
@@ -385,7 +385,7 @@ So, grab one of these, I bet you will not regret!
 
 ![closet underneath bed](/img/image.jpg)
 
-_Image source: _[_refinery29_](https://www.refinery29.com/small-space-sweden#slide-5)
+Image source: [refinery29](https://www.refinery29.com/small-space-sweden#slide-5)
 
 This is known as lofted bedroom in tiny house terminology. As the bedroom is placed high above the surface, enough space is made for you to use it as a closet.
 
@@ -395,7 +395,7 @@ Just grab a T-shirt and come down from bed! Tada!
 
 ![floor cabinet](/img/capture-d’écran-2018-07-27-à-11.03.31.png)
 
-_Image source: _[_architecturaldigest_](https://www.architecturaldigest.com/story/storage-ideas-for-small-spaces)
+Image source: [architecturaldigest](https://www.architecturaldigest.com/story/storage-ideas-for-small-spaces)
 
 Cabinets eating up your precious space? 
 
@@ -407,7 +407,7 @@ Why not make the entire floor with cabinets? This will create room for storing c
 
 ![ceiling shelf](/img/capture-d’écran-2018-07-27-à-11.05.03.png)
 
-_Image source: _[_goodhousekeeping_](https://www.goodhousekeeping.com/home/organizing/tips/a26982/tiny-house-storage-tricks/)
+Image source: [goodhousekeeping](https://www.goodhousekeeping.com/home/organizing/tips/a26982/tiny-house-storage-tricks/)
 
 You can easily custom build a shelf in your ceiling. Your floor space will not be used up in this process.
 
