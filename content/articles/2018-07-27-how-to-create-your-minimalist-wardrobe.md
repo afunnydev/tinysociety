@@ -7,7 +7,7 @@ description: >-
   memories! 
 slug: how-to-create-your-minimalist-wardrobe
 author: davidm
-image: /img/pexels-photo-581087-2-.jpeg
+image: /img/wardrobe-banner.jpg
 overlay: false
 date: '2018-07-27'
 notloaded:
@@ -22,10 +22,11 @@ listing:
     living in a tiny house. Sure, it’s a daunting task to go through a mountain
     of clothes, but I can guarantee that you will feel a lot lighter once you’ve
     shed all of those layers! 
-  image: /img/pexels-photo-581087-3-.jpeg
+  image: /img/wardrobe-clean.jpg
 likes: '25'
 categories:
-  - tiny house
+  - Tiny houses
+  - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
 ordre: '0'
