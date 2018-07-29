@@ -10,7 +10,7 @@ slug: top-10-beautiful-arched-cabins
 author: jubaer
 image: /img/niv-rozenberg-356666-unsplash-1-.jpg
 overlay: true
-date: '2018-07-27'
+date: '2018-07-08'
 notloaded:
   need: 'true'
 listing:
