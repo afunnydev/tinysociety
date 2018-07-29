@@ -1,23 +1,25 @@
 ---
 title: Off Grid Living in a Tiny House
 description: >-
-  Whether it is mobility, size or materials, discover the key points to consider
-  when you need to decide between the flexibility of a tiny house on wheels and
-  the stability of a stationary tiny house.
+  Living off grid is an attractive idea to many Tiny House dwellers. It
+  represents yet another layer of freedom. Living Tiny grants freedom from heavy
+  30-year-plus mortgages. Living Tiny off the grid grants additional freedom of
+  location. 
 slug: off-grid-living-in-a-tiny-house
 author: michelleg
 image: /img/off-grid-tiny-house-living-banner.jpg
 overlay: true
 date: '2018-06-19'
+notloaded:
+  need: true
 listing:
   title: Off Grid Living in a Tiny House
   description: >-
-    Whether it is mobility, size or materials, discover the key points to
-    consider when you need to decide between the flexibility of a tiny house on
-    wheels and the stability of a stationary tiny house.
+    To some people, “off the grid” also means off the radar in terms of urban
+    zoning issues. And living off grid is a self-reliable lifestyle. It enables
+    us to potentially provide for all of our basic needs from the land we live
+    on. That’s an empowering place to be.
   image: /img/off-grid-tiny-house-living-square.jpg
-notloaded:
-  need: true
 likes: '97'
 categories:
   - Sustainable building and living
