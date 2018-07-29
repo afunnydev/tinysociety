@@ -6,7 +6,7 @@ description: >-
   style, you will not only feel more confident but also create room for more
   memories! 
 slug: how-to-create-your-minimalist-wardrobe
-author: davidm
+author: molli
 image: /img/wardrobe-banner.jpg
 overlay: false
 date: '2018-07-03'
