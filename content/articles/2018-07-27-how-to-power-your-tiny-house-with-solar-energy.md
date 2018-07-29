@@ -6,9 +6,9 @@ description: >
   home.
 slug: how-to-power-tiny-house-with-solar-energy
 author: molli
-image: /img/solar-panel-241903_960_720.jpg
+image: /img/solar-power-banner.jpg
 overlay: true
-date: '2018-07-27'
+date: '2018-07-13'
 notloaded:
   need: 'true'
 listing:
@@ -18,7 +18,7 @@ listing:
     sustainability, cost efficiency and a reduced footprint. Despite the many
     advantages of going solar, there are also some disadvantages to consider
     before getting started on your first project. 
-  image: /img/solar-panel-241903_960_720.jpg
+  image: /img/solar_power_square.jpg
 likes: '26'
 categories:
   - Tiny houses
@@ -35,33 +35,28 @@ So you’ve probably heard the [Tiny House Movement](https://thetinylife.com/wha
 
 ## Why power your tiny house with solar energy?
 
->
->
 > [Solar is now the cheapest and most abundant energy source in the world.](https://news.energysage.com/8-facts-solar-energy-2017/)
->
->
 
 If you’re like many other tiny home enthusiasts, you likely value sustainability, cost efficiency and a reduced footprint. Despite the many advantages of going solar, there are also some disadvantages to consider before getting started on your first project. 
 
 ## Advantages to solar power
 
-Solar is cheaper. In recent years, it has been discovered that solar and other forms of alternative energy are actually [lower in cost](https://www.lazard.com/media/438038/levelized-cost-of-energy-v100.pdf) than other conventional energy forms. This is a huge draw for tiny house owners who are interested in unplugging and cutting costs. Here is a graph to help you understand how economically viable solar is in certain U.S cities:
+* Solar is cheaper. In recent years, it has been discovered that solar and other forms of alternative energy are actually [lower in cost](https://www.lazard.com/media/438038/levelized-cost-of-energy-v100.pdf) than other conventional energy forms. This is a huge draw for tiny house owners who are interested in unplugging and cutting costs. Here is a graph to help you understand how economically viable solar is in certain U.S cities:
 
 ![lazar-report](/img/lazar-report-screenshot.png)
 
 Source: [Lazard Levelized Cost of Energy Analysis](https://www.lazard.com/media/438038/levelized-cost-of-energy-v100.pdfhttps://www.lazard.com/media/438038/levelized-cost-of-energy-v100.pdf)
 
-Solar is [good for the environmen](https://news.energysage.com/health-environmental-benefits-of-solar-energy/)t. With the tiny house movement comes a demographic of people who are interested in lowering their carbon footprint. By installing solar panels, tiny house owners use clean, renewable energy from the sun!
-
-Solar is [energy independence.](https://impactgreensolutions.com/solar/) Imagine the day comes when the world has run out of oil. Imagine moving your tiny home to a remote area with no access to power. What then? With solar panels, your house on wheels isn’t bound to one place and neither are you.
+* Solar is [good for the environmen](https://news.energysage.com/health-environmental-benefits-of-solar-energy/)t. With the tiny house movement comes a demographic of people who are interested in lowering their carbon footprint. By installing solar panels, tiny house owners use clean, renewable energy from the sun!
+* Solar is [energy independence.](https://impactgreensolutions.com/solar/) Imagine the day comes when the world has run out of oil. Imagine moving your tiny home to a remote area with no access to power. What then? With solar panels, your house on wheels isn’t bound to one place and neither are you.
 
 ## Disadvantages to solar power
 
-Solar only works if there’s sunlight. [If you don’t live in an area with enough sunlight](https://tinyhousebuild.com/get-electricity-sun/), then solar might not be for you. Consider moveable solar panels and a battery bank if you think you need more energy to meet your needs—and don’t forget to plan ahead! You can calculate approximately how many hours of sunlight are available in your region per day with this [useful chart](http://solardirect.com/pv/systems/gts/gts-sizing-sun-hours.html).
+* Solar only works if there’s sunlight. [If you don’t live in an area with enough sunlight](https://tinyhousebuild.com/get-electricity-sun/), then solar might not be for you. Consider moveable solar panels and a battery bank if you think you need more energy to meet your needs—and don’t forget to plan ahead! You can calculate approximately how many hours of sunlight are available in your region per day with this [useful chart](http://solardirect.com/pv/systems/gts/gts-sizing-sun-hours.html).
+* Solar provides DC energy. Unless you are an electrician, you may not know that most standard appliances are wired for AC. Unless you want to re-purchase all DC appliances, you’ll have to purchase an “[inverter](https://www.solarpowerauthority.com/solar-setups-choosing-the-right-converters-and-inverters/)” to convert your energy from DC to AC. Carefully consider the small details of a completely solar power system before going off the grid.
+* Solar means energy consumption awareness. Are you a late-night Netflix binge watcher? You might be consuming more energy than you think. Before getting started, use this [calculator](https://www.wholesalesolar.com/solar-information/start-here/offgrid-calculator) to figure out how much electricity you currently use.
 
-Solar provides DC energy. Unless you are an electrician, you may not know that most standard appliances are wired for AC. Unless you want to re-purchase all DC appliances, you’ll have to purchase an “[inverter](https://www.solarpowerauthority.com/solar-setups-choosing-the-right-converters-and-inverters/)” to convert your energy from DC to AC. Carefully consider the small details of a completely solar power system before going off the grid.
-
-Solar means energy consumption awareness. Are you a late-night Netflix binge watcher? You might be consuming more energy than you think. Before getting started, use this [calculator](https://www.wholesalesolar.com/solar-information/start-here/offgrid-calculator) to figure out how much electricity you currently use.
+![](/img/binge-watching.gif)
 
 ## [How does solar power work?](https://www.livescience.com/41747-best-solar-panels.html)
 
@@ -92,6 +87,8 @@ If you’re thinking about a little DIY, then you have the option to put togethe
 \-Inverter 
 
 Keep in mind that if you have zero experience with wiring your tiny house, it may be a good idea to seek assistance from an expert. Pick your projects based on your personal abilities. 
+
+![electricity-gif](/img/electricity-stubborn.gif)
 
 ## Where to buy your solar energy kits?
 
@@ -134,7 +131,5 @@ I know there is a lot of information to process, so I made up this list of tools
 \- [Available sun hours per day (US and Canada)](http://solardirect.com/pv/systems/gts/gts-sizing-sun-hours.html)
 
 ## The Takeaway
-
-
 
 Living off the grid using solar energy truly suits the tiny house lifestyle. It embraces a sustainable way of living which focuses on minimizing cost and environmental impact. Additionally, solar energy gives you the freedom to roam and wake up in a new place each day. On the other hand, tiny house enthusiasts need to be aware of the challenges that solar power can present. Finding enough sunlight is one of the challenges, particularly in winter months in regions that are shadowed by mountains or blanketed by snow. Tiny house owners need to be prepared to plan and manage their power to ensure their home meets the requirements for their individual lifestyle. After that, you’re ready to take your tiny, sustainable home to embark on an off grid adventure!
