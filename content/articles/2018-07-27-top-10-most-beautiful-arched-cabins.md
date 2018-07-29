@@ -90,7 +90,7 @@ Feel free to use your imagination and create something new out of it!
 
 ## Tiny House - 5
 
-![arched-cabin5](/img/capture-d’écran-2018-07-27-à-11.38.58.png)
+![arched-cabin5](/img/capture-d-ecran-2018-07-27-a-11.38.58.png)
 
 Source: [chaletdejardin](https://www.chaletdejardin.fr/)
 

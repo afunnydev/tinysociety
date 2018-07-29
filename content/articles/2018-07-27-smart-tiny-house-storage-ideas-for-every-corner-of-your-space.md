@@ -117,7 +117,7 @@ Some of these ideas might help you a great deal.
 
 **1. Tub shelf magic!**
 
-![tub shelf](/img/capture-d’écran-2018-07-27-à-10.24.44.png)
+![tub shelf](/img/capture-d-ecran-2018-07-27-a-10.24.44.png)
 
 Image source: [tinyhouse.heininge](http://tinyhouse.heininge.com/)
 
@@ -127,7 +127,7 @@ What more do you want in your bathroom?
 
 **2. Turn your mirror into a shelf**
 
-![mirror shelf](/img/capture-d’écran-2018-07-27-à-10.27.12.png)
+![mirror shelf](/img/capture-d-ecran-2018-07-27-a-10.27.12.png)
 
 Image source: [shanty2chic](https://www.shanty-2-chic.com/)
 
@@ -161,7 +161,7 @@ Brilliant! Total space usage opportunity!
 
 **2. High shelves and folded beds**
 
-![high shelf bedroom](/img/capture-d’écran-2018-07-27-à-10.30.53.png)
+![high shelf bedroom](/img/capture-d-ecran-2018-07-27-a-10.30.53.png)
 
 Image source: [smud](https://www.smud.org/en/about-smud/environment/renewable-energy/tiny-house-competition.htm)
 
@@ -185,7 +185,7 @@ Congratulations! Now your entire bed is a storage unit!
 
 **1. Couch storage**
 
-![couch storage](/img/capture-d’écran-2018-07-27-à-10.33.29.png)
+![couch storage](/img/capture-d-ecran-2018-07-27-a-10.33.29.png)
 
 Image source: [nelsontinyhouses](http://www.nelsontinyhouses.com/)
 
@@ -195,13 +195,13 @@ The ultimate storage solution here is turn your couch into a mini storage unit b
 
 Need more on couch storage? Here is another idea that you can try.
 
-![couch storage 2](/img/capture-d’écran-2018-07-27-à-10.35.02.png)
+![couch storage 2](/img/capture-d-ecran-2018-07-27-a-10.35.02.png)
 
 Image source: [fredstinyhouses](http://www.fredstinyhouses.com.au/)
 
 **2. Floor storage unit**
 
-![tiny house floor storage](/img/capture-d’écran-2018-07-27-à-10.36.08.png)
+![tiny house floor storage](/img/capture-d-ecran-2018-07-27-a-10.36.08.png)
 
 Image source: [treehuggers](http://www.treehugger.com/tiny-houses/lily-duval-tiny-house-new-zealand.html)
 
@@ -295,7 +295,7 @@ Bedtime play will never be hard again and even for you to put them back in their
 
 **1. Hanging closet**
 
-![hanging closet](/img/capture-d’écran-2018-07-27-à-10.51.21.png)
+![hanging closet](/img/capture-d-ecran-2018-07-27-a-10.51.21.png)
 
 Image source: [buzzfeed](https://www.buzzfeed.com/morganshanahan/tiny-house-hacks-to-maximize-your-space?utm_term=.dcgA5EXqA#.rl20BavN0)
 
@@ -321,7 +321,7 @@ Even your cat can also enjoy the upside down movement every time you open the un
 
 **3. Hanging baskets**
 
-![hanging baskets](/img/capture-d’écran-2018-07-27-à-10.54.01.png)
+![hanging baskets](/img/capture-d-ecran-2018-07-27-a-10.54.01.png)
 
 Image source: [makespace](https://makespace.com/blog/posts/bedroom-storage-hacks-solutions/)
 
@@ -339,7 +339,7 @@ So, let’s look at some of the furniture that can be used in tiny houses to max
 
 **1. Modular furniture**
 
-![modular furniture](/img/capture-d’écran-2018-07-27-à-10.56.13.png)
+![modular furniture](/img/capture-d-ecran-2018-07-27-a-10.56.13.png)
 
 Image source:  [livingbiginatinyhouse](http://www.livingbiginatinyhouse.com/high-spec-tiny-house/)
 
@@ -355,9 +355,9 @@ Use your ideas and make whatever you like of them and you will not even notice t
 
 **2. Folding dinner table**
 
-![folding table1](/img/capture-d’écran-2018-07-27-à-10.57.59.png)
+![folding table1](/img/capture-d-ecran-2018-07-27-a-10.57.59.png)
 
-![folding table2](/img/capture-d’écran-2018-07-27-à-10.58.11.png)
+![folding table2](/img/capture-d-ecran-2018-07-27-a-10.58.11.png)
 
 Images source:  [godownsize](https://www.godownsize.com/)
 
@@ -369,7 +369,7 @@ In normal days you and your little family can have lunch and dinner on the small
 
 **3. Hidden platform bed**
 
-![Hidden platform bed](/img/capture-d’écran-2018-07-27-à-11.00.44.png)
+![Hidden platform bed](/img/capture-d-ecran-2018-07-27-a-11.00.44.png)
 
 Image source: [godownsize](https://www.godownsize.com/)
 
@@ -393,7 +393,7 @@ Just grab a T-shirt and come down from bed! Tada!
 
 **2. Floor cabinets**
 
-![floor cabinet](/img/capture-d’écran-2018-07-27-à-11.03.31.png)
+![floor cabinet](/img/capture-d-ecran-2018-07-27-a-11.03.31.png)
 
 Image source: [architecturaldigest](https://www.architecturaldigest.com/story/storage-ideas-for-small-spaces)
 
@@ -405,7 +405,7 @@ Why not make the entire floor with cabinets? This will create room for storing c
 
 **3. How about a ceiling shelf?**
 
-![ceiling shelf](/img/capture-d’écran-2018-07-27-à-11.05.03.png)
+![ceiling shelf](/img/capture-d-ecran-2018-07-27-a-11.05.03.png)
 
 Image source: [goodhousekeeping](https://www.goodhousekeeping.com/home/organizing/tips/a26982/tiny-house-storage-tricks/)
 

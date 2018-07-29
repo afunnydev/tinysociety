@@ -88,7 +88,7 @@ Source: [BBC](https://www.bbc.com/news/magazine-24135022)
 
 Originally designed for luxury camping or recreation, the popularity of the motorhome becoming the primary home has been increasing with the growing desire to live off grid. Remember your grandparents’ long, beast of a motorhome? Today, motorhomes can be just like tiny houses; compact and simple without sacrificing on comfort or design.
 
-![motorhome](/img/capture-d’écran-2018-07-27-à-12.42.16.png)
+![motorhome](/img/capture-d-ecran-2018-07-27-a-12.42.16.png)
 
 ## Arched Cabins
 
