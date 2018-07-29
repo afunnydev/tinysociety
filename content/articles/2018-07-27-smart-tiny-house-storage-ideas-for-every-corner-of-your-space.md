@@ -99,7 +99,7 @@ If you have a room where you want to set up office, this is the perfect way to d
 
 **3. Standing work stations**
 
-![standing work station](/img/29-fin-corner-desk-5a1c4ac1da2715003754ce9b.jpg)
+![standing work station](/img/corner-desk-tiny-house.jpg)
 
 Image source: [thespruce](https://www.thespruce.com/stylish-small-home-offices-4154965)
 

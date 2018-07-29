@@ -81,7 +81,7 @@ jQuery( document ).ready(function($) {
   var userFeed = new Instafeed({
       get: 'user',
       userId: '7328857212',
-      accessToken: '7328857212.1677ed0.7160b9e79e0542f39a0001cb4cb0eda6',
+      accessToken: '7328857212.4cf9aed.bda93aa94e5043138b2d2d78b1c4dfa4',
       limit: '8',
       resolution: "thumbnail",
       error: {
