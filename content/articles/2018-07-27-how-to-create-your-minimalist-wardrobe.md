@@ -9,7 +9,7 @@ slug: how-to-create-your-minimalist-wardrobe
 author: davidm
 image: /img/wardrobe-banner.jpg
 overlay: false
-date: '2018-07-27'
+date: '2018-07-03'
 notloaded:
   need: 'true'
 listing:
