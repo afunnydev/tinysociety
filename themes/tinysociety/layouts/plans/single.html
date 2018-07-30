@@ -34,20 +34,33 @@
                 <div class="title-container column">
                     <div style="width: 100% !important; height: 100%; background-color: #dddcd1; ">
                         <div class="title-holder">
-                            <h1>This is an awesome plan name</h1>
-                            <!-- {{ if isset .Params "author" }}
-                                {{ $author := index .Site.Data.architects .Params.author }}
-                                <div class="author">
-                                    <i class="icon-user"></i><span>{{ $author.name }}</span>
-                                </div>
-                            {{ end }}
+                            <h1>California Style Tiny Cabin</h1>
                             <div class="categories">
-                                <i class="moon-category"></i><span>
+                                <i class="moon-category"></i>
+                                <span>
                                     {{ range $i, $e := .Params.collections }}{{ if $i }},{{ end }}
                                     <a href="{{ $.Site.BaseURL }}collections/{{ $e | urlize }}">{{ $e }}</a>
                                     {{end}}
                                 </span>
-                            </div> -->
+                            </div>
+                            <div class="icons">
+                                <div class="column one-fourth">
+                                    <i class="moon-simple-plan"></i>
+                                    <p>600 sq. feet</p>
+                                </div>
+                                <div class="column one-fourth">
+                                    <i class="moon-house-dimensions"></i>
+                                    <p>30' x 20'</p>
+                                </div>
+                                <div class="column one-fourth">
+                                    <i class="moon-estate-money"></i>
+                                    <p>25k - 35k</p>
+                                </div>
+                                <div class="column one-fourth">
+                                    <i class="moon-floor-plans"></i>
+                                    <p>1 floor</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

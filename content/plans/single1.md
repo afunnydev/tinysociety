@@ -19,7 +19,9 @@ slider:
   - image: /img/awesome-tiny-house-interior-2.jpg
   ## - image: /img/awesome-tiny-house-interior-4.jpg    
 collections:
-  - Tiny house plans
+  - Tiny House
+  - California Style
+  - Tiny Cabin
 notloaded:
   need: true
 i18nlanguage: en

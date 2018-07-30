@@ -717,18 +717,36 @@ body.no-content-padding:not(.with_aside).plan-page {
 						font-size: 45px;
 						line-height: 50px;
 					}
+					.icons {
+						margin-top: 40px;
+						.column {
+							text-align: center;
+							color: black;
+							i {
+								font-size: 60px;
+							}
+							p {
+								margin-top: 20px;
+							}
+						}
+					}
 					.moon-category {
 						position: relative;
-						top: 2px;
-						font-size: 15px;
+						top: 6px;
+						font-size: 30px;
 						&:before {
-							color: white
+							color: black;
+						}
+					}
+					div.categories {
+						span, a {
+							color: black;
 						}
 					}
 				}
 			}
 			.slider-container {
-				width: 64% !important;
+				width: 63% !important;
     			float: left !important;
     			padding-left: 8px !important;
 			    padding-right: 8px !important;
