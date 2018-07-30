@@ -152,8 +152,6 @@ Here are a few examples showing the range of possibilities:
 * Construction price
   * If the plans don't include this information, here's a **[free online construction cost calculator that you can use](http://www.building-cost.net/Valuation/Start)**.
 
-
-
 **Depending on your situation, you might need some extra information:**
 
 * Step-by-step instructions (if planning to build it yourself)
@@ -180,8 +178,6 @@ Here are a few examples showing the range of possibilities:
   * Are the plans available as customizable digital files (e.g. for SketchUp or Autocad)
   * Is a 3D SketchUp model provided? (This will allow you to interactively view the model from any angle in SketchUp)
   * Are printed copies provided? If not, will you need to employ print shop services for larger format prints (e.g. 24"x36")?
-
-
 
 ## DIY Tiny House plans
 
@@ -315,6 +311,7 @@ Find plans for the Lookout Cabin here: <http://www.todaysplans.com/DO-Lookout-1-
 * <https://tinyhousedesign.com/free-plans/>
 * <http://www.theclassicarchives.com/> 
 * <http://todaysplans.com/> 
+* <https://tinyhouseplans.com>
 
 ## Tiny House Plans for Sale
 

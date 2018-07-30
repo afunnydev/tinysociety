@@ -1,5 +1,65 @@
 <div id="Header_wrapper">
     <header id="Header">
+        {{ if (eq .Type "plans")}}
+        <div id="Top_bar" class="plans-menu">
+            <div class="container">
+                <div class="column one">
+                    <div class="top_bar_left clearfix" style="width: 100%;">
+                        <div class="logo">
+                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0">
+                                {{ if (eq .Type "plans") }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-tiny-house.png" data-retina="/img/logo-tiny-house.png" data-height="36" alt="mockup">
+                                {{ else }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                {{ end }}
+                                <img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                            </a>
+                        </div>
+                        <div class="menu_wrapper">
+                            <nav id="menu" class="menu-main-menu-container">
+                                <ul id="menu-main-menu" class="menu">
+                                    <li class="current_page_item">
+                                        <a href="index-lifestyle.html"><span>Home</span></a>
+                                    </li>
+                                    <li class="">
+                                        <a href="content/lifestyle/category-page.html"><span>Hot articles</span></a>
+                                    </li>
+                                    <li class="">
+                                        <a href="content/lifestyle/category-page.html"><span>People</span></a>
+                                    </li>
+                                    <li class="">
+                                        <a href="content/lifestyle/category-page.html"><span>Places</span></a>
+                                    </li>
+                                    <li class="">
+                                        <a href="content/lifestyle/category-page.html"><span>Stories</span></a>
+                                    </li>
+                                    <li class="">
+                                        <a href="content/lifestyle/about-us.html"><span>About us</span></a>
+                                    </li>
+                                    <li class="last">
+                                        <a href="content/lifestyle/contact.html"><span>Contact</span></a>
+                                    </li>
+                                    <li class="last">
+                                        <a target="_blank" href="http://bit.ly/1M6lijQ"><span><span style="padding: 0; color: #f3c070;">Buy now</span></span></a>
+                                    </li>
+                                </ul>
+                            </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu"></i></a>
+                        </div>
+                        <div class="secondary_menu_wrapper"></div>
+                        <div class="banner_wrapper"></div>
+                        <div class="search_wrapper">
+                            <form method="get" id="searchform" action="#">
+                                <i class="icon_search icon-search"></i><a href="#" class="icon_close"><i class="icon-cancel"></i></a>
+                                <input type="text" class="field" name="s" id="s" placeholder="Enter your search">
+                                <input type="submit" class="submit" value="" style="display:none;">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ else }}
         <div id="Overlay">
             <nav id="overlay-menu">
                 <ul id="menu-main-menu" class="menu overlay-menu">
@@ -54,5 +114,6 @@
                 </div>
             </div>
         </div>
+        {{ end }}
     </header>
 </div>

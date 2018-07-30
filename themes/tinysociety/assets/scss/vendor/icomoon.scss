@@ -36,6 +36,22 @@
 .moon-financement:before {
   content: "\e911";
 }
+.moon-estate-money:before {
+  content: "\e922";
+}
+.moon-money-estimate:before {
+  content: "\e920";
+  color: #525d7d;
+}
+.moon-buy:before {
+  content: "\e921";
+}
+.moon-house-price-tag-2:before {
+  content: "\e912";
+}
+.moon-house-price-tag:before {
+  content: "\e91f";
+}
 .moon-floor-plans:before {
   content: "\e918";
 }
@@ -57,12 +73,8 @@
 .moon-kitchen-table:before {
   content: "\e91e";
 }
-.moon-economy:before {
-  content: "\e912";
-}
 .moon-tinyhouse:before {
   content: "\e913";
-  color: #9d9fa0;
 }
 .moon-car-house:before {
   content: "\e914";

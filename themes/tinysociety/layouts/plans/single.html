@@ -2,7 +2,7 @@
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
 <div id="plan">
-    <div id="Intro" class="parallax{{ if .Params.overlay }} overlayed{{ end }}{{ if .Params.notloaded }} not-loaded"{{ else }}" style="background-image: url('/half{{- .Params.image -}}')"{{ end }} data-enllax-ratio="-0.3" data-large="/half{{- .Params.image -}}">
+    <!-- <div id="Intro" class="parallax{{ if .Params.overlay }} overlayed{{ end }}{{ if .Params.notloaded }} not-loaded"{{ else }}" style="background-image: url('/half{{- .Params.image -}}')"{{ end }} data-enllax-ratio="-0.3" data-large="/half{{- .Params.image -}}">
         {{ if .Params.overlay }}
         <div class="opacity-medium bg-extra-dark-gray"></div>
         {{ end }}
@@ -27,53 +27,83 @@
         <div class="intro-next">
             <i class="icon-down-open-big"></i>
         </div>
-    </div>
-    <div id="Content">
-        <div class="content_wrapper clearfix">
-            <div class="sections_group">
-                <div class="post format-standard has-post-thumbnail category-hot-articles">
-                    <div class="post-wrapper-content">
-                        <div class="section mcb-section equal-height" style="padding-top:50px;padding-bottom:0px; ">
-                            <div class="section_wrapper mcb-section-inner">
+    </div> -->
+    <div id="Intro">
+        <div class="container section equal-height">
+            <div class="column one mcb-wrap-inner">
+                <div class="title-container column">
+                    <div style="width: 100% !important; height: 100%; background-color: #dddcd1; ">
+                        <div class="title-holder">
+                            <h1>This is an awesome plan name</h1>
+                            <!-- {{ if isset .Params "author" }}
+                                {{ $author := index .Site.Data.architects .Params.author }}
+                                <div class="author">
+                                    <i class="icon-user"></i><span>{{ $author.name }}</span>
+                                </div>
+                            {{ end }}
+                            <div class="categories">
+                                <i class="moon-category"></i><span>
+                                    {{ range $i, $e := .Params.collections }}{{ if $i }},{{ end }}
+                                    <a href="{{ $.Site.BaseURL }}collections/{{ $e | urlize }}">{{ $e }}</a>
+                                    {{end}}
+                                </span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="slider-container column">
+                    <div style="width: 100% !important;">
+                        <div class="section mcb-section equal-height" style="max-width: 100%;">
+                            <div class="mcb-section-inner">
                                 <div class="wrap mcb-wrap one valign-top clearfix" >
                                     <div class="mcb-wrap-inner">
                                         <div class="column mcb-column column_column content slider-left-column" id="content">
                                             <div class="column_attr">
                                                 <div class="plans-slider-container">
-                                                	<div class="plans-slider-images">
-														{{ range .Params.slider }}
-														<div class="plans-slider-image">
-															<img src="{{ .image }}" alt="" style="width: 100%;">
-														</div>
-														{{ end }}
-													</div>
-													<ul class="plans-slider-arrows">
-											            <li class="image-navigation__prev">
-											              <span class="icon-left-open"></span>
-											            </li>
-											            <li class="image-navigation__next">
-											              <span class="icon-right-open"></span>
-											            </li>
-											          </ul>
-												</div>
+                                                    <div class="plans-slider-images">
+                                                        {{ range .Params.slider }}
+                                                        <div class="plans-slider-image">
+                                                            <img src="{{ .image }}" alt="" style="width: 100%;">
+                                                        </div>
+                                                        {{ end }}
+                                                    </div>
+                                                    <ul class="plans-slider-arrows">
+                                                        <li class="image-navigation__prev">
+                                                          <span class="icon-left-open"></span>
+                                                        </li>
+                                                        <li class="image-navigation__next">
+                                                          <span class="icon-right-open"></span>
+                                                        </li>
+                                                      </ul>
+                                                </div>
                                             </div>
                                             <!-- {{- partial "site/post-author.html" . -}} -->
                                         </div>
                                         <div class="column mcb-column column_placeholder slider-right-column">
                                             <div class="column_attr">
-                                            	<ul class="plans-slider-navigation">
-													{{ range .Params.slider }}
-													<li class="plans-slider-item">
-														<img src="/quart{{ .image }}" alt="" style="width: 100%;">
-													</li>
-													{{ end }}
-												</ul>
+                                                <ul class="plans-slider-navigation">
+                                                    {{ range .Params.slider }}
+                                                    <li class="plans-slider-item">
+                                                        <img src="/quart{{ .image }}" alt="" style="width: 100%;">
+                                                    </li>
+                                                    {{ end }}
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="Content">
+        <div class="content_wrapper clearfix">
+            <div class="sections_group">
+                <div class="post format-standard has-post-thumbnail category-hot-articles">
+                    <div class="post-wrapper-content">
                         <div class="section mcb-section" style="padding-top:50px;padding-bottom:0px; margin-bottom: 30px ">
                             <div class="section_wrapper mcb-section-inner plan-main-section">
                                 <div class="wrap mcb-wrap one  valign-top clearfix">

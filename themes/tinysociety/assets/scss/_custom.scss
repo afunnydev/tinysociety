@@ -100,7 +100,7 @@
 /********** HEADER **********/
 
 // To fix the logo moving on load
-#Top_bar .top_bar_left {
+#Top_bar:not(.plans-menu) .top_bar_left {
 	width: 100%
 }
 
@@ -655,42 +655,158 @@ body.no-content-padding:not(.with_aside).plan-page {
 }
 
 /******** PLAN *********/
+.plan-page {
+	#Top_bar.plans-menu {
+		top: 15px;
+		.container {
+			width: 100%;
+			max-width: 1600px;
+		}
+		.menu>li>a {
+			color: black;
+		}
+	}
+}
 #plan {
 	font-size: 1.3em;
 	background: $gray !important;
 	background-color: $gray !important;
 	#Intro {
-		background-repeat:no-repeat;
-		background-position:center center;
-		background-attachment:fixed;
-		background-size:cover;
-		-webkit-background-size:cover;
-		h1.intro-title {
-			font-size: 45px;
-			line-height: 50px;
-		}
-		.moon-category {
-			position: relative;
-			top: 2px;
-			font-size: 15px;
-			&:before {
-				color: white
+		// background-repeat:no-repeat;
+		// background-position:center center;
+		// background-attachment:fixed;
+		// background-size:cover;
+		// -webkit-background-size:cover;
+		// h1.intro-title {
+		// 	font-size: 45px;
+		// 	line-height: 50px;
+		// }
+		// .moon-category {
+		// 	position: relative;
+		// 	top: 2px;
+		// 	font-size: 15px;
+		// 	&:before {
+		// 		color: white
+		// 	}
+		// }
+		// .intro-inner {
+		// 	padding:200px 10% 125px;
+		// }
+		padding-top: 90px;
+		background-color: #f0f1f2;
+		.container {
+			width: 100%;
+			max-width: 1600px;
+			.title-container {
+				width: 33.33333333333333% !important;
+    			float: left !important;
+    			padding-left: 8px !important;
+			    padding-right: 8px !important;
+			    min-height: 1px !important;
+			    position: relative !important;
+			    &.column {
+			    	margin: 0 !important;
+			    }
+			    .title-holder {
+					background-color: #dddcd1;
+					max-width: 100% !important;
+				    max-height: 100% !important;
+				    padding: 40px !important;
+				    text-align: left;
+				    h1 {
+						font-size: 45px;
+						line-height: 50px;
+					}
+					.moon-category {
+						position: relative;
+						top: 2px;
+						font-size: 15px;
+						&:before {
+							color: white
+						}
+					}
+				}
 			}
-		}
-		.intro-inner {
-			padding:200px 10% 125px;
+			.slider-container {
+				width: 64% !important;
+    			float: left !important;
+    			padding-left: 8px !important;
+			    padding-right: 8px !important;
+			    min-height: 1px !important;
+			    position: relative !important;
+			    &.column {
+			    	margin: 0 !important;
+			    }
+			    .plans-slider-container {
+					position: relative;
+					.plans-slider-arrows {
+						position: absolute;
+					    display: flex;
+					    justify-content: space-between;
+					    width: 100%;
+					    top: 50%;
+					    transform: translateY(-50%);
+					    transition: 0.3s all ease-out;
+					    margin: 0;
+					    padding: 0;
+					    list-style-type: none; 
+					    li {
+					    	display: inline-block;
+						    width: 60px;
+						    height: 60px;
+						    background-color: rgba(0, 0, 0, 0.8);
+						    color: #ffffff;
+						    line-height: 60px;
+						    font-size: 30px;
+						    text-align: center;
+						    cursor: pointer;
+						    margin: 0;
+						    padding: 0;
+						    list-style-type: none;
+					    }
+					}
+				}
+				.plans-slider-navigation {
+					background: white !important;
+					background-color: white !important;
+					padding: 60px 20px;
+					height: 100%;
+					span.nav-arrow {
+					    position: absolute;
+					    left: 50%;
+					    font-size: 30px;
+					    transform: translateX(-50%) rotate(90deg);
+					    &.icon-left-open {
+					    	top: 10px;
+					    }
+					    &.icon-right-open {
+					    	bottom: 10px;
+					    }
+					}
+				}
+				.slider-left-column {
+					width: 100%;
+					margin: 0
+				}
+				.slider-right-column {
+					width: 1%;
+					margin: 0;
+					display: none;
+				}
+			}
+
 		}
 	}
 	#Content {
+		a.plan_cta {
+			background: $orange !important;
+			border-color: $orange !important;
+			color: white !important;
+		}
 		.section_wrapper, .container {
 			width: 960px;
-			.slider-left-column {
-				width: 83%;
-				margin: 0
-			}
-			.slider-right-column {
-				width: 16%;
-				margin: 0
+			p, label, div {
+				color: black;
 			}
 		}
 		.plans-slider-container {
@@ -1060,10 +1176,10 @@ h6.regular-text {
 	.header-overlay .header_cta, div.social-icons {
 		display: none;
 	}
-	#Top_bar #logo img.logo-main {
+	#Top_bar:not(.plans-menu) #logo img.logo-main {
 		display: none;
 	}
-	#Top_bar #logo img.logo-mobile {
+	#Top_bar:not(.plans-menu) #logo img.logo-mobile {
 		display: inline-block;
 	}
 	h1.home-title {
@@ -1285,12 +1401,12 @@ h6.regular-text {
 }
 
 @media only screen and (min-width: 768px) {
-	#Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
+	#Top_bar:not(.plans-menu) #logo, .header-plain #Top_bar:not(.plans-menu) #logo, .header-transparent #Top_bar:not(.plans-menu) #logo {
 		height: $logo_height;
 		line-height: $logo_height;
 		padding: 0px 0;
 	}
-	#Top_bar #logo {
+	#Top_bar:not(.plans-menu) #logo {
 		display: block;
 		height: $logo_height;
 		line-height: $logo_height;
@@ -1298,7 +1414,7 @@ h6.regular-text {
 		text-align: center;
 		margin-left: 21px
 	}
-	#Top_bar .logo {
+	#Top_bar:not(.plans-menu) .logo {
 		float: none;
 	}
 }	
