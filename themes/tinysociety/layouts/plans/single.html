@@ -2,32 +2,6 @@
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
 <div id="plan">
-    <!-- <div id="Intro" class="parallax{{ if .Params.overlay }} overlayed{{ end }}{{ if .Params.notloaded }} not-loaded"{{ else }}" style="background-image: url('/half{{- .Params.image -}}')"{{ end }} data-enllax-ratio="-0.3" data-large="/half{{- .Params.image -}}">
-        {{ if .Params.overlay }}
-        <div class="opacity-medium bg-extra-dark-gray"></div>
-        {{ end }}
-        <div class="intro-inner">
-            <h1 class="intro-title">{{ .Params.listing.title }}</h1>
-            <div class="intro-meta">
-                {{ if isset .Params "author" }}
-                    {{ $author := index .Site.Data.architects .Params.author }}
-                    <div class="author">
-                        <i class="icon-user"></i><span>{{ $author.name }}</span>
-                    </div>
-                {{ end }}
-                <div class="categories">
-                    <i class="moon-category"></i><span>
-                        {{ range $i, $e := .Params.collections }}{{ if $i }},{{ end }}
-                        <a href="{{ $.Site.BaseURL }}collections/{{ $e | urlize }}">{{ $e }}</a>
-                        {{end}}
-                    </span>
-                </div>
-            </div>
-        </div>
-        <div class="intro-next">
-            <i class="icon-down-open-big"></i>
-        </div>
-    </div> -->
     <div id="Intro">
         <div class="container section">
             <div class="column one mcb-wrap-inner">
@@ -79,7 +53,6 @@
                                                       </ul>
                                                 </div>
                                             </div>
-                                            <!-- {{- partial "site/post-author.html" . -}} -->
                                         </div>
                                         <div class="column mcb-column column_placeholder slider-right-column">
                                             <div class="column_attr">
@@ -97,15 +70,18 @@
                             </div>
                         </div>
                     </div>
-                    <div class="slider-cta">
-                        
+                    <div class="love-cta slider-cta">
+                        <a href='#Description' class="button button_theme button_js action_button neutral_theme" target="_blank"><span class="button_label"><i class="moon-heart_empty"></i></span></a>
+                    </div>
+                    <div class="slider-cta details-cta">
+                        <a href='#Description' class="button button_theme button_js action_button neutral_theme" target="_blank"><span class="button_label">MORE DETAILS</span></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <div id="Content">
-        <div class="content_wrapper clearfix">
+        <div class="content_wrapper clearfix" id="Description">
             <div class="sections_group">
                 <div class="post format-standard has-post-thumbnail category-hot-articles">
                     <div class="post-wrapper-content">
