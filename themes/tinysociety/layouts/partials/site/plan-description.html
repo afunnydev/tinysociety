@@ -1,80 +1,59 @@
 <!-- <h4>Awesome Tiny Cabin </h4> -->
 <div class="desc-row icons">
 	<h3>Key specs</h3>
+	{{ with .Params.section1 }}
 	<div class="column one-fourth">
 		<i class="moon-simple-plan"></i>
-		<p>600 sq. feet</p>
+		<p>{{ .area }}</p>
 	</div>
 	<div class="column one-fourth">
 		<i class="moon-house-dimensions"></i>
-		<p>30' x 20'</p>
+		<p>{{ .dimensions }}</p>
 	</div>
 	<div class="column one-fourth">
 		<i class="moon-estate-money"></i>
-		<p>25k - 35k</p>
+		<p>{{ .cost }}</p>
 	</div>
 	<div class="column one-fourth">
 		<i class="moon-floor-plans"></i>
-		<p>1 floor</p>
+		<p>{{ .floor }}</p>
 	</div>
+	{{ end }}
 </div>
 <div class="desc-row">
 	<h3>Plan description</h3>
 	<div class="column one">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus inventore fugit repellat. Dignissimos beatae recusandae, voluptatum vitae rerum praesentium, animi atque numquam cumque dolores tempore repellendus, voluptas illo tempora perferendis.</p>
+		<p>{{ .Params.section2 | markdownify }}</p>
 	</div>
 </div>
 <div class="desc-row">
 	<h3>Floor plans</h3>
+	{{ range .Params.section3 }}
 	<div class="column one">
-		<p>First Floor Simplifed Plan</p>
-		<img src="/img/awesome-tiny-house-plan-simplified-1.jpg" alt="First Floor">
+		<p>{{ .title }}</p>
+		<img src="/half/{{ .image }}" alt="{{ .title }}">
 	</div>
-	<div class="column one">
-		<p>Second Floor Simplifed Plan</p>
-		<img src="/img/awesome-tiny-house-plan-simplified-2.jpg" alt="Second Floor">
-	</div>
+	{{ end }}
 </div>
 <div class="desc-row specs">
 	<h3>Full specs & features</h3>
+	{{ range .Params.section4 }}
 	<div class="wrap mcb-wrap one valign-top clearfix">
 		<div class="column one-third">
-			<p>Basic features</p>
+			<p>{{ .title }}</p>
 		</div>
 		<div class="column one-third">
-			<span>Bedrooms: 3</span>
-			<span>Stories: 1</span>
+			{{ range .col1 }}
+			<span>{{ .title }}: {{ .value }}</span>
+			{{ end }}
 		</div>
 		<div class="column one-third">
-			<span>Baths: 2.5</span>
-			<span>Garages: 3</span>
+			{{ range .col2 }}
+			<span>{{ .title }}: {{ .value }}</span>
+			{{ end }}
 		</div>
 	</div>
-	<div class="wrap mcb-wrap one valign-top clearfix">
-		<div class="column one-third">
-			<p>Dimension</p>
-		</div>
-		<div class="column one-third">
-			<span>Width: 20'</span>
-			<span>Height: 15'</span>
-		</div>
-		<div class="column one-third">
-			<span>Depth: 20'</span>
-		</div>
-	</div>
-	<div class="wrap mcb-wrap one valign-top clearfix">
-		<div class="column one-third">
-			<p>Area</p>
-		</div>
-		<div class="column one-third">
-			<span>Total: 600 sq/ft</span>
-			<span>Main Floor: 400 sq/ft</span>
-			<span>Second Floor: 200 sq/ft</span>
-		</div>
-		<div class="column one-third">
-			<span>Bonus: 150 sq/ft</span>
-		</div>
-	</div>
+	{{ end }}
 </div>
 <div class="desc-row included">
 	<h3>What's included in this plan set?</h3>

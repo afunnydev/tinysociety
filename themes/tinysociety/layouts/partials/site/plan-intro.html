@@ -1,0 +1,83 @@
+<div class="column one mcb-wrap-inner">
+    <div class="title-container column">
+        <div class="title-box">
+            <div class="title-holder">
+                {{ if isset .Params "architect" }}
+                    {{ $architect := index .Site.Data.architects .Params.architect }}
+                    <div class="profile">
+                        <img src="{{ $architect.image }}" alt="{{ $architect.name }}">
+                        <div class="architect-info">
+                            <p class="architect-name">By {{ $architect.name }}</span>
+                            <p class="architect-description">{{ $architect.bio }}</span>
+                        </div>
+                    </div>
+                {{ end }}
+                <div class="categories">
+                    <span>
+                        {{ range $i, $e := .Params.collections }}{{ if $i }},{{ end }}
+                        <a href="{{ $.Site.BaseURL }}collections/{{ $e | urlize }}">{{ $e }}</a>
+                        {{end}}
+                    </span>
+                </div>
+                <div class="reviews">
+                    <i class="icon-star"></i>
+                    <i class="icon-star"></i>
+                    <i class="icon-star"></i>
+                    <i class="icon-star"></i>
+                    <i class="icon-star"></i>
+                    <span>{{ .Params.rating }}</span>
+                </div>
+                <h1>{{ .Params.listing.title }}</h1>
+            </div>
+        </div>
+    </div>
+    <div class="slider-container column">
+        <div style="width: 100% !important;">
+            <div class="section mcb-section" style="max-width: 100%;">
+                <div class="mcb-section-inner">
+                    <div class="wrap mcb-wrap one valign-top clearfix" >
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column column_column content slider-left-column" id="content">
+                                <div class="column_attr">
+                                    <div class="plans-slider-container">
+                                        <div class="plans-slider-images">
+                                            {{ range .Params.slider }}
+                                            <div class="plans-slider-image" style="background-image: url('{{ .image }}');">
+                                            </div>
+                                            {{ end }}
+                                        </div>
+                                        <ul class="plans-slider-arrows">
+                                            <li class="image-navigation__prev">
+                                              <span class="icon-left-open"></span>
+                                            </li>
+                                            <li class="image-navigation__next">
+                                              <span class="icon-right-open"></span>
+                                            </li>
+                                          </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column mcb-column column_placeholder slider-right-column">
+                                <div class="column_attr">
+                                    <ul class="plans-slider-navigation">
+                                        {{ range .Params.slider }}
+                                        <li class="plans-slider-item">
+                                            <img src="/quart{{ .image }}" alt="" style="width: 100%;">
+                                        </li>
+                                        {{ end }}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="love-cta slider-cta">
+            <a href='#Description' class="button button_theme button_js action_button neutral_theme" target="_blank"><span class="button_label"><i class="moon-heart_empty"></i></span></a>
+        </div>
+        <div class="slider-cta details-cta">
+            <a href='#Description' class="button button_theme button_js action_button neutral_theme" target="_blank"><span class="button_label">MORE DETAILS</span></a>
+        </div>
+    </div>
+</div>

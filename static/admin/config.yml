@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   accept_roles: #optional - accepts all users if left out
     - admin
-  branch: development # Branch to update (master by default)
+  branch: plan # Branch to update (master by default)
 
 media_folder: "themes/tinysociety/source-images" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with
@@ -60,6 +60,80 @@ collections:
       - {label: "Infographic?", name: "infographic", widget: "boolean", required: false, default: false}
       - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
+  - name: "plans" # Used in routes, e.g. /admin/collections/blog
+    label: "Plans" # Used in the UI
+    folder: "content/plans" # The path to the folder where the documents are stored
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    create: true # Allow users to create new documents in this collection
+    filter: 
+      field: "i18nlanguage"
+      value: "en"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Description", name: "description", widget: "text", required: false}
+      - {label: "Slug/Link (if link is https://www.tinysociety.co/plans/tiny-house-roof, value is tiny-house-roof)", name: "slug", widget: "string", default: "this-is-an-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+      - label: "Architect" 
+        name: "architect"
+        widget: "select"
+        options:
+          - { label: "Hesham Younis", value: "hesham" }
+          - { label: "Anastasia", value: "anastasia" }
+      - {label: "Share image (ideally rectangle - 1200px x 630px)", name: "image", widget: "image" , required: false}
+      - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - name: listing
+        label: "Plan page and shop page"
+        widget: object
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Main Image (rectangle - 1080px by 720px)", name: "image", widget: "image", required: false}
+      - name: slider
+        label: "Images for slider (rectangle - 2000px x 1200px"
+        widget: list
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Image (rectangle - 2000px by 1200px)", name: "image", widget: "image", required: false}
+      - {label: "Rating", name: "rating", widget: "string"}
+      - {label: "Collections (separate with commas)", name: "collections", widget: "list"}
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
+      - {label: "Menu ID", name: "menuid", widget: "hidden", default: "plans"}
+      - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
+      - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
+      - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
+      - name: section1
+        label: "Key Features"
+        widget: object
+        fields:
+          - {label: "Area", name: "area", widget: "string"}
+          - {label: "Dimensions", name: "dimensions", widget: "string"}
+          - {label: "Cost", name: "cost", widget: "string"}
+          - {label: "Nb of floor", name: "floor", widget: "string"}
+      - {label: "Plan description", name: "section2", widget: "markdown", required: false}
+      - name: section3
+        label: "Floor plans"
+        widget: list
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Floor Image", name: "image", widget: "image", required: false}
+      - name: section4
+        label: "Full specs & features"
+        widget: list
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - name: col1
+            label: "Middle Column"
+            widget: list
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Value", name: "value", widget: "string"}
+          - name: col2
+            label: "Last Column"
+            widget: list
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Value", name: "value", widget: "string"}
 #   - name: "articles-en" # Used in routes, e.g. /admin/collections/blog
 #     label: "Articles - EN" # Used in the UI
 #     folder: "content/articles" # The path to the folder where the documents are stored
