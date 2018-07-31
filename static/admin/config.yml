@@ -127,11 +127,13 @@ collections:
           - name: col1
             label: "Middle Column"
             widget: list
+            fields:
               - {label: "Name", name: "title", widget: "string"}
               - {label: "Value", name: "value", widget: "string"}
-          - name: col2
+          - name: col1
             label: "Last Column"
             widget: list
+            fields:
               - {label: "Name", name: "title", widget: "string"}
               - {label: "Value", name: "value", widget: "string"}
 #   - name: "articles-en" # Used in routes, e.g. /admin/collections/blog
