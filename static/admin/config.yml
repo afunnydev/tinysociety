@@ -130,7 +130,7 @@ collections:
             fields:
               - {label: "Name", name: "title", widget: "string"}
               - {label: "Value", name: "value", widget: "string"}
-          - name: col1
+          - name: col2
             label: "Last Column"
             widget: list
             fields:
