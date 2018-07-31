@@ -656,6 +656,12 @@ body.no-content-padding:not(.with_aside).plan-page {
 
 /******** PLAN *********/
 .plan-page {
+	&.header-overlay .overlay-menu-toggle {
+		left: inherit;
+		right: 30px;
+		color: $brown !important;
+		display: none !important;
+	}
 	#Top_bar.plans-menu {
 		top: 15px;
 		.container {
@@ -665,6 +671,16 @@ body.no-content-padding:not(.with_aside).plan-page {
 		.menu>li>a {
 			color: black;
 		}
+		#new-menu>ul>li>a, .action_button {
+			font-size: 18px;
+			font-family: $hfont;
+			span {
+				border: none !important;
+			}
+		}
+		.menu_wrapper {
+			float: right !important;
+		}
 	}
 }
 #plan {
@@ -672,28 +688,8 @@ body.no-content-padding:not(.with_aside).plan-page {
 	background: $gray !important;
 	background-color: $gray !important;
 	#Intro {
-		// background-repeat:no-repeat;
-		// background-position:center center;
-		// background-attachment:fixed;
-		// background-size:cover;
-		// -webkit-background-size:cover;
-		// h1.intro-title {
-		// 	font-size: 45px;
-		// 	line-height: 50px;
-		// }
-		// .moon-category {
-		// 	position: relative;
-		// 	top: 2px;
-		// 	font-size: 15px;
-		// 	&:before {
-		// 		color: white
-		// 	}
-		// }
-		// .intro-inner {
-		// 	padding:200px 10% 125px;
-		// }
 		padding-top: 90px;
-		background-color: #f0f1f2;
+		background-color: white;
 		.container {
 			width: 100%;
 			max-width: 1600px;
@@ -707,15 +703,41 @@ body.no-content-padding:not(.with_aside).plan-page {
 			    &.column {
 			    	margin: 0 !important;
 			    }
+			    .title-box {
+			    	width: 100% !important; 
+			    	height: 600px; 
+			    	background-color: #f2f2f2; 
+			    }
 			    .title-holder {
-					background-color: #dddcd1;
+					background-color: #f2f2f2;
 					max-width: 100% !important;
 				    max-height: 100% !important;
 				    padding: 40px !important;
 				    text-align: left;
+				    box-sizing: border-box;
+				    img {
+				    	width: 80px; 
+				    	margin-bottom: 30px;
+				    }
 				    h1 {
 						font-size: 45px;
 						line-height: 50px;
+						font-family: $pfont;
+						font-weight: 500;
+						letter-spacing: 2px;
+					}
+					div.reviews {
+						margin-bottom: 50px;
+						i {
+							color: $orange;
+							font-size: 15px;
+							margin: 0 -5px;
+						}
+						span {
+							color: black;
+							margin-left: 5px;
+							font-size: 14px;
+						}
 					}
 					.icons {
 						margin-top: 40px;
@@ -730,17 +752,13 @@ body.no-content-padding:not(.with_aside).plan-page {
 							}
 						}
 					}
-					.moon-category {
-						position: relative;
-						top: 6px;
-						font-size: 30px;
-						&:before {
-							color: black;
-						}
-					}
 					div.categories {
 						span, a {
 							color: black;
+							text-transform: uppercase;
+							font-family: $hfont;
+							letter-spacing: 2px;
+							font-size: 12px;
 						}
 					}
 				}
@@ -757,6 +775,13 @@ body.no-content-padding:not(.with_aside).plan-page {
 			    }
 			    .plans-slider-container {
 					position: relative;
+					.plans-slider-image {
+						width: 100%; 
+						height: 600px; 
+						background-size: cover; 
+						background-position: center center; 
+						background-repeat: no-repeat;
+					}
 					.plans-slider-arrows {
 						position: absolute;
 					    display: flex;
@@ -816,6 +841,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 		}
 	}
 	#Content {
+		background: white;
 		a.plan_cta {
 			background: $orange !important;
 			border-color: $orange !important;
@@ -878,8 +904,8 @@ body.no-content-padding:not(.with_aside).plan-page {
 			margin-left: 2%;
 		}
 		#plan-options {
-			background: white !important;
-			background-color: white !important;
+			background: #f2f2f2 !important;
+			background-color: #f2f2f2 !important;
 			padding: 20px 20px;
 			border-radius: 4px;
 			position: relative;
@@ -971,8 +997,8 @@ body.no-content-padding:not(.with_aside).plan-page {
 			}
 		}
 		#cost-to-build {
-			background: white !important;
-			background-color: white !important;
+			background: #f2f2f2 !important;
+			background-color: #f2f2f2 !important;
 			padding: 20px 20px;
 			border-radius: 4px;
 			position: relative;
@@ -1317,7 +1343,46 @@ h6.regular-text {
 		// 	padding-top: 100px !important;
 		// }
 		.overlay-menu-toggle {
-			color: $gray !important;
+			color: $brown !important;
+		}
+	}
+	.plan-page {
+		&.header-overlay .overlay-menu-toggle {
+			display: block !important;
+		}
+		#Top_bar.plans-menu {
+			background-color: white !important;
+			background: white !important;
+			top: 0;
+			.logo {
+				text-align: left;
+				width: initial;
+				#logo {
+					margin-left: 10px;
+				}
+			}
+			.menu_wrapper {
+				display: none !important;
+			}
+		}
+	}
+	#plan {
+		#Intro {
+			.container {
+				.title-container {
+					display: none !important;
+				}
+				.slider-container {
+					width: 100% !important;
+					padding-left: 0 !important;
+					padding-right: 0 !important;
+					.plans-slider-container {
+						.plans-slider-image {
+							height: 400px !important;
+						}
+					}
+				}
+			}
 		}
 	}
 }
@@ -1455,6 +1520,38 @@ h6.regular-text {
 			}
 		}
 	}
+	#plan {
+		#Intro {
+			.container {
+				.title-container {
+					width: 45% !important;
+					.title-box {
+						height: 375px !important;
+						.title-holder {
+							h1 {
+								font-size: 30px;
+								line-height: 45px;
+							}
+							img {
+								margin-bottom: 20px;
+							}
+							div.reviews {
+								margin-bottom: 30px;
+							}
+						}
+					}
+				}
+				.slider-container {
+					width: 50% !important;
+					.plans-slider-container {
+						.plans-slider-image {
+							height: 375px !important;
+						}
+					}
+				}
+			}
+		}
+	}
 }
 @media only screen and (min-width: 960px) and (max-width: 1239px) {
 	#blog {
@@ -1473,6 +1570,39 @@ h6.regular-text {
 						}
 						.category {
 							float: left;
+						}
+					}
+				}
+			}
+		}
+	}
+	#plan {
+		#Intro {
+			.container {
+				.title-container {
+					width: 40% !important;
+					.title-box {
+						height: 450px !important;
+						.title-holder {
+							h1 {
+								font-size: 40px;
+								line-height: 45px;
+								letter-spacing: 1px;
+							}
+							img {
+								margin-bottom: 20px;
+							}
+							div.reviews {
+								margin-bottom: 35px;
+							}
+						}
+					}
+				}
+				.slider-container {
+					width: 55% !important;
+					.plans-slider-container {
+						.plans-slider-image {
+							height: 450px !important;
 						}
 					}
 				}

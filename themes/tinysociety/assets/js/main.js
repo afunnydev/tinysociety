@@ -149,6 +149,7 @@ jQuery( document ).ready(function($) {
       infinite: false,
       arrows: false,
       fade: true,
+      adaptiveHeight: false,
       asNavFor: '.plans-slider-navigation',
   });
 

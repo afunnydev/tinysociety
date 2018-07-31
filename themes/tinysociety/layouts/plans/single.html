@@ -29,44 +29,34 @@
         </div>
     </div> -->
     <div id="Intro">
-        <div class="container section equal-height">
+        <div class="container section">
             <div class="column one mcb-wrap-inner">
                 <div class="title-container column">
-                    <div style="width: 100% !important; height: 100%; background-color: #dddcd1; ">
+                    <div class="title-box">
                         <div class="title-holder">
-                            <h1>California Style Tiny Cabin</h1>
+                            <img src="/img/logo-tiny-house.png" alt="" class="logo">
                             <div class="categories">
-                                <i class="moon-category"></i>
                                 <span>
                                     {{ range $i, $e := .Params.collections }}{{ if $i }},{{ end }}
                                     <a href="{{ $.Site.BaseURL }}collections/{{ $e | urlize }}">{{ $e }}</a>
                                     {{end}}
                                 </span>
                             </div>
-                            <div class="icons">
-                                <div class="column one-fourth">
-                                    <i class="moon-simple-plan"></i>
-                                    <p>600 sq. feet</p>
-                                </div>
-                                <div class="column one-fourth">
-                                    <i class="moon-house-dimensions"></i>
-                                    <p>30' x 20'</p>
-                                </div>
-                                <div class="column one-fourth">
-                                    <i class="moon-estate-money"></i>
-                                    <p>25k - 35k</p>
-                                </div>
-                                <div class="column one-fourth">
-                                    <i class="moon-floor-plans"></i>
-                                    <p>1 floor</p>
-                                </div>
+                            <div class="reviews">
+                                <i class="icon-star"></i>
+                                <i class="icon-star"></i>
+                                <i class="icon-star"></i>
+                                <i class="icon-star"></i>
+                                <i class="icon-star"></i>
+                                <span>23</span>
                             </div>
+                            <h1>California Style Tiny Cabin For Two</h1>
                         </div>
                     </div>
                 </div>
                 <div class="slider-container column">
                     <div style="width: 100% !important;">
-                        <div class="section mcb-section equal-height" style="max-width: 100%;">
+                        <div class="section mcb-section" style="max-width: 100%;">
                             <div class="mcb-section-inner">
                                 <div class="wrap mcb-wrap one valign-top clearfix" >
                                     <div class="mcb-wrap-inner">
@@ -75,8 +65,7 @@
                                                 <div class="plans-slider-container">
                                                     <div class="plans-slider-images">
                                                         {{ range .Params.slider }}
-                                                        <div class="plans-slider-image">
-                                                            <img src="{{ .image }}" alt="" style="width: 100%;">
+                                                        <div class="plans-slider-image" style="background-image: url('{{ .image }}');">
                                                         </div>
                                                         {{ end }}
                                                     </div>
@@ -108,6 +97,9 @@
                             </div>
                         </div>
                     </div>
+                    <div class="slider-cta">
+                        
+                    </div>
                 </div>
             </div>
         </div>
@@ -135,7 +127,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="section mcb-section" style="">
+                        <div class="section mcb-section" style="background-color: #f2f2f2">
                             <div class="section_wrapper mcb-section-inner">
                             	<div class="wrap mcb-wrap one  valign-top clearfix">
                                     <div class="mcb-wrap-inner">
