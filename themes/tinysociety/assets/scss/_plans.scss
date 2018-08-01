@@ -586,7 +586,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 						.one {
 							border-bottom: none !important;
 							margin-bottom: 15px;
-							text-align: center;
+							
 						}
 						.one-third {
 							margin-bottom: 0px;
@@ -604,7 +604,16 @@ body.no-content-padding:not(.with_aside).plan-page {
 					}
 				}
 				#plan-options {
-					display: block !important
+					display: block !important;
+					ul {
+						list-style: none;
+						list-style-type: none;
+						margin: 0 !important;
+						li {
+							list-style-type: none;
+							list-style: none;
+						}
+					}
 				}
 				#cost-to-build {
 					display: block !important;
