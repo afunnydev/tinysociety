@@ -30,15 +30,23 @@
             var retinaEl = jQuery("#logo img.logo-main");
             var retinaLogoW = retinaEl.width();
             var retinaLogoH = retinaEl.height();
-            retinaEl.attr("src", "/img/logo-white-tiny-house.png").width(retinaLogoW).height(retinaLogoH);
+            retinaEl.attr("src", "/img/logo-tiny-house.png").width(retinaLogoW).height(retinaLogoH);
             var stickyEl = jQuery("#logo img.logo-sticky");
             var stickyLogoW = stickyEl.width();
             var stickyLogoH = stickyEl.height();
+            {{ if (eq .Type "plans") }}
+            stickyEl.attr("src", "/img/logo-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
+            {{ else }}
             stickyEl.attr("src", "/img/logo-white-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
+            {{ end }}
             var mobileEl = jQuery("#logo img.logo-mobile");
             var mobileLogoW = mobileEl.width();
             var mobileLogoH = mobileEl.height();
+            {{ if (eq .Type "plans") }}
+            mobileEl.attr("src", "/img/logo-tiny-house.png").width(mobileLogoW).height(mobileLogoH);
+            {{ else }}
             mobileEl.attr("src", "/img/logo-white-tiny-house.png").width(mobileLogoW).height(mobileLogoH);
+            {{ end }}
         }
     });
 </script>

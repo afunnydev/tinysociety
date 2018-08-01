@@ -131,12 +131,11 @@ jQuery( document ).ready(function($) {
         {
           breakpoint: 479,
           settings: {
-            prevArrow: '<span class="nav-arrow icon-left-open"></span>',
-            nextArrow: '<span class="nav-arrow icon-right-open"></span>',
             vertical: false,
             verticalSwiping: false,
-            slidesToShow: 2,
-            slidesToScroll: 1
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            arrows: false,
           }
         },
       ]

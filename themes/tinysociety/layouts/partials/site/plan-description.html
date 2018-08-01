@@ -26,6 +26,7 @@
 		<p>{{ .Params.section2 | markdownify }}</p>
 	</div>
 </div>
+{{- partial "site/plan-options.html" . -}}
 <div class="desc-row">
 	<h3>Floor plans</h3>
 	{{ range .Params.section3 }}
