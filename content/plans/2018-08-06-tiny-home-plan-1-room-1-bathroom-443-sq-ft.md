@@ -46,9 +46,9 @@ section3:
     image: /img/floor-plan-tiny-cabin-1.jpg
 section4:
   - col1:
-      - title: 'Height:'
+      - title: Height
         value: 13' 1"
-      - title: 'Width:'
+      - title: Width
         value: 15'
     col2:
       - title: Depth
@@ -62,10 +62,10 @@ section4:
         value: 102 sq/ft
     title: Area
   - col1:
-      - title: 'Roof Framing:'
+      - title: Roof Framing
         value: Stick
     col2:
-      - title: 'Primary Pitch:'
+      - title: Primary Pitch
         value: '5:8'
     title: Roof
   - col1:
