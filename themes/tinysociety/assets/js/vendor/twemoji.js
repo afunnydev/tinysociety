@@ -569,17 +569,33 @@ var twemoji = (function (
 jQuery( document ).ready(function($) {
   // store the array of animals for use later in the slider
   // taken from apps.timwhitlock.info <3
-  var emoji = [ "😢", "😓", "😉", "😋", "😃", "🙏", "😘", "😍", "😳" ],
+  var emoji = [ "👊", "👍", "👌", "🙏","😉", "😋", "😃", "😎", "😘", "😍", "😳", "😇", "🔥", "🚀", "🏠" ],
       // my favourite is a dog! of course!
-      mine = "🐕";
-                      
+      message = [ "You know what they say: 20$ is 20$ (thanks a lot)! 👊", 
+                  "C'mon you can do better (we still like you) 👍", 
+                  "That's like 2 whole large pizzas, thanks for that sacrifice 👌🍕", 
+                  "We can buy ourselves at least 48 beers with that 🙏🍺", 
+                  "That's great, thanks for your support! 😉💪", 
+                  "Your mama's proud of you, but we're more proud 😋👩", 
+                  "It's more than average - 'That's what she said' 😃🙈", 
+                  "Next time we see you, we promise to pay for the beer 😎🍻", 
+                  "Not sure it's possible to be kinder than you 😘🙉", 
+                  "A card saying thank you just doesn't cut it. So can you please be my Valentine, too? 😍", 
+                  "We've never see that much money 😳💰", 
+                  "Is this Christmas or what?!? 😇🎅", 
+                  "You're awesome, we can eat this week because of you! 🔥🍳", 
+                  "Are you god or something? 🚀👼", 
+                  "You're a legend, if you need a place to stay in Montreal, hit us up! 🏠"
+                ];
+  
+  var emojiComment = $(".emoji-slider-question");                   
   $(".emoji-slider")
       
       // create a slider with 14 values (0-13)
       // and the default is a cat, obviously! ( emoji[6] === "🐈" )
       .slider({
-          max: 9,
-          value: 5
+          max: 14,
+          value: 7
       })
       
       // now activate the pips and set it to have labels for all
@@ -594,21 +610,19 @@ jQuery( document ).ready(function($) {
       .on("slidechange", function( e, ui ) {
               
               // save the messages into variables
-              var mineIs = ( emoji[ui.value] === mine ) ? "Mine too!! 😂✌" : "But mine is a " + mine + "! 😞",
-                  yoursIs = "Oh golly gosh, your favourite animal is a " + emoji[ui.value] + "? — " + mineIs;
+              var happyMessage = message[ui.value];
               
               // fade the question out quickly (using css)
-              $(".emoji-slider-question")
-                  .css({ opacity: 0 });
+              emojiComment.css({ opacity: 0 });
               
               // then fade it back in with the new message
               // and use a custom function to display the emoji.
               setTimeout(function() {
                       
-                  $(".emoji-slider-question")
-                      .html( yoursIs )
-                      .css({ opacity: 1 });
-                  twemoji.parse(document.body);
+                  emojiComment.html( happyMessage );
+                  twemoji.parse(document.getElementsByClassName('emoji-slider-question')[0]);
+                  emojiComment.css({ opacity: 1 });
+                  $("span.donation").text((ui.value+1)*20);
                       
               }, 200 );
                       
