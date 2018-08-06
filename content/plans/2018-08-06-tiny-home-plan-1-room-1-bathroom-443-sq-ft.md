@@ -51,11 +51,11 @@ section4:
       - title: 'Width:'
         value: 15'
     col2:
-      - title: 'Depth:'
+      - title: Depth
         value: 39' 7"
     title: Dimensions
   - col1:
-      - title: 'Main Floor:'
+      - title: Main Floor
         value: 443 sq/ft
     col2:
       - title: Terrace
@@ -76,10 +76,11 @@ section4:
         value: Wooden studs 2" x 4"
     title: Exterior Wall Framing
   - col1:
-      - title: Covered Terraces
+      - title: ''
+        value: Covered Terraces
     title: Outdoor Spaces
   - col1:
-      - title: 'Type:'
+      - title: Type
         value: Wooden poles
     col2:
       - title: Diameter
