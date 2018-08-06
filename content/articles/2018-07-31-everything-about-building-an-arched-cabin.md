@@ -18,7 +18,8 @@ listing:
   image: /img/11224066-880444682070940-8504055399277942314-n_orig.jpg
 likes: '23'
 categories:
-  - tiny houses
+  - Tiny houses
+  - ''
 i18nlanguage: en
 menuid: articles
 ordre: '0'
