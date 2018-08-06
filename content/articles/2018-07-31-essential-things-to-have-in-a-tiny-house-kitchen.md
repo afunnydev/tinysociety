@@ -7,7 +7,7 @@ description: >
   share that a fairly normal kitchen existence CAN happen in a Tiny House.
 slug: eesentials-things-to-have-in-a-tiny-house-kitchen
 author: michelleg
-image: /img/things-to-havetiny-house-kitchen.jpg
+image: /img/kitchen-cover-image.jpg
 overlay: true
 date: '2018-07-31'
 notloaded:
@@ -19,7 +19,7 @@ listing:
     those of us who find joy and satisfaction in creating a good home-cooked
     meal, my aim here is to show that it’s possible to include almost everything
     but —or rather, including— the kitchen sink in a Tiny House kitchen. 
-  image: /img/things-to-havetiny-house-kitchen.jpg
+  image: /img/kitchen-square-image.jpg
 likes: '32'
 categories:
   - Tiny houses
