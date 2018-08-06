@@ -22,7 +22,8 @@ listing:
   image: /img/things-to-havetiny-house-kitchen.jpg
 likes: '32'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
 ordre: '0'
