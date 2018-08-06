@@ -36,7 +36,7 @@ section1:
   area: 443 sq/ft
   cost: '30,000'
   dimensions: 15' x 39' 7" (including terrace space)
-  floor: '1'
+  floor: 1 Floor
 section2: >-
   This house is ideal for two people who enjoy the feel of a modern, yet warm
   finish. With an instant to the outdoor world, this house is excellent for
