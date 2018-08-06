@@ -46,7 +46,44 @@ section3:
     image: /img/floor-plan-tiny-cabin-1.jpg
 section4:
   - col1:
-      - {}
-    title: Areas
+      - title: 'Height:'
+        value: 13' 1"
+      - title: 'Width:'
+        value: 15'
+    col2:
+      - title: 'Depth:'
+        value: 39' 7"
+    title: Dimensions
+  - col1:
+      - title: 'Main Floor:'
+        value: 443 sq/ft
+    col2:
+      - title: Terrace
+        value: 102 sq/ft
+    title: Area
+  - col1:
+      - title: 'Roof Framing:'
+        value: Stick
+    col2:
+      - title: 'Primary Pitch:'
+        value: '5:8'
+    title: Roof
+  - col1:
+      - title: Exterior Wall Finish
+        value: Wood plan cladding
+    col2:
+      - title: Framing
+        value: Wooden studs 2" x 4"
+    title: Exterior Wall Framing
+  - col1:
+      - title: Covered Terraces
+    title: Outdoor Spaces
+  - col1:
+      - title: 'Type:'
+        value: Wooden poles
+    col2:
+      - title: Diameter
+        value: 8"
+    title: Foundation
 ---
 
