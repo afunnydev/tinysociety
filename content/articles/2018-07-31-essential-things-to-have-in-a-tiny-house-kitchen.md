@@ -67,7 +67,7 @@ Here’s a list of items to think about when planning a Tiny House kitchen. Not 
 * Kitchen small appliances
 * Mini bar? (come on, some of you were thinking about this one from the very start- how will you manage without your martini shaker, shot glass collection, and that bottle of Tanqueray?)
 
-**Countertop space. **
+**Countertop space.**
 
 I don’t do a lot of baking, so this isn’t as crucial for me as it might be for someone who does. But one tip I’ll throw out there is this:  incorporating old-style pull-out cutting board surfaces can greatly increase the amount of horizontal workspace surface in your kitchen. Do pay attention to whether or not they will block drawers or doors to cabinets, refrigerator, or oven when fully extended. Or be willing to sacrifice the function of one while using the other. Using a ‘mise en place’ method of meal preparation can be very helpful, especially if all the ingredients and applicable tools are brought out to the work surfaces before beginning meal preparation. This will eliminate the need to be opening drawers and cabinet doors once the meal preparation is underway.
 
@@ -81,7 +81,7 @@ One option is to eliminate the need for cutting boards by incorporating butcher 
 
 In my opinion, there’s no need for a dishwasher in a Tiny House. Doing dishes is a simple task, even potentially therapeutic. And a dishwasher takes up too much valuable real estate in a Tiny kitchen. I keep a dish drying mat on the countertop next to my sink. But a more space-efficient idea would be a drying rack that fits directly over the sink itself, especially if it’s a two-basin sink. I chose a large single basin sink for reasons of flexibility. I use a removable tub that fits one half of the sink and effectively turns it into two basins when necessary. The tub is stored out of the way below the sink when not in use.
 
-**Oven. **
+**Oven.**
 
 ![null](/img/oven.jpg)
 
@@ -93,7 +93,7 @@ In my opinion, there’s no need for a dishwasher in a Tiny House. Doing dishes 
 
 Many star chefs will claim that there’s no substitute for cooking over flame. Thankfully, a propane stovetop is an easy option in a Tiny House. Oftentimes, propane provisions will be in place in a Tiny House for an instant hot water tank already. And cooking with propane is more efficient than electricity from an off-grid standpoint. I highly recommend including an exhaust fan in your cooktop area. Cooking odors can easily and quickly permeate an entire Tiny House. And removing fumes from propane burning appliances while in use is important.
 
-**Mini Bar. **
+**Mini Bar.**
 
 ![null](/img/minibar-cocktail.jpg)
 
