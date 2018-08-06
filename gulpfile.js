@@ -45,6 +45,9 @@ const jsFilesPlans = [
                   'themes/tinysociety/assets/js/vendor/lazyload.js',
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
                   'themes/tinysociety/assets/js/vendor/selectem.js',
+                  'themes/tinysociety/assets/js/theme/ui/jquery-ui-slider.js',
+                  'themes/tinysociety/assets/js/vendor/jquery-ui-slider-pips.js',
+                  'themes/tinysociety/assets/js/vendor/twemoji.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsFilesUI = [

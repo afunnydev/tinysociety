@@ -27,6 +27,8 @@
 	</div>
 </div>
 {{- partial "site/plan-options.html" . -}}
+<!-- {{- partial "site/cost-to-build-cta.html" . -}} -->
+{{- partial "site/customize-this-plan-cta.html" . -}}
 <div class="desc-row">
 	<h3>Floor plans</h3>
 	{{ range .Params.section3 }}
@@ -59,7 +61,7 @@
 <div class="desc-row included">
 	<h3>What's included in this plan set?</h3>
 	<div class="column one">
-		<a href="#">See a sample plan set</a>
+		<a href='{{ $.Scratch.Get "includedPage" }}'>See a sample plan set</a>
 		<ul>
 			<li>
 				<h5>Exterior Elevations</h5>
@@ -74,7 +76,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure facilis sapiente expedita modi omnis quisquam voluptatibus recusandae necessitatibus ipsam, beatae suscipit! Repellendus obcaecati, et qui eum, explicabo culpa ad consectetur.</p>
 			</li>
 		</ul>
-		<a href="#">See important information before purchasing</a>
+		<a href='{{ $.Scratch.Get "includedPage" }}'>See important information before purchasing</a>
 	</div>
 </div>
 <div class="desc-row pricing">
