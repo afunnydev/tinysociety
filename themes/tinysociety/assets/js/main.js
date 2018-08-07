@@ -160,7 +160,14 @@ jQuery( document ).ready(function($) {
       $(".plans-slider-images").slick('slickNext');
   });
   var selectemVal = document.querySelector('input[name="selectemVal"]');
-  console.log (selectemVal); // returns the selected data-val attribute from the selectem-items list
+
+  $('.toggle-give-us, .close-overlay').click(function(e) {
+    e.preventDefault();
+    $('#give-overlay').stop(true, true).fadeToggle(500);
+    var menuH = $('#Overlay #give-what-you-want').height() / 2;
+    $('#Overlay #give-what-you-want').css('margin-top', '-' + menuH + 'px');
+  });
+
   $( window ).load(function() {
     // Activate the sidebar
     $('#sidebar').stickySidebar({
@@ -175,5 +182,116 @@ jQuery( document ).ready(function($) {
         containerSelector: ".plan-main-section",
         innerWrapperSelector: '.sidebar__inner'
     });
+    // Plans Give Us What You Want
+    // taken from apps.timwhitlock.info <3
+    var emoji = [ "👊", "👍", "👌", "🙏","😉", "😋", "😃", "😎", "😘", "😍", "😳", "😇", "🔥", "🚀", "🏠" ],
+        // my favourite is a dog! of course!
+        message = [ "You know what they say: 20$ is 20$ (thanks a lot)! 👊", 
+                    "C'mon you can do better (we still like you) 👍", 
+                    "That's like 2 whole large pizzas, thanks for that sacrifice 👌🍕", 
+                    "We can buy ourselves at least 48 beers with that 🙏🍺", 
+                    "That's great, thanks for your support! 😉💪", 
+                    "Your mama's proud of you, but we're more proud 😋👩", 
+                    "It's more than average - 'That's what she said' 😃🙈", 
+                    "Next time we see you, we promise to pay for the beer 😎🍻", 
+                    "Not sure it's possible to be kinder than you 😘🙉", 
+                    "A card saying thank you just doesn't cut it. So can you please be my Valentine, too? 😍", 
+                    "We've never see that much money 😳💰", 
+                    "Is this Christmas or what?!? 😇🎅", 
+                    "You're awesome, we can eat this week because of you! 🔥🍳", 
+                    "Are you god or something? 🚀👼", 
+                    "You're a legend, if you need a place to stay in Montreal, hit us up! 🏠"
+                  ];
+    
+    var emojiComment = $(".emoji-slider-question");                   
+    $(".emoji-slider")
+        
+        // create a slider with 14 values (0-13)
+        // and the default is a cat, obviously! ( emoji[6] === "🐈" )
+        .slider({
+            max: 14,
+            value: 7
+        })
+        
+        // now activate the pips and set it to have labels for all
+        // items, and then set the labels to the array of animals from earlier
+        .slider("pips", {
+            rest: "label",
+            labels: emoji
+        })
+        
+        // whenever the slider changes value, we want to update the
+        // text above the slider with a kawaii message!
+        .on("slidechange", function( e, ui ) {
+                
+                // save the messages into variables
+                var happyMessage = message[ui.value];
+                
+                // fade the question out quickly (using css)
+                emojiComment.css({ opacity: 0 });
+                
+                // then fade it back in with the new message
+                // and use a custom function to display the emoji.
+                setTimeout(function() {
+                        
+                    emojiComment.html( happyMessage );
+                    twemoji.parse(document.getElementsByClassName('emoji-slider-question')[0]);
+                    emojiComment.css({ opacity: 1 });
+                    $("span.donation").text((ui.value+1)*20);
+                        
+                }, 200 );
+                        
+        
+        });
+                        
+    // lastly after the slider is initialised we need to
+    // tell it to display out emoji on every label, but this
+    // is a custom function, you can find it at github
+    twemoji.parse(document.body);
+
+    (function() {
+      /* Add this class to any elements you want to use to open Drift.
+       *
+       * Examples:
+       * - <a class="drift-open-chat">Questions? We're here to help!</a>
+       * - <button class="drift-open-chat">Chat now!</button>
+       *
+       * You can have any additional classes on those elements that you
+       * would ilke.
+       */
+      var DRIFT_CHAT_SELECTOR = '.drift-open-chat'
+      /* http://youmightnotneedjquery.com/#ready */
+      function ready(fn) {
+        if (document.readyState != 'loading') {
+          fn();
+        } else if (document.addEventListener) {
+          document.addEventListener('DOMContentLoaded', fn);
+        } else {
+          document.attachEvent('onreadystatechange', function() {
+            if (document.readyState != 'loading')
+              fn();
+          });
+        }
+      }
+      /* http://youmightnotneedjquery.com/#each */
+      function forEachElement(selector, fn) {
+        var elements = document.querySelectorAll(selector);
+        for (var i = 0; i < elements.length; i++)
+          fn(elements[i], i);
+      }
+      function openSidebar(driftApi, event) {
+        event.preventDefault();
+        driftApi.sidebar.open();
+        return false;
+      }
+      ready(function() {
+        drift.on('ready', function(api) {
+          var handleClick = openSidebar.bind(this, api)
+          forEachElement(DRIFT_CHAT_SELECTOR, function(el) {
+            el.addEventListener('click', handleClick);
+          });
+        });
+      });
+    })();
   });
 });

@@ -1,6 +1,12 @@
 {{ define "main" }}
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
+<div id="give-overlay">
+    {{- partial "site/give-what-you-want.html" . -}}
+    <a href="#" class="close-overlay">
+        <i class="close icon-cancel-fine"></i>
+    </a>
+</div>
 <div id="plan">
     <div id="Intro">
         <div class="container section">
@@ -27,17 +33,6 @@
                                                 {{- partial "site/customize-this-plan-cta.html" . -}}
                                                 <!-- {{- partial "site/cost-to-build-cta.html" . -}} -->
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="section mcb-section">
-                            <div class="section_wrapper mcb-section-inner">
-                                <div class="wrap mcb-wrap one  valign-top clearfix">
-                                    <div class="mcb-wrap-inner">
-                                        <div class="column mcb-column one column_column content no-margin-bottom text-center" id="plan-support">
-                                            {{- partial "site/give-what-you-want.html" . -}}
                                         </div>
                                     </div>
                                 </div>
