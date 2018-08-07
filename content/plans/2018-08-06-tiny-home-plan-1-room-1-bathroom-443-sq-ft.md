@@ -9,7 +9,7 @@ architect: anastasia
 image: /img/tiny-home-container-size-exterior.jpg
 date: '2018-08-06'
 listing:
-  title: 'Urban Getaway | Modern Design, Minimalist Needs'
+  title: 'Urban Getaway | Modern Design, Minimal Needs'
   description: >-
     This house is ideal for two people who enjoy the feel of a modern, yet warm
     finish. With an instant to the outdoor world, this house is excellent for
@@ -35,7 +35,7 @@ noindex: false
 section1:
   area: 443 sq/ft
   cost: '30,000'
-  dimensions: 15' x 39' 7" (including terrace space)
+  dimensions: 15' x 39' 7"
   floor: 1 Floor
 section2: >-
   This house is ideal for two people who enjoy the feel of a modern, yet warm
