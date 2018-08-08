@@ -9,6 +9,7 @@ listing:
   title: California Style Tiny Cabin For Two
   description: >-
     It's simply awesome
+  image: /img/awesome-tiny-house-interior-1.jpg
 slider:
   - image: /img/awesome-tiny-house-interior-1.jpg
   - image: /img/awesome-tiny-house-interior-2.jpg

@@ -4,6 +4,9 @@ jQuery( document ).ready(function($) {
     // Remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
+    .not('[href="#nothing"]')
+    .not('[href="#add-to-cart"]')
+    .not('[href="#!"]')
     .click(function(event) {
       // On-page links
       if (
@@ -161,7 +164,7 @@ jQuery( document ).ready(function($) {
   });
   var selectemVal = document.querySelector('input[name="selectemVal"]');
 
-  $('.toggle-give-us, .close-overlay').click(function(e) {
+  $('.toggle-give-us, .close-overlay, .snipcart-add-item').click(function(e) {
     e.preventDefault();
     $('#give-overlay').stop(true, true).fadeToggle(500);
     var menuH = $('#Overlay #give-what-you-want').height() / 2;
@@ -238,6 +241,7 @@ jQuery( document ).ready(function($) {
                     twemoji.parse(document.getElementsByClassName('emoji-slider-question')[0]);
                     emojiComment.css({ opacity: 1 });
                     $("span.donation").text((ui.value+1)*20);
+                    $("a.snipcart-add-item").data('item-price', (ui.value+1)*20);
                         
                 }, 200 );
                         
@@ -293,5 +297,8 @@ jQuery( document ).ready(function($) {
         });
       });
     })();
+    if (Snipcart) {
+      Snipcart.api.configure('show_cart_automatically', true);
+    }
   });
 });

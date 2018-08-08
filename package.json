@@ -33,6 +33,7 @@
     "gulp-uglify": "^3.0.0",
     "netlify-cms": "^1.8.4",
     "netlify-cms-widget-native-color": "^2.2.0",
+    "netlify-lambda": "^0.4.0",
     "prop-types": "^15.6.1",
     "react-immutable-proptypes": "^2.1.0",
     "run-sequence": "^2.2.1",

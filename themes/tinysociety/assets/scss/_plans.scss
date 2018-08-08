@@ -516,6 +516,15 @@ body.no-content-padding:not(.with_aside).plan-page {
 			line-height: 34px;
 			margin-bottom: 10px;
 		}
+		h3 {
+			font-size: 26px;
+			line-height: 30px;
+			margin-top: 20px;
+		}
+		h4 {
+			font-size: 22px;
+			line-height: 26px;
+		}
 		span.notice {
 			font-size: 16px;
 			font-style: italic;
@@ -530,6 +539,9 @@ body.no-content-padding:not(.with_aside).plan-page {
 				width: 100%;
 				padding-top: 25px;
 			}
+		}
+		ul {
+			color: black;
 		}
 	}
 }
