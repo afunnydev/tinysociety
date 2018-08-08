@@ -80,7 +80,7 @@ As mentioned previously, a smart way to protect yourself and your personal asset
 
 ## Extras
 
-![](/img/screen-shot-2018-08-08-at-18.30.26.png)
+![null](/img/screen-shot-2018-08-08-at-18.30.26.png)
 
 Your Airbnb guests will already be impressed with your tiny house! Here are some extras that you can offer to your potential guests to help get great reviews:
 
@@ -94,7 +94,7 @@ Your Airbnb guests will already be impressed with your tiny house! Here are some
 
 ## How to Market Your Tiny House Airbnb
 
-![](/img/screen-shot-2018-08-08-at-18.32.41.png)
+![null](/img/screen-shot-2018-08-08-at-18.32.41.png)
 
 More and more tiny houses are popping up on Airbnb as the tiny house movement increases in popularity. When building and designing your tiny home, try to think of clever ways to make it stand out from the rest. 
 
@@ -102,7 +102,7 @@ More and more tiny houses are popping up on Airbnb as the tiny house movement in
 * _Writing:_ How you describe your tiny home will play a big role in the bookings you receive. 
 * _Location:_ How close is the nearest supermarket? What kinds of attractions are nearby? Try to think about some reasons why people would want to book.
 * _Amenities/Extras:_ Think wine, coffee/tea, shampoo, small snacks...
-* _Claim A Name: _Name your tiny house! Give it a title that will be easy for people to remember and talk about.
+* _Claim A Name:_ Name your tiny house! Give it a title that will be easy for people to remember and talk about.
 * _Get Social:_ Create your tiny house a website or social media account on Instagram. People love to browse through tiny house photos!
 
 Inspired to build your tiny house rental? This is a great opportunity to generate some extra income, as well as share your love for tiny houses with others! A little can go a long way, and this is certainly the case when renting out your tiny house as an Airbnb.
