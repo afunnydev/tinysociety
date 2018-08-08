@@ -206,7 +206,10 @@ jQuery( document ).ready(function($) {
                     "You're a legend, if you need a place to stay in Montreal, hit us up! 🏠"
                   ];
     
-    var emojiComment = $(".emoji-slider-question");                   
+    var emojiComment = $(".emoji-slider-question"),
+        snipcartAdd = $("a.snipcart-add-item"),
+        baseUrl = "https://tinyplans.netlify.com/.netlify/functions/product?donationAmount=";
+
     $(".emoji-slider")
         
         // create a slider with 14 values (0-13)
@@ -228,7 +231,8 @@ jQuery( document ).ready(function($) {
         .on("slidechange", function( e, ui ) {
                 
                 // save the messages into variables
-                var happyMessage = message[ui.value];
+                var happyMessage = message[ui.value],
+                    donationAmount = (ui.value+1)*20;
                 
                 // fade the question out quickly (using css)
                 emojiComment.css({ opacity: 0 });
@@ -240,8 +244,11 @@ jQuery( document ).ready(function($) {
                     emojiComment.html( happyMessage );
                     twemoji.parse(document.getElementsByClassName('emoji-slider-question')[0]);
                     emojiComment.css({ opacity: 1 });
-                    $("span.donation").text((ui.value+1)*20);
-                    $("a.snipcart-add-item").data('item-price', (ui.value+1)*20);
+                    $("span.donation").text(donationAmount);
+                    snipcartAdd.data("item-price", donationAmount);
+                    console.log(snipcartAdd.data("item-price"));
+                    snipcartAdd.data("item-url", baseUrl + donationAmount + "&productId=" + snipcartAdd.data("item-id"));
+                    console.log(snipcartAdd.data("item-url")); 
                         
                 }, 200 );
                         

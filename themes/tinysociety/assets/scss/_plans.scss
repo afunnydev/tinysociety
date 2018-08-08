@@ -542,6 +542,8 @@ body.no-content-padding:not(.with_aside).plan-page {
 		}
 		ul {
 			color: black;
+			font-size: inherit;
+			line-height: inherit;
 		}
 	}
 }

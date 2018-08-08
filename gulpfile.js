@@ -10,7 +10,7 @@ var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var concat = require('gulp-concat');
 var rename = require('gulp-rename');
-var uglify = require('gulp-uglify');
+var uglify = require('gulp-uglify-es').default;
 var browserSync = require('browser-sync').create();
 
 // image resizing variables

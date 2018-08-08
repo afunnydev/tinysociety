@@ -167,6 +167,12 @@ div.social-icons {
 			margin-right: 59px;
 		}
 	}
+	.terms {
+		float: right;
+		a {
+			display: inline-block;
+		}
+	}
 }
 #Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c, #Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {
 	background-color: $brown;
@@ -861,6 +867,12 @@ h6.regular-text {
 		// }
 		.overlay-menu-toggle {
 			color: $brown !important;
+		}
+	}
+	#Footer {
+		.terms {
+			float: none;
+			text-align: center;
 		}
 	}
 }
