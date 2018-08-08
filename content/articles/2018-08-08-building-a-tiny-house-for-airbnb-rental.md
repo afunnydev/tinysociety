@@ -58,7 +58,7 @@ Will the wheels part of it be a factor? Probably not. If you’re putting your t
 
 **Seattle Tiny House on Wheels**
 
-![](/img/screen-shot-2018-08-08-at-18.19.15.png)
+![https://www.airbnb.com/rooms/5852034](/img/screen-shot-2018-08-08-at-18.19.15.png)
 
 This tiny home sleeps up to four people, and has all of the amenities you could possibly need in an Airbnb. A full kitchen and cozy wood stove means that Airbnb guests can cook their own meals in warmth and comfort on chilly evenings. One of the things I like most about this house is the addition of a bookshelf to keep guests from falling out of the loft bed, which also doubles entertainment that doesn’t involve a screen. 
 
@@ -68,7 +68,7 @@ With this type of house, you don’t have to worry about your guests taking off 
 
 **Rustic Portland Tiny House**
 
-![null](/img/screen-shot-2018-08-08-at-15.14.59.png)
+![https://www.airbnb.com/rooms/898771](/img/screen-shot-2018-08-08-at-15.14.59.png)
 
 From a design point of view, this stationary tiny house is on point. The leather and reclaimed wood give it a modern, refined look. One fantastic feature is the staircase in lieu of a ladder. This makes the house more accessible to people who might have trouble accessing a loft. 
 
@@ -79,6 +79,8 @@ Some states and cities have specific zoning laws that might require a fee to all
 As mentioned previously, a smart way to protect yourself and your personal assets is by forming a limited liability company (LLC). This might be a good move if you’re looking to rent out your tiny house on Airbnb more seriously.
 
 ## Extras
+
+![](/img/screen-shot-2018-08-08-at-18.30.26.png)
 
 Your Airbnb guests will already be impressed with your tiny house! Here are some extras that you can offer to your potential guests to help get great reviews:
 
