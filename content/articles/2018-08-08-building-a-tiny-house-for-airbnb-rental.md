@@ -94,6 +94,8 @@ Your Airbnb guests will already be impressed with your tiny house! Here are some
 
 ## How to Market Your Tiny House Airbnb
 
+![](/img/screen-shot-2018-08-08-at-18.32.41.png)
+
 More and more tiny houses are popping up on Airbnb as the tiny house movement increases in popularity. When building and designing your tiny home, try to think of clever ways to make it stand out from the rest. 
 
 * _Photos:_ Hi-quality photos that capture the charm of your tiny house are more likely to get bookings. No one wants to see blurry or dark photos!
