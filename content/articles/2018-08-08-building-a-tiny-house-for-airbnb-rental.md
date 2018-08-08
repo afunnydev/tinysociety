@@ -52,13 +52,13 @@ You want to look at how much money you are able to put in up front versus how mu
 
 Creating a legal business or limited liability company (LLC), prevents a tiny house owner from being personally liable if your Airbnb business is sued or implicated in any way. Other things to consider would be a business bank account, insurance, and taxes.
 
-## Tiny House on Wheels Rental 
+## Tiny House on Wheels Rental
 
 Will the wheels part of it be a factor? Probably not. If you’re putting your tiny home on Airbnb, it’s doubtful you’ll want your guests driving away with it--they can rent an RV to do that. 
 
 **Seattle Tiny House on Wheels**
 
- Source: Airbnb
+![](/img/screen-shot-2018-08-08-at-18.19.15.png)
 
 This tiny home sleeps up to four people, and has all of the amenities you could possibly need in an Airbnb. A full kitchen and cozy wood stove means that Airbnb guests can cook their own meals in warmth and comfort on chilly evenings. One of the things I like most about this house is the addition of a bookshelf to keep guests from falling out of the loft bed, which also doubles entertainment that doesn’t involve a screen. 
 
@@ -68,7 +68,7 @@ With this type of house, you don’t have to worry about your guests taking off 
 
 **Rustic Portland Tiny House**
 
-![]()
+![null](/img/screen-shot-2018-08-08-at-15.14.59.png)
 
 From a design point of view, this stationary tiny house is on point. The leather and reclaimed wood give it a modern, refined look. One fantastic feature is the staircase in lieu of a ladder. This makes the house more accessible to people who might have trouble accessing a loft. 
 
@@ -78,13 +78,13 @@ Some states and cities have specific zoning laws that might require a fee to all
 
 As mentioned previously, a smart way to protect yourself and your personal assets is by forming a limited liability company (LLC). This might be a good move if you’re looking to rent out your tiny house on Airbnb more seriously.
 
-## Extras 
+## Extras
 
 Your Airbnb guests will already be impressed with your tiny house! Here are some extras that you can offer to your potential guests to help get great reviews:
 
 * _Snacks and drinks upon arrival:_ Who can say no to a mini chocolates? There’s no need to whip up a meal for your guests; just a small snack or a bottle of wine goes a long way on Airbnb!
 * _Things to do:_ A booklet of things to do is always welcome for guests who are unfamiliar with the area.
-* _Wifi: _For those on-the-grid folks who need their laptop for work or for entertainment!
+* Wifi: For those on-the-grid folks who need their laptop for work or for entertainment!
 * _Tea and Coffee:_ Two very important things that many people need to start their day.
 * _Toiletries_: No need to buy the expensive stuff, but a bar of soap or shampoo is always exciting to see in an Airbnb. Toilet paper should be a given. 
 * _Wood:_ If you have a wood stove, supplying a few logs of firewood is super handy for guests who didn’t bring their own axe.
@@ -95,10 +95,10 @@ Your Airbnb guests will already be impressed with your tiny house! Here are some
 More and more tiny houses are popping up on Airbnb as the tiny house movement increases in popularity. When building and designing your tiny home, try to think of clever ways to make it stand out from the rest. 
 
 * _Photos:_ Hi-quality photos that capture the charm of your tiny house are more likely to get bookings. No one wants to see blurry or dark photos!
-* _Writing: _How you describe your tiny home will play a big role in the bookings you recieve. 
-* _Location: _How close is the nearest supermarket? What kinds of attractions are nearby? Try to think about some reasons why people would want to book!
-* _Amenities/Extras: _Think wine, coffee/tea, shampoo, small snacks...
-* _Name Claim: _Name your tiny house! Give it a title that will be easy for people to remember and talk about.
+* Writing: How you describe your tiny home will play a big role in the bookings you recieve. 
+* Location: How close is the nearest supermarket? What kinds of attractions are nearby? Try to think about some reasons why people would want to book!
+* Amenities/Extras: Think wine, coffee/tea, shampoo, small snacks...
+* Name Claim: Name your tiny house! Give it a title that will be easy for people to remember and talk about.
 * _Get Social:_ Create your tiny house a website or social media account like Instagram. People love to browse through tiny house photos!
 
 Inspired to build your tiny house rental? This is a great opportunity to generate some extra income, as well as share your love for tiny houses with others! A little can go a long way, and this is certainly the case when renting out your tiny house as an Airbnb.
