@@ -9,7 +9,7 @@ image: /img/tiny-house-showcase.png
 overlay: false
 date: '2018-08-14'
 notloaded:
-  need: 'No'
+  need: 'true'
 listing:
   title: Tiny House Showcase
   description: >
