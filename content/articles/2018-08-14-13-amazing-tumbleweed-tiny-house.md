@@ -24,7 +24,7 @@ categories:
   - tiny house
 i18nlanguage: en
 menuid: articles
-ordre: '3'
+ordre: '0'
 infographic: false
 draft: false
 noindex: false
