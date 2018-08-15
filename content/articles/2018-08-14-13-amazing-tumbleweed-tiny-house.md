@@ -1,5 +1,5 @@
 ---
-title: 13 Amazing Tumbleweed Tiny House
+title: 13 Amazing Tumbleweed Tiny Houses
 description: >-
   I hardly ever came across a tiny house lover who doesn't know about Tumbleweed
   tiny house.
@@ -20,8 +20,8 @@ listing:
     If you haven't heard yet about this fantastic company, here is what they do.
 likes: '13'
 categories:
-  - tumbleweed
-  - tiny house
+  - Tiny houses
+  - Architecture and design
 i18nlanguage: en
 menuid: articles
 ordre: '0'
