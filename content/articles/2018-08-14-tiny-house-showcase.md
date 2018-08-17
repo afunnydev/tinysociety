@@ -11,7 +11,7 @@ date: '2018-08-04'
 notloaded:
   need: 'true'
 listing:
-  title: Tiny House Showcase
+  title: Superb Tiny House Showcase
   description: >
     A Tiny house is the best way to live a mortgage and a rent-free life. A home
     closer to nature and soothing air.
