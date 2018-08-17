@@ -7,7 +7,7 @@ slug: tiny-house-showcase
 author: jubaer
 image: /img/tiny-house-showcase.png
 overlay: false
-date: '2018-08-14'
+date: '2018-08-04'
 notloaded:
   need: 'true'
 listing:
