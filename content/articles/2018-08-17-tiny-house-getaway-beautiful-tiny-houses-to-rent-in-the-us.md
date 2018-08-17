@@ -22,7 +22,9 @@ listing:
   image: /img/6a9cb64f-46d5-4b07-ab11-a76eee56f807.jpg
 likes: '50'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Tiny lifestyle
+  - Tiny cabins
 i18nlanguage: en
 menuid: articles
 ordre: '0'
