@@ -7,7 +7,7 @@ description: >-
   If you haven't heard yet about this fantastic company, here is what they do.
 slug: tumbleweed-tiny-house
 author: jubaer
-image: /img/mesa-red-cypress-1-.jpg
+image: /img/tumbleweed-tiny-house-elm-belle-leavenworth.jpg
 overlay: false
 date: '2018-08-02'
 notloaded:
@@ -19,7 +19,7 @@ listing:
     Tumbleweed tiny house.
 
     If you haven't heard yet about this fantastic company, here is what they do.
-  image: /img/mesa-red-cypress.jpg
+  image: /img/tumbleweed-tiny-house-elm-belle-leavenworth-800x800.jpg
 likes: '13'
 categories:
   - Tiny houses
