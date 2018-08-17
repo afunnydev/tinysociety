@@ -6,6 +6,7 @@ description: >-
   compact rentals will have you ready to get away from it all!
 slug: tiny-house-getaway-beautiful-tiny-houses-to-rent-in-the-us
 author: molli
+image: /img/a64791b8-642f-4ba1-b0ce-71ec58208831-1.jpg
 overlay: false
 date: '2018-08-17'
 notloaded:
@@ -18,6 +19,7 @@ listing:
     big--hats off to you! If you’re like the rest of us, dreamily browsing
     through tiny dream homes, then you need to check out these incredible tiny
     house rentals. 
+  image: /img/6a9cb64f-46d5-4b07-ab11-a76eee56f807.jpg
 likes: '50'
 categories:
   - tiny houses
