@@ -5,7 +5,7 @@ description: >
   closer to nature and soothing air.
 slug: tiny-house-showcase
 author: jubaer
-image: /img/tiny-house-showcase.png
+image: /img/millertinyhouse-048-edit1-2700px.jpg
 overlay: false
 date: '2018-08-04'
 notloaded:
@@ -15,7 +15,7 @@ listing:
   description: >
     A Tiny house is the best way to live a mortgage and a rent-free life. A home
     closer to nature and soothing air.
-  image: /img/tiny-house-showcase.png
+  image: /img/millertinyhouse-048-edit1-800x800.jpg
 likes: '17'
 categories:
   - Tiny houses
