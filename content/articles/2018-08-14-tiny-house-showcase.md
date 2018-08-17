@@ -6,7 +6,7 @@ description: >
 slug: tiny-house-showcase
 author: jubaer
 image: /img/millertinyhouse-048-edit1-2700px.jpg
-overlay: false
+overlay: true
 date: '2018-08-04'
 notloaded:
   need: 'true'
