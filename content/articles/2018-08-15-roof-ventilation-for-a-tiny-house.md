@@ -10,7 +10,7 @@ slug: roof-ventilation-for-a-tiny-house
 author: molli
 image: /img/693e3859-5eb8-4343-93a4-a66f834f59b9.jpg
 overlay: false
-date: '2018-08-15'
+date: '2018-08-11'
 notloaded:
   need: 'true'
 listing:
@@ -26,7 +26,8 @@ listing:
   image: /img/ed28a9d2-68a5-4bc2-bd43-9197ea56159d.jpg
 likes: '10'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Energy efficiency
 i18nlanguage: en
 menuid: articles
 ordre: '0'
