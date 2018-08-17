@@ -9,7 +9,7 @@ slug: what-type-of-truck-do-you-need-to-tow-your-tiny-house
 author: molli
 image: /img/9b0df558-7baa-4e29-adf1-09a3496d5745.jpg
 overlay: false
-date: '2018-08-03'
+date: '2018-08-08'
 notloaded:
   need: 'true'
 listing:
