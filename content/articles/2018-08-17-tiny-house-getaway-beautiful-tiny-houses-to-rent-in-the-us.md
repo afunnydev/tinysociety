@@ -46,7 +46,7 @@ Aptly named [Getaway](https://getaway.house/), this relatively new start-up offe
 
 ## 2. Vintage Airstream
 
-![https://www.airbnb.com/rooms/3406062]()
+![https://www.airbnb.com/rooms/3406062](/img/airstream_malibu.png)
 
 This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Malibu designer who built it as his personal getaway. Located high in the clouds with mountain and sea views, this luxurious little home is the perfect way to enjoy the surrounding nature.
 
@@ -60,7 +60,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ## 3. Canoe Bay Escape Village
 
-![https://www.escapevillages.com/]()
+![https://www.escapevillages.com/](/img/canoebay.jpg)
 
 [Canoe Bay Escape Village ](https://www.escapevillages.com/)is the “first large scale vacation Tiny Home Village in the Midwest.” Surrounded by a beautiful forest teeming with wildlife, this village is the perfect resort-style spot for escaping the hustle and bustle. 
 
@@ -73,7 +73,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ## 4. Rustic & Modern
 
-![https://www.airbnb.com/rooms/898771]()
+![https://www.airbnb.com/rooms/898771](/img/rusticmodern.png)
 
 [The Rustic Modern Tiny House](https://www.airbnb.com/rooms/898771) is absolutely everything one could want in a miniature home. Named “the perfect urban getaway,” this tiny house was hand-built by the owners from locally sourced and reclaimed materials--all of which you can see in the tiniest details!
 
@@ -87,7 +87,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ## 5. Petite Retreats
 
-![http://www.petiteretreats.com/accomodations_yurts]()
+![http://www.petiteretreats.com/accomodations_yurts](/img/yurts_2.jpg)
 
 [Petite Retreats](http://www.petiteretreats.com/accomodations_yurts) offers a selection of yurts across the country. Each of their accommodations provides the rustic, outdoor charm that you look for in a nature-filled getaway!
 
@@ -100,7 +100,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ## 6. Live a Little Chatt
 
-![http://livealittlechatt.com/booknow]()
+![http://livealittlechatt.com/booknow](/img/wanderinggypsy.png)
 
 [This tiny house getaway](http://livealittlechatt.com/booknow) offers four tiny houses to rent and experience what living small is all about. These little houses are located close to plenty of outdoor adventures and breathtaking views! If you want a retreat that’s close to activities but still far enough away from it all, this is the tiny house getaway for you!
 
@@ -114,7 +114,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ## 7. A Tiny Hotel
 
-![http://tinyhousehotel.com/]()
+![http://tinyhousehotel.com/](/img/tinyhousehotel.jpg)
 
 [The Tiny House Hotel](http://tinyhousehotel.com/), located in the Alberta Arts District, offers travelers a one-of-a-kind tiny house experience. These tiny houses built by local builders, range from 120-170 square feet and rock a unique, funky design aesthetic. 
 
@@ -129,7 +129,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ## 8. Wee Casa
 
-![https://weecasa.com/]()
+![https://weecasa.com/](/img/weecasa.png)
 
 What’s not to love about a tiny house resort called “[Wee Casa](https://weecasa.com/)?” Known as the world’s largest tiny house resort, these tiny homes offer high-end accommodation in an outdoorsy setting.
 
@@ -143,7 +143,7 @@ What’s not to love about a tiny house resort called “[Wee Casa](https://weec
 
 ## 9. Intown Treehouse
 
-![https://www.airbnb.com/rooms/1415908]()
+![https://www.airbnb.com/rooms/1415908](/img/treehouse.png)
 
 [The Secluded Intown Treehouse](https://www.airbnb.com/rooms/1415908) boasts the title as Airbnb’s “#1 most wished-for listing worldwide.” This impressive treehouse consists of three separate rooms connected by rope-bridges. Although located in the heart of Atlanta, this tiny home will make you feel like you’re worlds away. 
 
@@ -155,7 +155,7 @@ What’s not to love about a tiny house resort called “[Wee Casa](https://weec
 
 ## 10. Hobbit House
 
-![https://www.airbnb.com/rooms/16115363]()
+![https://www.airbnb.com/rooms/16115363](/img/screen-shot-2018-08-17-at-15.09.25.png)
 
 Are you a Lord of the Rings fan? Here’s your chance to stay in a tiny [hobbit house](https://www.airbnb.com/rooms/16115363)! This charming little home buried in the earth offers a camping-feel with limited WiFi access and no electricity. This is the ultimate in unplugged tiny house getaways!
 
