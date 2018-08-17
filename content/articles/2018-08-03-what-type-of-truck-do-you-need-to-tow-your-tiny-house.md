@@ -31,7 +31,11 @@ infographic: false
 draft: false
 noindex: false
 ---
-One of the necessary (and often overlooked) aspects of owning a tiny house on wheels is how to tow it. Imagine going through all of the effort to build a beautiful tiny home only to remember that you own a VW Bug. In order to avoid that particular fiasco, I’m going to walk you through the ins and outs of tiny house towing.
+One of the necessary (and often overlooked) aspects of owning a tiny house on wheels is how to tow it. Imagine going through all of the effort to build a beautiful tiny home only to remember that you own a VW Bug. 
+
+![](/img/vw-quick-start.gif)
+
+In order to avoid that particular fiasco, I’m going to walk you through the ins and outs of tiny house towing.
 
 ## What You Need To Know
 
@@ -84,7 +88,9 @@ SUVs are hugely popular because they are a great daily driver and can be really 
 
 ## Ford Expedition
 
-![https://www.ford.com/suvs/expedition/gallery/](/img/ford.jpeg)
+![Ford Expedition](/img/ford.jpeg)
+
+Image source: [Ford](https://www.ford.com/suvs/expedition/gallery/)
 
 Named the 2018 U.S. News Best Car for Families, this SUV packs a lot of potential tiny house towing power. If you opt for their “heavy duty trailer tow package,” you’ll get a lot of great additional features including an integrated trailer brake controller.
 
@@ -92,7 +98,9 @@ Towing capacity: 9,300 lbs*
 
 ## Land Rover Range Rover
 
-![https://www.carmagazine.co.uk/](/img/range-rover-evoque_1.jpg)
+![Land Rover](/img/range-rover-evoque_1.jpg)
+
+Image source: [carmagazine](https://www.carmagazine.co.uk/)
 
 This SUV comes fitted with some advance tech features like Advanced Tow Assist, which allows the driver to use a joystick to back-up the trailer. This is extremely helpful for those who aren’t great at parking a trailer, and also for tight parking spaces.
 
@@ -100,7 +108,9 @@ Towing capacity: 7,716 lbs*
 
 ## Jeep Grand Cherokee - Diesel
 
-![https://www.jeep.com/2018/grand-cherokee/performance.html](/img/screen-shot-2018-08-03-at-19.01.03.png)
+![Jeep gran cherokee](/img/screen-shot-2018-08-03-at-19.01.03.png)
+
+Image source: [Jeep](https://www.jeep.com/2018/grand-cherokee/performance.html)
 
 Incredible off-roading capabilities and very user-friendly, this SUV offers an optional 3.0 litre turbo-diesel V6 engine. In other words, this vehicle packs a lot of power and torque. 
 
@@ -112,7 +122,9 @@ The go-to vehicle for towing and heavy load capabilities, these cars come with a
 
 ## Ford F-150
 
-![https://www.ford.com/trucks/f150/models/f150-xl/](/img/screen-shot-2018-08-03-at-19.03.39.png)
+![Ford f-150](/img/screen-shot-2018-08-03-at-19.03.39.png)
+
+Image source: [Ford](https://www.ford.com/trucks/f150/models/f150-xl/)
 
 This truck’s towing capacity has increased over the years, and comes loaded with plenty of tech features as well as fairly good gas mileage. The backseat is also spacious, allowing for seating for 3-6 people. 
 
@@ -120,7 +132,9 @@ Towing capacity: 13,200 lbs*
 
 ## Chevrolet Colorado
 
-![https://www.chevrolet.com/trucks/colorado-mid-size-truck](/img/screen-shot-2018-08-03-at-19.05.15.png)
+![Chevrolet colorado](/img/screen-shot-2018-08-03-at-19.05.15.png)
+
+Image source: [Chevrolet](https://www.chevrolet.com/trucks/colorado-mid-size-truck)
 
 Great towing capability and fuel efficiency are two notable features of this Chevy truck. The engine comes with three different capabilities; the turbo-diesel option giving the best fuel economy of the three. 
 
@@ -129,6 +143,8 @@ Towing capacity: 7,700 lbs*
 ## Honda Ridgeline
 
 ![https://shop.honda.com/ridgeline.aspx](/img/screen-shot-2018-08-03-at-19.07.26.png)
+
+Image source: [Honda](https://shop.honda.com/ridgeline.aspx)
 
 While not a traditional truck, this vehicle boasts both versatility and safety as its top features. The Honda Ridgeline is able to haul a lot less than other vehicles on this list, but could be ideal for a smaller tiny house and trailer.
 
