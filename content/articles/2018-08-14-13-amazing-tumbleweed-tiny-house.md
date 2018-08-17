@@ -8,7 +8,7 @@ description: >-
 slug: tumbleweed-tiny-house
 author: jubaer
 image: /img/tumbleweed-tiny-house-elm-belle-leavenworth.jpg
-overlay: false
+overlay: true
 date: '2018-08-02'
 notloaded:
   need: 'No'
