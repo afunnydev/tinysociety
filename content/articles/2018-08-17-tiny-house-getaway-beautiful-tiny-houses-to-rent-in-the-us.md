@@ -7,7 +7,7 @@ description: >-
 slug: tiny-house-getaway-beautiful-tiny-houses-to-rent-in-the-us
 author: molli
 image: /img/a64791b8-642f-4ba1-b0ce-71ec58208831-1.jpg
-overlay: false
+overlay: true
 date: '2018-08-06'
 notloaded:
   need: 'true'
