@@ -64,7 +64,7 @@ Proper insulation of a tiny house is extremely important. Ensuring a tiny house 
 
 ## Common Mistakes And How To Avoid Them
 
-**Roof: **Although some roofs look great, not all shapes are aerodynamic enough for a tiny house on wheels. A classic gable roof has pitched sides that are popular in the tiny house community. Be sure that your roof shingles also go with the airflow and are properly installed!
+**Roof:**Although some roofs look great, not all shapes are aerodynamic enough for a tiny house on wheels. A classic gable roof has pitched sides that are popular in the tiny house community. Be sure that your roof shingles also go with the airflow and are properly installed!
 
 **Air Leaks:** Plug sockets may seem small and insignificant, but even the tiniest gaps can drastically alter the efficiency of your tiny home. Use foam seal gaskets to plug any leaks and don’t rush through the job!
 
