@@ -28,6 +28,7 @@ likes: '10'
 categories:
   - Tiny houses
   - Energy efficiency
+  - Sustainable building and living
 i18nlanguage: en
 menuid: articles
 ordre: '0'
