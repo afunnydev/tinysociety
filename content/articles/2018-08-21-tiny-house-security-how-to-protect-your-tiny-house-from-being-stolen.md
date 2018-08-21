@@ -22,6 +22,7 @@ listing:
     own a tiny house. For many tiny house owners, this is a full-time home. The
     possibility of losing everything you own in the world, the building
     included, is a fairly devastating scenario. 
+  image: /img/604ab844-2be7-4d28-b215-e1cbd4fd2af5.jpg
 likes: '17'
 categories:
   - tiny houses
