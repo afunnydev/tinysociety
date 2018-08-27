@@ -7,6 +7,7 @@ description: >-
   house and tiny house budget. 
 slug: low-power-air-conditioner-to-keep-you-cool-during-the-summer
 author: molli
+image: /img/3fe38be5-ffc5-46ba-880b-be562f01b8e6.jpg
 overlay: false
 date: '2018-08-27'
 notloaded:
@@ -19,6 +20,7 @@ listing:
     after a scorching day out, and feeling like you’ve entered the North Pole.
     Let’s take a look at some air conditioners so you’re prepared to handle the
     heat next summer. 
+  image: /img/a55dcbe7-43fc-4031-a13a-ba498fa540ee.jpg
 likes: '58'
 categories:
   - tinys
