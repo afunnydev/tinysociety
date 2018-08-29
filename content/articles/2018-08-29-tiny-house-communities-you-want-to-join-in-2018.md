@@ -7,6 +7,7 @@ description: >-
   communities you'll want to move into this year. 
 slug: tiny-house-communities-you-want-to-join-in-2018
 author: molli
+image: /img/d0f5e821-3d14-4034-9166-e72dc74272fc.jpg
 overlay: false
 date: '2018-08-29'
 notloaded:
@@ -20,6 +21,7 @@ listing:
     quite tricky. With tiny house communities popping up all over the country,
     the only thing to decide is which one is right for you. Check out these 10
     tiny house communities that you’ll want to move into this year.
+  image: /img/c97c0f84-eac5-4d3d-8620-d7c7cd50b4d0.jpg
 likes: '48'
 categories:
   - tiny houses
