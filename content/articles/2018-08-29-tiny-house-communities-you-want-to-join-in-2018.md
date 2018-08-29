@@ -34,7 +34,7 @@ The idea is simple, but finding the right one can be hard. A tiny house communit
 
 ## Community #1: Spur, Texas
 
-![]()
+![null](/img/spur.png)
 
 [Source: The Wall Street Journal](https://www.wsj.com/articles/west-texas-town-finds-tiny-house-crowd-a-bit-too-earthy-1465867332)
 
@@ -42,7 +42,7 @@ Known as [“America’s first tiny house friendly town,”](https://www.spurfre
 
 ## Community #2: DIY Tiny, Asheville, North Carolina
 
-![]()
+![null](/img/tiny2-1024x683.jpg)
 
 [Source: DIY Tiny](http://www.diytiny.com/)
 
@@ -50,7 +50,7 @@ This community offers residents tiny house advice and space to build. Inspired b
 
 ## Community #3: Llamalopolis, Las Vegas, Nevada
 
-![]()
+![null](/img/10974293_1024239660924895_1634397214236077947_o.jpg)
 
 [Source: Ballen Las Vegas](https://ballenvegas.com/airstream-park-tiny-living-downtown-las-vegas/)
 
@@ -58,7 +58,7 @@ Downtown Las Vegas decided they needed to make use of their plentiful vacant lot
 
 ## Community #4: Community First Village, Austin, Texas
 
-![]()
+![null](/img/austin_tiny_homes_d9c38350733366c299f8d95f8b3cee4c.fit-760w.jpg)
 
 [Source: NBC News](http://nbcnews.com)
 
@@ -66,7 +66,7 @@ This area boasts a number of tiny house villages, the Community First Village be
 
 ## Community #5: The Village of Wildflowers, Flat Rock, North Carolina
 
-![]()
+![null](/img/the-village-of-wildflowers.jpg)
 
 [Source: Trip Advisor](www.tripadvisor.com)
 
@@ -74,7 +74,7 @@ Originally, this tiny house community was established for the older generation t
 
 ## Community #6: Tiny Lots on the Prairie, Decatur, Texas
 
-![]()
+![null](/img/feature_1-cbc475ebc870ffdc.jpg)
 
 [Source: Source Weekly](https://www.bendsource.com/bend/tiny-homes/Content?oid=2612214)
 
@@ -82,7 +82,7 @@ Rural tiny house communities are gaining traction faster than in cities--likely 
 
 ## Community #7: Green Bridge Farm, Savannah, Georgia
 
-![]()
+![null](/img/1cb84d15-b3ba-435a-88c7-573e64814a44-ravenlore-extra.jpg)
 
 [Source: Love Property](https://www.loveproperty.com/galleryextended/67887/tiny-home-communities-that-will-make-you-feel-welcome)
 
@@ -90,7 +90,7 @@ This organic farm surrounded by trees is the perfect spot for a tiny home. You c
 
 ## Community #8: Lemon Cove Village, Sequoia National Park, California
 
-![]()
+![null](/img/images.png)
 
 [Source: Facebook](https://www.google.co.za/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjE-P_8t5LdAhVHyoUKHTRxBkcQjhx6BAgBEAM&url=https%3A%2F%2Fwww.facebook.com%2Ftinyhouselemoncove%2F&psig=AOvVaw1fj25iG0SiXpl8d6tVJa6P&ust=1535638072892046)
 
@@ -98,7 +98,7 @@ Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly s
 
 ## Community #9: Green Anchors, Portland, Oregon
 
-![]()
+![null](/img/img_6289-copy-618x618.jpg)
 
 [Source: Green Anchors](http://www.greenanchorspdx.com/)
 
@@ -106,7 +106,7 @@ This community is located in a eco-industrial art park. Not only can you rent a 
 
 ## Community #10: Orlando Lakefront, Orlando, Florida
 
-![]()
+![null](/img/orlando.png)
 
 [Source: Airbnb](https://www.airbnb.com/rooms/18854613?guests=1&adults=1&user_id=56824797&ref_device_id=df75a29b982dd556&_branch_match_id=563361591054072935)
 
