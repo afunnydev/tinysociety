@@ -6,6 +6,7 @@ description: >-
   enthusiasts? Check out our list of some of the best tiny house events!
 slug: tiny-house-events
 author: molli
+image: /img/c56e361c-f84b-42c5-87df-90d97849e59f.jpg
 overlay: false
 date: '2018-08-31'
 notloaded:
@@ -19,6 +20,7 @@ listing:
     Movement at some of the biggest tiny house events around the country!
     Without further ado, here is a comprehensive list of some of the best tiny
     house events you need to go to. 
+  image: /img/0a0a5966-823a-4436-8167-91539fe8d6e6.jpg
 likes: '25'
 categories:
   - tiny houses
