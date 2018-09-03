@@ -1,5 +1,5 @@
 ---
-title: 'Rustic House | 2 Rooms | 2 Bathrooms | [890 sq/ft]'
+title: Rustic House | 2 Rooms | 2 Bathrooms | 890 sq/ft
 description: >-
   Having 2 floors, 2 rooms and 2 bathrooms, this house is 890 sq/ft. and 5 ½’’
   by 9’’. The Rustic House is built on concrete strip footing foundations. 
