@@ -110,4 +110,4 @@ With a name like that, this toilet is bound to impress! Unlike the other compost
 
 ## The Verdict?
 
-The best composting toilet for your tiny house is going to be based on several factors such as; frequency of use, price tag, maintenance, and available space. Luckily, there are some great options whether you prefer a composting toilet that looks fancy, or one that simply blends in. Each of the systems above comes with incredible features that will make doing your business a breeze!
+The best composting toilet for your tiny house is going to be based on several factors such as; frequency of use, price tag, maintenance, and available space. Luckily, there are some great options whether you prefer a composting toilet that looks fancy, or one that simply blends in. Regardless, each of the systems above comes with incredible features that will make doing your business a breeze!
