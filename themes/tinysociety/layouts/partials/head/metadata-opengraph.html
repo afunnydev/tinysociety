@@ -2,8 +2,11 @@
 <meta property="fb:pages" content="{{ .Site.Params.fbpagename }}" />
 {{ if eq .Type "articles" }}
 <meta property="og:type"   content="article" />
-<meta property="og:article:published_time" content='{{.PublishDate.Format "2006-01-02T15:04:05Z07:00"}}' />
-<meta property="og:article:modified_time" content="{{.Params.updated}}" />
+<meta property="article:published_time" content='{{.PublishDate.Format "2015-01-21T20:54:45.847Z"}}' />
+{{ if isset .Params "author" }}
+    {{ $author := index .Site.Data.authors .Params.author }}
+	<meta property="article:author" content="{{ $author.name }}" />
+{{ end }}
 {{- with .Params.tags -}}
 		{{- range . -}}
 		<meta property="og:article:tag" content="{{.}}" />

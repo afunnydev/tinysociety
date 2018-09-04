@@ -22,7 +22,7 @@ listing:
   image: /img/agriculture-alone-barn-259618-2-.jpg
 likes: '31'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
