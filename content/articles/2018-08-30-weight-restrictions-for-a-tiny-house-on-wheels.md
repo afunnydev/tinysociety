@@ -18,8 +18,8 @@ listing:
   image: /img/weigh-your-tiny-house.jpg
 likes: '21'
 categories:
-  - tiny house
-  - tiny house on wheel
+  - Tiny houses
+  - Energy efficiency
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -29,37 +29,31 @@ noindex: false
 ---
 ![tiny house](/img/tiny-house.jpg)
 
-Source credit: [Wildwewander](http://www.wildwewander.com/journal/7-things-to-consider-if-you-want-to-join-the-tiny-house-community)
+Source credit: [Wildwewander
+](http://www.wildwewander.com/journal/7-things-to-consider-if-you-want-to-join-the-tiny-house-community)
 
-Worried about the weight of your tiny house on wheels? Or you don’t have any idea what weight restrictions it has! 
+Worried about the weight of your tiny house on wheels? Or you don’t have any idea what weight restrictions it has! 
 
-Tiny houses whether on wheels or not in most cased have no weight restrictions, but weight itself can create many limitations for you.
+Tiny houses whether on wheels or not in most cases have no weight restrictions, but weight itself can create many limitations.
 
 The weight of your tiny house depends mainly on its size, the trailer used and building materials.
 
-Building a tiny house requires proper planning and understanding of the materials you are going to use and how big or small you want it to be. When you get to the end of this article, many of your doubts and fears will no longer haunt you.
+Building a tiny house requires proper planning and understanding of the materials you are going to use and how big or small you want it to be. When you get to the end of this article, many of your doubts and fears will no longer haunt you. So you don't end up like those guys I saw on [YouTube](https://www.youtube.com/watch?v=CUkpaZ7la7E). The couple had a hard time towing their 12000 lbs tiny house. 
 
-After doing my research on the web, I found that most tiny house on wheels owners face some problems when they have a heavy home to travel. 
+![Tiny house weighs](/img/our-tiny-house-weighs.jpg)
 
-So, my advice: Build it as lightweight as you can.
+Source Credit: [The Creative Animal Foundation](https://www.youtube.com/channel/UCa-s-WEqkhelzEAs4IS2nvg) (youtube)
 
-Here is a video I found on [YouTube](https://www.youtube.com/watch?v=CUkpaZ7la7E). The couple had a hard time towing their 12000 lbs tiny house. I hope it’s still not too late for you.
-
-
-
-![our tiny house weighs](/img/our-tiny-house-weighs.jpg)
-
-Source Credit: [The Creative Animal Foundation](https://www.youtube.com/channel/UCa-s-WEqkhelzEAs4IS2nvg) (youtube)
+So, first advice: Build it as lightweight as you can.
 
 ## Legal weight restrictions in the US
 
-
-
 ![calculate tiny house weight](/img/calculate-tiny-house-weight.jpg)
 
-Source credit: [Tinyhousegiantjourney](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)
+Source credit: [Tinyhousegiantjourney
+](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)
 
-You might have heard about weight restrictions on tiny houses on wheels in different countries of the world. In France, it is 7700 lbs, but if you are living in the US, you don’t need to worry about its weight.
+You might have heard about weight restrictions on tiny houses on wheels in different countries of the world. In France, it is 7700 lbs, but if you are living in the US, you don’t need to worry about its weight.
 
 Although, you still need to check with your local authorities or the state inspector as certain states may have restrictions. 
 
@@ -71,17 +65,14 @@ But there is one more major disadvantage. When traveling from one state to anoth
 
 If you want to further what policies are there in different weight stations of the states in the US, check this out.
 
-
-
 ## How to be sure you are towing your tiny house safely?
-
-
 
 ![weigh tiny house](/img/weigh-your-tiny-house.jpg)
 
-Source credit: [Tinyhousegiantjourney](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)
+Source credit: [Tinyhousegiantjourney
+](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)
 
-Talking about weight, you should be extra careful when towing your tiny house. A number of things are needed to be considered when towing your tiny house safely.
+Talking about weight, you should be extra careful when towing your tiny house. A number of things are needed to be considered when towing your tiny house safely.
 
 The size and capacity of your vehicle need to be adequate to carry your home. Chose a truck that has a towing capacity of more than 15000 lbs. You need to check its condition and braking system as well for safety.
 
@@ -90,8 +81,6 @@ I found two very essential accessories that will be helpful. If you can afford t
 Your tiny house’s load distribution has a significant to play. Make sure that 60% of the weight is in front of the axle and 40% behind. 
 
 Always plan your route. I have seen and heard about many tiny house owners who got stuck on roadways because of bridges, traffic jam or even small turning points. 
-
-
 
 ## Building tips and tricks for a lightweight tiny house on wheels
 
@@ -104,8 +93,6 @@ But, I think the most important tip that I can give you is that focus more on th
 One great idea to drastically reduce your tiny house’s weight is to use fiberglass for the exterior. Fiberglass if you don’t know are durable enough to protect you even in a 5 degree Hurricane. [Here’s a home](https://newatlas.com/transcend-tiny-homes-amsterdam-24/48506/) that you can connect with.
 
 When choosing furniture, go for the lightest ones. Use multipurpose furniture for saving space as well as weight.
-
-
 
 What I have presented above is a brief research on the weight restriction on your tiny house on wheels. 
 
