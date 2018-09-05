@@ -35,10 +35,10 @@
                             {{ range $i, $e := first 2 (where $.Site.RegularPages "Type" "articles") }}
                             <li class="post ">
                                 <a href="{{ .Permalink }}">
-                                    <div class="photo"><img src="/thumb{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><!-- <span class="c">{{ .Params.likes }}</span> -->
+                                    <div class="photo"><img src="/thumb{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><!-- <span class="c">{{ .Params.likes }}</span> -->
                                     </div>
                                     <div class="desc">
-                                        <h6>{{ .Params.listing.title }}</h6><!-- <span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span> -->
+                                        <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
                                     </div>
                                 </a>
                             </li>
@@ -55,10 +55,10 @@
                             {{ range $i, $e := first 2 (after 2 (where $.Site.RegularPages "Type" "articles")) }}
                             <li class="post ">
                                 <a href="{{ .Permalink }}">
-                                    <div class="photo"><img src="/thumb{{ .Params.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><!-- <span class="c">{{ .Params.likes }}</span> -->
+                                    <div class="photo"><img src="/thumb{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><!-- <span class="c">{{ .Params.likes }}</span> -->
                                     </div>
                                     <div class="desc">
-                                        <h6>{{ .Params.listing.title }}</h6><!-- <span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span> -->
+                                        <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
                                     </div>
                                 </a>
                             </li>
@@ -81,6 +81,10 @@
                 <a id="back_to_top" class="button button_left button_js" href="#"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
                 <div class="copyright">
                     &copy; 2018 Tiny House Society - Made with <i class="icon-heart-fa"></i> for you
+                </div>
+                <div class="terms">
+                    <a href='{{ $.Scratch.Get "termsPage" }}'>Terms and Conditions</a> |
+                    <a href='{{ $.Scratch.Get "privacyPage" }}'>Privacy Policy</a>
                 </div>
                 <ul class="social"></ul>
             </div>

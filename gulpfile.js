@@ -10,7 +10,7 @@ var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var concat = require('gulp-concat');
 var rename = require('gulp-rename');
-var uglify = require('gulp-uglify');
+var uglify = require('gulp-uglify-es').default;
 var browserSync = require('browser-sync').create();
 
 // image resizing variables
@@ -31,6 +31,23 @@ const jsFiles = [
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
                   'themes/tinysociety/assets/js/vendor/lazyload.js',
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
+                  'themes/tinysociety/assets/js/main.js'
+                ];
+const jsFilesPlans = [
+                  'themes/tinysociety/assets/js/theme/jquery-2.1.4.min.js',
+                  'themes/tinysociety/assets/js/theme/mfn.menu.js',
+                  'themes/tinysociety/assets/js/theme/jquery.plugins.js',
+                  'themes/tinysociety/assets/js/theme/jquery.jplayer.min.js',
+                  'themes/tinysociety/assets/js/theme/animations/animations.js',
+                  'themes/tinysociety/assets/js/theme/email.js',
+                  'themes/tinysociety/assets/js/theme/scripts.js',
+                  'themes/tinysociety/assets/js/vendor/instafeed.min.js',
+                  'themes/tinysociety/assets/js/vendor/lazyload.js',
+                  'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
+                  'themes/tinysociety/assets/js/vendor/selectem.js',
+                  'themes/tinysociety/assets/js/theme/ui/jquery-ui-slider.js',
+                  'themes/tinysociety/assets/js/vendor/jquery-ui-slider-pips.js',
+                  'themes/tinysociety/assets/js/vendor/twemoji.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsFilesUI = [
@@ -112,7 +129,16 @@ gulp.task('scripts-ui', function() {
         .pipe(gulp.dest(jsDest));
 });
 
-gulp.task('scripts', ['scripts-normal', 'scripts-ui']);
+gulp.task('scripts-plans', function() {
+    return gulp.src(jsFilesPlans)
+        // .pipe(sourcemaps.init())
+        .pipe(concat('main-plans.min.js'))
+        .pipe(uglify())
+        // .pipe(sourcemaps.write(jsDest))
+        .pipe(gulp.dest(jsDest));
+});
+
+gulp.task('scripts', ['scripts-normal', 'scripts-ui', 'scripts-plans']);
 
 // watching
 gulp.task("watch", function() {

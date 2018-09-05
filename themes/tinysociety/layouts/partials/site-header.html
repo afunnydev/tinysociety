@@ -3,6 +3,17 @@
         <div id="Overlay">
             <nav id="overlay-menu">
                 <ul id="menu-main-menu" class="menu overlay-menu">
+                    {{ if (eq .Type "plans")}}
+                    <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "homePage" }}'>Our Blog.</a>
+                    </li>
+                    <li class="{{ if eq .Params.menuid "about" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "aboutPage" }}'>About us.</a>
+                    </li>
+                    <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "contactPage" }}'>Contact us.</a>
+                    </li>
+                    {{ else }}
                     <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "homePage" }}'>Home.</a>
                     </li>
@@ -18,6 +29,7 @@
                     <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "contactPage" }}'>Contact us.</a>
                     </li>
+                    {{ end }}
                     <!-- <li class="buy-now-btn">
                         <a target="_blank" href="#">Buy a plan</a>
                     </li> -->
@@ -25,23 +37,79 @@
             </nav>
         </div>
         <a class="overlay-menu-toggle" href="#"><i class="open icon-menu-fine"></i><i class="close icon-cancel-fine"></i></a>
+        {{ if (eq .Type "plans")}}
+        <div id="Top_bar" class="plans-menu">
+            <div class="container">
+                <div class="column one">
+                    <div class="top_bar_left clearfix" style="width: 100%;">
+                        <div class="logo">
+                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0">
+                                {{ if (eq .Type "plans") }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-tiny-house.png" data-retina="/img/logo-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-sticky scale-with-grid" src="/img/logo-tiny-house.png" data-retina="/img/logo-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-mobile scale-with-grid" src="/img/logo-tiny-house.png" data-retina="/img/logo-tiny-house.png" data-height="36" alt="mockup">
+                                {{ else }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                {{ end }}
+                            </a>
+                        </div>
+                        <div class="menu_wrapper">
+                            <nav id="new-menu" class="menu-main-menu-container">
+                                <ul id="menu-main-menu" class="menu">
+                                    <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
+                                        <a href='{{ $.Scratch.Get "homePage" }}'><span>Our Blog</span></a>
+                                    </li>
+                                    <!-- <li class="{{ if eq .Params.menuid "articles" }}current-menu-item{{ end }}">
+                                        <a href='{{ $.Scratch.Get "plansPage" }}'><span>More Plans</span></a>
+                                    </li> -->
+                                    <li class="{{ if eq .Params.menuid "about" }}current-menu-item{{ end }}">
+                                        <a href='{{ $.Scratch.Get "aboutPage" }}'><span>About us</span></a>
+                                    </li>
+                                    <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
+                                        <a href='{{ $.Scratch.Get "contactPage" }}'><span>Contact us</span></a>
+                                    </li>
+                                    <!-- <li class="last">
+                                        <a target="_blank" href='{{ $.Scratch.Get "homePage" }}'><span><span style="padding: 0; color: #f3c070;">Read our blog</span></span></a>
+                                    </li> -->
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ else }}
         <div class="social-icons">
-            <a href="{{- $.Site.Data.settings.socials.instagramurl -}}" class="instagram" target="_blank"><span class="moon-instagram"></span></a>
+            <a href="{{- $.Site.Data.settings.socials.instagramurl -}}" class="instagram" target="_blank"><span class="moon-icon_instagram"></span></a>
             <a href="{{- $.Site.Data.settings.socials.facebookurl -}}" class="facebook" target="_blank"><span class="moon-facebook"></span></a>
         </div>
-        <!-- <a href="#" class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Buy a plan</span></a> -->
+        <!-- {{ if (eq .Type "plans") }}
+        <a href='{{ $.Scratch.Get "articlesPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Read our articles</span></a>
+        {{ else }}
+        <a href='{{ $.Scratch.Get "plansPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Buy a plan</span></a>
+        {{ end }} -->
         <div class="header_placeholder"></div>
         <div id="Top_bar">
             <div class="container">
                 <div class="column one">
                     <div class="top_bar_left clearfix">
                         <div class="logo">
-                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0"><img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup"><img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup"><img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                            <a id="logo" href="{{ .Site.BaseURL }}" title="Tiny House Lovers" data-height="120" data-padding="0">
+                                {{ if (eq .Type "false") }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-tiny-house.png" data-retina="/img/logo-tiny-house.png" data-height="36" alt="mockup">
+                                {{ else }}
+                                <img class="logo-main scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                {{ end }}
+                                <img class="logo-sticky scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
+                                <img class="logo-mobile scale-with-grid" src="/img/logo-white-tiny-house.png" data-retina="/img/logo-white-tiny-house.png" data-height="36" alt="mockup">
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        {{ end }}
     </header>
 </div>

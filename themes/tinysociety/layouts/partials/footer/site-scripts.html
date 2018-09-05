@@ -18,6 +18,9 @@
 {{ end }}
 {{ if eq .Params.layout "contact" }}
 <script src="/js/main-with-ui.min.js"></script>
+{{ else if (eq .Type "plans") }}
+<script src="/js/main-plans.min.js"></script>
+<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YjEzZWVjYTctZDYwOS00MmRhLWIxNzctODQ4MTEyNDBlMTJkNjM2NTcxNjg0NDkwMDkzMDA5"></script>
 {{ else }}
 <script src="/js/main.min.js"></script>
 {{ end }}
@@ -28,15 +31,23 @@
             var retinaEl = jQuery("#logo img.logo-main");
             var retinaLogoW = retinaEl.width();
             var retinaLogoH = retinaEl.height();
-            retinaEl.attr("src", "/img/logo-white-tiny-house.png").width(retinaLogoW).height(retinaLogoH);
+            retinaEl.attr("src", "/img/logo-tiny-house.png").width(retinaLogoW).height(retinaLogoH);
             var stickyEl = jQuery("#logo img.logo-sticky");
             var stickyLogoW = stickyEl.width();
             var stickyLogoH = stickyEl.height();
+            {{ if (eq .Type "plans") }}
+            stickyEl.attr("src", "/img/logo-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
+            {{ else }}
             stickyEl.attr("src", "/img/logo-white-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
+            {{ end }}
             var mobileEl = jQuery("#logo img.logo-mobile");
             var mobileLogoW = mobileEl.width();
             var mobileLogoH = mobileEl.height();
+            {{ if (eq .Type "plans") }}
+            mobileEl.attr("src", "/img/logo-tiny-house.png").width(mobileLogoW).height(mobileLogoH);
+            {{ else }}
             mobileEl.attr("src", "/img/logo-white-tiny-house.png").width(mobileLogoW).height(mobileLogoH);
+            {{ end }}
         }
     });
 </script>

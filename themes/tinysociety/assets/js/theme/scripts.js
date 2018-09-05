@@ -268,22 +268,6 @@ function mfn_sectionH() {
 			
 		});
 	}
-	
-	
-/* ---------------------------------------------------------------------------
- * # Hash smooth navigation
- * --------------------------------------------------------------------------- */
-function hashNav() {
-	// # window.location.hash
-	var hash = window.location.hash;
-	if (hash && jQuery(hash).length) {
-		var stickyH = jQuery('.sticky-header #Top_bar').innerHeight();
-		var tabsHeaderH = jQuery(hash).siblings('.ui-tabs-nav').innerHeight();
-		jQuery('html, body').animate({
-			scrollTop: jQuery(hash).offset().top - stickyH - tabsHeaderH
-		}, 500);
-	}
-}
 
 	/* ---------------------------------------------------------------------------
 	 * One Page | Scroll Active
@@ -1519,7 +1503,7 @@ jQuery(document).ready(function() {
 	// Full Screen Section
 	mfn_sectionH();
 	// Navigation | Hash
-	hashNav();
+	// hashNav();
 	// Equal Columns | Height
 	//mfn_equalH();
 });
@@ -1655,7 +1639,7 @@ jQuery(window).load(function() {
 	// Full Screen Section
 	mfn_sectionH();
 	// Navigation | Hash
-	hashNav();
+	// hashNav();
 	// niceScroll | Padding right fix for short content
 	niceScrollFix();
 });
