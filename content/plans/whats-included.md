@@ -8,7 +8,7 @@ ordre: 1
 draft: false
 noindex: true
 samplecontent:
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/foundations-plan.jpg
     title: Foundation Plan
     description: >-
       Plan representation indicating the specifications of the foundation. This usually includes the footing layout, post and beams and the extent of structural slabs.
@@ -16,35 +16,35 @@ samplecontent:
     title: Floor Plan(s)
     description: >-
       Dimensioned plans displaying the layout of rooms, doors, windows and walls. This drawing represents an overhead view of the house’s layout.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/roof-plan.jpg
     title: Roof Plan
     description: >-
       This plan shows the elements used to make the roof. It illustrates ridges, hips, and valleys. It also shows you the materials, the lodes as well as other decorative components.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/elevation-plan.jpg
     title: Exterior Elevation
     description: >-
       2d representation of each side of the habitation. These drawings Include heights and sizes of walls, roofs and other elements from side view.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/building-sections.jpg
     title: Building Section(s)
     description: >-
       2d cutaways of the houses sections. These depict adjacencies of spaces and illustrates the relationship between all the different elements of the house.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/plumbing-plan.jpg
     title: Plumbing Plan(s)
     description: >-
       Indicates the location of the water systems within the house.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/electrical-plan.jpg
     title: Electrical Plan(s)
     description: >-
       Indicates the location of lighting fixtures, switches, and outlets. 
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/isometric-plan.jpg
     title: Isos and Cutaways
     description: >-
       3d visuals showing the general conception of the house.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/construction-notes.jpg
     title: Construction Notes
     description: >-
       These drawings include all additional information required the different elements such as the roof, the foundation, the exterior walls, etc.
-  - image: /img/awesome-tiny-house-plan-simplified-1.jpg
+  - image: /img/list-of-materials.jpg
     title: List of materials
     description: >-
       A list of all the materials required to build the house using the plan.

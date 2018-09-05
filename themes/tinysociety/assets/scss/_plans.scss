@@ -278,6 +278,9 @@ body.no-content-padding:not(.with_aside).plan-page {
 		#sidebar.plan-options {
 			margin-left: 2%;
 		}
+		#Description:focus {
+			outline: none;
+		}
 		#plan-options {
 			background: #f2f2f2 !important;
 			background-color: #f2f2f2 !important;
