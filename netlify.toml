@@ -1,0 +1,3 @@
+[build]
+  # This is where we will look for your lambda functions
+  functions = "lambda-functions/"

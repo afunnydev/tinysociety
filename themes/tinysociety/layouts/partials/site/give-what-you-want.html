@@ -1,0 +1,17 @@
+<div id="give-what-you-want">
+	<h4>Give Us What You Want</h4>
+	{{ $average := (index (seq 130 110 | shuffle) 0)}}
+	<p class="emoji-slider-question">Our average donation is {{ $average }}$, can you beat that? 😉</p>
+	<div class="emoji-slider"></div>
+	<p>Average: {{ $average }}$</p>
+	<p class="donation-sentence">Your Donation: <span class="donation">160</span>$</p>
+	<a href='#add-to-cart' class="button button_theme button_js action_button give_us_add snipcart-add-item"
+       data-item-id="{{ .Params.slug }}"
+       data-item-name="{{ .Params.listing.title }}"
+       data-item-price="160"
+       data-item-url="https://tinyplans.netlify.com/.netlify/functions/product?donationAmount=160&productId={{ .Params.slug }}"
+       data-item-description="{{ .Params.listing.description }}"
+       data-item-image="https://tinyplans.netlify.com{{ .Params.listing.image }}">
+		<span class="button_label">GO FOR IT</span>
+	</a>
+</div>

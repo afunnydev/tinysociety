@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{ $mymonths := $.Site.Data.mois.mois }}
+{{ $mydays := $.Site.Data.jour.jour }}
+{{ $text := split .Content "<!-- split -->" }}
+<div id="plan">
+    <div id="Content">
+        <div class="content_wrapper clearfix" id="Description">
+            <div class="sections_group">
+                <div class="post format-standard has-post-thumbnail category-hot-articles">
+                    <div class="post-wrapper-content">
+                        <div class="section mcb-section" style="padding-top:50px;padding-bottom:0px; margin-bottom: 30px ">
+                            <div class="section_wrapper mcb-section-inner plan-main-section">
+                                <div class="wrap mcb-wrap one  valign-top clearfix">
+                                    <div class="mcb-wrap-inner" id="whats-included">
+                                    	<div class="column mcb-column one column_column content no-margin-bottom">
+                                            <div class="column_attr">
+                                            	{{ index $text 0 | markdownify }}
+                                            </div>
+                                        </div>
+                                        {{ range .Params.samplecontent}}
+                                        <div class="column mcb-column one column_column content no-margin-bottom">
+                                            <div class="column_attr">
+                                                <div class="column mcb-column one-fourth column_column content no-margin-bottom">
+                                                    <img src="/quart{{ .image }}" alt="{{ .title }}">
+                                                </div>
+                                                <div class="column mcb-column three-fourth column_column content no-margin-bottom sample-plan-content">
+                                                    <div class="description">
+                                                        <h4>{{ .title }}</h4>
+                                                        <p>{{ .description }}</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {{ end }}
+                                        <div class="column mcb-column one column_column content no-margin-bottom" style="margin-top: 30px;">
+                                            <div class="column_attr">
+                                                {{ index $text 1 | markdownify }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
