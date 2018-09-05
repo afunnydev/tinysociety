@@ -23,15 +23,21 @@ Element.prototype.tc = function(a) {
     var g = a.querySelector(".selectem-value"),
         f = a.querySelector("[data-filter]");
     e.addEventListener("click", function() {
-        a.tc("is-active")
+        a.tc("is-active");
     }, !1);
     for (var d = 0; d < b.length; d++) b[d].addEventListener("click", function() {
         var b = this.getAttribute("data-val"),
             c = this.querySelector(".item-label");
+            h = $(".instant-download");
         g.value = b;
         e.innerHTML = c.innerHTML;
         a.className =
-            a.className.replace(/(?:^|\s)is-active(?!\S)/g, "")
+            a.className.replace(/(?:^|\s)is-active(?!\S)/g, "");
+        if (b === "pdf-set") {
+            h.css("display", "block");
+        } else {
+            h.css("display", "none");
+        }
     }, !1);
     f.onkeyup = function() {
         for (var a = f.value.toUpperCase(), c = 0; c < b.length; c++) {

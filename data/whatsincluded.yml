@@ -1,0 +1,21 @@
+data:
+  - title: 3d renders of the residence
+    description: These images show the final architectural feel and design of the house. They are intended to guide you in the general styling of the home.
+  - title: Foundation plan
+    description: Plan indicating the specifications of the foundation on which the house is built.
+  - title: Floor plan(s)
+    description: Dimensioned plans showing the layout of the residence. These give an over overhead view of the wall partitions, windows, doors, etc.
+  - title: Roof plan
+    description: Plan showing the elements that make up the roof, illustrating ridges, hips, valleys, construction materials and roof slope.
+  - title: Elevations
+    description: 2d representation of each side of the house, including heights and sizes of the house, while giving a clear view of the materials used.
+  - title: Sections
+    description: 2d cutaways of the house sections showing adjacencies of spaces and illustrating the dynamic between all different elements of the house.
+  - title: Electrical plan(s)
+    description: Plan showing the location of lights, receptacles, switches, etc.
+  - title: Plumbing plan(s)
+    description: Plan illustrating the basic water system for the house.
+  - title: Isos and Cutaways
+    description: 3d representation of the different structural elements of the house.
+  - title: Construction notes
+    description: Notes giving additional information concerning all the different components of the house, such as roofing, structure, foundation, etc.

@@ -52,6 +52,9 @@ body.no-content-padding:not(.with_aside).plan-page {
 		border-color: $orange !important;
 		color: white !important;
 	}
+	.strike {
+		text-decoration: line-through;
+	}
 	#Intro {
 		padding-top: 90px;
 		background-color: white;
@@ -367,6 +370,42 @@ body.no-content-padding:not(.with_aside).plan-page {
 					}
 				}
 			}
+			.instant-download {
+				margin-top: 5px;
+			    background: $orange;
+			    color: white;
+			    text-transform: uppercase;
+			    font-size: .6em;
+			    line-height: 1.2;
+			    font-weight: 400;
+			    position: relative;
+			    text-align: center;
+			    padding: 4px 0 2px;
+			    &:before {
+			    	content: '';
+				    display: inline-block;
+				    position: absolute;
+				    left: 0;
+				    top: 0;
+				    width: 0;
+				    height: 0;
+				    border-top: 9px solid transparent;
+				    border-bottom: 9px solid transparent;
+				    border-left: 9px solid #f2f2f2;
+			    }
+			    &:after {
+			    	content: '';
+				    display: inline-block;
+				    position: absolute;
+				    right: 0;
+				    top: 0;
+				    width: 0;
+				    height: 0;
+				    border-top: 9px solid transparent;
+				    border-bottom: 9px solid transparent;
+				    border-right: 9px solid #f2f2f2;
+			    }
+			}
 		}
 		#cost-to-build, #customize-plan {
 			background: #f2f2f2 !important;
@@ -437,11 +476,17 @@ body.no-content-padding:not(.with_aside).plan-page {
 					h5 {
 						font-size: 1em;
 						font-family: $pfont;
+						text-decoration: underline;
 					}
 				}
 				&.pricing {
 					.main-row {
 						margin-bottom: 30px;
+						.plan-set-options {
+							span {
+								text-decoration: underline;
+							}
+						}
 					}
 					.column {
 						position: relative;

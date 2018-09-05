@@ -63,46 +63,29 @@
 	<div class="column one">
 		<a href='{{ $.Scratch.Get "includedPage" }}'>See a sample plan set</a>
 		<ul>
+			{{ range $.Site.Data.whatsincluded.data }}
 			<li>
-				<h5>Exterior Elevations</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure facilis sapiente expedita modi omnis quisquam voluptatibus recusandae necessitatibus ipsam, beatae suscipit! Repellendus obcaecati, et qui eum, explicabo culpa ad consectetur.</p>
+				<h5>{{ .title }}</h5>
+				<p>{{ .description }}</p>
 			</li>
-			<li>
-				<h5>Foundation Plan </h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure facilis sapiente expedita modi omnis quisquam voluptatibus recusandae necessitatibus ipsam, beatae suscipit! Repellendus obcaecati, et qui eum, explicabo culpa ad consectetur.</p>
-			</li>
-			<li>
-				<h5>Floor Plan(s)</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure facilis sapiente expedita modi omnis quisquam voluptatibus recusandae necessitatibus ipsam, beatae suscipit! Repellendus obcaecati, et qui eum, explicabo culpa ad consectetur.</p>
-			</li>
+			{{ end }}
 		</ul>
 		<a href='{{ $.Scratch.Get "includedPage" }}'>See important information before purchasing</a>
 	</div>
 </div>
 <div class="desc-row pricing">
 	<h3>Pricing</h3>
-	<div class="wrap mcb-wrap one valign-top clearfix main-row">
-		<p>Plan Set Options</p>
+	<div class="wrap mcb-wrap one valign-top clearfix main-row no-margin-bottom">
+		<p class="plan-set-options">Plan Set Options. For a <span>limited time</span>, you can get one of our plans by <span>paying us what you think it's worth</span>. Hit that <span>DONATE NOW</span> button on the right before it's too late!</p>
 		<div class="wrap mcb-wrap one valign-top clearfix">
 			<div class="column options first">
 				<p>PDF Set</p>
 			</div>
 			<div class="column price first">
-				<p>$1329.00</p>
+				<p class="strike">295$</p>
 			</div>
 			<div class="column explanation first">
-				<p>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</p>
-			</div>
-		</div>
-		<div class="wrap mcb-wrap one valign-top clearfix">
-			<div class="column options">
-				<p>PDF Set</p>
-			</div>
-			<div class="column price">
-				<p>$1329.00</p>
-			</div>
-			<div class="column explanation">
-				<p>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</p>
+				<p>Ideal for fast electronic delivery and easy to print in your local print shop cheaply. Instant download after purchase</p>
 			</div>
 		</div>
 		<div class="wrap mcb-wrap one valign-top clearfix">
@@ -110,10 +93,10 @@
 				<p>5 Copy Set</p>
 			</div>
 			<div class="column price">
-				<p>$1329.00</p>
+				<p class="strike">420$</p>
 			</div>
 			<div class="column explanation">
-				<p>PDF plan sets are best for fast electronic.</p>
+				<p>5 printed sets sent to you by mail.</p>
 			</div>
 		</div>
 		<div class="wrap mcb-wrap one valign-top clearfix">
@@ -121,14 +104,14 @@
 				<p>CAD Set</p>
 			</div>
 			<div class="column price">
-				<p>$1329.00</p>
+				<p class="strike">425$</p>
 			</div>
 			<div class="column explanation">
-				<p>PDF plan sets are best for fast electronic delivery</p>
+				<p>Ideal for advanced modifications by a local architect. Instant electronic delivery.</p>
 			</div>
 		</div>
 	</div>
-	<div class="wrap mcb-wrap one valign-top clearfix main-row no-margin-bottom">
+	<!-- <div class="wrap mcb-wrap one valign-top clearfix main-row no-margin-bottom">
 		<p>Foundation Options</p>
 		<div class="wrap mcb-wrap one valign-top clearfix">
 			<div class="column options">
@@ -174,5 +157,5 @@
 				<p>PDF plan sets are best for fast electronic delivery</p>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </div>
