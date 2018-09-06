@@ -7,7 +7,7 @@ description: >-
 slug: how-to-heat-tiny-house-complete-guide
 author: molli
 image: /img/michael-shannon-474807-unsplash-2-.jpg
-overlay: false
+overlay: true
 date: '2018-07-20'
 notloaded:
   need: 'true'
@@ -64,7 +64,7 @@ Cons:
 
 ![mini split](/img/1_minisplit.jpg)
 
-Source : [Home Depot ](https://www.homedepot.com/p/DuctlessAire-Energy-Star-24-000-BTU-2-Ton-Ductless-Mini-Split-Air-Conditioner-and-Heat-Pump-Variable-Speed-Inverter-220V-60Hz-DA2421-H2/300696785)
+<span class="figcaption">Source: [Home Depot ](https://www.homedepot.com/p/DuctlessAire-Energy-Star-24-000-BTU-2-Ton-Ductless-Mini-Split-Air-Conditioner-and-Heat-Pump-Variable-Speed-Inverter-220V-60Hz-DA2421-H2/300696785)</span>
 
 Price: avg. $2000
 
@@ -90,7 +90,7 @@ Cons:
 
 ![electric heater](/img/2_electricheater.jpg)
 
-Source: [The Spruce](https://www.thespruce.com/best-electric-fireplace-heaters-4151737)
+<span class="figcaption">Source: [The Spruce](https://www.thespruce.com/best-electric-fireplace-heaters-4151737)</span>
 
 Price: avg. $160
 
@@ -116,7 +116,7 @@ Cons:
 
 ![radiant floor](/img/3_radiantfloor.jpg)
 
-Source : [Warmup](https://www.warmup.com/blog/pros-cons-of-radiant-floor-heating)
+<span class="figcaption">Source: [Warmup](https://www.warmup.com/blog/pros-cons-of-radiant-floor-heating)</span>
 
 Price: avg. $10-20 per square foot / $200-$250 installation fee
 
@@ -152,7 +152,7 @@ Cons:
 
 ![solar heater](/img/4_solarair.jpg)
 
-Source : [Electrofix Group](http://www.electrofixgroup.com/renewable-energy-solar-air-heater)
+<span class="figcaption">Source: [Electrofix Group](http://www.electrofixgroup.com/renewable-energy-solar-air-heater)</span>
 
 Price: avg. $1000-$6000 dependent on size
 
@@ -182,7 +182,7 @@ Cons:
 
 ![propane heater](/img/5_propaneheater.jpg)
 
-Source: [Kirkland Heating](https://kirklandheating.com/kirkland-fireplace/hampton-h27-medium-gas-stove/)
+<span class="figcaption">Source: [Kirkland Heating](https://kirklandheating.com/kirkland-fireplace/hampton-h27-medium-gas-stove/)</span>
 
 Price: avg. $4000
 
@@ -206,7 +206,7 @@ Cons:
 
 ![firewood heater](/img/wood-stove-hobbit-stove-large-1-.jpg)
 
-Source: [The Stove Yard](https://www.thestoveyard.com/catalogue/salamander-stoves/the-hobbit-multi-fuel-stove)
+<span class="figcaption">Source: [The Stove Yard](https://www.thestoveyard.com/catalogue/salamander-stoves/the-hobbit-multi-fuel-stove)</span>
 
 Price: avg. $600
 
@@ -232,7 +232,7 @@ Cons:
 
 ![geothermal heating](/img/7_geothermalheatpump.jpg)
 
-Source: [This Old House](https://www.thisoldhouse.com/ideas/geothermal-heat-pump-how-it-works)
+<span class="figcaption">Source: [This Old House](https://www.thisoldhouse.com/ideas/geothermal-heat-pump-how-it-works)</span>
 
 Price: avg. $15,000 - $20,000
 

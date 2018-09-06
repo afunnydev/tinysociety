@@ -8,7 +8,7 @@ description: >-
   that are available.
 slug: roof-ventilation-for-a-tiny-house
 author: molli
-image: /img/693e3859-5eb8-4343-93a4-a66f834f59b9.jpg
+image: /img/roof-ventilation.jpg
 overlay: false
 date: '2018-08-11'
 notloaded:

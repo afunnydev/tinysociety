@@ -14,6 +14,7 @@
                                 <div class="scale-with-grid aligncenter no_border">
                                     <h1 class="home-title">{{ .Params.titre }}</h1>
                                     <div class="categories-choices">
+                                        <a href='{{ $.Scratch.Get "articlesPage" }}#category-articles' class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">All articles</span></a>
                                     	{{ $tags := $.Site.Taxonomies.categories.Alphabetical }}
                                     	{{ range $tags }}
                                     	<a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}#category-articles" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ .Term }}</span></a>

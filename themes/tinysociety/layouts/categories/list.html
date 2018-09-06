@@ -2,7 +2,7 @@
 <div class="content_wrapper clearfix" id="blog">
     <div class="sections_group">
         <div class="entry-content">
-            <div id="home-slider" class="section mcb-section dark has-navi not-loaded overlayed" style="min-height: 650px; background-color:#b0b3b5; background-repeat:no-repeat; background-position:center center; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3" data-large="{{- .Params.image -}}">
+            <div id="categories-slider" class="section mcb-section dark has-navi not-loaded overlayed" data-enllax-ratio="-0.3" data-large="{{- .Params.image -}}">
             	<div class="black-overlay"></div>
                 <div class="section-nav next" style="z-index: 10">
                     <i class="icon-down-open-big"></i>
@@ -14,6 +14,7 @@
                                 <div class="scale-with-grid aligncenter no_border">
                                     <h1 class="home-title">{{ .Params.titre }}</h1>
                                     <div class="categories-choices">
+                                        <a href='{{ $.Scratch.Get "articlesPage" }}#category-articles' class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">All articles</span></a>
                                     	{{ $tags := $.Site.Taxonomies.categories.Alphabetical }}
                                     	{{ range $tags }}
                                     	<a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}#category-articles" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ .Term }}</span></a>

@@ -31,7 +31,7 @@ A tiny house is the best way to live a mortgage and a rent-free life. A home clo
 
 ![tiny house showcase](/img/tiny-house-showcase.png)
 
-Image credit: [Dwell](https://www.dwell.com/article/tiny-house-fits-a-family-in-196-square-feet-c2544e9d)
+<span class="figcaption">Image credit: [Dwell](https://www.dwell.com/article/tiny-house-fits-a-family</span>-in-196-square-feet-c2544e9d)
 
 [Macy Miller’s](https://tinyhouseplans.com/macy-miller/) DIY built home is the best tiny house showcase you will ever see. 
 
@@ -51,13 +51,13 @@ The extension allowed Macy to accommodate a little space for the little one.
 
 ![before image](/img/before.png)
 
-Image credit: [Youtube (screenshot)
-](https://www.youtube.com/watch?v=_DRgLopvTyw)
+<span class="figcaption">Image credit: [Youtube (screenshot)
+](https://www.youtube.co</m/watch?v=_DRgLopvTyw)
 
 ![after image](/img/after.png)
 
-Image credit: [Youtube (screenshot)
-](https://www.youtube.com/watch?v=_DRgLopvTyw)
+<span class="figcaption">Image credit: [Youtube (screenshot)
+](https://www.youtube.co</m/watch?v=_DRgLopvTyw)
 
 The home was straight away built on a flatbed trailer.
 
@@ -72,8 +72,8 @@ The only thing that cost more than the house was that Macy broke her back during
 
 ![null](/img/tiny-house-showcase-2.jpg)
 
-Image credit: [Dreambiglivetinyco
-](https://www.dreambiglivetinyco.com/blogs/featured-tiny-spaces/232-sqft-tiny-house-built-for-only-11-000-is-home-to-a-family-of-four)
+<span class="figcaption">Image credit: [Dreambiglivetinyco
+](https://www.dreambigli</vetinyco.com/blogs/featured-tiny-spaces/232-sqft-tiny-house-built-for-only-11-000-is-home-to-a-family-of-four)
 
 To be honest, it’s a minimalistic home with typical tiny house features like little furniture, storage savers and all day natural light.
 
@@ -91,8 +91,8 @@ So, what interests me is that its equally important to manage your work, rather 
 
 ![living room](/img/livingroom.jpg)
 
-Image credit: [Minimotives
-](http://minimotives.com/pro-photos/)
+<span class="figcaption">Image credit: [Minimotives
+](http://minimotives.com</vetinyco.com>/pro-photos/)
 
 This is Macy and her living room. It is beautifully decorated. 
 
@@ -106,7 +106,7 @@ The living room feels spacious and quite extraordinary how 5 lives stay together
 
 ![kitchen](/img/kitchen.jpg)
 
-Image credit: [Minimotives](http://minimotives.com/pro-photos/)
+<span class="figcaption">Image credit: [Minimotives](http://minimotives.com/pro-photos/)</vetinyco.com>
 
 As I said nothing in this home is over the top. The Kitchen is built in a galley-style from reclaimed wood.
 
@@ -120,13 +120,13 @@ You can experiment with your kitchen as you want to. But remember less is more.
 
 ![bathroom](/img/bathroom.jpg)
 
-Image credit: [Minimotives](http://minimotives.com/pro-photos/)
+<span class="figcaption">Image credit: [Minimotives](http://minimotives.com/pro-photos/)</span>
 
 The compost toilet costs around $2000. It's the highest Macy spent on any of her appliance in the entire building process. 
 
 ![bathroom](/img/bathroom-2.jpg)
 
-Image credit: [Minimotives](http://minimotives.com/pro-photos/)
+<span class="figcaption">Image credit: [Minimotives](http://minimotives.com/pro-photos/)</span>
 
 The only smugness I found in this carefully built tiny house was the chrome waterfall faucet and the retractable Ikea mirror. 
 
@@ -134,7 +134,7 @@ The only smugness I found in this carefully built tiny house was the chrome wate
 
 ![bedroom](/img/bedroom.jpg)
 
-Image credit: [Minimotives](http://minimotives.com/pro-photos/)
+<span class="figcaption">Image credit: [Minimotives](http://minimotives.com/pro-photos/)</span>
 
 There is a small staircase leading to the bedroom on top of a cabinet filled with drawers. 
 

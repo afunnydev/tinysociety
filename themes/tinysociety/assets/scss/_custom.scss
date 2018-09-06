@@ -202,6 +202,9 @@ span.home-subtitle {
 	font-family: $hfont;
 	color: $gray;
 }
+.posts_group.masonry.tiles .post-item {
+	cursor: pointer;
+}
 .masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after, .masonry.tiles .post-item.no-img, .masonry.tiles .post-item.format-quote {
 	background: $brown;
 }
@@ -292,6 +295,15 @@ div.overlayed {
 	}
 }
 /******** BLOG *********/
+#categories-slider {
+	min-height: 650px; 
+	background-color:#b0b3b5; 
+	background-repeat:no-repeat; 
+	background-position:center center; 
+	background-attachment:fixed; 
+	background-size:cover; 
+	-webkit-background-size:cover;
+}
 #blog {
 	.categories-choices {
 		max-width: 800px;
@@ -369,6 +381,9 @@ div.overlayed {
 				}
 				.post-excerpt {
 					font-size: 1.1em;
+					&.show-xs {
+						display: none;
+					}
 				}
 				.post-footer {
 					position: absolute;
@@ -487,6 +502,8 @@ div.overlayed {
 					list-style-type: none;
 					position: relative;
 	    			padding: 3px 0 3px 0;
+	    			font-size: $article-font-size;
+	    			line-height: $article-line-height;
 	    			&:before {
 						content: '\e900';
 						font-family: 'icomoon' !important;
@@ -507,7 +524,16 @@ div.overlayed {
 	    			}
 				}
 				p {
-				
+					font-size: $article-font-size;
+	    			line-height: $article-line-height;
+				}
+				.figcaption {
+					margin-top: -50px;
+				    margin-bottom: 20px;
+				    text-align: center;
+				    font-size: 0.8em;
+				    opacity: 0.8;
+				    display: block;
 				}
 				h2, h3, h4, h5, h6 {
 					&:focus {
@@ -543,7 +569,7 @@ div.overlayed {
 					margin: 20px 0 15px;
 				}
 				img {
-					margin: 40px auto
+					margin: 20px auto 40px;
 				}
 			}
 		}
@@ -762,11 +788,14 @@ h6.regular-text {
 	#instafeed {
 		display: none !important;
 	}
+	#categories-slider {
+		margin-top: 90px;
+	}
 	#blog {
 		.column_blog .post-item {
 			.post-photo-wrapper {
 				.article-img-bg {
-					height: 300px;
+					height: 240px;
 				}
 			}
 			.post-desc-wrapper {
@@ -797,19 +826,29 @@ h6.regular-text {
 							}
 						}
 					}
+					.post-excerpt {
+						&.hidden-xs {
+							display: none !important;
+						}
+						&.show-xs {
+							display: block !important;
+						}
+					}
 				}
 			}
 		}
 	}
 	#article {
 		#Intro {
+			margin-top: 90px;
+			background-size: auto 500px;
+    		background-position: top;
 			h1.intro-title {
 				font-size: 35px;
 				line-height: 40px;
 			}
 			.intro-inner {
-				margin-top: 90px;
-				padding:100px 10% 125px;
+				padding:50px 10% 60px !important;
 			}
 		}
 		#Content {
@@ -885,7 +924,7 @@ h6.regular-text {
 		}
 		.post-desc-wrapper {
 			.post-desc {
-				min-height: 400px;
+				min-height: 250px;
 				.post-meta {
 					.author-date {
 						span.date {
@@ -915,7 +954,7 @@ h6.regular-text {
 	#blog .column_blog .post-item {
 		.post-desc-wrapper {
 			.post-desc {
-				min-height: 500px;
+				min-height: 275px;
 			}
 		}
 	}

@@ -141,7 +141,7 @@ Some items are more suited to drawers, some to open shelves, and some to cabinet
 
 ![null](/img/ultra-1.jpg)
 
-Image credit: [instantpot](https://instantpot.com/)
+<span class="figcaption">Image credit: [instantpot](https://instantpot.com/)</span>
 
 I’m tempted to call this section ‘Why I Love My Instant Pot.’ Seriously. I was a late-comer to this recently trendy gadget, having acquired one only a few months ago. When I unboxed it and set it on my countertop, where it took up about a quarter of my available counter space (I got the six-quart model), I shook my head and thought, “No way is this thing going to earn its keep.” But it has, and it does. The thing is, since it’s able to do the work of a slow cooker, a rice cooker, a steamer, and a pressure cooker, I was able to get rid of a number of these former gadgets to gain some extra space. And of course, it saves a mountain of time as well.
 

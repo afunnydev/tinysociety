@@ -72,7 +72,7 @@ If you’re building a fixed structure, you can customize it to conform to the s
 
 ![Tiny Cabin in the mountains](/img/well-architeted-tiny-house.jpg)
 
-Image source: [inhabitat.com](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)
+<span class="figcaption">Image source: [inhabitat.com](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)</span>
 
 ## Renting Land for a Mobile Tiny House
 
@@ -192,7 +192,7 @@ While these options won’t give you the full experience of living 24/7 in a Tin
 
 ![Tiny house interior](/img/tiny-house-interior.jpg)
 
-Image source: [rmccc.org](https://www.rmccc.org/mC6o-16167/drop-gorgeous-small-16169/)
+<span class="figcaption">Image source: [rmccc.org](https://www.rmccc.org/mC6o-16167/drop-gorgeous-small-16169/)</span>
 
 ## Buying Land for a Tiny House
 

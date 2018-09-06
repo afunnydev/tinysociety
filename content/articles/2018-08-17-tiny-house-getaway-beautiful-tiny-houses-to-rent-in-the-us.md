@@ -38,7 +38,7 @@ Who hasn’t dreamed of escaping the rat-race of modern day living? I know I hav
 
 ![Getaway for rent](/img/getaway.jpg)
 
-Image source: [gateway](https://getaway.house/)
+<span class="figcaption" >Image source: [gateway](https://getaway.house/)</span>
 
 Aptly named [Getaway](https://getaway.house/), this relatively new start-up offers individuals or families the chance to experience life without the distractions of modern-day living. With growing interest in the [tiny house movement](https://www.tinysociety.co/) and the fact the owners [turned down an offer on Shark Tank](https://www.businessinsider.com/tiny-house-startup-getaway-shark-tank-2017-2?IR=T), these rentable tiny houses are in high demand! 
 
@@ -54,7 +54,7 @@ Aptly named [Getaway](https://getaway.house/), this relatively new start-up offe
 
 ![Airstream Malibu](/img/airstream_malibu.png)
 
-Image source: [airbnb](https://www.airbnb.com/rooms/3406062)
+<span class="figcaption" >Image source: [airbnb](https://www.airbnb.com/rooms/3406062)</span>
 
 This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Malibu designer who built it as his personal getaway. Located high in the clouds with mountain and sea views, this luxurious little home is the perfect way to enjoy the surrounding nature.
 
@@ -70,7 +70,7 @@ This [vintage airstream](https://www.airbnb.com/rooms/3406062) is owned by a Mal
 
 ![Canoe bay](/img/canoebay.jpg)
 
-Image source: [escape village](https://www.escapevillages.com/)
+<span class="figcaption" >Image source: [escape village](https://www.escapevillages.com/)</span>
 
 [Canoe Bay Escape Village ](https://www.escapevillages.com/)is the “first large scale vacation Tiny Home Village in the Midwest.” Surrounded by a beautiful forest teeming with wildlife, this village is the perfect resort-style spot for escaping the hustle and bustle. 
 
@@ -85,7 +85,7 @@ Image source: [escape village](https://www.escapevillages.com/)
 
 ![rustic modern](/img/rusticmodern.png)
 
-Image source: [airbnb](https://www.airbnb.com/rooms/898771)
+<span class="figcaption" >Image source: [airbnb](https://www.airbnb.com/rooms/898771)</span>
 
 [The Rustic Modern Tiny House](https://www.airbnb.com/rooms/898771) is absolutely everything one could want in a miniature home. Named “the perfect urban getaway,” this tiny house was hand-built by the owners from locally sourced and reclaimed materials--all of which you can see in the tiniest details!
 
@@ -101,7 +101,7 @@ Image source: [airbnb](https://www.airbnb.com/rooms/898771)
 
 ![petite retreats tiny houses](/img/yurts_2.jpg)
 
-Image source: [petiteretreats](http://www.petiteretreats.com/accomodations_yurts)
+<span class="figcaption" >Image source: [petiteretreats](http://www.petiteretreats.com/accomodations_yurts)</span>
 
 [Petite Retreats](http://www.petiteretreats.com/accomodations_yurts) offers a selection of yurts across the country. Each of their accommodations provides the rustic, outdoor charm that you look for in a nature-filled getaway!
 
@@ -116,7 +116,7 @@ Image source: [petiteretreats](http://www.petiteretreats.com/accomodations_yurts
 
 ![tiny house on top of mountain](/img/wanderinggypsy.png)
 
-Image source: [livealittlechatt](http://livealittlechatt.com/booknow)
+<span class="figcaption" >Image source: [livealittlechatt](http://livealittlechatt.com/booknow)</span>
 
 [This tiny house getaway](http://livealittlechatt.com/booknow) offers four tiny houses to rent and experience what living small is all about. These little houses are located close to plenty of outdoor adventures and breathtaking views! If you want a retreat that’s close to activities but still far enough away from it all, this is the tiny house getaway for you!
 
@@ -132,7 +132,7 @@ Image source: [livealittlechatt](http://livealittlechatt.com/booknow)
 
 ![tiny house hotel](/img/tinyhousehotel.jpg)
 
-Image source: [tinyhousehotel](http://tinyhousehotel.com/)
+<span class="figcaption" >Image source: [tinyhousehotel](http://tinyhousehotel.com/)</span>
 
 [The Tiny House Hotel](http://tinyhousehotel.com/), located in the Alberta Arts District, offers travelers a one-of-a-kind tiny house experience. These tiny houses built by local builders, range from 120-170 square feet and rock a unique, funky design aesthetic. 
 
@@ -149,7 +149,7 @@ Image source: [tinyhousehotel](http://tinyhousehotel.com/)
 
 ![wee casa](/img/weecasa.png)
 
-Image source: [weecasa](https://weecasa.com/)
+<span class="figcaption" >Image source: [weecasa](https://weecasa.com/)</span>
 
 What’s not to love about a tiny house resort called “[Wee Casa](https://weecasa.com/)?” Known as the world’s largest tiny house resort, these tiny homes offer high-end accommodation in an outdoorsy setting.
 
@@ -165,7 +165,7 @@ What’s not to love about a tiny house resort called “[Wee Casa](https://weec
 
 ![treehouse](/img/treehouse.png)
 
-Image source: [airbnb](https://www.airbnb.com/rooms/1415908)
+<span class="figcaption" >Image source: [airbnb](https://www.airbnb.com/rooms/1415908)</span>
 
 [The Secluded Intown Treehouse](https://www.airbnb.com/rooms/1415908) boasts the title as Airbnb’s “#1 most wished-for listing worldwide.” This impressive treehouse consists of three separate rooms connected by rope-bridges. Although located in the heart of Atlanta, this tiny home will make you feel like you’re worlds away. 
 
@@ -179,7 +179,7 @@ Image source: [airbnb](https://www.airbnb.com/rooms/1415908)
 
 ![hobbit house](/img/screen-shot-2018-08-17-at-15.09.25.png)
 
-Image source: [airbnb](https://www.airbnb.com/rooms/16115363)
+<span class="figcaption" >Image source: [airbnb](https://www.airbnb.com/rooms/16115363)</span>
 
 Are you a Lord of the Rings fan? Here’s your chance to stay in a tiny [hobbit house](https://www.airbnb.com/rooms/16115363)! This charming little home buried in the earth offers a camping-feel with limited WiFi access and no electricity. This is the ultimate in unplugged tiny house getaways!
 

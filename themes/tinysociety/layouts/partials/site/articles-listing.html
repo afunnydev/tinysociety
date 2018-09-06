@@ -29,8 +29,11 @@
         <div class="post-title">
             <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}">{{ .Params.listing.title }}</a></h2>
         </div>
-        <div class="post-excerpt">
-            {{ .Params.listing.description }}
+        <div class="post-excerpt hidden-xs">
+            {{ .Params.listing.description | truncate 200 }}
+        </div>
+        <div class="post-excerpt show-xs">
+            {{ .Params.listing.description | truncate 100 }}
         </div>
         <div class="post-footer">
             <div class="button-love">

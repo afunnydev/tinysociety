@@ -56,7 +56,7 @@ Another useful strategy for family Tiny House floor plans is to include converti
 
 ![Convertible sleeping space](/img/convertible-sleeping-spaces-2.jpg)
 
-Image credit: [HomeKlondike](http://homeklondike.site/2017/05/20/hideaway-foldable-convertible-beds-20-ideas-for-small-spaces/)
+<span class="figcaption">Image credit: [HomeKlondike](http://homeklondike.site/2017/05/20/hideaway-foldable-convertible-beds-20-ideas-for-small-spaces/)</span>
 
 #### Considerations around sleeping arrangements
 

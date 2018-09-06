@@ -21,7 +21,7 @@
                     </div>
                 </div>
             </div>
-            <div class="section mcb-section full-width no-margin-h no-margin-v  " style="padding-top:0px; padding-bottom:0px; background-color:#dcdfe1" id="hot-articles">
+            <div class="section mcb-section full-width no-margin-h no-margin-v " style="padding-top:0px; padding-bottom:0px; background-color:#dcdfe1" id="hot-articles">
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one  valign-top clearfix">
                         <div class="mcb-wrap-inner">
@@ -30,7 +30,7 @@
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
                                             {{ range $i, $e := (first 4 (where $.Site.RegularPages "Type" "articles")) }}
-                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles">
+                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles" onclick="location.href='{{- .Permalink -}}';">
                                                 {{- partial "site/articles-post.html" . $ -}}
                                             </div>
                                             {{ end }}
@@ -95,7 +95,7 @@
                                         <div class="posts_group lm_wrapper col-3 masonry tiles isotope" style="background: #f0f1f2">
                                             {{ $mytag := (.category) }}
                                             {{ range first 3 (index $.Site.Taxonomies.categories $mytag).Pages }}
-                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people">
+                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people" onclick="location.href='{{- .Permalink -}}';">
                                               {{- partial "site/articles-post.html" . $ -}}
                                             </div>
                                             {{ end }}
@@ -132,7 +132,7 @@
                                             {{ $mytag := (.category) }}
                                             {{ $class := .class}}
                                             {{ range first 2 (index $.Site.Taxonomies.categories $mytag).Pages }}
-                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail {{ $class }}">
+                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail {{ $class }}" onclick="location.href='{{- .Permalink -}}';">
                                               {{ partial "site/articles-post.html" . $}}
                                             </div>
                                             {{ end }}

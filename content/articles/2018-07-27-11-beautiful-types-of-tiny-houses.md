@@ -48,7 +48,7 @@ If you don’t own a piece of land, building a semi-permanent foundation is an o
 
 ![tiny-house-on-foundation](/img/f228e65b0482c7a8a9e013306df49641ed8579ef.jpeg)
 
-Source: [Apartment Therapy](https://www.apartmenttherapy.com/tim-and-hannahs-diy-tiny-tahoe-cabin-house-tour-199722?utm_source=RSS&utm_medium=feed&utm_campaign=Feed%3A+apartmenttherapy%2Fmain+%28AT+Channel%3A+Main%29#_)
+<span class="figcaption">Source: [Apartment Therapy](https://www.apartmenttherapy.com/tim-and-hannahs-diy-tiny-tahoe-cabin-house-tour-199722?utm_source=RSS&utm_medium=feed&utm_campaign=Feed%3A+apartmenttherapy%2Fmain+%28AT+Channel%3A+Main%29#_)</span>
 
 ## Tiny Houses On Wheels
 
@@ -56,7 +56,7 @@ You can wake up in a new place every single day--what more is there to say? Whil
 
 ![tiny house on wheels](/img/1455654197246.jpeg)
 
-Source: [HGTV](https://www.hgtv.com/remodel/interior-remodel/tour-the-tiny-toybox-home-pictures)
+<span class="figcaption">Source: [HGTV](https://www.hgtv.com/remodel/interior-remodel/tour-the-tiny-toybox-home-pictures)</span>
 
 ## Tumbleweed Tiny Houses
 
@@ -64,7 +64,7 @@ This US based company builds customizable tiny houses kitted with many of the sa
 
 ![tumbleweed tiny house](/img/green-farallon-1450x450.jpg)
 
-Source: [Tumbleweed Houses](https://www.tumbleweedhouses.com/tumbleweed-models/farallon/)
+<span class="figcaption">Source: [Tumbleweed Houses](https://www.tumbleweedhouses.com/tumbleweed-models/farallon/)</span>
 
 ## Granny Pods
 
@@ -72,7 +72,7 @@ The idea of the granny pod or granny flat was originally to create a way for old
 
 ![Granny Pod](/img/grannypod_porchcottage.png)
 
-Source: [God Vine](https://www.godvine.com/read/granny-pod-ideas-backyard-1603.html)
+<span class="figcaption">Source: [God Vine](https://www.godvine.com/read/granny-pod-ideas-backyard-1603.html)</span>
 
 The idea of the granny pod or granny flat was originally to create a way for older people to live with their family while still maintaining their independence. With the growing popularity of the tiny house movement, some people are even using granny pods as a way to make extra money on rental websites. Granny pods for everyone! 
 
@@ -82,7 +82,7 @@ Also known as trailers or manufactured housing, these tiny homes are known for t
 
 ![mobile home](/img/_70075218_oak.jpg)
 
-Source: [BBC](https://www.bbc.com/news/magazine-24135022)
+<span class="figcaption">Source: [BBC](https://www.bbc.com/news/magazine-24135022)</span>
 
 ## Small Motorhomes
 
@@ -96,7 +96,7 @@ For tiny house enthusiasts who are into affordable DIY, this might be the projec
 
 ![arched cabin](/img/tiny-arched-cabins-03-600x400.jpg)
 
-Source: [Arched Cabins](https://archedcabins.com/index.html)
+<span class="figcaption">Source: [Arched Cabins](https://archedcabins.com/index.html)</span>
 
 ## Gypsy Wagons
 
@@ -104,7 +104,7 @@ Reminiscent of the beautiful horse drawn caravans that were once ([and still are
 
 ![gypsy wagon](/img/8_gypsy.jpg)
 
-Source: [Gypsy Getaway Wagons](https://gypsygetawaywagons.com/)
+<span class="figcaption">Source: [Gypsy Getaway Wagons](https://gypsygetawaywagons.com/)</span>
 
 ## Tiny House Shed
 
@@ -112,7 +112,7 @@ A shed? Like, a garden shed? Yes, you would be correct. What you may use to keep
 
 ![shed](/img/101.jpg)
 
-Source: [Shedsistence ](https://shedsistence.com/finished-photos/)
+<span class="figcaption">Source: [Shedsistence ](https://shedsistence.com/finished-photos/)</span>
 
 ## Tiny Cabin
 
@@ -128,7 +128,7 @@ Any Lord of the Rings fans out there? Aside from [building your own Hobbiton](ht
 
 ![underground home](/img/earth-berm-3-fieldstonesuitesdotcom-400x300.jpg)
 
-Source: [Off The Grid News](https://www.offthegridnews.com/grid-threats/the-surprising-facts-about-earth-sheltered-living/)
+<span class="figcaption">Source: [Off The Grid News](https://www.offthegridnews.com/grid-threats/the-surprising-facts-about-earth-sheltered-living/)</span>
 
 ## Summary
 

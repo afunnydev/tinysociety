@@ -270,7 +270,7 @@ It's wise to choose a rectangle shape typical of a Tiny House on wheels. That wa
 
 ![floating home](/img/floating-homes-interiors-portage-bay-exterior-thumb-630xauto-57312.jpg)
 
-Image source: [trendir.com](https://www.trendir.com/floating-home-interiors-for-west-coast-living/)
+<span class="figcaption">Image source: [trendir.com](https://www.trendir.com/floating-home-interiors-for-west-coast-living/)</span>
 
 ### The life aquatic?
 

@@ -44,7 +44,7 @@ There has been an increasing number of various designs of beautifully built Arch
 
 ![arched-cabin-1](/img/2487635-march-travel-house-3jun14_mag_b.jpg)
 
-Source: [houseandgarden](https://www.houseandgarden.co.uk/article/travel-guide-madagascar)
+<span class="figcaption">Source: [houseandgarden](https://www.houseandgarden.co.uk/article/travel-guide-madagascar)</span>
 
 This Arched cabin from Madagascar is all you want to make life peaceful. This little house is built near a sea beach and in the woods with an open view. 
 
@@ -56,7 +56,7 @@ You can enjoy the scenery lying on the bed or you might also enjoy your tea sitt
 
 ![arched-cabin2](/img/24x32-completed-exterior_orig.jpg)
 
-Source: [archedcabins](http://archedcabins.com/gallery.html)
+<span class="figcaption">Source: [archedcabins](http://archedcabins.com/gallery.html)</span>
 
 Can you imagine to build a **duplex** within this arched cabin? The reality is beautiful. 
 
@@ -68,7 +68,7 @@ The **windows and doors** are large enough to enjoy sunshine and fresh air. Its 
 
 ![arched-cabin3](/img/beartrap-residence-locati-architects_04.jpg)
 
-Source: [styleestate](http://styleestate.com/style-estate-blog/beartrap-residence.html)
+<span class="figcaption">Source: [styleestate](http://styleestate.com/style-estate-blog/beartrap-residence.html)</span>
 
 If you are living in a quiet place with a wonderful view of mountains and rivers, then see this arched cabin is all you want.
 
@@ -80,7 +80,7 @@ The entire house is made of wood and will make you feel a little closer to natur
 
 ![arched-cabin4](/img/tiny-arched-cabins-03-600x400.jpg)
 
-Source: [tinyhousetalk](https://tinyhousetalk.com/tiny-arched-cabins/)
+<span class="figcaption">Source: [tinyhousetalk](https://tinyhousetalk.com/tiny-arched-cabins/)</span>
 
 This is the perfect demonstration of an open floor plan I was talking about earlier. The Tiny arched cabin can be used for various purposes and may well be home for your kids. 
 
@@ -92,7 +92,7 @@ Feel free to use your imagination and create something new out of it!
 
 ![arched-cabin5](/img/capture-d-ecran-2018-07-27-a-11.38.58.png)
 
-Source: [chaletdejardin](https://www.chaletdejardin.fr/)
+<span class="figcaption">Source: [chaletdejardin](https://www.chaletdejardin.fr/)</span>
 
 This is the simplest tiny kit cabin which you can ever see but surely would make a good tiny home. 
 
@@ -106,7 +106,7 @@ What caught my eyes is the space for keeping your bicycle or even motorcycle in 
 
 ![arched-cabin6](/img/75_front.jpeg)
 
-Source: [treehugger](https://www.pinterest.com/pin/296393219202408377/)
+<span class="figcaption">Source: [treehugger](https://www.pinterest.com/pin/296393219202408377/)</span>
 
 If you are planning to build a cost effective home for living I bet you will not find a home like this.
 
@@ -116,7 +116,7 @@ It is a double storied arched cabin that will provide you with proper ventilatio
 
 ![arched-cabin7](/img/design-horizon-case-study-q-cabin.jpg)
 
-Source: [steelmasterusa](https://www.steelmasterusa.com/news/steelmaster-collaborates-with-design-horizons/)
+<span class="figcaption">Source: [steelmasterusa](https://www.steelmasterusa.com/news/steelmaster-collaborates-with-design-horizons/)</span>
 
 This is one of most memorable Arched cabins I have seen!
 
@@ -130,7 +130,7 @@ Ok that one is not so tiny, but I had to put it in the top 10!
 
 ![arched-cabin8](/img/853fd94dfedf36311aabb251506d0c72-garden-lodge-tiny-cabins.jpg)
 
-Source: [pinterest](https://www.pinterest.com/pin/846465692434098529/)
+<span class="figcaption">Source: [pinterest](https://www.pinterest.com/pin/846465692434098529/)</span>
 
 This arched cabin I found on Pinterest is a perfect example to build on a corner of your lawn.
 
@@ -142,7 +142,7 @@ Though it’s nothing fancy but I loved the thought of seeing the falling sun to
 
 ![arched-cabin9](/img/11224066-880444682070940-8504055399277942314-n_orig.jpg)
 
-Source: [archedcabins](http://archedcabins.com/gallery.html)
+<span class="figcaption">Source: [archedcabins](http://archedcabins.com/gallery.html)</span>
 
 Number 9 on the list is an arched cabin from Southern Missouri.
 
@@ -154,7 +154,7 @@ The home is double storied and in addition to that the balconies further enhance
 
 ![arched-cabin10](/img/s-l1600.jpg)
 
-Source: [ebay](https://www.ebay.co.uk/itm/5-Meter-Camping-Pod-Glamping-Pod-Garden-office-Shepherds-hut-Business-space-/271418129522?hash=item3f31c7fc72&pt=LH_DefaultDomain_3&nma=true&si=Ok0fJKeD7sMWaZ0QddfnYiubHB0%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557#shpCntId)
+<span class="figcaption">Source: [ebay](https://www.ebay.co.uk/itm/5-Meter-Camping-Pod-Glamping-Pod-Garden-office-Shepherds-hut-Business-space-/271418129522?hash=item3f31c7fc72&pt=LH_DefaultDomain_3&nma=true&si=Ok0fJKeD7sMWaZ0QddfnYiubHB0%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557#shpCntId)</span>
 
 Don’t underestimate this tiny home seeing that it’s the last on the list. I have seen many tiny homes but this one really captured my thoughts.
 
