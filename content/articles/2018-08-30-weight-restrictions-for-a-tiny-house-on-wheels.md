@@ -15,7 +15,7 @@ listing:
   description: >-
     Worried about the weight of your tiny house on wheels? Or you don’t have any
     idea what weight restrictions it has! 
-  image: /img/weigh-your-tiny-house-square.jpg
+  image: /img/weigh-your-tiny-house.jpg
 likes: '21'
 categories:
   - Tiny houses
@@ -24,7 +24,7 @@ i18nlanguage: en
 menuid: articles
 ordre: '0'
 infographic: false
-draft: false
+draft: true
 noindex: false
 ---
 ![tiny house](/img/tiny-house.jpg)
