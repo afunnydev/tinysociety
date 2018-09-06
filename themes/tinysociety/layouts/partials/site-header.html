@@ -7,6 +7,9 @@
                     <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "homePage" }}'>Our Blog.</a>
                     </li>
+                    <li class="{{ if eq .Params.menuid "plans" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "plansPage" }}'>Our Plans.</a>
+                    </li>
                     <li class="{{ if eq .Params.menuid "about" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "aboutPage" }}'>About us.</a>
                     </li>
@@ -61,9 +64,9 @@
                                     <li class="{{ if eq .Params.menuid "home" }}current-menu-item{{ end }}">
                                         <a href='{{ $.Scratch.Get "homePage" }}'><span>Our Blog</span></a>
                                     </li>
-                                    <!-- <li class="{{ if eq .Params.menuid "articles" }}current-menu-item{{ end }}">
-                                        <a href='{{ $.Scratch.Get "plansPage" }}'><span>More Plans</span></a>
-                                    </li> -->
+                                    <li class="{{ if eq .Params.menuid "plans" }}current-menu-item{{ end }}">
+                                        <a href='{{ $.Scratch.Get "plansPage" }}'><span>Our Plans</span></a>
+                                    </li>
                                     <li class="{{ if eq .Params.menuid "about" }}current-menu-item{{ end }}">
                                         <a href='{{ $.Scratch.Get "aboutPage" }}'><span>About us</span></a>
                                     </li>

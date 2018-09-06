@@ -1,13 +1,112 @@
 {{ define "main" }}
-{{ $mymonths := $.Site.Data.mois.mois }}
-{{ $mydays := $.Site.Data.jour.jour }}
-
-<!-- <main class="main" id="{{ .Type }}-list">
+{{- $mymonths := $.Site.Data.mois.mois -}}
+{{- $mydays := $.Site.Data.jour.jour -}}
+{{- $plans := (where .Pages ".Params.tosale" true) -}}
+<div class="content_wrapper clearfix" id="plan-list">
+    <div class="sections_group">
+        <div class="entry-content">
+        	<div class="section mcb-section full-width no-margin-h no-margin-v " style="padding-top:0px; padding-bottom:0px; background-color:#dcdfe1" id="hot-articles">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one  valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_blog ">
+                                <div class="column_filters">
+                                    <div class="blog_wrapper isotope_wrapper clearfix">
+                                        <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
+                                            {{ range $i, $e := (first 4 $plans) }}
+                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles" onclick="location.href='{{- .Permalink -}}';">
+                                                {{- partial "site/plans-post.html" . $ -}}
+                                            </div>
+                                            {{ end }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section mcb-section full-width no-margin-h no-margin-v " style="padding-top:0px; padding-bottom:0px; background-color:#dcdfe1" id="hot-articles">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one  valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_blog ">
+                                <div class="column_filters">
+                                    <div class="blog_wrapper isotope_wrapper clearfix">
+                                        <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
+                                            {{ range $i, $e := (after 4 $plans) }}
+                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles" onclick="location.href='{{- .Permalink -}}';">
+                                                {{- partial "site/plans-post.html" . $ -}}
+                                            </div>
+                                            {{ end }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ with .Params.section2 }}
+            <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color" style="background:#fff" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="hover_color_bg" style="background:white;">
+                                        <a href="{{ $.Site.BaseURL }}categories/sustainable-building-and-living/">
+                                            <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                                <h4 style="margin: 0;">{{ .title }}</h4>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one">
+                                <div class="column_filters">
+                                    <div class="mcb-wrap-inner">
+                                        {{ range .icons }}
+                                        <div class="column mcb-column one-third column_column why-us">
+                           					<div class="column_attr">
+                           						<span class="{{- .icon -}}"></span>
+                           						<h5>{{- .title -}}</h5>
+                           						<p class="description">{{ .description }}</p>
+                                          	</div>
+                                        </div>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .Params.section3 }}
+            <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix" style="border: 1px solid #EBEBEB; text-align: center;">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_wrapper plan-list-support" style="padding:30px 20px;">
+                                    <h5 style="margin: 0 0 30px;">{{ .title }}</h5>
+                                    <div class="middle-text">
+                                    	{{ .description | markdownify }}
+                                    </div>
+                                    <span>{{ .ctaline | markdownify }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
 		{{ .Content}}
 			{{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
 			{{ $mod1 := modBool $i 1}}
 			{{ $mod2 := modBool $i 2}}
 			{{ $mod3 := modBool $i 3}}
 		{{ end }}
-</main> -->
+</main>
 {{ end }}

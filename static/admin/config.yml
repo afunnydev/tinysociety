@@ -70,8 +70,8 @@ collections:
       preview: false
     create: true # Allow users to create new documents in this collection
     filter: 
-      field: "i18nlanguage"
-      value: "en"
+      field: "tosale"
+      value: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "SEO Description", name: "description", widget: "text", required: false}
@@ -100,6 +100,7 @@ collections:
       - {label: "Rating", name: "rating", widget: "string"}
       - {label: "Collections (separate with commas)", name: "collections", widget: "list"}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
+      - {label: "To Sale", name: "tosale", widget: "hidden", default: true}
       - {label: "Menu ID", name: "menuid", widget: "hidden", default: "plans"}
       - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
       - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}

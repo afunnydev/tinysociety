@@ -19,7 +19,7 @@ listing:
     the laundry, the bathroom, the room and the living room are all
     intelligently disposed to maximize the space and the comfort. You should
     take a look!
-  image: /img/simplistic-tiny-house-exterior1.jpg
+  image: /img/simplistic-tiny-house-list.jpg
 slider:
   - title: Simplistic Tiny House Outside View
     image: /img/simplistic-tiny-house-exterior2.jpg
@@ -43,6 +43,7 @@ i18nlanguage: en
 menuid: plans
 ordre: 0
 draft: false
+tosale: true
 noindex: false
 section1:
   area: 70 sq/ft

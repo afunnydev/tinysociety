@@ -19,7 +19,7 @@ listing:
 
     Comfy, utilitarian, amazing looking, this mobile tiny house has it all for
     anyone who wants to dip in the self-sufficient world of tiny houses. 
-  image: /img/mobile-tiny-house-exterior-1.jpg
+  image: /img/mobile-tiny-house-list.jpg
 slider:
   - title: Mobile Tiny House Outside View
     image: /img/mobile-tiny-house-exterior-2.jpg
@@ -42,6 +42,7 @@ i18nlanguage: en
 menuid: plans
 ordre: 0
 draft: false
+tosale: true
 noindex: false
 section1:
   area: 137 sq/ft

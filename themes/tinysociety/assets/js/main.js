@@ -47,7 +47,7 @@ jQuery( document ).ready(function($) {
   // });
   // Custom ScrollSpy
   // Cache selectors
-  if ($("#toc")) {
+  if ($("#toc").length) {
     var lastId,
         topMenu = $("#Content .toc-h2"),
         // All list items

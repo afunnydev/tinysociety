@@ -18,7 +18,7 @@ listing:
 
     And it looks awesome, far from the container style we've been accustomed to
     from tiny houses!
-  image: /img/triangular-tiny-house-ext.jpg
+  image: /img/triangular-tiny-house-list.jpg
 slider:
   - title: Triangular Tiny House Living Room 1
     image: /img/triangular-tiny-house-living-room1.jpg
@@ -37,6 +37,7 @@ i18nlanguage: en
 menuid: plans
 ordre: 0
 draft: false
+tosale: true
 noindex: false
 section1:
   area: x

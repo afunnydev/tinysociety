@@ -705,7 +705,34 @@ body.no-content-padding:not(.with_aside).plan-page {
 	}
 }
 #plan-list {
-	
+	margin-top: 90px;
+	.why-us {
+		text-align: center;
+		span {
+			font-size: 40px;
+			color: $brown;
+		}
+		h5 {
+			font-size: 26px;
+			line-height: 30px;
+			margin-top: 20px;
+		}
+	}
+	.plan-list-support {
+		color: black;
+		h5 {
+			font-size: 26px;
+		}
+		.middle-text {
+			margin-bottom: 30px;
+			p {
+				margin-bottom: 0;
+			}
+		}
+		span {
+			font-size: 1.3em;
+		}
+	}
 }
 
 /******** RESPONSIVE ********/

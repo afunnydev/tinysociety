@@ -18,7 +18,7 @@ listing:
 
 
     Perfect for relaxing, perfect for living tiny.
-  image: /img/california-style-exterior1.jpg
+  image: /img/california-style-list.jpg
 slider:
   - title: California Style Tiny Cabin Kitchen
     image: /img/awesome-tiny-house-interior-1.jpg
@@ -38,6 +38,7 @@ collections:
 i18nlanguage: en
 ordre: 1
 draft: false
+tosale: true
 noindex: true
 section1:
   area: 600 sq. feet

@@ -14,7 +14,7 @@ listing:
     anyone who wants to live tiny in a house taken straight from the
     countryside. With its 2 floors and gigantic rooms, it has anything to please
     families or couples, tiny house fans or beginners. 
-  image: /img/rustic-house-exterior2.jpg
+  image: /img/rustic-house-list.jpg
 slider:
   - title: Rustic House Outside View
     image: /img/rustic-house-exterior1.jpg
@@ -35,6 +35,7 @@ i18nlanguage: en
 menuid: plans
 ordre: 0
 draft: false
+tosale: true
 noindex: false
 section1:
   area: 890 sq/ft

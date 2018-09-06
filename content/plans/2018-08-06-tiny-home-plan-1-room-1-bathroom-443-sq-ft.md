@@ -14,7 +14,7 @@ listing:
     This house is ideal for two people who enjoy the feel of a modern, yet warm
     finish. With an instant to the outdoor world, this house is excellent for
     those looking to build their little escape pod.
-  image: /img/tiny-home-container-size-exterior.jpg
+  image: /img/tiny-home-container-size-list.jpg
 slider:
   - title: Outside View With Terrace Space
     image: /img/exterior-outside-terrace.jpg
@@ -32,6 +32,7 @@ menuid: plans
 ordre: 0
 draft: false
 noindex: false
+tosale: true
 section1:
   area: 443 sq/ft
   cost: '30,000'

@@ -14,7 +14,7 @@ listing:
     family searching a modern yet warm environment. It has a large outdoor
     space, making it a perfect build for people living in year-long warm
     weather.
-  image: /img/outside-luxurious-small-home.jpg
+  image: /img/outside-luxurious-small-home-list.jpg
 slider:
   - title: Living Room
     image: /img/living-room-modern-small-house.jpg
@@ -39,6 +39,7 @@ i18nlanguage: en
 menuid: plans
 ordre: 0
 draft: false
+tosale: true
 noindex: false
 section1:
   area: 570 sq/ft
