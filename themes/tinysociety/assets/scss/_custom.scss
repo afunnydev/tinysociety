@@ -672,12 +672,33 @@ div.overlayed {
 		}
 	}
 }
+/* The progress container (grey background) */
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: #ccc;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+/* The progress bar (scroll indicator) */
+.progress-bar {
+  height: 8px;
+  background: $brown;
+  width: 0%;
+}
 
 /******** ABOUT **********/
 
 #Content .our-authors img.gif {
 	height: 200px;
 	width: auto;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+	background: $orange;
 }
 /******** CONTACT ********/
 h6.regular-text {
@@ -913,6 +934,16 @@ h6.regular-text {
 			float: none;
 			text-align: center;
 		}
+	}
+	#Top_bar .logo {
+		text-align: left;
+		#logo {
+			margin-left: 0;
+		}
+	}
+	.header-overlay .overlay-menu-toggle {
+		right: 40px;
+		left: initial;
 	}
 }
 

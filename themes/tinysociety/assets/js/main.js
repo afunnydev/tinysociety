@@ -57,9 +57,18 @@ jQuery( document ).ready(function($) {
           var item = $($(this).attr("href"));
           if (item.length) { return item; }
         });
+    function progressBar() {
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      document.getElementById("myBar").style.width = scrolled + "%";
+    }
 
     // Bind to scroll
     $(window).scroll(function(){
+      // Update the progress bar
+      progressBar();
+
        // Get container scroll position
        var fromTop = $(this).scrollTop()+100;
        
@@ -209,102 +218,104 @@ jQuery( document ).ready(function($) {
     var emojiComment = $(".emoji-slider-question"),
         snipcartAdd = $("a.snipcart-add-item"),
         baseUrl = "https://tinyplans.netlify.com/.netlify/functions/product?donationAmount=";
-
-    $(".emoji-slider")
+    if ($(".emoji-slider").length) {
+      $(".emoji-slider")
         
-        // create a slider with 14 values (0-13)
-        // and the default is a cat, obviously! ( emoji[6] === "🐈" )
-        .slider({
-            max: 14,
-            value: 7
-        })
-        
-        // now activate the pips and set it to have labels for all
-        // items, and then set the labels to the array of animals from earlier
-        .slider("pips", {
-            rest: "label",
-            labels: emoji
-        })
-        
-        // whenever the slider changes value, we want to update the
-        // text above the slider with a kawaii message!
-        .on("slidechange", function( e, ui ) {
-                
-                // save the messages into variables
-                var happyMessage = message[ui.value],
-                    donationAmount = (ui.value+1)*20;
-                
-                // fade the question out quickly (using css)
-                emojiComment.css({ opacity: 0 });
-                
-                // then fade it back in with the new message
-                // and use a custom function to display the emoji.
-                setTimeout(function() {
-                        
-                    emojiComment.html( happyMessage );
-                    twemoji.parse(document.getElementsByClassName('emoji-slider-question')[0]);
-                    emojiComment.css({ opacity: 1 });
-                    $("span.donation").text(donationAmount);
-                    snipcartAdd.data("item-price", donationAmount);
-                    console.log(snipcartAdd.data("item-price"));
-                    snipcartAdd.data("item-url", baseUrl + donationAmount + "&productId=" + snipcartAdd.data("item-id"));
-                    console.log(snipcartAdd.data("item-url")); 
-                        
-                }, 200 );
-                        
-        
-        });
-                        
-    // lastly after the slider is initialised we need to
-    // tell it to display out emoji on every label, but this
-    // is a custom function, you can find it at github
-    twemoji.parse(document.body);
-
-    (function() {
-      /* Add this class to any elements you want to use to open Drift.
-       *
-       * Examples:
-       * - <a class="drift-open-chat">Questions? We're here to help!</a>
-       * - <button class="drift-open-chat">Chat now!</button>
-       *
-       * You can have any additional classes on those elements that you
-       * would ilke.
-       */
-      var DRIFT_CHAT_SELECTOR = '.drift-open-chat'
-      /* http://youmightnotneedjquery.com/#ready */
-      function ready(fn) {
-        if (document.readyState != 'loading') {
-          fn();
-        } else if (document.addEventListener) {
-          document.addEventListener('DOMContentLoaded', fn);
-        } else {
-          document.attachEvent('onreadystatechange', function() {
-            if (document.readyState != 'loading')
-              fn();
+          // create a slider with 14 values (0-13)
+          // and the default is a cat, obviously! ( emoji[6] === "🐈" )
+          .slider({
+              max: 14,
+              value: 7
+          })
+          
+          // now activate the pips and set it to have labels for all
+          // items, and then set the labels to the array of animals from earlier
+          .slider("pips", {
+              rest: "label",
+              labels: emoji
+          })
+          
+          // whenever the slider changes value, we want to update the
+          // text above the slider with a kawaii message!
+          .on("slidechange", function( e, ui ) {
+                  
+                  // save the messages into variables
+                  var happyMessage = message[ui.value],
+                      donationAmount = (ui.value+1)*20;
+                  
+                  // fade the question out quickly (using css)
+                  emojiComment.css({ opacity: 0 });
+                  
+                  // then fade it back in with the new message
+                  // and use a custom function to display the emoji.
+                  setTimeout(function() {
+                          
+                      emojiComment.html( happyMessage );
+                      twemoji.parse(document.getElementsByClassName('emoji-slider-question')[0]);
+                      emojiComment.css({ opacity: 1 });
+                      $("span.donation").text(donationAmount);
+                      snipcartAdd.data("item-price", donationAmount);
+                      console.log(snipcartAdd.data("item-price"));
+                      snipcartAdd.data("item-url", baseUrl + donationAmount + "&productId=" + snipcartAdd.data("item-id"));
+                      console.log(snipcartAdd.data("item-url")); 
+                          
+                  }, 200 );
+                          
+          
           });
+                          
+      // lastly after the slider is initialised we need to
+      // tell it to display out emoji on every label, but this
+      // is a custom function, you can find it at github
+      twemoji.parse(document.body);
+    }
+    if ($(".drift-open-chat").length) {
+      (function() {
+        /* Add this class to any elements you want to use to open Drift.
+         *
+         * Examples:
+         * - <a class="drift-open-chat">Questions? We're here to help!</a>
+         * - <button class="drift-open-chat">Chat now!</button>
+         *
+         * You can have any additional classes on those elements that you
+         * would ilke.
+         */
+        var DRIFT_CHAT_SELECTOR = '.drift-open-chat'
+        /* http://youmightnotneedjquery.com/#ready */
+        function ready(fn) {
+          if (document.readyState != 'loading') {
+            fn();
+          } else if (document.addEventListener) {
+            document.addEventListener('DOMContentLoaded', fn);
+          } else {
+            document.attachEvent('onreadystatechange', function() {
+              if (document.readyState != 'loading')
+                fn();
+            });
+          }
         }
-      }
-      /* http://youmightnotneedjquery.com/#each */
-      function forEachElement(selector, fn) {
-        var elements = document.querySelectorAll(selector);
-        for (var i = 0; i < elements.length; i++)
-          fn(elements[i], i);
-      }
-      function openSidebar(driftApi, event) {
-        event.preventDefault();
-        driftApi.sidebar.open();
-        return false;
-      }
-      ready(function() {
-        drift.on('ready', function(api) {
-          var handleClick = openSidebar.bind(this, api)
-          forEachElement(DRIFT_CHAT_SELECTOR, function(el) {
-            el.addEventListener('click', handleClick);
+        /* http://youmightnotneedjquery.com/#each */
+        function forEachElement(selector, fn) {
+          var elements = document.querySelectorAll(selector);
+          for (var i = 0; i < elements.length; i++)
+            fn(elements[i], i);
+        }
+        function openSidebar(driftApi, event) {
+          event.preventDefault();
+          driftApi.sidebar.open();
+          return false;
+        }
+        ready(function() {
+          drift.on('ready', function(api) {
+            var handleClick = openSidebar.bind(this, api)
+            forEachElement(DRIFT_CHAT_SELECTOR, function(el) {
+              el.addEventListener('click', handleClick);
+            });
           });
         });
-      });
-    })();
-    if (Snipcart) {
+      })();
+    }
+    if (typeof Snipcart !== 'undefined') {
       Snipcart.api.configure('show_cart_automatically', true);
     }
   });
