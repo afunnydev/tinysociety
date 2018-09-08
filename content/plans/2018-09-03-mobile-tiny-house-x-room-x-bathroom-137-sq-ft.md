@@ -60,6 +60,7 @@ section2: >-
   anyone who wants to dip in the self-sufficient world of tiny houses.
 section3:
   - title: First Floor
+    image: /img/mobile_tiny_house_ground_floor-1.jpg
 section4:
   - col1:
       - title: Height
@@ -75,9 +76,11 @@ section4:
         value: 137 sq/ft
     col2:
       - title: Porch
+        value: Possible
     title: Area
   - col1:
-      - value: Dry board false ceiling
+      - title: Ceiling Details
+        value: Dry board false ceiling
     title: Ceiling Details (if existent)
   - col1:
       - title: Roof Framing
@@ -87,13 +90,16 @@ section4:
         value: None
     title: Roof Details
   - col1:
-      - value: Wood frames with external wooden cladding and internal dryboards walls
+      - title: Exterior Wall Framing
+        value: Wood frames with external wooden cladding and internal dryboards walls
     title: Exterior Wall Framing
   - col1:
-      - value: None
+      - title: Outdoor Space
+        value: None
     title: Outdoor Spaces
   - col1:
-      - value: House on wheels system
+      - title: Foundation Details
+        value: House on wheels system
     title: Foundation Details
 ---
 
