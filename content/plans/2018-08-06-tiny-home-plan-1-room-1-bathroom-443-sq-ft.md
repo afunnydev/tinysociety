@@ -35,7 +35,7 @@ ordre: 0
 draft: false
 noindex: false
 section1:
-  area: 443 sq/ft
+  area: 545 sq/ft
   cost: '30,000'
   dimensions: 15' x 39' 7"
   floor: 1 Floor
@@ -78,8 +78,8 @@ section4:
         value: Wooden studs 2" x 4"
     title: Exterior Wall Framing
   - col1:
-      - title: ''
-        value: Covered Terraces
+      - title: Covered Terraces
+        value: ''
     title: Outdoor Spaces
   - col1:
       - title: Type
