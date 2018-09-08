@@ -40,7 +40,7 @@ ordre: 1
 draft: false
 noindex: true
 section1:
-  area: 600 sq. feet
+  area: 600 sq/ft
   cost: 25k - 35k
   dimensions: 30' x 20'
   floor: 1 floor
