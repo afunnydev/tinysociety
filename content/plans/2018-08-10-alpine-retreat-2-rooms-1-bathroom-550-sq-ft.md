@@ -51,6 +51,7 @@ section2: >-
   making it a perfect build for people living in year-long warm weather.
 section3:
   - title: First Floor
+    image: /img/alpine_retreat_first_floor-1.jpg
 section4:
   - col1:
       - title: Height
@@ -78,14 +79,14 @@ section4:
     col2: []
     title: 'Roof '
   - col1:
-      - title: Wood frame walls with cement boards
-        value: ''
+      - title: Exterior Wall Framing
+        value: Wood frame walls with cement boards
     col2: []
     title: Exterior Wall Framing
   - col1:
-      - title: Terrace with BBQ area
-        value: ''
-    title: Outdoor spaces
+      - title: Outdoor Space
+        value: Terrace with BBQ area
+    title: Outdoor Spaces
   - col1:
       - title: Wood poles over concrete piles
         value: ''
