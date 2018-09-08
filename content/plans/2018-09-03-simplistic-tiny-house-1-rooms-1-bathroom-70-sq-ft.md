@@ -3,7 +3,7 @@ title: Simplistic Tiny House | 1 Rooms | 1 Bathroom | 70 sq/ft
 description: >-
   This simplistic tiny house on wheels has 1 room and 1 bathroom, for a total of
   70 sq/ft.
-slug: 70-sq-ft-1-bedroom-1-bathroom
+slug: 70-sq-ft-1-bedroom-1-bathroom-foundation
 architect: hesham
 image: /img/simplistic-tiny-house-exterior1.jpg
 date: '2018-09-03'
@@ -61,6 +61,7 @@ section2: >-
   disposed to maximize the space and the comfort. You should take a look!
 section3:
   - title: First Floor
+    image: /img/simplistic-tiny-house-ground-floor.jpg
 section4:
   - col1:
       - title: Height
@@ -81,7 +82,8 @@ section4:
         value: 55.3 sq/ft
     title: Area
   - col1:
-      - value: Dry board false ceiling
+      - title: Ceiling Details
+        value: Dry board false ceiling
     title: Ceiling Details (if existent)
   - col1:
       - title: Roof Framing
@@ -91,13 +93,16 @@ section4:
         value: '½” / 1’ '
     title: Roof Details
   - col1:
-      - value: Wood frames with external metal cladding and internal dry board walls
+      - title: Exterior Wall Framing
+        value: Wood frames with external metal cladding and internal dry board walls
     title: Exterior Wall Framing
   - col1:
-      - value: Terrace
+      - title: Outdoor Space
+        value: Terrace
     title: Outdoor Spaces
   - col1:
-      - value: House on wheels system
+      - title: Foundation Details
+        value: House on wheels system
     title: Foundation Details
 ---
 
