@@ -78,8 +78,8 @@ section4:
         value: Wooden studs 2" x 4"
     title: Exterior Wall Framing
   - col1:
-      - title: Covered Terraces
-        value: ''
+      - title: Outdoor Space
+        value: Covered Terraces
     title: Outdoor Spaces
   - col1:
       - title: Type
