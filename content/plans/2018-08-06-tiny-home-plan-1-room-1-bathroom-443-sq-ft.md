@@ -1,10 +1,10 @@
 ---
-title: Tiny Home Plan | 1 Room | 1 Bathroom | 443 sq/ft
+title: Tiny Home Plan | 1 Room | 1 Bathroom | 545 sq/ft
 description: >-
-  This tiny house has 1 room, 1 bathroom, a terrace space and is 443 sq/ft. It
+  This tiny house has 1 room, 1 bathroom, a terrace space and is 545 sq/ft. It
   is 15" by 40", including the terrace space. It is on a wooden poles
   foundation.
-slug: 450-sq-ft-1-bathroom-1-bedroom-foundation
+slug: 545-sq-ft-1-bathroom-1-bedroom-foundation
 architect: anastasia
 image: /img/tiny-home-container-size-exterior.jpg
 date: '2018-08-06'
@@ -26,7 +26,9 @@ slider:
     image: /img/tiny-cabin-luxury-room.jpg
 rating: '5'
 collections:
-  - ''
+  - modern tiny house
+  - tiny house
+  - modern house
 i18nlanguage: en
 menuid: plans
 ordre: 0
