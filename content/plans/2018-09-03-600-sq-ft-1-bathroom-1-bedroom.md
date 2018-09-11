@@ -4,7 +4,7 @@ description: >-
   With its 1 room, 1 bathroom and 2 floors, this California style house is 600
   sq/ft, giving you lots of space. Built on shallow foundations, it's 13'' by
   30''.
-slug: 600-sq-ft-1-bathroom-1-bedroom
+slug: 600-sq-ft-1-bathroom-1-bedroom-foundation
 architect: hesham
 image: /img/california-style-exterior1.jpg
 date: '2018-09-03'
