@@ -1,5 +1,5 @@
 ---
-title: 'Californian Tiny House | 1 Room] | 1 Bathroom | 512 sq/ft'
+title: Californian Tiny House | 1 Room | 1 Bathroom | 512 sq/ft
 description: >-
   With its 1 room, 1 bathroom and 2 floors, this California style house is 600
   sq/ft, giving you lots of space. Built on shallow foundations, it's 13'' by
