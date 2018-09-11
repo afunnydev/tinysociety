@@ -81,8 +81,6 @@ section4:
         value: 20'
     title: Dimension
   - col1:
-      - title: Total
-        value: 600 sq/ft
       - title: Main Floor
         value: 400 sq/ft
       - title: Second Floor
