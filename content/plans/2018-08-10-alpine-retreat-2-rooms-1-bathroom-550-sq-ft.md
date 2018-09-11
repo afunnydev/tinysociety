@@ -1,9 +1,9 @@
 ---
-title: Alpine Retreat | 2 Rooms | 1 Bathroom | 550 sq/ft
+title: Alpine Retreat | 2 Rooms | 1 Bathroom | 570 sq/ft
 description: >-
-  This tiny house plan has 2 rooms, 1 bathroom, a terrace space and is 550
+  This tiny house plan has 2 rooms, 1 bathroom, a terrace space and is 570
   sq/ft. It is 24" by 24", excluding the terrace space. It is on a foundation.
-slug: 550-sq-ft-2-bedroom-1-bathroom-foundation
+slug: 570-sq-ft-2-bedroom-1-bathroom-foundation
 architect: hesham
 image: /img/outside-luxurious-small-home.jpg
 date: '2018-08-10'
@@ -52,6 +52,7 @@ section2: >-
   making it a perfect build for people living in year-long warm weather.
 section3:
   - title: First Floor
+    image: /img/alpine_retreat_first_floor-1.jpg
 section4:
   - col1:
       - title: Height
@@ -75,21 +76,21 @@ section4:
       - title: Roof Framing
         value: Timber framing with wood finish
     col2:
-      - title: Primary pitch
+      - title: Primary Pitch
         value: '2:12'
     title: 'Roof '
   - col1:
-      - title: Exterior Framing
-        value: Wood frame walls with cement boards
+      - title: Wood frame walls with cement boards
+        value: ''
     col2: []
     title: Exterior Wall Framing
   - col1:
-      - title: ''
+      - title: Outdoor Space
         value: Terrace with BBQ area
-    title: Outdoor spaces
+    title: Outdoor Spaces
   - col1:
-      - title: ''
+      - title: Foundation Details
         value: Wood poles over concrete piles
-    title: Foundation details
+    title: Foundation Details
 ---
 

@@ -3,7 +3,7 @@ title: Rustic House | 2 Rooms | 2 Bathrooms | 890 sq/ft
 description: >-
   Having 2 floors, 2 rooms and 2 bathrooms, this house is 890 sq/ft. and 5 ½’’
   by 9’’. The Rustic House is built on concrete strip footing foundations. 
-slug: 890-sq-ft-2-bathrooms-2-bedrooms
+slug: 890-sq-ft-2-bathrooms-2-bedrooms-foundation
 architect: anastasia
 image: /img/rustic-house-exterior2.jpg
 date: '2018-09-03'
@@ -48,7 +48,9 @@ section2: >-
   couples, tiny house fans or beginners.
 section3:
   - title: First Floor
+    image: /img/rustic-house-ground-floor-plan-1.jpg
   - title: Second Floor
+    image: /img/rustic-house-second-floor-plan-1.jpg
 section4:
   - col1:
       - title: Height
@@ -79,13 +81,18 @@ section4:
     title: Roof
   - col1:
       - title: Exterior Wall Finish
-        value: 'Wood plank cladding Framing: Wooden studs 2’’ x 4’’ '
+        value: Wood plank cladding
+    col2:
+      - title: Framing
+        value: 2'' x 4''
     title: Exterior Wall Framing
   - col1:
-      - value: Covered terraces
+      - title: Outdoor Space
+        value: Covered terraces
     title: Outdoor Spaces
   - col1:
-      - value: 'Concrete strip footing 2’ x 9’’,  concrete walls thickness 1’-4’’'
+      - title: Foundation Detail
+        value: 'Concrete strip footing 2’ x 9’’,  concrete walls thickness 1’-4’’'
     title: Foundation Details
 ---
 

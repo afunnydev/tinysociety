@@ -4,7 +4,7 @@ description: >-
   Far from being a tent-trailer, this mobile tiny house is 137 sq/ft, has 1
   bathroom and 1 bedroom and is 2'' by 2 ''. It is built on wheels, giving it
   its mobility.
-slug: 137-sq-ft-1-bathroom-1-bedroom
+slug: 137-sq-ft-1-bathroom-1-bedroom-foundation
 architect: hesham
 image: /img/mobile-tiny-house-exterior-1.jpg
 date: '2018-09-03'
@@ -61,6 +61,7 @@ section2: >-
   anyone who wants to dip in the self-sufficient world of tiny houses.
 section3:
   - title: First Floor
+    image: /img/mobile_tiny_house_ground_floor-1.jpg
 section4:
   - col1:
       - title: Height
@@ -76,9 +77,11 @@ section4:
         value: 137 sq/ft
     col2:
       - title: Porch
+        value: Possible
     title: Area
   - col1:
-      - value: Dry board false ceiling
+      - title: Ceiling Details
+        value: Dry board false ceiling
     title: Ceiling Details (if existent)
   - col1:
       - title: Roof Framing
@@ -88,13 +91,16 @@ section4:
         value: None
     title: Roof Details
   - col1:
-      - value: Wood frames with external wooden cladding and internal dryboards walls
+      - title: Exterior Wall Framing
+        value: Wood frames with external wooden cladding and internal dryboards walls
     title: Exterior Wall Framing
   - col1:
-      - value: None
+      - title: Outdoor Space
+        value: None
     title: Outdoor Spaces
   - col1:
-      - value: House on wheels system
+      - title: Foundation Details
+        value: House on wheels system
     title: Foundation Details
 ---
 

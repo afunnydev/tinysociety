@@ -1,9 +1,9 @@
 ---
-title: 'Triangular Tiny Cabin | 1 x Room] | 1 x Bathroom | x sq/ft'
+title: Triangular Tiny Cabin | 1 x Room | 1 x Bathroom | 890 sq/ft
 description: >-
-  This triangular shaped tiny cabin has 1 room and 1 bathroom, and is x sq/ft.
-  It is built on X foundations and is XX '' by XX ''.
-slug: x-sq-ft-1-bathroom-1-bedroom
+  This triangular shaped tiny cabin has 1 room and 1 bathroom, and is 890 sq/ft.
+  It is built on concrete foundations and is 23' by 27'.
+slug: 890-sq-ft-1-bathroom-1-bedroom-foundation
 architect: anastasia
 image: /img/triangular-tiny-house-ext.jpg
 date: '2018-09-03'
@@ -40,10 +40,10 @@ draft: false
 tosale: true
 noindex: false
 section1:
-  area: x
+  area: 890 sq/ft
   cost: x
-  dimensions: x
-  floor: x
+  dimensions: 23' x 27'
+  floor: '2'
 section2: >-
   Not only does this tiny house look awesome thanks to its triangular design, it
   is also extremely comfortable, cozy and well organized. With its one bedroom
@@ -57,13 +57,54 @@ section2: >-
   from tiny houses!
 section3:
   - title: First Floor
+    image: /img/triangular-tiny-house-firstfloor.jpg
   - title: Second Floor
+    image: /img/triangular-tiny-house-secondfloor.jpg
 section4:
-  - title: Dimensions
-  - title: Area
-  - title: Roof
-  - title: Exterior Wall Framing
-  - title: Outdoor Spaces
-  - title: Foundation
+  - col1:
+      - title: Height
+        value: 25'
+      - title: Width
+        value: 23'
+    col2:
+      - title: Depth
+        value: 27'
+    title: Dimensions
+  - col1:
+      - title: Main Floors
+        value: 890 sq/ft
+      - title: Terraces
+        value: 194 sq/ft
+    col2:
+      - title: First Floor
+        value: 504 sq/ft
+      - title: Second Floor
+        value: 386 sq/ft
+    title: Area
+  - col1:
+      - title: Roof Framing
+        value: Stick
+    col2:
+      - title: Primary Pitch
+        value: 1000/1000
+    title: Roof
+  - col1:
+      - title: Exterior Wall Finish
+        value: Wood plank cladding
+    col2:
+      - title: Framing
+        value: Wooden studs 2'' x 4''
+    title: Exterior Wall Framing
+  - col1:
+      - title: Outdoor Space
+        value: Covered terraces
+    title: Outdoor Spaces
+  - col1:
+      - title: Concrete strip footing
+        value: 2' x 9''
+    col2:
+      - title: Concrete walls thickness
+        value: 1'-4''
+    title: Foundation
 ---
 
