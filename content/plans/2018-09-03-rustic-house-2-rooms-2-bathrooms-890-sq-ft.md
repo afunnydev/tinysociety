@@ -80,7 +80,10 @@ section4:
     title: Roof
   - col1:
       - title: Exterior Wall Finish
-        value: 'Wood plank cladding Framing: Wooden studs 2’’ x 4’’ '
+        value: Wood plank cladding
+    col2:
+      - title: Framing
+        value: 2'' x 4''
     title: Exterior Wall Framing
   - col1:
       - title: Outdoor Space
