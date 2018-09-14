@@ -34,9 +34,9 @@ noindex: false
 ---
 Are you ready to take tiny living for a test drive? With tiny house hotel locations popping up around the country, you can easily book yourself a retreat to remember. These personality-packed, mini hotels provide more than just a stay--they provide an experience. Check out some of these incredible tiny house hotels you’ll want to stay in right away.
 
-## Tiny House Siesta: Siesta Key Beach, Sarasota, Florida 
+## Tiny House Siesta: Siesta Key Beach, Sarasota, Florida
 
-![](/img/siesta.png)
+![null](/img/siesta.png)
 
 [Source: Tiny Siesta](https://www.tinyhousesiesta.com/photos?lightbox=dataItem-j1p1cdpm1)
 
@@ -44,7 +44,7 @@ Located only a mile from the award-winning number one beach in the United States
 
 ## Live A Little Chatt: Chattanooga, Tennessee
 
-![](/img/chatt.png)
+![null](/img/chatt.png)
 
 [Source: Live A Little Chatt ](http://livealittlechatt.com/)
 
@@ -52,7 +52,7 @@ These gorgeous tiny houses put the ‘treat’ in retreat! Each of the 4 availab
 
 ## Wee Casa: Lyons, Colorado
 
-![](/img/weecasa.png)
+![null](/img/weecasa.png)
 
 [Source: Wee Casa ](https://weecasa.com/lyons/solaire)
 
@@ -60,7 +60,7 @@ Humorously dubbed “The World’s Largest Tiny House Resort” -- one look thro
 
 ## Fireside Resort: Jackson Hole, Wyoming
 
-![](/img/fireside.png)
+![null](/img/fireside.png)
 
 [Source: Fireside Resort](https://www.firesidejacksonhole.com/wedge-cabin-tour.htm)
 
@@ -68,7 +68,7 @@ There’s a reason why this tiny resort received a TripAdvisor 2018 Certificate 
 
 ## Tiny Estates: Lancaster, Pennsylvania
 
-![](/img/tinyestates.jpg)
+![null](/img/tinyestates.jpg)
 
 [Source: Tiny Estates ](https://tiny-estates.com/)
 
@@ -76,7 +76,7 @@ This newly-opened tiny house resort calls a 14-acre former campground its home. 
 
 ## Tuxbury Tiny House Village, South Hampton, New Hampshire
 
-![](/img/tuxbury.jpg)
+![null](/img/tuxbury.jpg)
 
 [Source: Tuxbury Tiny House Village ](https://www.tuxburytinyhouse.com/home)
 
@@ -84,7 +84,7 @@ Tiny house enthusiasts in the Northeast can hit the escape button in one of thes
 
 ## Caravan The Tiny House Hotel: Portland, Oregon
 
-![](/img/tinyhhotel.png)
+![null](/img/tinyhhotel.png)
 
 [Source: THV](< http://tinyhousehotel.com/>)
 
@@ -92,7 +92,7 @@ If you’re looking for unique tiny home stay--this is the tiny hotel for you! L
 
 ## Tiny Home Hotel: Austin, Texas
 
-![](/img/texas.png)
+![null](/img/texas.png)
 
 [Source: THH Austin](http://www.tinyhomeshoteltexas.com/rooms/casa-rosa/)
 
@@ -100,7 +100,7 @@ This tiny hotel offers guests the chance to live tiny near the big city. Located
 
 ## Getaway: Boston, D.C., New York
 
-![](/img/getaway.jpg)
+![null](/img/getaway.jpg)
 
 [Source: Getaway ](https://getaway.house/)
 
@@ -108,7 +108,7 @@ In collaboration with Harvard Innovation Lab, this seriously fantastic enterpris
 
 ## Leavenworth Tiny House Village: Washington
 
-![](/img/leabenworth.jpg)
+![null](/img/leabenworth.jpg)
 
 [Source: Leavenworth](https://www.leavenworthtinyhouse.com/)
 
@@ -117,3 +117,5 @@ Get out your lederhosen! This Bavarian tiny house village offers appropriately t
 ## The Takeaway
 
 Who’s ready to book their stay? If you aren’t completely sold on the tiny life, then booking a tiny house hotel is the next best thing! For those of you who are in need of a good ‘ol fashioned vacation, a tiny hotel is by far the superior choice. While a standard hotel may provide comfort and reliability, a tiny house hotel provides all that and an experience. But most importantly, a tiny house hotel provides you with everything you need and nothing you don’t--and what could be better than that?
+
+Interested in learning more about tiny house getaways? [Read more here...](https://www.tinysociety.co/articles/tiny-house-getaway-beautiful-tiny-houses-to-rent-in-the-us/)
