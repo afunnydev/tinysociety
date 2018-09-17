@@ -7,6 +7,7 @@ description: >-
   know to build a tiny house on a trailer. 
 slug: how-to-build-a-tiny-house-on-a-trailer
 author: molli
+image: /img/41a20750-4d63-411f-8aa2-99c33511f992.jpg
 overlay: false
 date: '2018-09-17'
 notloaded:
@@ -21,6 +22,7 @@ listing:
     to understand the planning process--including your options should you get
     stuck. Without further ado, here is everything you need to know about
     building a tiny house on a trailer. 
+  image: /img/df474677-27fc-42f4-a05f-e3fda37d003d.jpg
 likes: '58'
 categories:
   - tiny houses
