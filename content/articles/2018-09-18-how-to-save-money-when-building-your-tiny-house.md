@@ -1,18 +1,24 @@
 ---
 title: How To Save Money When Building Your Tiny House
+description: >-
+  Building an affordable tiny home doesn't mean it has to look cheap. Learn how
+  you can cut a few corners and still end up with money in your pocket and the
+  house of your dreams.
 slug: how-to-save-money-when-building-your-tiny-house
 author: kristen
+image: /img/tiny_house_cottage.jpg
 overlay: false
 date: '2018-09-17'
 notloaded:
   need: 'no'
 listing:
-  title: How to save money when building your Tiny House
+  title: How To Save Money When Building Your Tiny House
   description: >-
     Building your ideal tiny house doesn’t have to cost you an arm and a leg. On
     the other hand, you shouldn’t have to skimp out on any of the design
     features you want either. If you budget your project properly, then you just
     might be able to save money as well as end up with your dream home. 
+  image: /img/tiny_house_cottage.jpg
 likes: '22'
 categories:
   - Tiny Houses
@@ -21,7 +27,7 @@ categories:
   - DIY
 i18nlanguage: en
 menuid: articles
-ordre: 0
+ordre: '0'
 infographic: false
 draft: false
 noindex: false
@@ -176,3 +182,11 @@ The key is to save any space saving and storage pieces that could be useful down
 One of the most significant costs associated with the building process is the price of renting a space to construct your tiny house on. If you have the option to build on a piece of land for free, you should take it. Ask your friends and family if you can use their yards or garage. Once you tell them about your tiny house plans, they might even be intrigued enough to lend you a hand every once in a while. 
 
 It’s important that you be realistic with your timeline though. Depending on how much you build yourself and how much experience you have, this can be an extensive project. The average person needs 480 hours to complete their tiny home. In comparison, a professional would likely only need 200 hours. By having the freedom to work in a  space free of charge, you won’t have the added pressure of a monthly bill to push you to work. So, you’ll save money but need to find some other way to keep yourself on track.
+
+## Summary
+
+![tiny house](/img/tiny_house.jpg)
+
+Expand your budget with these money-saving tips, and you’ll be glad you did. Building an affordable tiny house is more than just creating a space for you to live. It’s a creative journey that you should embrace with open arms. Even if you have little experience with crafting things with your hands, you’ll still be able to enjoy the process. It has never been easier to work on this kind of project. You have all of the inspiration and tutorials you could ever need at your fingertips.
+
+Take things one step at a time. Start with finding a trailer and building the shell. This will give you a better idea of how much square footage you’ll be working with. From there you can better determine the placement and design of your interior. Always keep your eye out for furniture you can repurpose and salvageable material. It’s better to have excess than to run out of supplies. You’ll save a ton of money, which we all know could be better spent on higher quality appliances or your next vacation. Don’t let a little thing like money get in the way of you building your dream home!
