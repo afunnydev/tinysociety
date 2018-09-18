@@ -9,12 +9,13 @@ architect: anastasia
 image: /img/tiny-home-container-size-exterior.jpg
 date: '2018-08-06'
 listing:
-  title: 'Urban Getaway | Modern Design, Minimal Needs'
+  title: 'Modern Design, Minimal Needs'
   description: >-
     This house is ideal for two people who enjoy the feel of a modern, yet warm
     finish. With an instant to the outdoor world, this house is excellent for
     those looking to build their little escape pod.
   image: /img/tiny-home-container-size-list.jpg
+titre: 'Urban Getaway | Modern Design, Minimal Needs'
 slider:
   - title: Outside View With Terrace Space
     image: /img/exterior-outside-terrace.jpg

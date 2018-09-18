@@ -9,7 +9,7 @@ architect: hesham
 image: /img/mobile-tiny-house-exterior-1.jpg
 date: '2018-09-03'
 listing:
-  title: 'Mobile Tiny House | Not A Tent-Trailer, But A House'
+  title: 'Not A Tent-Trailer, But A House'
   description: >-
     Some might say that this tiny house looks like a sophisticated, almost
     luxurious tent-trailer, which wouldn't be completely false. Although this
@@ -20,6 +20,7 @@ listing:
     Comfy, utilitarian, amazing looking, this mobile tiny house has it all for
     anyone who wants to dip in the self-sufficient world of tiny houses. 
   image: /img/mobile-tiny-house-list.jpg
+titre: 'Mobile Tiny House | Not A Tent-Trailer, But A House'
 slider:
   - title: Mobile Tiny House Outside View
     image: /img/mobile-tiny-house-exterior-2.jpg

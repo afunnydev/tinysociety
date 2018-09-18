@@ -8,13 +8,14 @@ architect: anastasia
 image: /img/rustic-house-exterior2.jpg
 date: '2018-09-03'
 listing:
-  title: Rustic House | Rustic Ambiance In A Tiny Format
+  title: Rustic Ambiance In A Tiny Format
   description: >-
     White walls, classic architecture, rustic feeling: this house is ideal for
     anyone who wants to live tiny in a house taken straight from the
     countryside. With its 2 floors and gigantic rooms, it has anything to please
     families or couples, tiny house fans or beginners. 
   image: /img/rustic-house-list.jpg
+titre: Rustic House | Rustic Ambiance In A Tiny Format
 slider:
   - title: Rustic House Outside View
     image: /img/rustic-house-exterior1.jpg

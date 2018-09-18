@@ -706,6 +706,115 @@ body.no-content-padding:not(.with_aside).plan-page {
 }
 #plan-list {
 	margin-top: 90px;
+	#plan-intro {
+		padding-top: 50px;
+		padding-bottom: 0px; 
+		background-color:white;
+		h1 {
+			color: $brown;
+			text-transform: uppercase;
+			text-align: center;
+			font-size: 40px; 
+			line-height: 45px;
+			margin-bottom: 40px;
+		}
+		p, span {
+			color: $brown;
+			font-size: 1.4em;
+			font-family: $hfont;
+		}
+		.nb {
+			float: left;
+		}
+		.filters {
+			float: right;
+			a {
+				background: $gray;
+    			border-color: $gray;
+    			color: $brown;
+    			display: inline-block;
+    			font-weight: 500;
+    			padding: 0 20px;
+    			font-family: $hfont;
+    			font-size: 1.2em;
+    			-webkit-transition: 0.3s background-color;
+    			-moz-transition: 0.3s background-color;
+    			-ms-transition: 0.3s background-color;
+    			-o-transition: 0.3s background-color;
+    			transition: 0.3s background-color;
+    			text-decoration: none !important;
+    			&:hover {
+    				background: $brown;
+    				border-color: $brown;
+    				color: $gray;
+    			}
+    			&:first-of-type {
+    				margin-left: 20px; 
+    			}
+			}
+		}
+	}
+	#plan-masonry {
+		padding-top:0px; 
+		padding-bottom:0px; 
+		background-color:#fff;
+		.plan-item {
+			width: 49.8%;
+			&:nth-of-type(2n+1) {
+				padding-right: 0.2%;
+			}
+			&:nth-of-type(2n) {
+				padding-left: 0.2%;
+			}
+			.plan-photo-wrapper {
+				position: relative;
+				.plan-photo {
+					background-size: cover; 
+					background-repeat: no-repeat; 
+					background-position: center center; 
+					height: 300px; 
+					width: 100%;
+				}
+				.plan-architect {
+					position: absolute;
+					bottom: -30px;
+					right: 30px;
+					span {
+						font-family: $hfont;
+					}
+					img {
+						background: #D8D8D8 !important;
+					    border-radius: 50% !important;
+					    border: 3px solid #ffffff !important;
+					    overflow: hidden !important;
+					    width: 60px;
+					    height: 60px;
+					    display: inline-block;
+					    margin-bottom: -3px;
+					}
+				}
+			}
+			.plan-title-wrapper {
+				padding: 10px 230px 10px 30px;
+				h3 {
+					font-size: 24px;
+					line-height: 30px;
+				}
+			}
+			.plan-desc-wrapper {
+				padding: 10px 30px;
+				.plan-desc {
+					width: 25%;
+					i, p {
+						display: inline;
+					}
+					i {
+						font-size: 20px
+					}
+				}
+			}
+		}
+	}
 	.why-us {
 		text-align: center;
 		span {

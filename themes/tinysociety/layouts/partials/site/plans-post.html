@@ -1,50 +1,38 @@
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
-<div class="date_label">
-    {{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}
-</div>
-<div class="post-photo-wrapper scale-with-grid"><img src="/quart{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" itemprop="image" />
-</div>
-<div class="post-desc-wrapper">
-    <div class="post-desc">
-        <div class="post-head">
-            <div class="post-meta clearfix">
-                <div class="author-date">
-                    {{ if isset .Params "architect" }}
-                        {{ $author := index .Site.Data.architects .Params.architect }}
-                        <span class="vcard author post-author">
-                            <span class="label">Created by </span>
-                            <i class="icon-user"></i> 
-                            <span class="fn">{{ $author.name }}</span>
-                        </span>
-                    {{ end }}
-                        
-                    <!-- <span class="date"><span class="label">on </span> 
-                    <span class="post-date updated">{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span></span> -->
-                    <!-- <div class="post-links">
-                        <i class="icon-comment-empty-fa"></i><a href="/item3.html#comments" class="post-comments">4</a>
-                    </div> -->
-                </div>
-                <!-- <div class="category">
-                    <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
-                    <div class="cat-wrapper">
-                        <ul class="post-categories">
-                            <li>
-                                <a href="/category-page.html" rel="category tag">Hot articles</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-        <!-- <div class="post-price">
-            <span>from 295$</span>
-        </div> -->
-        <div class="post-title">
-            <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}">{{ .Params.listing.title }}</a></h2>
-        </div>
-        <div class="post-excerpt">
-            {{ .Params.listing.description }}
-        </div>
+<div class="plan-photo-wrapper">
+    <!-- <img src="/half{{ .Params.listing.image }}" class="" alt="{{ .Params.listing.title }}" itemprop="image" /> -->
+    <div class="plan-photo" style="background-image: url(/half{{- .Params.listing.image -}});"></div>
+    {{- if isset .Params "architect" -}}
+    <div class="plan-architect">
+        {{- $architect := index .Site.Data.architects .Params.architect -}}
+        <span class="plan-author">
+            Designed by {{ $architect.short }}
+        </span>
+        <img src="{{ $architect.image }}" alt="{{ $architect.name }}">
     </div>
+    {{- end -}}
+</div>
+<div class="plan-title-wrapper">
+    <h3 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}">{{ .Params.listing.title }}</a></h2>
+</div>
+<div class="plan-desc-wrapper">
+    {{ with .Params.section1 }}
+    <div class="column plan-desc">
+        <i class="moon-simple-plan"></i>
+        <p>{{ .area }}</p>
+    </div>
+    <div class="column plan-desc">
+        <i class="moon-house-dimensions"></i>
+        <p>{{ .dimensions }}</p>
+    </div>
+    <div class="column plan-desc">
+        <i class="moon-estate-money"></i>
+        <p>{{ .cost }}</p>
+    </div>
+    <div class="column plan-desc">
+        <i class="moon-floor-plans"></i>
+        <p>{{ .floor }}</p>
+    </div>
+    {{ end }}
 </div>

@@ -8,7 +8,7 @@ architect: anastasia
 image: /img/triangular-tiny-house-ext.jpg
 date: '2018-09-03'
 listing:
-  title: Triangular Tiny House | Living The Triangular Lifestyle
+  title: Living The Triangular Lifestyle
   description: >-
     Not only does this tiny house look awesome thanks to its triangular design,
     it is also extremely comfortable, cozy and well organized. With its one
@@ -19,6 +19,7 @@ listing:
     And it looks awesome, far from the container style we've been accustomed to
     from tiny houses!
   image: /img/triangular-tiny-house-list.jpg
+titre: Triangular Tiny House | Living The Triangular Lifestyle
 slider:
   - title: Triangular Tiny House Living Room 1
     image: /img/triangular-tiny-house-living-room1.jpg

@@ -8,13 +8,14 @@ architect: hesham
 image: /img/outside-luxurious-small-home.jpg
 date: '2018-08-10'
 listing:
-  title: Alpine Getaway | Small Minimalist Living Space
+  title: Small Minimalist Living Space
   description: >-
     With its two rooms on the second floor, this small house plan is ideal for a
     family searching a modern yet warm environment. It has a large outdoor
     space, making it a perfect build for people living in year-long warm
     weather.
   image: /img/outside-luxurious-small-home-list.jpg
+titre: Alpine Getaway | Small Minimalist Living Space
 slider:
   - title: Living Room
     image: /img/living-room-modern-small-house.jpg

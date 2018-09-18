@@ -8,7 +8,7 @@ architect: hesham
 image: /img/simplistic-tiny-house-exterior1.jpg
 date: '2018-09-03'
 listing:
-  title: Simplistic Tiny House | Compact Yet Thoroughly Enough
+  title: Compact Yet Thoroughly Enough
   description: >-
     This house is called Simplistic Tiny House, because it looks simplistic: it
     is on wheels, it has a container shape, it has windows near the roof. It's
@@ -20,6 +20,7 @@ listing:
     intelligently disposed to maximize the space and the comfort. You should
     take a look!
   image: /img/simplistic-tiny-house-list.jpg
+titre: Simplistic Tiny House | Compact Yet Thoroughly Enough
 slider:
   - title: Simplistic Tiny House Outside View
     image: /img/simplistic-tiny-house-exterior2.jpg

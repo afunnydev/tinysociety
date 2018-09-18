@@ -5,61 +5,48 @@
 <div class="content_wrapper clearfix" id="plan-list">
     <div class="sections_group">
         <div class="entry-content">
-        	<div class="section mcb-section full-width no-margin-h no-margin-v " style="padding-top:0px; padding-bottom:0px; background-color:#dcdfe1" id="hot-articles">
+        	<div class="section mcb-section" id="plan-intro">
                 <div class="section_wrapper mcb-section-inner">
-                    <div class="wrap mcb-wrap one  valign-top clearfix">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
                         <div class="mcb-wrap-inner">
-                            <div class="column mcb-column one column_blog ">
-                                <div class="column_filters">
-                                    <div class="blog_wrapper isotope_wrapper clearfix">
-                                        <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
-                                            {{ range $i, $e := (first 4 $plans) }}
-                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles" onclick="location.href='{{- .Permalink -}}';">
-                                                {{- partial "site/plans-post.html" . $ -}}
-                                            </div>
-                                            {{ end }}
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="column mcb-column one">
+                            	<h1>Je suis un titre H1</h1>
+                            	<p class="nb">We have {{ len $plans }} Tiny House Plans that will interest you!</p>
+                            	<div class="filters">
+                            		<span>Show me</span>
+                            		<a href="#all">All</a>
+                            		<a href="#sur-fondation">Sur fondation</a>
+                            		<a href="#sur-roue">Sur roue</a>
+                            	</div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="section mcb-section full-width no-margin-h no-margin-v " style="padding-top:0px; padding-bottom:0px; background-color:#dcdfe1" id="hot-articles">
+        	<div class="section mcb-section full-width no-margin-h no-margin-v" id="plan-masonry">
                 <div class="section_wrapper mcb-section-inner">
-                    <div class="wrap mcb-wrap one  valign-top clearfix">
+                    <div class="wrap mcb-wrap one valign-top clearfix">
                         <div class="mcb-wrap-inner">
-                            <div class="column mcb-column one column_blog ">
-                                <div class="column_filters">
-                                    <div class="blog_wrapper isotope_wrapper clearfix">
-                                        <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
-                                            {{ range $i, $e := (after 4 $plans) }}
-                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles" onclick="location.href='{{- .Permalink -}}';">
-                                                {{- partial "site/plans-post.html" . $ -}}
-                                            </div>
-                                            {{ end }}
-                                        </div>
-                                    </div>
+                        	{{ range $i, $e := (first 4 $plans) }}
+                            <div class="column mcb-column one-second column_placeholder plan-item" onclick="location.href='{{- .Permalink -}}';">
+                            	<div class="column_attr">
+                                	{{- partial "site/plans-post.html" . $ -}}
                                 </div>
                             </div>
+                            {{ end }}
                         </div>
                     </div>
                 </div>
             </div>
             {{ with .Params.section2 }}
-            <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:white">
+            <div class="section mcb-section" style="padding-top:40px; padding-bottom:30px; background-color:white">
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
                         <div class="mcb-wrap-inner">
                             <div class="column mcb-column one column_hover_color ">
-                                <div class="hover_color" style="background:#fff" ontouchstart="this.classList.toggle('hover');">
-                                    <div class="hover_color_bg" style="background:white;">
-                                        <a href="{{ $.Site.BaseURL }}categories/sustainable-building-and-living/">
-                                            <div class="hover_color_wrapper" style="padding:30px 20px;">
-                                                <h4 style="margin: 0;">{{ .title }}</h4>
-                                            </div>
-                                        </a>
+                                <div class="hover_color_bg" style="background:white;">
+                                    <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                        <h4 style="margin: 0; text-align: center;">{{ .title }}</h4>
                                     </div>
                                 </div>
                             </div>
