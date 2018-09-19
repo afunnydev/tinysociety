@@ -24,21 +24,16 @@ i18nlanguage: en
 menuid: articles
 ordre: '0'
 infographic: false
-draft: true
+draft: false
 noindex: false
 ---
-![tiny house](/img/tiny-house.jpg)
-
-Source credit: [Wildwewander
-](http://www.wildwewander.com/journal/7-things-to-consider-if-you-want-to-join-the-tiny-house-community)
-
 Are you worried about the weight of your tiny house on wheels? Or you don’t have any idea what weight restrictions it has! 
 
 Tiny houses whether on wheels or not in most cases have no weight restrictions, but weight itself can create many limitations.
 
 The weight of your tiny house depends mainly on its size, the trailer used and building materials.
 
-Building a tiny house requires proper planning and understanding of the materials you are going to use and how big or small you want it to be. When you get to the end of this article, many of your doubts and fears will no longer haunt you. So you don't end up like those guys I saw on [YouTube](https://www.youtube.com/watch?v=CUkpaZ7la7E). The couple had a hard time towing their 12000 lbs tiny house. You can check it out [here](https://www.youtube.com/watch?v=CUkpaZ7la7E)
+Building a tiny house requires proper planning and understanding of the materials you are going to use. When you get to the end of this article, many of your doubts and fears will no longer haunt you. So you don't end up like those guys I saw on [YouTube](https://www.youtube.com/watch?v=CUkpaZ7la7E). The couple had a hard time towing their 12000 lbs tiny house. You can check it out [here](https://www.youtube.com/watch?v=CUkpaZ7la7E)
 
 ![Tiny house weighs](/img/our-tiny-house-weighs.jpg)
 
@@ -94,11 +89,7 @@ One great idea to drastically reduce your tiny house’s weight is to use fiberg
 
 When choosing furniture, go for the lightest ones. Use multipurpose furniture for saving space as well as weight.
 
-
-
 ## Summary
-
-What I have presented above is a brief research on the weight restriction on your tiny house on wheels. 
 
 Though restrictions are hardly found in the US, you will come across many limitations if your home is heavy. 
 
