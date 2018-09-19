@@ -15,6 +15,7 @@ listing:
     finish. With an instant to the outdoor world, this house is excellent for
     those looking to build their little escape pod.
   image: /img/tiny-home-container-size-list.jpg
+  foundation: true
 titre: 'Urban Getaway | Modern Design, Minimal Needs'
 slider:
   - title: Outside View With Terrace Space

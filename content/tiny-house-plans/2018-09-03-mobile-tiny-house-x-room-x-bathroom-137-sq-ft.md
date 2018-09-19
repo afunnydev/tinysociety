@@ -20,6 +20,7 @@ listing:
     Comfy, utilitarian, amazing looking, this mobile tiny house has it all for
     anyone who wants to dip in the self-sufficient world of tiny houses. 
   image: /img/mobile-tiny-house-list.jpg
+  foundation: false
 titre: 'Mobile Tiny House | Not A Tent-Trailer, But A House'
 slider:
   - title: Mobile Tiny House Outside View

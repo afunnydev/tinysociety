@@ -15,6 +15,7 @@ listing:
     space, making it a perfect build for people living in year-long warm
     weather.
   image: /img/outside-luxurious-small-home-list.jpg
+  foundation: true
 titre: Alpine Getaway | Small Minimalist Living Space
 slider:
   - title: Living Room

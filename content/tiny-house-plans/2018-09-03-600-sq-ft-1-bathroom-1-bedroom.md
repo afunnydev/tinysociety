@@ -19,6 +19,7 @@ listing:
 
     Perfect for relaxing, perfect for living tiny.
   image: /img/california-style-list.jpg
+  foundation: true
 titre: California Style Tiny Cabin for Two
 slider:
   - title: California Style Tiny Cabin Kitchen

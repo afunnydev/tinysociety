@@ -15,6 +15,7 @@ listing:
     countryside. With its 2 floors and gigantic rooms, it has anything to please
     families or couples, tiny house fans or beginners. 
   image: /img/rustic-house-list.jpg
+  foundation: true
 titre: Rustic House | Rustic Ambiance In A Tiny Format
 slider:
   - title: Rustic House Outside View

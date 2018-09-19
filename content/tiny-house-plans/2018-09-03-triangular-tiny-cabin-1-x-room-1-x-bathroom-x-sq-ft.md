@@ -19,6 +19,7 @@ listing:
     And it looks awesome, far from the container style we've been accustomed to
     from tiny houses!
   image: /img/triangular-tiny-house-list.jpg
+  foundation: true
 titre: Triangular Tiny House | Living The Triangular Lifestyle
 slider:
   - title: Triangular Tiny House Living Room 1

@@ -20,6 +20,7 @@ listing:
     intelligently disposed to maximize the space and the comfort. You should
     take a look!
   image: /img/simplistic-tiny-house-list.jpg
+  foundation: false
 titre: Simplistic Tiny House | Compact Yet Thoroughly Enough
 slider:
   - title: Simplistic Tiny House Outside View

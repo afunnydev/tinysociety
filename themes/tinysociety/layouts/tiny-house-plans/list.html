@@ -13,10 +13,10 @@
                             	<h1>Our Tiny House Plans</h1>
                             	<p class="nb">We have {{ len $plans }} Tiny House Plans that will interest you!</p>
                             	<div class="filters">
-                            		<span>Show me</span>
-                            		<a href="#all">All</a>
-                            		<a href="#sur-fondation">Sur fondation</a>
-                            		<a href="#sur-roue">Sur roue</a>
+                            		<span class="hidden-xs">Show me</span>
+                            		<a href="#all" data-filter="*">All</a>
+                            		<a href="#on-foundation" data-filter=".on-foundation">On foundation</a>
+                            		<a href="#on-wheels" data-filter=".on-wheels">On wheels</a>
                             	</div>
                             </div>
                         </div>
@@ -26,9 +26,9 @@
         	<div class="section mcb-section full-width no-margin-h no-margin-v" id="plan-masonry">
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one valign-top clearfix">
-                        <div class="mcb-wrap-inner">
+                        <div class="mcb-wrap-inner isotope-wrapper">
                         	{{ range $i, $e := (first 8 $plans) }}
-                            <div class="column mcb-column one-second column_placeholder plan-item">
+                            <div class="column mcb-column one-second column_placeholder plan-item{{ if .Params.listing.foundation }} on-foundation{{ else }} on-wheels{{ end }}">
                             	<div class="column_attr">
                                 	{{- partial "site/plans-post.html" . $ -}}
                                 </div>

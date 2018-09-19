@@ -18,7 +18,8 @@
 {{ end }}
 {{ if eq .Params.layout "contact" }}
 <script src="/js/main-with-ui.min.js"></script>
-{{ else if (eq .Type "plans") }}
+{{ else if (eq .Type "tiny-house-plans") }}
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 <script src="/js/main-plans.min.js"></script>
 <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YjEzZWVjYTctZDYwOS00MmRhLWIxNzctODQ4MTEyNDBlMTJkNjM2NTcxNjg0NDkwMDkzMDA5"></script>
 {{ else }}
@@ -35,7 +36,7 @@
             var stickyEl = jQuery("#logo img.logo-sticky");
             var stickyLogoW = stickyEl.width();
             var stickyLogoH = stickyEl.height();
-            {{ if (eq .Type "plans") }}
+            {{ if (eq .Type "tiny-house-plans") }}
             stickyEl.attr("src", "/img/logo-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
             {{ else }}
             stickyEl.attr("src", "/img/logo-white-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
@@ -43,7 +44,7 @@
             var mobileEl = jQuery("#logo img.logo-mobile");
             var mobileLogoW = mobileEl.width();
             var mobileLogoH = mobileEl.height();
-            {{ if (eq .Type "plans") }}
+            {{ if (eq .Type "tiny-house-plans") }}
             mobileEl.attr("src", "/img/logo-tiny-house.png").width(mobileLogoW).height(mobileLogoH);
             {{ else }}
             mobileEl.attr("src", "/img/logo-white-tiny-house.png").width(mobileLogoW).height(mobileLogoH);

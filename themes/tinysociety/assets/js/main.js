@@ -226,7 +226,7 @@ jQuery( document ).ready(function($) {
     
     var emojiComment = $(".emoji-slider-question"),
         snipcartAdd = $("a.snipcart-add-item"),
-        baseUrl = "https://tinyplans.netlify.com/.netlify/functions/product?donationAmount=";
+        baseUrl = "https://www.tinysociety.co/.netlify/functions/product?donationAmount=";
     if ($(".emoji-slider").length) {
       $(".emoji-slider")
         
@@ -327,5 +327,14 @@ jQuery( document ).ready(function($) {
     if (typeof Snipcart !== 'undefined') {
       Snipcart.api.configure('show_cart_automatically', true);
     }
+    // init Isotope
+    var $grid = $('.isotope-wrapper').isotope({
+      // options
+    });
+    // filter items on button click
+    $('.filters a').on( 'click', function() {
+      var filterValue = $(this).attr('data-filter');
+      $grid.isotope({ filter: filterValue });
+    });
   });
 });
