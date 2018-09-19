@@ -9,7 +9,7 @@ slug: tiny-house-laws-united-states
 author: molli
 image: /img/coverphoto.png
 overlay: true
-date: '2018-07-31'
+date: '2018-08-14'
 notloaded:
   need: 'true'
 listing:
@@ -19,9 +19,10 @@ listing:
     looking to build in, these can vary greatly. Certain states are more
     friendly toward the idea of tiny houses and tiny house communities, so it’s
     a good idea to figure out the laws specific to your location. 
+  image: /img/tiny-house-laws.jpg
 likes: '18'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -31,7 +32,7 @@ noindex: false
 ---
 Looking for the next step in joining the Tiny House Movement? You came to the right place. Many people in similar positions have wondered how it’s possible to live in their tiny house without breaking any laws. Sure, it would be great if it were easy, but once you’re living worry-free in your tiny home you’ll be glad you took the time to do the research. 
 
-**The U.S. primary regulation regarding Tiny Houses**
+## **The U.S. primary regulation regarding Tiny Houses**
 
 When it comes to deciding where to build your tiny house, there are a few things you need to consider first:
 
@@ -57,13 +58,13 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 
 * Tiny house on wheels: Legally considered an RV (recreational vehicle). With this type of tiny house, you’ll need to register as an RV and figure out a place to park it. There are plenty of campsites in the States, but keep in mind that most states do not allow full-time residency in an RV unless it is in a designated RV park. Generally, these rules are not always enforced unless you are giving someone something to complain about. 
 
-![](/img/wheels.png)
+![null](/img/wheels.png)
 
 [Source: Tumbleweed Houses](https://www.tumbleweedhouses.com/tumbleweed-models/elm/#!)
 
-* Tiny house on a foundation: Legally considered an accessory dwelling unit (ADU), these types of houses often come in the form of granny flats or cottages. Because of regulations that prohibit tiny house owners from purchasing land to build a tiny house, you’re left with the option of building next to an already existing residential dwelling.Time to call up some friends!
+* Tiny house on a foundation: Legally considered an accessory dwelling unit (ADU), these types of houses often come in the form of granny flats or cottages. Because of regulations that prohibit tiny house owners from purchasing land to build a tiny house, you’re left with the option of building next to an already existing residential dwelling. Time to call up some friends!
 
-![](/img/foundation.png)
+![null](/img/foundation.png)
 
 [Source: Tiny Home Builders](https://www.tinyhomebuilders.com/tiny-house-marketplace/billabong-tiny-home-by-imagine-kit)
 
@@ -71,7 +72,7 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 
 _Interactive map to come._
 
-## The Takeaway 
+## The Takeaway
 
 Trying to figure out where to live in your tiny house can be confusing when there are so many different rules and regulations. Hopefully, we’ve made it easier for you to see what your options are when it comes to deciding where to build and how to build. 
 
