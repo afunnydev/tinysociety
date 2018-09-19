@@ -8,7 +8,7 @@ description: >-
 slug: tiny-house-communities-you-want-to-join-in-2018
 author: molli
 image: /img/d0f5e821-3d14-4034-9166-e72dc74272fc.jpg
-overlay: false
+overlay: true
 date: '2018-08-29'
 notloaded:
   need: 'true'
@@ -32,13 +32,13 @@ infographic: false
 draft: false
 noindex: false
 ---
-The idea is simple, but finding the right one can be hard. A tiny house community is a place where people coexist in tiny houses. Together, they share things like land, support, and ideas regarding all things tiny. As the tiny house movement gains momentum, we see an increasing demand for tiny house communities. [Finding a home for you tiny home](https://www.tinysociety.co/articles/how-to-find-land-for-tiny-houses/) can be difficult; zoning laws and building codes make finding a place to build a tiny home quite tricky. With tiny house communities popping up all over the country, the only thing to decide is which one is right for you. Check out these 10 tiny house communities that you’ll want to move into this year.
+The idea is simple, but finding the right one can be hard. A tiny house community is a place where people coexist in tiny houses. Together, they share things like land, support, and ideas regarding all things tiny. As the tiny house movement gains momentum, we see an increasing demand for tiny house communities. [Finding a land for you tiny home](https://www.tinysociety.co/articles/how-to-find-land-for-tiny-houses/) can be difficult; zoning laws and building codes make finding a place to build a tiny home quite tricky. With tiny house communities popping up all over the country, the only thing to decide is which one is right for you. Check out these 10 tiny house communities that you’ll want to move into this year.
 
 ## Community #1: Spur, Texas
 
 ![null](/img/spur.png)
 
-[Source: The Wall Street Journal](https://www.wsj.com/articles/west-texas-town-finds-tiny-house-crowd-a-bit-too-earthy-1465867332)
+<span class="figcaption">Source: [The Wall Street Journal](https://www.wsj.com/articles/west-texas-town-finds-tiny-house-crowd-a-bit-too-earthy-1465867332)</span>
 
 Known as [“America’s first tiny house friendly town,”](https://www.spurfreedom.org/) Spur proposed tiny living to give the town a sense of community and self-sufficiency. With rising housing costs throughout the nation, this tiny house community continues to set the bar for tiny living. Moving in appears to be a simple process. Upon request, the city hall will send you a list of the available lots for sale to get started on your foundation. Located in a classic western town, Spur is home to a few restaurants, gas stations, and open prairie as far as the eye can see!
 
@@ -46,7 +46,7 @@ Known as [“America’s first tiny house friendly town,”](https://www.spurfre
 
 ![null](/img/tiny2-1024x683.jpg)
 
-[Source: DIY Tiny](http://www.diytiny.com/)
+<span class="figcaption">Source: [DIY Tiny](http://www.diytiny.com/)</span>
 
 This community offers residents tiny house advice and space to build. Inspired by the struggle to find a place for his own tiny home, the founder decided to open this community to make it easier for other tiny house hopefuls. Residents can choose whether they want to build and move on, or live for the long term. Downtown Asheville is an artsy city; full of breweries, galleries, and restaurants. 
 
@@ -54,7 +54,7 @@ This community offers residents tiny house advice and space to build. Inspired b
 
 ![null](/img/10974293_1024239660924895_1634397214236077947_o.jpg)
 
-[Source: Ballen Las Vegas](https://ballenvegas.com/airstream-park-tiny-living-downtown-las-vegas/)
+<span class="figcaption">Source: [Ballen Las Vegas](https://ballenvegas.com/airstream-park-tiny-living-downtown-las-vegas/)</span>
 
 Downtown Las Vegas decided they needed to make use of their plentiful vacant lots. As part of their reinvention, they created a gated tiny home village that thrives in a similar fashion to the Burning Man festival. With fire pits, twinkling lights, and music always playing; this tiny house community is certainly one of the more lively ones. The community is also walking distance from bars, restaurants, and casinos (which might not be ideal for those looking for a quiet retirement). The only downside is that to become a resident, you must be recommended by a current resident. 
 
@@ -62,7 +62,7 @@ Downtown Las Vegas decided they needed to make use of their plentiful vacant lot
 
 ![null](/img/austin_tiny_homes_d9c38350733366c299f8d95f8b3cee4c.fit-760w.jpg)
 
-[Source: NBC News](http://nbcnews.com)
+<span class="figcaption">Source: [NBC News](http://nbcnews.com)</span>
 
 This area boasts a number of tiny house villages, the Community First Village being one of them. The 27-acre space hosts residents who are low-income or are transitioning out of homelessness. Residents can learn sustainable skills like wood-working or gardening. This is the kind of place that welcomes people who might have been pushed away elsewhere, with open arms. 
 
@@ -70,7 +70,7 @@ This area boasts a number of tiny house villages, the Community First Village be
 
 ![null](/img/the-village-of-wildflowers.jpg)
 
-[Source: Trip Advisor](www.tripadvisor.com)
+<span class="figcaption">Source: [Trip Advisor](www.tripadvisor.com)</span>
 
 Originally, this tiny house community was established for the older generation to retire in comfort. The relatively recent opening of a tiny house section has brought in people of all ages to stay in these sought-after accommodations. This multi-generational community boasts a pool, fitness room, and plenty of planned activities in the local area. 
 
@@ -78,7 +78,7 @@ Originally, this tiny house community was established for the older generation t
 
 ![null](/img/feature_1-cbc475ebc870ffdc.jpg)
 
-[Source: Source Weekly](https://www.bendsource.com/bend/tiny-homes/Content?oid=2612214)
+<span class="figcaption">Source: [Source Weekly](https://www.bendsource.com/bend/tiny-homes/Content?oid=2612214)</span>
 
 Rural tiny house communities are gaining traction faster than in cities--likely because the regulations are less strict. At just a 45 minute drive from Dallas, this tiny house community offers spaces to park a tiny house on wheels or a place to build on foundations. Community is important, and it’s not uncommon for neighbors to stop by for a chat or some tiny house advice. Keep in mind that the wide-open prairie makes for strong winds, so it’s necessary to reinforce your home straight away. 
 
@@ -86,7 +86,7 @@ Rural tiny house communities are gaining traction faster than in cities--likely 
 
 ![null](/img/1cb84d15-b3ba-435a-88c7-573e64814a44-ravenlore-extra.jpg)
 
-[Source: Love Property](https://www.loveproperty.com/galleryextended/67887/tiny-home-communities-that-will-make-you-feel-welcome)
+<span class="figcaption">Source: [Love Property](https://www.loveproperty.com/galleryextended/67887/tiny-home-communities-that-will-make-you-feel-welcome)</span>
 
 This organic farm surrounded by trees is the perfect spot for a tiny home. You can either purchase a one-acre plot of land for around $45,000, or rent for $300 per month. As an eco-friendly community, Green Bridge has created a sustainable living solution for their residents. Residents can even learn to grow their own vegetable garden with assistance from the community members. Living here is also a great excuse to learn more about homesteading practices with people who know how to do it best. 
 
@@ -94,7 +94,7 @@ This organic farm surrounded by trees is the perfect spot for a tiny home. You c
 
 ![null](/img/images.png)
 
-[Source: Facebook](https://www.google.co.za/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjE-P_8t5LdAhVHyoUKHTRxBkcQjhx6BAgBEAM&url=https%3A%2F%2Fwww.facebook.com%2Ftinyhouselemoncove%2F&psig=AOvVaw1fj25iG0SiXpl8d6tVJa6P&ust=1535638072892046)
+<span class="figcaption">Source: [Facebook](https://www.google.co.za/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjE-P_8t5LdAhVHyoUKHTRxBkcQjhx6BAgBEAM&url=https%3A%2F%2Fwww.facebook.com%2Ftinyhouselemoncove%2F&psig=AOvVaw1fj25iG0SiXpl8d6tVJa6P&ust=1535638072892046)</span>
 
 Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly spaces for tiny homes. At $400-$600 per month (including utilities), residents also get access to the dog park, community park, and laundromat. There are also a number of tiny houses that are available for purchase. With plenty of outdoor activities in the area, nature-lovers will not be disappointed. 
 
@@ -102,7 +102,7 @@ Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly s
 
 ![null](/img/img_6289-copy-618x618.jpg)
 
-[Source: Green Anchors](http://www.greenanchorspdx.com/)
+<span class="figcaption">Source: [Green Anchors](http://www.greenanchorspdx.com/)</span>
 
 This community is located in a eco-industrial art park. Not only can you rent a space to build your tiny house, but you can also receive technical support of all kinds. Starting at $300 per month, tenants receive water, electricity, space for storing materials, and gated security. This community is ideal for individuals who want a temporary space to build their tiny home, live, and get building assistance. The Portland area is full of coffee shops, art galleries, and funky communities. Green Anchors is a great place to start your tiny house journey!
 
@@ -110,7 +110,7 @@ This community is located in a eco-industrial art park. Not only can you rent a 
 
 ![null](/img/orlando.png)
 
-[Source: Airbnb](https://www.airbnb.com/rooms/18854613?guests=1&adults=1&user_id=56824797&ref_device_id=df75a29b982dd556&_branch_match_id=563361591054072935)
+<span class="figcaption">Source: [Airbnb](https://www.airbnb.com/rooms/18854613?guests=1&adults=1&user_id=56824797&ref_device_id=df75a29b982dd556&_branch_match_id=563361591054072935)</span>
 
 Another RV park that is rejuvenating itself by opening its arms to the tiny community. You can rent their exquisite tiny houses for about $59-$129 per night, or rent one of the available lots for $350-$600 per month. Situated overlooking a lake, Orlando Lakefront is host to a range of water activities. This tiny community is not only pet-friendly, but also includes water, taxes, laundromat services, and landscaping. You can park your tiny home long term, rent a tiny house, or have one professionally built by the park. Orlando Lakefront is located only 3 miles from the city of Orlando, and a 30 minute drive to Disney World (yay). 
 

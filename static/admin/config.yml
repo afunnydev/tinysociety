@@ -37,7 +37,7 @@ collections:
           - { label: "Rose Burke", value: "kristen" }
           - { label: "Molli McGee", value: "molli" }
       - {label: "Banner and share image (rectangle - 2700px by 1800px)", name: "image", widget: "image" , required: false}
-      - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: false}
+      - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: true}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - name: notloaded
         label: "Loading effect"

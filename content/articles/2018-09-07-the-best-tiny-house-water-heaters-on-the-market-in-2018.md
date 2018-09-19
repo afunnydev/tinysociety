@@ -7,7 +7,7 @@ description: >-
 slug: the-best-tiny-house-water-heaters-on-the-market-in-2018
 author: molli
 image: /img/bb77115c-461f-4a97-8ba2-4ad3f6536e46.jpg
-overlay: false
+overlay: true
 date: '2018-09-07'
 notloaded:
   need: 'true'
@@ -61,11 +61,11 @@ The right water heater for your tiny home is based on many different factors. Wh
 
 ![](/img/precisiontemp.png)
 
-[Source: Amazon](https://www.amazon.com/gp/product/B00HS3JSIW/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HS3JSIW&linkCode=as2&tag=tinhougiajou-20&linkId=GCOI32EOP3EELQED)
+<span class="figcaption">Source: [Amazon](https://www.amazon.com/gp/product/B00HS3JSIW/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HS3JSIW&linkCode=as2&tag=tinhougiajou-20&linkId=GCOI32EOP3EELQED)</span>
 
 This water heater is specifically designed for RVs, trailers, and...you guessed it--tiny homes! The Precision Temp not only takes up half the space of a 10-gallon tank, it also has a freezing-prevention function. An additional 80 degrees temperature increase capacity is also handy for those toasty shower temps! 
 
-**Features we like: **
+**Features we like:**
 
 * High propane efficiency
 * The only tankless water heater with built-in freeze protection
@@ -79,18 +79,18 @@ This water heater is specifically designed for RVs, trailers, and...you guessed 
 
 ![](/img/tempra-29-plus-md.jpg)
 
-[Source: Tankless King](http://www.tanklessking.com/stiebel-eltron-tempra-24-plus-tankless-water-heater.html?gclid=CjwKEAiAk7O0BRD9_Ka2w_PhwSkSJAAmKswx39vySa66KAlr9wYHCsJJFby2ra15xLnFQK6rrY3MChoCu0vw_wcB)
+<span class="figcaption">Source: [Tankless King](http://www.tanklessking.com/stiebel-eltron-tempra-24-plus-tankless-water-heater.html?gclid=CjwKEAiAk7O0BRD9_Ka2w_PhwSkSJAAmKswx39vySa66KAlr9wYHCsJJFby2ra15xLnFQK6rrY3MChoCu0vw_wcB)</span>
 
 This water heater provides consistent, constant temperature and adjustable water flow. The unit will still work perfectly even in the coldest temperatures where a smaller unit may struggle to function. The digital temperature control makes adjusting the heat user-friendly and easily accessible. 
 
-**Features we like: **
+**Features we like:**
 
 * Compact
 * Requires no venting
 * 3 year warranty
 * Reduces hot water costs up to 60% over other electric water heaters
 
-_**Pro Tip: **_Be sure to install this water heater with a professional for a valid warranty.  
+_**Pro Tip:**_ Be sure to install this water heater with a professional for a valid warranty.  
 
 **Price: $749.00**
 

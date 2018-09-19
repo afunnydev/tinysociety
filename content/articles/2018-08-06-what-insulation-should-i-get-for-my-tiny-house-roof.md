@@ -162,4 +162,4 @@ Hopefully this breakdown of the many different types of tiny house insulation ha
 
 ![](https://media.giphy.com/media/lMVNl6XxTvXgs/giphy.gif)
 
-<span class="figcaption" style="text-align: left">Image source: [Giphy](https://giphy.com/gifs/the-office-raise-roof-lMVNl6XxTvXgs)</span>
+<span class="figcaption">Image source: [Giphy](https://giphy.com/gifs/the-office-raise-roof-lMVNl6XxTvXgs)</span>

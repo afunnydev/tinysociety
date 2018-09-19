@@ -569,7 +569,9 @@ div.overlayed {
 					margin: 20px 0 15px;
 				}
 				img {
-					margin: 20px auto 10px;
+					margin: 20px auto 30px;
+					display: block;
+					max-height: 65vh;
 				}
 			}
 		}
@@ -888,7 +890,8 @@ h6.regular-text {
 						}
 					}
 					img {
-						margin: 20px auto 10px;
+						margin: 20px auto 30px;
+						max-height: 100vh;
 					}
 				}
 			}

@@ -8,7 +8,7 @@ description: >-
 slug: low-power-air-conditioner-to-keep-you-cool-during-the-summer
 author: molli
 image: /img/air-conditioner-tiny-house.jpg
-overlay: false
+overlay: true
 date: '2018-08-27'
 notloaded:
   need: 'true'
@@ -71,7 +71,7 @@ BTU (British Thermal Unit), is a unit of energy that tells you how much heat is 
 
 ![null](/img/ffre1033u1a__80683.1528917380.jpg)
 
-[Source: Total Home Supply](https://www.totalhomesupply.com/frigidaire-ffre1033u1-10-000-btu-window-unit-room-air-conditioner-energy-star/p/frigidaire-ffre1033u1)
+<span class="figcaption">Source: [Total Home Supply](https://www.totalhomesupply.com/frigidaire-ffre1033u1-10-000-btu-window-unit-room-air-conditioner-energy-star/p/frigidaire-ffre1033u1)</span>
 
 This 10,000 BTU Energy-Star window unit uses standard electricity, and effectively cools a space of up to 450 square feet. Installation is extremely simple, and the unit can be set on a timer so you can cool your home at a time that best suits your schedule. 
 
@@ -79,7 +79,7 @@ This 10,000 BTU Energy-Star window unit uses standard electricity, and effective
 
 ![null](/img/screen-shot-2018-08-27-at-12.06.00.png)
 
-[Source: Compact Appliance](https://www.compactappliance.com/mrcool-mini-split-air-conditioners/O-ES-24-HP-230.html)
+<span class="figcaption">Source: [Compact Appliance](https://www.compactappliance.com/mrcool-mini-split-air-conditioners/O-ES-24-HP-230.html)</span>
 
 This sleek, compact unit is Energy-Star certified, and has a cooling capacity of 24,000 BTUs. At a higher price than a window unit, this air conditioner will cool a tiny house quickly and efficiently. Installation should be done by a professional, as it’s necessary to run piping through the walls. This is an extremely popular choice amongst tiny house enthusiasts because it is typically installed up high, and out of the way.
 
@@ -87,7 +87,7 @@ This sleek, compact unit is Energy-Star certified, and has a cooling capacity of
 
 ![null](/img/screen-shot-2018-08-27-at-12.35.16.png)
 
-[Source: Compact Appliance](https://www.compactappliance.com/whirlpool-portable-air-conditioners/WHAP122AW.html)
+<span class="figcaption">Source: [Compact Appliance](https://www.compactappliance.com/whirlpool-portable-air-conditioners/WHAP122AW.html)</span>
 
 Another Energy-Star certified unit, this portable air conditioner provides 12,000 BTUs of chilly air. With a 24-hour programmable timer, this unit can work around the clock and on your schedule. Although modern looking, this unit does take up a minimal amount of floor space. It’s a good idea to have someplace to store it when it’s not in use!
 
@@ -107,6 +107,7 @@ This battery-powered cooler box blows air through ice, effectively sending a sho
 
 ## The Takeaway
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xUPGcCpJh9c8xWFXEI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hot-summer-fan-xUPGcCpJh9c8xWFXEI">via GIPHY</a></p>
+![](https://media.giphy.com/media/xUPGcCpJh9c8xWFXEI/giphy.gif)
+<span class="figcaption">Image source: [Giphy](https://giphy.com/gifs/hot-summer-fan-xUPGcCpJh9c8xWFXEI)</span>
 
 I’m a big fan of staying cool in a tiny house. Be sure to speak with a professional to help you decide which unit will provide you with the most efficient cooling option. It’s easy for a small space to get stuffy in the summertime, so hopefully this will help you to get your hands on the unit that works best for your tiny home!
