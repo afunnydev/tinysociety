@@ -1,10 +1,10 @@
 ---
-title: Plans
+title: Tiny Society | Hand Picked Tiny House Plans
 description: >-
-  This is a desc
-image: 
+  View our collection of handpicked tiny house plans. Easily select your design for your next tiny home.
+image: /img/simplistic-tiny-house-exterior2.jpg
 draft: false
-noindex: true
+noindex: false
 section2:
   title: "Why Choose Our Plans"
   category: "tiny house"

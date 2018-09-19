@@ -93,7 +93,7 @@ jQuery( document ).ready(function($) {
   var userFeed = new Instafeed({
       get: 'user',
       userId: '7328857212',
-      accessToken: '7328857212.4cf9aed.bda93aa94e5043138b2d2d78b1c4dfa4',
+      accessToken: '7328857212.4cf9aed.f0350c126116412c978dd2f3346ba315',
       limit: '8',
       resolution: "thumbnail",
       error: {
@@ -102,9 +102,9 @@ jQuery( document ).ready(function($) {
       template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
   });
   userFeed.run();
-  var myLazyLoad = new LazyLoad({
-      elements_selector: "#article #Content .post #content img"
-  });
+  // var myLazyLoad = new LazyLoad({
+  //     elements_selector: "#article #Content .post #content img"
+  // });
   $('.plans-slider-navigation').slick({
       vertical: true,
       verticalSwiping: true,
@@ -163,13 +163,22 @@ jQuery( document ).ready(function($) {
       adaptiveHeight: false,
       asNavFor: '.plans-slider-navigation',
   });
-
-  $(".image-navigation__prev").on('click', function () {
-      $(".plans-slider-images").slick('slickPrev');
+  $(".plans-list-images").slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: false,
+      infinite: false,
+      arrows: false,
+      fade: true,
+      adaptiveHeight: false
   });
 
-  $(".image-navigation__next").on('click', function () {
-      $(".plans-slider-images").slick('slickNext');
+  $(".image-navigation__prev").click(function() {
+      $(this).parent().prev().slick('slickPrev');
+  });
+
+  $(".image-navigation__next").click(function() {
+      $(this).parent().prev().slick('slickNext');
   });
   var selectemVal = document.querySelector('input[name="selectemVal"]');
 

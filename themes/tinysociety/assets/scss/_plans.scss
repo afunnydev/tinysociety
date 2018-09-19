@@ -768,12 +768,54 @@ body.no-content-padding:not(.with_aside).plan-page {
 			}
 			.plan-photo-wrapper {
 				position: relative;
+				.slick-slider {
+				    background: url(/img/loader.gif);
+				}
+				.slick-slider .slick-list { 
+				    opacity: 0; 
+				    position: absolute; 
+				}
+				.slick-slider.slick-initialized {
+				    background: none;
+				}
+				.slick-slider.slick-initialized .slick-list { 
+				    opacity: 1;
+				    position: relative;
+				    transition: opacity 0.2s ease-in;
+				}
 				.plan-photo {
 					background-size: cover; 
 					background-repeat: no-repeat; 
 					background-position: center center; 
 					height: 300px; 
 					width: 100%;
+				}
+				.plans-slider-arrows {
+					position: absolute;
+				    display: flex;
+				    justify-content: space-between;
+				    width: 100%;
+				    top: 50%;
+				    transform: translateY(-50%);
+				    transition: 0.3s all ease-out;
+				    margin: 0;
+				    padding: 0;
+				    list-style-type: none;
+				    opacity: 0.25; 
+				    li {
+				    	display: inline-block;
+					    width: 60px;
+					    height: 60px;
+					    background-color: rgba(0, 0, 0, 0.8);
+					    color: #ffffff;
+					    line-height: 60px;
+					    font-size: 30px;
+					    text-align: center;
+					    cursor: pointer;
+					    margin: 0;
+					    padding: 0;
+					    list-style-type: none;
+				    }
 				}
 				.plan-architect {
 					position: absolute;
@@ -799,17 +841,26 @@ body.no-content-padding:not(.with_aside).plan-page {
 				h3 {
 					font-size: 24px;
 					line-height: 30px;
+					margin-bottom: 5px;
 				}
 			}
 			.plan-desc-wrapper {
-				padding: 10px 30px;
+				padding: 0px 30px 10px;
+				float: left;
+				width: 100%;
+				color: black;
 				.plan-desc {
 					width: 25%;
-					i, p {
+					margin: 0;
+					float: left;
+					p {
 						display: inline;
+						font-family: $hfont;
 					}
 					i {
-						font-size: 20px
+						font-size: 20px;
+						margin-right: 10px;
+						display: inline
 					}
 				}
 			}
@@ -993,6 +1044,21 @@ body.no-content-padding:not(.with_aside).plan-page {
 	}
 }
 
+@media only screen and (max-width: 600px) {
+	#plan-list {
+		#plan-masonry {
+			.plan-item {
+				.plan-title-wrapper {
+					padding: 40px 20px 10px 20px;
+				}
+				.plan-desc-wrapper {
+					padding-right: 20px;
+					padding-left: 20px;
+				}
+			}
+		}
+	}
+}
 @media only screen and (max-width: 479px) {
 	#plan {
 		#Intro {
@@ -1010,6 +1076,17 @@ body.no-content-padding:not(.with_aside).plan-page {
 			h4 {
 				font-size: 22px;
 				line-height: 24px;
+			}
+		}
+	}
+	#plan-list {
+		#plan-masonry {
+			.plan-item {
+				.plan-desc-wrapper {
+					.plan-desc {
+						width: 50%;
+					}
+				}
 			}
 		}
 	}	
@@ -1084,6 +1161,19 @@ body.no-content-padding:not(.with_aside).plan-page {
 							height: 375px !important;
 						}
 					}
+				}
+			}
+		}
+	}
+	#plan-list {
+		#plan-masonry {
+			.plan-item {
+				.plan-title-wrapper {
+					padding: 40px 20px 10px 20px;
+				}
+				.plan-desc-wrapper {
+					padding-right: 20px;
+					padding-left: 20px;
 				}
 			}
 		}

@@ -3,28 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.tinysociety.co/plans/600-sq-ft-1-bathroom-1-bedroom/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/600-sq-ft-1-bathroom-1-bedroom-foundation/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/137-sq-ft-1-bathroom-1-bedroom/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/137-sq-ft-1-bathroom-1-bedroom-foundation/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/890-sq-ft-2-bathrooms-2-bedrooms/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/890-sq-ft-2-bathrooms-2-bedrooms-foundation/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/70-sq-ft-1-bedroom-1-bathroom/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/70-sq-ft-1-bedroom-1-bathroom-foundation/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/x-sq-ft-1-bathroom-1-bedroom/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/890-sq-ft-1-bathroom-1-bedroom-foundation/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/articles/weight-restrictions/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/550-sq-ft-2-bedroom-1-bathroom-foundation/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/570-sq-ft-2-bedroom-1-bathroom-foundation/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/450-sq-ft-1-bathroom-1-bedroom-foundation/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/545-sq-ft-1-bathroom-1-bedroom-foundation/</loc>
     <lastmod>2018-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -172,17 +177,24 @@
   </url>
   
   <url>
+    <loc>https://www.tinysociety.co/collections/modern-house/</loc>
+    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/collections/modern-tiny-house/</loc>
+    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tinysociety.co/articles/</loc>
-    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tinysociety.co/plans/privacy-policy/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/privacy-policy/</loc>
   </url>
   
   <url>
@@ -221,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/terms-and-conditions/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/terms-and-conditions/</loc>
   </url>
   
   <url>
@@ -248,7 +260,7 @@
   
   <url>
     <loc>https://www.tinysociety.co/categories/energy-efficiency/</loc>
-    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,7 +275,7 @@
   
   <url>
     <loc>https://www.tinysociety.co/categories/tiny-houses/</loc>
-    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -290,6 +302,11 @@
   
   <url>
     <loc>https://www.tinysociety.co/collections/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tinysociety.co/tiny-house-plans/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -330,7 +347,7 @@
   </url>
   
   <url>
-    <loc>https://www.tinysociety.co/plans/whats-included/</loc>
+    <loc>https://www.tinysociety.co/tiny-house-plans/whats-included/</loc>
   </url>
   
   <url>

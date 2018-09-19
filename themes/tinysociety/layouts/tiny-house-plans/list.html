@@ -10,7 +10,7 @@
                     <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
                         <div class="mcb-wrap-inner">
                             <div class="column mcb-column one">
-                            	<h1>Je suis un titre H1</h1>
+                            	<h1>Our Tiny House Plans</h1>
                             	<p class="nb">We have {{ len $plans }} Tiny House Plans that will interest you!</p>
                             	<div class="filters">
                             		<span>Show me</span>
@@ -27,8 +27,8 @@
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one valign-top clearfix">
                         <div class="mcb-wrap-inner">
-                        	{{ range $i, $e := (first 4 $plans) }}
-                            <div class="column mcb-column one-second column_placeholder plan-item" onclick="location.href='{{- .Permalink -}}';">
+                        	{{ range $i, $e := (first 8 $plans) }}
+                            <div class="column mcb-column one-second column_placeholder plan-item">
                             	<div class="column_attr">
                                 	{{- partial "site/plans-post.html" . $ -}}
                                 </div>
