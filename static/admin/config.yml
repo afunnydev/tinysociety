@@ -91,6 +91,7 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Main Image (rectangle - 1080px by 720px)", name: "image", widget: "image", required: false}
+          - {label: "On foundation?", name: "foundation", widget: "boolean", required: false, default: false}
       - {label: "Name of the plan", name: "titre", widget: "string"}
       - name: slider
         label: "Images for slider (rectangle - 2000px x 1200px"
