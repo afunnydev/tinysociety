@@ -38,7 +38,7 @@ Ready to hit the road? It’s time to plan your road trip to checkout the last t
 
 ![null](/img/ma-2018-tiny-house-festival.png)
 
-[Source: United Tiny House](https://unitedtinyhouse.com/2018-massachusetts-tiny-house-festival/)
+<span class="figcaption">Source: [United Tiny House](https://unitedtinyhouse.com/2018-massachusetts-tiny-house-festival/)</span>
 
 ### Big Massachusetts Tiny House Festival
 
@@ -50,7 +50,7 @@ Their 4th annual festival will offer an assortment of micro-homes, tiny houses, 
 
 ![null](/img/decatur-tiny-house-festival-2017.png)
 
-[Source: Tiny Houses and Beyond](https://tinyhousesandbeyond.com/event/decatur-tiny-house-festival/)
+<span class="figcaption">Source: [Tiny Houses and Beyond](https://tinyhousesandbeyond.com/event/decatur-tiny-house-festival/)</span>
 
 ### Decatur Tiny House Festival
 
@@ -64,7 +64,7 @@ Anyone who is into sustainability and micro-living can get educated and empowere
 
 ![null](/img/side_alpha_holdings_logo-c-1x.png)
 
-[Source: Tiny House Expos](https://tinyhousesandbeyond.com/event/mid-atlantic-tiny-house-expo-maryland/)
+<span class="figcaption">Source: [Tiny House Expos](https://tinyhousesandbeyond.com/event/mid-atlantic-tiny-house-expo-maryland/)</span>
 
 ### Mid-Atlantic Tiny House Expo
 
@@ -78,11 +78,11 @@ Learn about the latest in tiny living! Get informed on all things tiny; from tra
 
 ![null](/img/fl-2018-tiny-house-festival.png)
 
-[Source: United Tiny House Association](https://unitedtinyhouse.com/2018-florida-tiny-house-festival/)
+<span class="figcaption">Source: [United Tiny House Association](https://unitedtinyhouse.com/2018-florida-tiny-house-festival/)</span>
 
 ### Florida Tiny House Music Festival
 
-**November 16th - November 18th **
+**November 16th - November 18th**
 
 **Location:** St. John’s County Fairgrounds, Elkton, Florida
 
@@ -106,12 +106,12 @@ Head down south to check out a large assortment of tiny houses, street performer
 
 ![null](/img/2019-georgia-logo.png)
 
-[Source: United Tiny House Association](https://unitedtinyhouse.com/2019-georgia-tiny-house-festival/)
+<span class="figcaption">Source: [United Tiny House Association](https://unitedtinyhouse.com/2019-georgia-tiny-house-festival/)</span>
 
 ### Georgia Tiny House Festival
 
 **March 1st - March 3rd 2019**
 
-**Location: **Atlanta Motor Speedway, Atlanta, Georgia
+**Location:** Atlanta Motor Speedway, Atlanta, Georgia
 
 This tiny house festival is going big this year...at the Atlanta Motor Speedway! Aside from row after row of tiny houses, this event will offer entertainment, food, and presentations from tiny house experts.

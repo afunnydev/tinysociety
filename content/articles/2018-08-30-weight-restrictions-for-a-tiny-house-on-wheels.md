@@ -37,7 +37,7 @@ Building a tiny house requires proper planning and understanding of the material
 
 ![Tiny house weighs](/img/our-tiny-house-weighs.jpg)
 
-Source Credit: [The Creative Animal Foundation](https://www.youtube.com/channel/UCa-s-WEqkhelzEAs4IS2nvg) (youtube)
+<span class="figcaption">Source Credit: [The Creative Animal Foundation](https://www.youtube.com/channel/UCa-s-WEqkhelzEAs4IS2nvg) (youtube)</span>
 
 So, first advice: Build it as lightweight as you can !! 
 
@@ -45,8 +45,8 @@ So, first advice: Build it as lightweight as you can !!
 
 ![calculate tiny house weight](/img/calculate-tiny-house-weight.jpg)
 
-Source credit: [Tinyhousegiantjourney
-](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)
+<span class="figcaption">Source credit: [Tinyhousegiantjourney
+](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)</span>
 
 You might have heard about weight restrictions on tiny houses on wheels in different countries of the world. In France, it is 7700 lbs, but if you are living in the US, you don’t need to worry about its weight.
 
@@ -64,8 +64,8 @@ If you want more informations on policies in different weight stations of the st
 
 ![weigh tiny house](/img/weigh-your-tiny-house.jpg)
 
-Source credit: [Tinyhousegiantjourney
-](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)
+<span class="figcaption">Source credit: [Tinyhousegiantjourney
+](https://tinyhousegiantjourney.com/2017/01/26/tiny-house-weight/)</span>
 
 Talking about weight, you should be extra careful when towing your tiny house. A number of things are needed to be considered when towing your tiny house safely.
 
