@@ -2,12 +2,13 @@
 title: Everything about building an arched cabin
 description: >
   The demand is increasing as arched cabins are cheaper. It is primarily built
-  on an open floor layout so it’s easier for customization and multiple use.
+  on an open floor layout so it’s easier for customization and has multiple
+  uses.
 slug: everything-about-building-arched-cabin
 author: jubaer
 image: /img/11224066-880444682070940-8504055399277942314-n_orig.jpg
 overlay: true
-date: '2018-07-31'
+date: '2018-08-20'
 notloaded:
   need: 'true'
 listing:
@@ -27,29 +28,25 @@ infographic: false
 draft: false
 noindex: false
 ---
-## Everything about building an arched cabin
+Tiny homes are love! And if you are looking for inspiration for your tiny house designs, you have come to the right place!
 
-Tiny homes are love! And if you looking for inspiration for your tiny house designs, you have come to the right place!
+You might have heard about arched cabins or might have seen one of them on [Pinterest.](https://www.pinterest.com/christinagoch/arched-cabins/?lp=true) These arched shaped cabins are built to serve a single or multiple purpose living options.
 
-You might have heard about arched cabins or might have seen one of them on [Pinterest.](https://www.pinterest.com/christinagoch/arched-cabins/?lp=true) These arched shaped cabins built to serve a single or multiple purpose living options.
+Many use them as an office or for their kid’s playroom but it is also possible to customize them for living.
 
-Many use them for as office or kid’s playroom and many customize them for living.
+The demand is increasing as arched cabins are cheaper. It is primarily built on an open floor layout so it’s easier for customization and  has multiple uses.
 
-The demand is increasing as arched cabins are cheaper. It is primarily built on an open floor layout so it’s easier for customization and multiple use.
+I will talk about everything that you need to know to build an arched cabin. 
 
-I will talk about everything that you will need to actually build an arched cabin. You are free to do your own research but for a start these information should help you a lot!
+## **Why Building an Arched Cabin?**
 
+The first question that might come to your mind is why you should build an arched cabin more than the other types of tiny houses. Although there is no one great reason, here are some that I think are the most relevant! 
 
+**For its multiple use**
 
-## Why Building an Arched Cabin?
+Arched cabins are usually very small and appropriate to use any way you want! 
 
-The first question that might come to your mind is why you should build an arched cabin more than the other types of tiny houses. Although there is no one great reason, here are some of the reasons put together to answer the question.
-
-\    **For its multiple use**
-
-Arched cabins are usually very small and appropriate for using it as the way you want it. 
-
-One great example is if you are an artist, sculptor or anyone belonging to creative profession, you can build a great studio in an arched cabin. The place will provide a quieter environment and as well as an opportunity to customize the designs as like you want. 
+One great example is if you are an artist, sculptor or anyone belonging to creative profession, you can build a great studio as an arched cabin. The place will provide a quieter environment.  You will also have the opportunity to customize the designs to inspire your creativity. 
 
 Other purposes may include building it as a 
 
@@ -63,17 +60,15 @@ Other purposes may include building it as a
 * Kids playground
 * Vehicle parking space
 
-
-
-\    **Cost Effective Tiny House**
+**Cost Effective Tiny House**
 
 Arched cabins are little homes which can cut a big amount from your budget. Depending on the materials and design of your arched cabin, the price can vary a lot. You can start from a very little budget or you can build a very luxurious one; whatever suits you the most.
 
-\    **Durable and Attractive**
+**Durable and Attractive**
 
 Since arched cabins are so tiny, they can be designed in a numerous form and shape. You can put any artistic feel while designing your arched cabin. Thus the final designs for kit cabin often comes out with a very attractive look and it is quite durable for your use as well.
 
-\    **Easy to Build**
+**Easy to Build**
 
 An arched cabin is very easy to build compared to other tiny houses since there is only one main space.. It comes with a simple design which reduces the complications of the construction. The building period is also quite less than any other structure. Usually takes 3-14 days for building.
 
@@ -87,7 +82,7 @@ There are 3 structures you can choose from for your cabin kit which includes:
 
 Based on the purpose you are building your cabin kit for, you have to choose any one from these three structures for your arched cabin construction.
 
-There are both advantages and disadvantages for each of these three structures though. So, you should choose wisely from these three. 
+There are both advantages and disadvantages for each of these three structures though. So, you should choose wisely. 
 
 For better understanding here is a comparison among these structures to help you choose the best option for your cabin kit.
 
@@ -95,11 +90,9 @@ For better understanding here is a comparison among these structures to help you
 
 Timber structure is made of wood and it can be used for building wooden arched cabin.
 
-Wood is environment friendly and has thermal, acoustic and working properties. But there is some disadvantages of woods which include design challenges, flammable properties and shrinking and swelling characteristics of wood.
+Wood is environment friendly and has thermal, acoustic and working properties. But there are some disadvantages with wood.  Design challenges, flammable properties, shrinking and swelling characteristics of wood needs to be considered. 
 
 Timber structure is however the best and most cost effective material for an arched cabin!
-
-Lets see how steel structure are!
 
 **Steel Structure**
 
@@ -123,7 +116,7 @@ On the other hand, if you are interested to create unique and critical design an
 
 Now the most important part! The prices! 
 
-## Arched Cabins Price Breakdown
+## **Arched Cabins Price Breakdown**
 
 There are different size and shapes for arched cabin which are considered as standard. The standard height and size for an arched cabin are as following- 
 
@@ -147,21 +140,16 @@ To minimize your budget, the smaller units can be built in one day with the mini
 
 So, you might want to **hire a professional** to help you build your arched cabin in the minimum possible time and cost.
 
-## Arched Cabin Floor Plan
+## **Arched Cabin Floor Plan**
 
 A floor plan depends on your preference and you can build as you like it!
 
-It really depends on what purpose you want to use your arched cabin for and how you want to design your cabin kit. Here are some examples of floor plans from which you can get a rough idea about how to create your own floor plan. 
+It really depends on what purpose you want to use your arched cabin for and how you want to design your cabin kit. The things you should consider while creating a floor plan for your own arched cabin include: 
 
-The things you should consider while creating a floor plan for your own arched cabin include: 
-
-materials of the structure and foundation
-
-the purpose you will be using your arched cabin for
-
-the environment and weather
-
-sustainability, durability and space that you own for building your arched cabin. 
+* materials of the structure and foundation
+* the purpose you will be using your arched cabin for
+* the environment and weather
+* sustainability, durability and space that you own for building your arched cabin. 
 
 Here have a look on these examples and try to draw out your own floor plan. You must try to include as much details you can for better understanding of the floor plan of your arched cabin.
 
@@ -171,15 +159,13 @@ https://www.pinterest.com/pin/450571137713905678/
 
 ![floor-plan2](/img/arched-cabin-floor-plans-2.jpg)
 
-
-
 Image credit: [ebay](https://www.ebay.com/itm/16x16-Tiny-House-671-sqft-PDF-Floor-Plan-Model-22C-/263826055634?oid=263608640406)
 
 ![floor-plan3](/img/arched-cabin-floor-plans3.jpg)
 
 Image credit: [rustylong](http://www.rustylong.com/2ndhome/)
 
-## Arched Cabins Companies and Builders
+## **Arched Cabins Companies and Builders**
 
 There are a few builder companies who are taking orders for arched cabins at a very reasonable price in USA. Among them the well-known companies are:   
 
@@ -190,8 +176,6 @@ Arched Cabins is a small builder firm in Cypress. They are known as the most pro
 They can build one within 3 to 14 days.
 
 They also provides DIY solutions. Hence, Arched Cabins offer the most cost efficiently designed arched cabin for your tiny house. They keep a harmony between quality and cost efficiency.
-
-Try them and I believe you wont be disappointed!
 
 [CORFAC International ](https://www.corfac.com)
 
@@ -207,10 +191,10 @@ LogHomes is the natural, organic log home web site that features all log home bu
 
 Loghomes provides advertising web space for log home and log cabin builders, wood preservation, mills, and furnishing companies in order to promote and sell their products.
 
-
+## **Summary**
 
 The entire effort throughout this article was to help you with the basic knowledge on tiny arched cabins.
 
-Throughout this article I provided you with easy to understand informations about  the materials and structure of an arched cabin so you can get a clearer idea of the pros and cons of an arched cabin. I strongly believe that if you have gone through the article, you might have a clearer idea about the pricing and the standard sizes aswell!
+I provided you with easy to understand informations about  the materials and structure of an arched cabin so you can get a clearer idea of the pros and cons of an arched cabin. I strongly believe that if you have gone through the article, you should have a clearer idea about the pricing and the standard sizes aswell!
 
 As a last piece of advice, I would encourage you to do your own research and take this as a guide!  I bet you will build the most beautiful arched cabin ever!
