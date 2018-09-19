@@ -1,6 +1,7 @@
 # Redirect with a 200
 
-/this /that 301
+/plans /tiny-house-plans 301
+/plans/* /tiny-house-plans/:splat 301
 
 
 
