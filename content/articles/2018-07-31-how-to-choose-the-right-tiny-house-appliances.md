@@ -21,7 +21,7 @@ listing:
   image: /img/tiny-house-appliances.png
 likes: '26'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
