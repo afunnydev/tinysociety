@@ -22,7 +22,7 @@ listing:
   image: /img/61be24bc-b961-4db2-8b61-7fc634f63053.jpg
 likes: '47'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'

@@ -6,8 +6,9 @@ description: >-
   house rental could be one of the best new additions in the tiny house
   movement!
 slug: building-a-tiny-house-for-airbnb-rental
+image: /img/tiny-house-for-airbnb-rental.jpg
 author: molli
-overlay: false
+overlay: true
 date: '2018-08-08'
 notloaded:
   need: 'true'
@@ -21,9 +22,10 @@ listing:
     the ideal Airbnb rental for people like me who want a unique, cozy space.
     Keep reading if you’re interested in the perfect tiny house rental for
     Airbnb!
+  image: /img/tiny-house-for-airbnb-rental-square.jpg
 likes: '58'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -60,6 +62,8 @@ Will the _wheels_ part of it be a factor? Probably not. If you’re putting your
 
 ![https://www.airbnb.com/rooms/5852034](/img/screen-shot-2018-08-08-at-18.19.15.png)
 
+<span class="figcaption">Find it on [Airbnb](https://www.airbnb.com/rooms/5852034)</span>
+
 This tiny home sleeps up to four people and has all of the amenities you could possibly need in an Airbnb. A full kitchen and cozy wood stove means that Airbnb guests can cook their own meals by the light of a fire. One of the things I like most about this house is the addition of a bookshelf to keep guests from falling out of the loft bed. The books are also a great form of entertainment that doesn't need to be plugged in. 
 
 ## **Stationary Tiny House Rental**
@@ -69,6 +73,8 @@ With this type of house, you don’t have to worry about your guests taking off 
 **Rustic Portland Tiny House**
 
 ![https://www.airbnb.com/rooms/898771](/img/screen-shot-2018-08-08-at-15.14.59.png)
+
+<span class="figcaption">Find it on [Airbnb](https://www.airbnb.com/rooms/898771)</span>
 
 From a design point of view, this stationary tiny house is on point. The leather and reclaimed wood give it a modern, refined look. One fantastic feature is the staircase in lieu of a ladder. This makes the house more accessible to people who might have trouble accessing a loft. 
 

@@ -8,7 +8,7 @@ description: >-
 slug: tiny-house-hotel-the-best-places-to-let-you-live-the-ultimate-tiny-lifestyle
 author: molli
 image: /img/5c76a64e-f0bc-407d-89ad-52a7af9fb0ba.jpg
-overlay: false
+overlay: true
 date: '2018-09-14'
 notloaded:
   need: 'true'
@@ -22,9 +22,10 @@ listing:
     retreat to remember. These personality-packed, mini hotels provide more than
     just a stay--they provide an experience. Check out some of these incredible
     tiny house hotels you’ll want to stay in right away.
+  image: /img/tiny-house-hotel-square.jpg
 likes: '27'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'

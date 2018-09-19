@@ -7,7 +7,7 @@ description: >-
   house and tiny house budget. 
 slug: low-power-air-conditioner-to-keep-you-cool-during-the-summer
 author: molli
-image: /img/3fe38be5-ffc5-46ba-880b-be562f01b8e6.jpg
+image: /img/air-conditioner-tiny-house.jpg
 overlay: false
 date: '2018-08-27'
 notloaded:
@@ -20,10 +20,10 @@ listing:
     after a scorching day out, and feeling like you’ve entered the North Pole.
     Let’s take a look at some air conditioners so you’re prepared to handle the
     heat next summer. 
-  image: /img/a55dcbe7-43fc-4031-a13a-ba498fa540ee.jpg
+  image: /img/air-conditioner-tiny-house-square.jpg
 likes: '58'
 categories:
-  - tinys
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -39,23 +39,23 @@ While summertime brings some of the best weather of the entire year, it also bri
 
 The most common type of air conditioning out there. This system works best with larger homes, and can be extremely efficient if sized correctly.
 
-\    2. **Window Air Conditioner**
+2. **Window Air Conditioner**
 
 This compact unit is also fairly common in households where you want to cool one, specific room. 
 
-\    3. **Mini Split**
+3. **Mini Split**
 
 This ductless unit is also great for cooling individual rooms (or tiny houses).
 
-\    4. **Portable Air Conditioner**
+4. **Portable Air Conditioner**
 
 Often considered the “next generation of window units,” these efficient and affordable air conditioners are also designed to cool one room.
 
-\    5. **Hybrid Air Conditioners**
+5. **Hybrid Air Conditioners**
 
 Uses alternative energy (electric pump and fossil fuels) to heat or cool your home. Check out [this article ](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/)if you’re interested in learning more about how alternative energy like solar power can work in your tiny house.
 
-\    6. **Geothermal Cooling**
+6. **Geothermal Cooling**
 
 Although highly sustainable, this unit is tricky to install and fairly expensive. A series of geothermal coils are buried in the ground beneath your home to extract heat and create cooler temperatures. 
 

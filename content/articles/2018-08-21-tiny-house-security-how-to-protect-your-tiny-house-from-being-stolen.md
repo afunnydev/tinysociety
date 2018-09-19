@@ -8,7 +8,7 @@ description: >-
 slug: tiny-house-security-how-to-protect-your-tiny-house-from-being-stolen
 author: molli
 image: /img/02cf0fa7-4c69-4649-9373-ca3b326ff696.jpg
-overlay: false
+overlay: true
 date: '2018-08-21'
 notloaded:
   need: 'true'
@@ -25,7 +25,7 @@ listing:
   image: /img/604ab844-2be7-4d28-b215-e1cbd4fd2af5.jpg
 likes: '17'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -43,7 +43,7 @@ So how does one protect their tiny house? Let’s take a look at some of the pot
 
 ![](/img/screen-shot-2018-08-21-at-16.31.33.png)
 
-[Source: Mega Hitch Lock](https://megahitchlock.com/product/one-size-fits-2-2-516-trailer-hitch-lock/)
+<span class="figcaption">Source: [Mega Hitch Lock](https://megahitchlock.com/product/one-size-fits-2-2-516-trailer-hitch-lock/)</span>
 
 Exactly how it sounds, a hitch lock covers your trailer hitch and locks it with a key or combination lock. This device not only prevents thieves from driving away with your tiny home, but it also discourages them from trying. Be sure to speak to an expert when sizing your hitch lock. The better the fit, the more secure it will be. 
 
@@ -51,7 +51,7 @@ Exactly how it sounds, a hitch lock covers your trailer hitch and locks it with 
 
 ![](/img/screen-shot-2018-08-21-at-16.35.36.png)
 
-[Source: Trimax](https://www.sturdybuiltonline.com/Trimax-Trailer-Wheel-Lock-Chock-Security-Boot-Clamp-TCL75_p_792.html)
+<span class="figcaption">Source: [Trimax](https://www.sturdybuiltonline.com/Trimax-Trailer-Wheel-Lock-Chock-Security-Boot-Clamp-TCL75_p_792.html)</span>
 
 Just like the formidable wheel clamp you’ve seen on an illegally parked car, the wheel lock will also deter thieves from attempting to steal your home. They are also only removable with a special key!
 
@@ -59,7 +59,7 @@ Just like the formidable wheel clamp you’ve seen on an illegally parked car, t
 
 ![](/img/screen-shot-2018-08-21-at-16.38.46.png)
 
-[Source: Amazon](https://www.amazon.com/Amcrest-Outdoor-3-Megapixel-Wireless-Security/dp/B01I01Z1M2/ref=as_li_ss_tl?&imprToken=U8N4dlWXFLaKgZ46GZ509g&slotNum=18&ie=UTF8&qid=1506364705&sr=8-3&keywords=amcrest+outdoor+wifi+camera&linkCode=sl1&tag=safewicom-20&linkId=bf3b311c7fd1dfc6451d7a4c8cc22e71&linkCode=w61&imprToken=7Hty1zrBHqxMl9Xsv.gchw&slotNum=1)
+<span class="figcaption">Source: [Amazon](https://www.amazon.com/Amcrest-Outdoor-3-Megapixel-Wireless-Security/dp/B01I01Z1M2/ref=as_li_ss_tl?&imprToken=U8N4dlWXFLaKgZ46GZ509g&slotNum=18&ie=UTF8&qid=1506364705&sr=8-3&keywords=amcrest+outdoor+wifi+camera&linkCode=sl1&tag=safewicom-20&linkId=bf3b311c7fd1dfc6451d7a4c8cc22e71&linkCode=w61&imprToken=7Hty1zrBHqxMl9Xsv.gchw&slotNum=1)</span>
 
 There’s nothing like a good security camera (real or fake), to keep the thieves at bay. Seeing as no one wants to get caught on camera, just the sight of one on your tiny house may prevent intruders from even getting close. You can even access some camera feeds from your smartphone for surveillance while you’re out and about. 
 
@@ -67,7 +67,7 @@ There’s nothing like a good security camera (real or fake), to keep the thieve
 
 ![](/img/outdoorsy-tracker-solar-75bdbcc0.jpg)
 
-[Source: Outdoorsy](https://www.outdoorsy.com/gps)
+<span class="figcaption">Source: [Outdoorsy](https://www.outdoorsy.com/gps)</span>
 
 This James Bond-esque bit of security is handy if your tiny home is stolen and you need to track it down. Like tracking devices today, you can do it from your cell phone and see your tiny home’s current location. 
 
@@ -75,7 +75,7 @@ This James Bond-esque bit of security is handy if your tiny home is stolen and y
 
 ![](/img/screen-shot-2018-08-21-at-16.42.40.png)
 
-[Source: ADT](https://www.adt.com/resources/how-to-secure-a-smaller-home) 
+<span class="figcaption">Source: [ADT](https://www.adt.com/resources/how-to-secure-a-smaller-home)</span> 
 
 Similarly to a residential home, a classic security option for your tiny house is by installing an alarm system. With a range of different costs depending on how techy you want to get, an alarm is a good way to scare off intruders, alert the local police, or both.
 

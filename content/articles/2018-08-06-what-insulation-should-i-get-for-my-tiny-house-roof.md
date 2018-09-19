@@ -8,8 +8,8 @@ description: >-
   pros and cons. 
 slug: what-insulation-should-i-get-for-my-tiny-house-roof
 author: molli
-image: /img/40502f58-44cd-471c-b4cd-719bfe44448b.jpg
-overlay: false
+image: /img/tiny-house-roof-insulation.jpg
+overlay: true
 date: '2018-08-06'
 notloaded:
   need: 'true'
@@ -25,7 +25,7 @@ listing:
   image: /img/d4c9ef89-8c2c-4342-881e-23969f95c7ff.jpg
 likes: '42'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -41,17 +41,17 @@ There are many different factors to consider when choosing your type of insulati
 
 This insulation type is made from a combination of sand and glass that’s heated at extremely high temperatures. The mixture is then turned into small, scratchy fibers that mimic the texture of cotton balls. This is one of the more common types of insulation found in standard houses today. 
 
-_Pros: _Easy to source, lightweight, fairly inexpensive and easy to install, uses partly recycled materials.
+_Pros:_ Easy to source, lightweight, fairly inexpensive and easy to install, uses partly recycled materials.
 
-_Cons: _Can grow mold quickly if exposed to moisture, highly flammable, creates air pollution, vapor barriers required, can easily irritate the skin and eyes if protective gear such as goggles and gloves are not used. 
+_Cons:_ Can grow mold quickly if exposed to moisture, highly flammable, creates air pollution, vapor barriers required, can easily irritate the skin and eyes if protective gear such as goggles and gloves are not used. 
 
-**Cost: **approx. $0.64 - $1.19 per square foot
+**Cost:** approx. $0.64 - $1.19 per square foot
 
 ## Reflective or Radiant barrier
 
 Instead of slowing heat flow like other insulation materials, this option reflects and absorbs heat. Think old-school methods of tanning! 
 
-_Pros: _Fairly inexpensive, can be combined with other insulation types.
+_Pros:_ Fairly inexpensive, can be combined with other insulation types.
 
 _Cons:_ Doesn’t work as well in colder climates.
 
@@ -63,9 +63,9 @@ Need a use for your old pairs of jeans? Blue jeans and recycled cotton can be us
 
 _Pros:_ Recycles used materials, is not as flammable as other insulation options, is great for sound insulation, and is suited for DIY-ers. 
 
-_Cons: _Weighs a lot compared to fiberglass insulation, can contain harmful synthetics depending on the make of the material.
+_Cons:_ Weighs a lot compared to fiberglass insulation, can contain harmful synthetics depending on the make of the material.
 
-**Cost: **Can be free depending on how much second-hand material you can collect!
+**Cost:** Can be free depending on how much second-hand material you can collect!
 
 ## Sheep Wool
 
@@ -73,7 +73,7 @@ You may be familiar with sheep wool as a material for warm, winter clothing; thi
 
 _Pros:_ Organic material, doesn’t burn easily, regulates humidity, decent sound insulation.
 
-_Cons: _Pricey, not as lightweight as other insulation materials. 
+_Cons:_ Pricey, not as lightweight as other insulation materials. 
 
 **Cost:** approx. $0.67 - $1.00 per square foot
 
@@ -83,7 +83,7 @@ This material is created by heating natural basalt rocks at extremely high tempe
 
 _Pros:_ Doesn’t catch fire easily, doesn’t attract rodents, environmentally sustainable. 
 
-_Cons: _Not as popular a choice in recent years due to high potential for water damage. A lot of energy is used to create the material, as well as protective gear is needed to install due to irritating fibers. 
+_Cons:_ Not as popular a choice in recent years due to high potential for water damage. A lot of energy is used to create the material, as well as protective gear is needed to install due to irritating fibers. 
 
 **Cost:** approx. $0.80 - $1.00 per square foot
 
@@ -91,7 +91,7 @@ _Cons: _Not as popular a choice in recent years due to high potential for water 
 
 This type of rigid foam insulation known as XPS, usually comes in pink or blue and is plastic in texture. The material can be found in both high and low density options. 
 
-_Pros: _Easy to find, lightweight, moisture resistant, extremely strong.
+_Pros:_ Easy to find, lightweight, moisture resistant, extremely strong.
 
 _Cons:_ Flammable and not very environmentally friendly. 
 
@@ -101,17 +101,17 @@ _Cons:_ Flammable and not very environmentally friendly.
 
 Also known as beadboard, this insulation is also available in low and high density versions. 
 
-_Pros: _The least expensive of the rigid foam insulation options, lightweight, not as harmful to the environment as XPS.
+_Pros:_ The least expensive of the rigid foam insulation options, lightweight, not as harmful to the environment as XPS.
 
 _Cons:_ Can contribute to smog in the environment, flammable and produces fumes, not as strong as other types of rigid foam insulation. 
 
-**Cost: **approx. $0.69 per square foot
+**Cost:** approx. $0.69 per square foot
 
 ## Polyisocyanurate foam (rigid foam insulation) 
 
 Polysio is closed-cell foam that is extremely high in density. 
 
-_Pros: _Lightweight, moisture resistant, air filtration resistant, the most environmentally friendly rigid foam insulation option. 
+_Pros:_ Lightweight, moisture resistant, air filtration resistant, the most environmentally friendly rigid foam insulation option. 
 
 _Cons:_ Expensive, flammable, toxic when burned.
 
@@ -123,7 +123,7 @@ In this open-cell system, gas bubbles connect with each other like on a sponge.
 
 _Pros:_ More environmentally friendly options are available, great sound insulation, doesn’t shrink, fills all spaces. 
 
-_Cons: _Potentially high health risks, therefore must be installed by a professional.
+_Cons:_ Potentially high health risks, therefore must be installed by a professional.
 
 **Cost:** approx. $0.35 - $0.55 per square foot
 
@@ -135,7 +135,7 @@ _Pros:_ Adds structural rigidity, reduces air leakage, possible for self-install
 
 _Cons:_ Potentially high health risks, rigid materials can lead to cracks in the material, drywall or other barrier must be installed over the insulation to prevent toxic fumes. 
 
-**Cost: **approx. $1.00 - $2.00 per square foot
+**Cost:** approx. $1.00 - $2.00 per square foot
 
 ## Other important types of insulation
 
@@ -153,11 +153,13 @@ Floor insulation can be more expensive than other forms of insulation if you are
 
 While there are a variety of different insulation options for your tiny house roof, there are a few factors that you should probably consider beforehand:
 
-* Climate:_ _Is my insulation material compatible with the climate where I live?
+* Climate: Is my insulation material compatible with the climate where I live?
 * Allergens: Am I allergic to any of the insulation materials?
 * Eco-factor: Do I want to use insulation materials that cause the least harm to the environment?
 * Cost: How much am I willing to spend on insulation?
 
 Hopefully this breakdown of the many different types of tiny house insulation has helped you on your tiny house adventure!
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/lMVNl6XxTvXgs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-office-raise-roof-lMVNl6XxTvXgs">via GIPHY</a></p>
+![](https://media.giphy.com/media/lMVNl6XxTvXgs/giphy.gif)
+
+<span class="figcaption" style="text-align: left">Image source: [Giphy](https://giphy.com/gifs/the-office-raise-roof-lMVNl6XxTvXgs)</span>
