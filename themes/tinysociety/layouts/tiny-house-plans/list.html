@@ -2,6 +2,8 @@
 {{- $mymonths := $.Site.Data.mois.mois -}}
 {{- $mydays := $.Site.Data.jour.jour -}}
 {{- $plans := (where .Pages ".Params.tosale" true) -}}
+{{- $foundations := len (where $plans ".Params.listing.foundation" true) -}}
+{{- $wheels := sub (len $plans) ($foundations)}}
 <div class="content_wrapper clearfix" id="plan-list">
     <div class="sections_group">
         <div class="entry-content">
@@ -11,12 +13,12 @@
                         <div class="mcb-wrap-inner">
                             <div class="column mcb-column one">
                             	<h1>Our Tiny House Plans</h1>
-                            	<p class="nb">We have {{ len $plans }} Tiny House Plans that will interest you!</p>
+                            	<p class="nb">We have <span class="plan-nb">{{ len $plans }}</span> Tiny House Plans that will interest you!</p>
                             	<div class="filters">
                             		<span class="hidden-xs">Show me</span>
-                            		<a href="#all" data-filter="*">All</a>
-                            		<a href="#on-foundation" data-filter=".on-foundation">On foundation</a>
-                            		<a href="#on-wheels" data-filter=".on-wheels">On wheels</a>
+                            		<a href="#all" data-filter="*" data-number="{{- len $plans -}}" class="active">All</a>
+                            		<a href="#on-foundation" data-filter=".on-foundation" data-number="{{- $foundations -}}">On foundation</a>
+                            		<a href="#on-wheels" data-filter=".on-wheels" data-number="{{- $wheels -}}">On wheels</a>
                             	</div>
                             </div>
                         </div>

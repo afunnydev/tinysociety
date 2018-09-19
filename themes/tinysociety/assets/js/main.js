@@ -159,7 +159,6 @@ jQuery( document ).ready(function($) {
       autoplay: false,
       infinite: false,
       arrows: false,
-      fade: true,
       adaptiveHeight: false,
       asNavFor: '.plans-slider-navigation',
   });
@@ -169,7 +168,6 @@ jQuery( document ).ready(function($) {
       autoplay: false,
       infinite: false,
       arrows: false,
-      fade: true,
       adaptiveHeight: false
   });
 
@@ -333,8 +331,13 @@ jQuery( document ).ready(function($) {
     });
     // filter items on button click
     $('.filters a').on( 'click', function() {
-      var filterValue = $(this).attr('data-filter');
+      $this = $(this);
+      var filterValue = $this.attr('data-filter');
       $grid.isotope({ filter: filterValue });
+      var planNumber = $this.attr('data-number');
+      $('span.plan-nb').text(planNumber);
+      $this.siblings().removeClass("active");
+      $this.addClass("active");
     });
   });
 });
