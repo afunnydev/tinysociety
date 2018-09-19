@@ -1,8 +1,8 @@
 ---
 title: Weight Restrictions for a Tiny House on wheels
 description: >-
-  Worried about the weight of your tiny house on wheels? Or you don’t have any
-  idea what weight restrictions it has! 
+  Get some advice on weight restrictions in the US. Tips to take into account
+  when buying or building your tiny house on wheels! 
 slug: weight-restrictions
 author: jubaer
 image: /img/weigh-your-tiny-house.jpg
@@ -13,8 +13,8 @@ notloaded:
 listing:
   title: Weight Restrictions for a Tiny House on wheels
   description: >-
-    Worried about the weight of your tiny house on wheels? Or you don’t have any
-    idea what weight restrictions it has! 
+    Worried about the weight of your tiny house on wheels? Well, you should be
+    because the weight of your tiny house can make a huge difference! 
   image: /img/weigh-your-tiny-house.jpg
 likes: '21'
 categories:
