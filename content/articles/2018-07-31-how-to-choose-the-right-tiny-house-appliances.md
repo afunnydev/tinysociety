@@ -29,9 +29,9 @@ infographic: false
 draft: false
 noindex: false
 ---
-There’s a lot to consider when choosing appliances for a Tiny House. Of course size an important consideration when every square foot—or even square inch—counts. If the Tiny House is intended to be off-grid, or potentially off-grid at some point in the future, it’s important to take appliance wattage and alternative energy compatibility into account. Choosing between propane, on-grid electricity, or alternative energy to power the Tiny House appliances is another important decision. In this article, I’ll take you through the considerations and options for equipping a Tiny House with appliances for the kitchen, laundry area, bathroom, and the entire Tiny House.
+There’s a lot to consider when choosing appliances for a Tiny House. Of course size is an important consideration when every square foot—or even square inch—counts. If the Tiny House is intended to be off-grid, or potentially off-grid at some point in the future, it’s important to take appliance wattage and alternative energy compatibility into account. Choosing between propane, on-grid electricity, or alternative energy to power the Tiny House appliances is another important decision. In this article, I’ll take you through the considerations and options for equipping a Tiny House with appliances for the kitchen, laundry area, bathroom, and the entire Tiny House.
 
-## What Appliances Do I Need in My Tiny House?
+## What appliances do I need in my Tiny House?
 
 Here’s a simple checklist of appliances to consider including in a Tiny House. This is a somewhat comprehensive list, and I’m by no means suggesting that every appliance on it should be included in every Tiny House. But it’s a good place to start to make sure nothing will be left out.
 
@@ -54,17 +54,17 @@ Here’s a simple checklist of appliances to consider including in a Tiny House.
 * Vacuum/hand-vac
 * Small appliances (see below)
 
-**Tiny House Small Appliances**
+**Tiny House small appliances**
 
 The items to be included in this section will be highly personal to each Tiny House dweller. I enjoy gourmet cooking and have a rather extensive number of small appliances in my Tiny House kitchen. Everyone will have a different ‘can’t live without’ list when it comes to small appliances. My personal list includes a Vitamix blender, electric kettle, food processor, food dehydrator, immersion blender, spice grinder, clothing iron, and an Instant Pot (which replaces a former rice cooker/steamer and a slow cooker, thus earning its real estate on my countertop).
 
-## How To Choose the Size of My Tiny House Appliances?
+## How to choose the size of my Tiny House appliances?
 
 Tiny Houses can potentially accommodate either full-size appliances or “miniature” appliances. Miniature appliances might include RV- or marine-specific appliances, apartment- or dorm-size appliances, “compact” appliances, or in certain cases, appliances created specifically for Tiny Houses, as the movement continues to grow and attract marketing angles.
 
 The size of the Tiny House appliances depends on available space and usage habits. Tiny House dwellers who dine out on a daily basis may be fine with few minimal kitchen appliances. A large family that enjoys home cooking might be better off with a full-size refrigerator/freezer combo and a reasonably-sized standard range/oven rather than a toaster oven and single burner cooktop. Think about your lifestyle habits and analyze your needs with regards to appliance use. To some degree, think in terms of ‘needs’ rather than ‘wants’ and consider adopting new habits that will allow for simpler or smaller appliances.
 
-## Are There Any Limitations to What Appliances I Can Choose if My Tiny House is on Wheels?
+## Are there any limitations to what appliances I can choose if my Tiny House is on wheels?
 
 There are a few types of appliances that are less conducive to a mobile Tiny House.
 
@@ -86,7 +86,7 @@ Locating appliances within the Tiny House mainly depends on what will work best 
 
 ## Gas, Propane, Electric, Solar, or Wood Appliances for the Tiny House?
 
-![](/img/tiny-house-appliances-power.png)
+![null](/img/tiny-house-appliances-power.png)
 
 The choice of power source for Tiny House appliances may be partially dictated by whether or not the Tiny House will be off-grid. Or the decision may be made based on a desire to be eco-friendly. Or it may simply be the result of finding the ideal appliance for your needs and going along with its available standard power source.
 
@@ -94,7 +94,7 @@ The choice of power source for Tiny House appliances may be partially dictated b
 
 The largest selection of most types of compact appliances will be powered by electricity. Energy Star ratings are usually available for eco-conscious shoppers. For off-grid situations, the appliance wattage will be of primary importance. Heating appliances are particularly energy-consumptive, so electric options are not the best choice when using alternative energy.
 
-![](/img/electric-appliance.png)
+![null](/img/electric-appliance.png)
 
 Plan your appliance layout around the placement of electrical outlets, or vice-versa, if your appliances run on electricity.
 
@@ -102,7 +102,7 @@ Plan your appliance layout around the placement of electrical outlets, or vice-v
 
 There are some great options, often from the marine and RV industries, for gas- and propane-fueled appliances. Instant hot water heaters often fall into this category. Cooktops are a good choice here as well, especially for those who enjoy cooking over flame. Propane-fueled heaters can be a good choice if energy consumption is an issue, as with off-grid situations. Other appliances that are available in gas or propane options include ovens, oven/range combos, refrigerators and freezers, washers and dryers.
 
-![](/img/propane-appliance.png)
+![null](/img/propane-appliance.png)
 
 I find it convenient to keep propane tanks in a well-vented exterior closet or compartment that’s not connected to the interior of the Tiny House. This makes it easy to remove and replace either of my five-gallon tanks for refilling and keeps the fumes out of my living space. I keep a simple weight-scale propane gauge in the exterior propane compartment and try to remember to check it regularly. It’s a good idea to have a second full tank on hand for back-up purposes. Trust me, it’s not a pleasant to run out of propane for the instant hot water tank in the middle of a shower in the winter time. But in four years of Tiny living, it’s only happened to me once. The lesson was well learned.
 
@@ -116,7 +116,7 @@ Solar-powered appliances available on the market today include DC refrigerators 
 
 A wood stove can be a viable option for accommodating heating and certain cooking needs. After all, cooking and heating with fire is the original way of going about it. If you choose this route, make sure you have ample air inlet to your Tiny House while using the wood stove. It’s a good idea to install a carbon monoxide alarm to stay on the safe side. And maintain all recommended clearances from combustible materials.
 
-![](/img/wood-burning-appliance.png)
+![null](/img/wood-burning-appliance.png)
 
 _Image credit: http://dickinsonmarine.com/_
 
@@ -124,7 +124,7 @@ _\    _Dickinson Newport
 
 One of the smaller options for a Tiny House wood stove is the Dickinson Newport Solid Fuel Heater. Its dimensions are 7.88 inches wide by 14.7 inches high by 10 inches deep. It’s recommended for boats 20-25 feet long (and presumably for Tiny Houses of a similar size). It can burn wood, presto logs, coal, or charcoal briquettes.
 
-![](/img/wood-stove.png)
+![null](/img/wood-stove.png)
 
 Image credit: https://www.homedepot.com/ 
 
@@ -149,7 +149,7 @@ Tiny House appliances run the gamut from luxury models to budget-friendly. Here 
 
 **\    **- High end:
 
-![](/img/refrigerator.png)
+![null](/img/refrigerator.png)
 
 _Image credit: http://www.sunfrost.com/ _
 
@@ -157,7 +157,7 @@ The Sun Frost RF16 is available for a whopping $3,445 for the DC version (slight
 
 \- Mid-range:
 
-![](/img/mid-range-refrigerator.png)
+![null](/img/mid-range-refrigerator.png)
 
 _Image credit: https://www.homedepot.com/ _
 
@@ -165,7 +165,7 @@ A popular choice among the many mid-range Tiny House refrigerator options is thi
 
 \- Low end:
 
-![](/img/low-end-refrigerator.png)
+![null](/img/low-end-refrigerator.png)
 
 _Image credit: https://www.target.com/ _
 
@@ -175,7 +175,7 @@ For minimal refrigeration needs, this Sunbeam 1.7 cubic foot mini-fridge for $85
 
 **\    **- High end:
 
-![](/img/high-end-oven.png)
+![null](/img/high-end-oven.png)
 
 _Image credit: https://www.westmarine.com/ _
 
@@ -183,7 +183,7 @@ A marine model such as this Three-Burner Gourmet Galley Gimbaled Propane Range f
 
 \- Mid-range:
 
-![](/img/mid-range-oven.jpg)
+![null](/img/mid-range-oven.jpg)
 
 _Image credit: https://www.bestbuy.com/ _
 
@@ -191,13 +191,13 @@ A popular mid-range model is this Avanti 20” free-standing gas range available
 
 \- Low end:
 
-![](/img/low-end-cooker.jpg)
+![null](/img/low-end-cooker.jpg)
 
 _Image credit: https://www.homedepot.com/ _
 
 A portable propane cooktop, often used for camping, can be a great budget option for those whose cooking needs are less extensive. Rather than requiring a fixed location in the Tiny House kitchen, it can be stowed away when not in use, freeing up countertops for other purposes. Be aware that many camp stoves are not intended for indoor use, so consider restricting cooking activities to the porch or another outdoor space. The Built-In Single Side Burner Camp Stove by Chard can be had for $23. It runs on butane canisters. It can be found [here.](https://www.homedepot.com/p/Chard-Black-Built-In-Single-Side-Burner-Camp-Stove-SBBCS85/206797891)
 
-![](/img/low-end-cooker2.jpg)
+![null](/img/low-end-cooker2.jpg)
 
 A budget option for those who prefer to cook with electricity is an induction burner. Unlike traditional camp stoves, induction burners are approved for indoor use. The Rosewill 1800-Watt 8 Temperature Setting Induction Cooker goes for about $50. It allows you to energy-efficiently braise, deep fry, stir fry, roast, or boil water. Find it [here.](https://www.homedepot.com/p/Rosewill-1800-Watt-8-Temperature-Setting-Induction-Cooker-RHAI-13001/206414392)
 
@@ -205,7 +205,7 @@ A budget option for those who prefer to cook with electricity is an induction bu
 
 **\    **- High end:
 
-![](/img/high-end-dishwasher.jpg)
+![null](/img/high-end-dishwasher.jpg)
 
 _Image credit: https://www.bosch-home.com/ _
 
@@ -213,7 +213,7 @@ The Bosch 800 Series SPX68U55UC Stainless Steel dishwasher is an energy-efficien
 
 \- Mid-range:
 
-![](/img/mid-range-dishwasher.png)
+![null](/img/mid-range-dishwasher.png)
 
 _Image credit: https://www.compactappliance.com/ _
 
@@ -221,7 +221,7 @@ The Edgestar 22 Inch Wide 6 Place Setting Energy Star Rated Countertop Dishwashe
 
 \- Low end:
 
-![](/img/low-end-dishwasher.png)
+![null](/img/low-end-dishwasher.png)
 
 This is the option that makes by far the most sense to me: hand-washing the dishes! It’s free, easy, and even meditative if approached with that attitude. It doesn’t require any power or fuel to add to your utility bills. And it doesn’t require any space in the Tiny House, other than for a dish drying rack or mat that can be stowed away when not in use. If your counter space is precious, as is often the case in Tiny Homes, find a rinsing/drying rack that fits directly over the kitchen sink.
 
@@ -229,7 +229,7 @@ This is the option that makes by far the most sense to me: hand-washing the dish
 
 **\    **- High end:
 
-![](/img/high-end-washer.png)
+![null](/img/high-end-washer.png)
 
 _Image credit: https://www.compactappliance.com/ _
 
@@ -237,7 +237,7 @@ The LG SIGNATURE 24" Washer/Dryer Combo with SideKick Pedestal Washer has a capa
 
 \- Mid-range:
 
-![](/img/mid-range-washer.png)
+![null](/img/mid-range-washer.png)
 
 _Image credit: https://www.compactappliance.com/ _
 
@@ -245,7 +245,7 @@ The Magic Chef 24 Inch Wide 2.0 Cu. Ft. Front Loading Electric Washer / Dryer Co
 
 \- Low end:
 
-![](/img/low-end-washer.jpg)
+![null](/img/low-end-washer.jpg)
 
 _Image credit: http://www.laundry-alternative.com/  _
 
@@ -257,7 +257,7 @@ Line-drying laundry is a viable option to pair with any clothes washer. Clothing
 
 **\    **- High end:
 
-![](/img/high-end-water-heater.png)
+![null](/img/high-end-water-heater.png)
 
 _Image credit: https://precisiontemp.com/ _
 
@@ -265,7 +265,7 @@ PrecisionTemp’s RV-550 NSP EC water heater is a unique floor-vented model desi
 
 \- Mid-range:
 
-![](/img/mid-range-water-heater.jpg)
+![null](/img/mid-range-water-heater.jpg)
 
 _Image credit: https://www.homedepot.com/ _
 
@@ -273,7 +273,7 @@ The Stiebel Eltron Tempra 24 Plus Advanced Flow Control and Self-Modulating 24 k
 
 \- Low end:
 
-![](/img/low-end-water-heater.jpg)
+![null](/img/low-end-water-heater.jpg)
 
 _Image credit: https://www.homedepot.com/ _
 
@@ -288,7 +288,7 @@ From in-person brick-and-mortar shopping locations to websites, there are plenty
 * [Home Depot](https://www.homedepot.com) and other major home improvement stores can be shopped in person or online. Or order online and pick it up at the store. Many items come with free 2-day delivery. They offer installation services and tool rental. It can be hit or miss for knowledgeability when it comes to store staff.
 * Ben’s Discount Supply has a Tiny House department on their [website](https://bensdiscountsupply.com/tiny-house-appliances/.). They offer new, used, and ‘scratch and dent’ appliances. The website is easily navigable by category.
 
-## Buying Used Appliances for a Tiny House 
+## Buying Used Appliances for a Tiny House
 
 Buying pre-owned Tiny House appliances can be a great way to save money but be highly cautious when doing so. In my opinion, the peace of mind that comes from new, warrantied appliances outweighs the dollars saved by buying used. When an appliance malfunctions, it can mean a big headache and expense to repair, or uninstall and replace. There are other aspects of Tiny House construction that are better suited to used materials.
 
