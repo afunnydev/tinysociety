@@ -54,7 +54,7 @@ Unfortunately, you can’t park or build your tiny house just anywhere. You will
 
 Keep in mind that while there are federal laws and local zoning regulations in place, you can still apply through your local planning commision to build outside of the existing codes. Much of what it comes down to is how tiny house friendly the area where you want to build is. 
 
-## **Types of Tiny Houses**
+## Types of Tiny Houses
 
 * Tiny house on wheels: Legally considered an RV (recreational vehicle). With this type of tiny house, you’ll need to register as an RV and figure out a place to park it. There are plenty of campsites in the States, but keep in mind that most states do not allow full-time residency in an RV unless it is in a designated RV park. Generally, these rules are not always enforced unless you are giving someone something to complain about. 
 

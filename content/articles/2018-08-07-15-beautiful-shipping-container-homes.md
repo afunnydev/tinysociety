@@ -4,25 +4,23 @@ description: >-
   A shipping container lasts up to 20 years and the best part is you can build a
   very cost effective house with it very EASILY. Let’s take you on a journey to
   the 15 most beautiful shipping container houses out there.
-slug: shipping-container
+slug: 15-shipping-container-homes
 author: jubaer
-image: /img/shipping-container-5.jpg
+image: /img/shipping-container-homes.jpg
 overlay: true
 date: '2018-08-07'
 notloaded:
   need: 'true'
 listing:
-  title: 15 beautiful Shipping container homes
+  title: 15 Beautiful Shipping Container Homes
   description: >-
     A shipping container lasts up to 20 years and the best part is you can build
     a very cost effective house with it very EASILY. Let’s take you on a journey
     to the 15 most beautiful shipping container houses out there.
-  image: /img/shipping-container-10.jpg
+  image: /img/shipping-container-homes-square.jpg
 likes: '13'
 categories:
-  - shipping container
-  - diy home
-  - ''
+  - DIY
 i18nlanguage: en
 menuid: articles
 ordre: 0
@@ -36,51 +34,39 @@ A shipping container lasts up to [20 years](https://www.porttechnology.org/news/
 
 Who knows someday your dream home might look like one of them!
 
-
-
-## 1. A palace in the California desert?
+## A palace in the California desert?
 
 ![palace built with shipping container](/img/shipping-containers-1.jpg)
 
-Image credit: [Curbed](https://www.curbed.com/2017/12/28/16823120/shipping-container-houses-best-designs)
+<span class="figcaption">Image credit: [Curbed
+](https://www.curbed.com/2017/12/28/16823120/shipping-container-houses-best-designs)</span>
 
-
-
-Look at this marvelous vacation house designed by London designer James Whitaker. 
-
+Look at this marvelous vacation house designed by London designer James Whitaker.
+ 
 **Natural light** and **desert landscape**, what else do you need for living? 
 
 I call it a palace in the desert. What about you?
 
-
-
-## 2. The furniture store in a shipping container
-
- 
+## The furniture store in a shipping container
 
 ![store in a shipping container](/img/shipping-container-2.jpg)
 
-Image credit: [Inhabitat](https://inhabitat.com/fashionable-sao-paulo-furniture-store-shows-its-goods-in-colorful-stacked-containers/)
-
-
+<span class="figcaption">Image credit: [Inhabitat
+](https://inhabitat.com/fashionable-sao-paulo-furniture-store-shows-its-goods-in-colorful-stacked-containers/)</span>
 
 Ever imagined a furniture store to be built in a shipping container?
 
 The colourful and beautifully lighted containers can become even more beautiful if you decide to live in it. 
 
-The client needed a low-cost temporary building on their leased property. And Studio mk27 had just the right idea for them! [More info...](https://inhabitat.com/fashionable-sao-paulo-furniture-store-shows-its-goods-in-colorful-stacked-containers/)
+The client needed a low-cost temporary building on their leased property. And Studio mk27 had just the right idea for them! [More info...
+](https://inhabitat.com/fashionable-sao-paulo-furniture-store-shows-its-goods-in-colorful-stacked-containers/)
 
-
-
-## 3. Containers of hope or your dream scope?
-
-
-
-Image credit: [Archdaily](https://www.archdaily.com/143332/containers-of-hope-benjamin-garcia-saxe-architecture)
-
-
+## Containers of hope or your dream scope?
 
 ![dream container home](/img/shipping-container-3.jpg)
+
+<span class="figcaption">Image credit: [Archdaily
+](https://www.archdaily.com/143332/containers-of-hope-benjamin-garcia-saxe-architecture)</span>
 
 Why did I call it the dream scope?
 
@@ -88,19 +74,15 @@ Because, this marvelous container home is built within a $40,000 budget. Built b
 
 As shipping containers have a lesser width than length, placing two containers side by side can solve the problem.
 
-Yes, your shipping container home will feel like a football field! Okay. Maybe a bit small but perfect! [More info...](https://www.archdaily.com/143332/containers-of-hope-benjamin-garcia-saxe-architecture)
+Yes, your shipping container home will feel like a football field! Okay. Maybe a bit small but perfect! [More info...
+](https://www.archdaily.com/143332/containers-of-hope-benjamin-garcia-saxe-architecture)
 
-
-
-## 4. Sleekest shipping container home by Honomobo
-
-
+## Sleekest shipping container home by Honomobo
 
 ![vacation house](/img/shipping-container-4.jpg)
 
-Image credit: [Honomobo](https://www.honomobo.com/oooo/)
-
-
+<span class="figcaption">Image credit: [Honomobo
+](https://www.honomobo.com/oooo/)</span>
 
 Vacation in container home and barbecue at night!
 
@@ -110,17 +92,12 @@ This is innovation at its best. You can see how light can infiltrate through the
 
 And in the morning you have your best friend ‘**natural light**’ waking you up! 
 
-
-
-## 5. The fairy tale home!
-
-
+## The fairy tale home!
 
 ![multi-stored shipping container house](/img/shipping-container-5.jpg)
 
-Image credit: [Designboom](https://www.designboom.com/architecture/maria-jose-trejos-containers-casa-incubo-eco-sustainable-solutions-costa-rica-12-24-2014/)
-
-
+<span class="figcaption">Image credit: [Designboom
+](https://www.designboom.com/architecture/maria-jose-trejos-containers-casa-incubo-eco-sustainable-solutions-costa-rica-12-24-2014/)</span>
 
 Ever come across a home that looked like one from the fairy tales?
 
@@ -130,17 +107,12 @@ Wait! The Cedar tree is not a part of the house? But it certainly does look like
 
 A slight modification allows soothing natural light to capture this house.
 
-
-
-## 6. Boat on a road!
-
-
+## Boat on a road!
 
 ![boat style shipping container house](/img/shipping-container-6.jpg)
 
-Image credit: [Awesomestuff365](https://awesomestuff365.com/shipping-container-homes/)
-
-
+<span class="figcaption">Image credit: [Awesomestuff365
+](https://awesomestuff365.com/shipping-container-homes/)</span>
 
 I can’t really tell if any shipping container is used to make this Yacht like house. The disguise made by modifications have created a better illusion that is visibly appealing. 
 
@@ -150,33 +122,24 @@ Save your money and this article, of course, find some good container house buil
 
 Yes, you are on your way to building your **dream container home**! 
 
-
-
-## 7. The Off-grid shipping container house in South Africa
-
-
+## The Off-grid shipping container house in South Africa
 
 ![shipping container house in south africa](/img/shipping-container-7.jpg)
 
-Image credit: [Curbed](https://www.curbed.com/2017/3/14/14916082/shipping-container-homes-off-grid-architecture-for-a-change-south-africa)
-
-
+<span class="figcaption">Image credit: [Curbed
+](https://www.curbed.com/2017/3/14/14916082/shipping-container-homes-off-grid-architecture-for-a-change-south-africa)</span>
 
 In the world where wastage is a common scenario, this outstanding home is built using recycled materials and most importantly re-purposed shipping container. That too in South Africa!
 
-This 1400 square foot structure is made out of two shipping containers. It sits on a strong steel frame and the staircases just make it more appealing to watch. [For more...](https://www.curbed.com/2017/3/14/14916082/shipping-container-homes-off-grid-architecture-for-a-change-south-africa)
+This 1400 square foot structure is made out of two shipping containers. It sits on a strong steel frame and the staircases just make it more appealing to watch. [For more...
+](https://www.curbed.com/2017/3/14/14916082/shipping-container-homes-off-grid-architecture-for-a-change-south-africa)
 
-
-
-## 8. The home of desires!
-
-
+## The home of desires!
 
 ![beautiful shipping container home](/img/shipping-container-8.jpg)
 
-Image credit: [Homedit](https://www.homedit.com/22-most-beautiful-houses-made-from-shipping-containers/)
-
-
+<span class="figcaption">Image credit: [Homedit
+](https://www.homedit.com/22-most-beautiful-houses-made-from-shipping-containers/)</span>
 
 Why did I call it the home of desires? Because such a home might be all that you desire right now.
 
@@ -184,17 +147,12 @@ This simple and loving home is built by New Jersey architect Adam Kalkin.
 
 **You can get a used shipping container for as less as $1000**. Then it’s up to you how you want it to look.
 
-
-
-## 9. Small is beautiful
-
-
+## Small is beautiful
 
 ![small shipping container home](/img/shipping-container-9.jpg)
 
-Image credit: [Curbed](https://www.curbed.com/2018/6/11/17448154/shipping-container-house-for-sale-kubed-living)
-
-
+<span class="figcaption">Image credit: [Curbed
+](https://www.curbed.com/2018/6/11/17448154/shipping-container-house-for-sale-kubed-living)</span>
 
 This masterpiece is built by Pasadena-based Shipping container company [Kubed Living](https://www.kubedliving.com/). 
 
@@ -202,17 +160,12 @@ This single container based house is up for sale at just $55000. What I love abo
 
 Best thing is it is super small, yet super spacious.
 
-
-
-## 10. Floating Cross box
-
-
+## Floating Cross box
 
 ![floating box house](/img/shipping-container-10.jpg)
 
-Image credit: [Architecture.ideas2live4](https://architecture.ideas2live4.com/2015/08/08/crossbox/)
-
-
+<span class="figcaption">Image credit: [Architecture.ideas2live4
+](https://architecture.ideas2live4.com/2015/08/08/crossbox/)</span>
 
 Storage container houses have opened up doors for creativity. This particular house uses 4 container boxes in cross-ways making it look expensive. Which we know that it isn’t!
 
@@ -220,17 +173,12 @@ The upper part gives the illusion of a floating house which is really the tradem
 
 You can see the smooth external finish and it specifically helps to trap heat. Happy winter season!
 
-
-
-## 11. Massive 3700 square feet container home
-
-
+## Massive 3700 square feet container home
 
 ![big shipping container house](/img/shipping-container-11.png)
 
-Image credit: [Anlcontainers](https://anlcontainers.com.au/best-shipping-container-homes/)
-
-
+<span class="figcaption">Image credit: [Anlcontainers
+](https://anlcontainers.com.au/best-shipping-container-homes/)</span>
 
 To be honest 3700 square feet is not too much. But when it is built only by shipping containers, believe me, **its huge**!
 
@@ -238,17 +186,12 @@ This incredible home lies in Dallas, Texas. The neighbors couldn’t even believ
 
 But there it is! Maple, concrete and shipping containers. All for a nice cosy home…
 
-
-
-## 12. Cutest container house!
-
-
+## Cutest container house!
 
 ![cute container house](/img/shipping-container-12.jpg)
 
-Image credit: [Homedit](https://www.homedit.com/22-most-beautiful-houses-made-from-shipping-containers/)
-
-
+<span class="figcaption">Image credit: [Homedit
+](https://www.homedit.com/22-most-beautiful-houses-made-from-shipping-containers/)</span>
 
 This cute pink-dotted container house represents how with a minimum cost and effort, a great house can be built. 
 
@@ -256,17 +199,12 @@ The traditional estate market with its rising prices has allowed designers like 
 
 Get a beautiful home like this and live your dreams!
 
-
-
-## 13. 6 red riding hood!
-
-
+## 6 red riding hood!
 
 ![large shipping container house](/img/shipping-container-13.jpg)
 
-Image credit: [Homedsgn](https://www.homedsgn.com/2012/02/09/maison-container-by-patrick-partouche/)
-
-
+<span class="figcaption">Image credit: [Homedsgn
+](https://www.homedsgn.com/2012/02/09/maison-container-by-patrick-partouche/)</span>
 
 In Flagstaff, Arizona, the above house is an outcome of a 2-year student project. 
 
@@ -274,17 +212,12 @@ In Flagstaff, Arizona, the above house is an outcome of a 2-year student project
 
 Large glass windows, a rooftop terrace and the beautiful red colour are what makes it look gorgeous.
 
-
-
-## 14. Mojave desert den
-
-
+## Mojave desert den
 
 ![container house in a desert](/img/shipping-container-14.jpg)
 
-Image credit: [Inhabitat](https://inhabitat.com/ecotech-builds-breathtaking-shipping-container-home-in-the-heart-of-the-mojave-desert/)
-
-
+<span class="figcaption">Image credit: [Inhabitat
+](https://inhabitat.com/ecotech-builds-breathtaking-shipping-container-home-in-the-heart-of-the-mojave-desert/)</span>
 
 Another shipping container house built in the middle of a desert. This time it is in the Mojave desert.
 
@@ -294,25 +227,18 @@ The glass exterior is perfect for a studio as natural light can seep through eas
 
 Desert lover? Shipping container home lover? Get something like this soon!
 
-
-
-## 15. The Six Oaks container home
-
-
+## The Six Oaks container home
 
 ![container house in california](/img/shipping-container-15.jpg)
 
-Image credit: [Inhabitat](https://inhabitat.com/six-oaks-is-a-modern-yet-rustic-shipping-container-home-in-california/)
-
-
+<span class="figcaption">Image credit: [Inhabitat
+](https://inhabitat.com/six-oaks-is-a-modern-yet-rustic-shipping-container-home-in-california/)</span>
 
 If you have been on the search for the coolest shipping container home in the world, this beauty over here might already have crossed your mind. 
 
 The reason for its fame as it blends in modernity as well as a minimalist design. The inner space is open plan and the only way to enter is through a bridge. Amazing!
 
 The large windows prove that natural light is eminent in the house.
-
-
 
 ## Conclusion
 

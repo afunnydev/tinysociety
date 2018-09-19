@@ -58,13 +58,13 @@ Here’s a simple checklist of appliances to consider including in a Tiny House.
 
 The items to be included in this section will be highly personal to each Tiny House dweller. I enjoy gourmet cooking and have a rather extensive number of small appliances in my Tiny House kitchen. Everyone will have a different ‘can’t live without’ list when it comes to small appliances. My personal list includes a Vitamix blender, electric kettle, food processor, food dehydrator, immersion blender, spice grinder, clothing iron, and an Instant Pot (which replaces a former rice cooker/steamer and a slow cooker, thus earning its real estate on my countertop).
 
-## **How to choose the size of my Tiny House appliances?**
+## How to choose the size of my Tiny House appliances?
 
 Tiny Houses can potentially accommodate either full-size appliances or “miniature” appliances. Miniature appliances might include RV- or marine-specific appliances, apartment- or dorm-size appliances, “compact” appliances, or in certain cases, appliances created specifically for Tiny Houses, as the movement continues to grow and attract marketing angles.
 
 The size of the Tiny House appliances depends on available space and usage habits. Tiny House dwellers who dine out on a daily basis may be fine with few minimal kitchen appliances. A large family that enjoys home cooking might be better off with a full-size refrigerator/freezer combo and a reasonably-sized standard range/oven rather than a toaster oven and single burner cooktop. Think about your lifestyle habits and analyze your needs with regards to appliance use. To some degree, think in terms of ‘needs’ rather than ‘wants’ and consider adopting new habits that will allow for simpler or smaller appliances.
 
-## **Are there any limitations to what appliances I can choose if my Tiny House is on wheels?**
+## Are there any limitations to what appliances I can choose if my Tiny House is on wheels?
 
 There are a few types of appliances that are less conducive to a mobile Tiny House.
 
@@ -76,7 +76,7 @@ Traditional tank-style water heaters are not recommended. In fact, I would say t
 
 Any type of toilet that requires connection to a sewer or septic system is not a good choice for a Tiny House on wheels. Mobile Tiny Houses are better served by self-contained toilet options, such as marine toilets, RV toilets, or the range of compost toilet options.
 
-## **Where Should I Put My Tiny House Appliances?**
+## Where Should I Put My Tiny House Appliances?
 
 Locating appliances within the Tiny House mainly depends on what will work best for floor plan flow.
 
@@ -84,7 +84,7 @@ Locating appliances within the Tiny House mainly depends on what will work best 
 * Think about vertical placement as well. Not all appliances need be located at counter height. Setting up sturdy shelves above counter height is one way to keep appliances from taking up all of the counter space.
 * Consider ergonomics and think about whether or not the appliance placement will require you to unnecessarily stoop too low or reach too high. I find that my above-counter toaster oven can result in slightly treacherous conditions for removing hot items at a slightly high reach, but it’s a compromise that works for me, given the amount of counter space that’s freed up.
 
-## **Gas, Propane, Electric, Solar, or Wood Appliances for the Tiny House?**
+## Gas, Propane, Electric, Solar, or Wood Appliances for the Tiny House?
 
 ![null](/img/tiny-house-appliances-power.png)
 
@@ -118,15 +118,14 @@ A wood stove can be a viable option for accommodating heating and certain cookin
 
 ![null](/img/wood-burning-appliance.png)
 
-_Image credit: http://dickinsonmarine.com/_
+<span class="figcaption">Image credit: [Dickinson Marine](http://dickinsonmarine.com/)</span>
 
 **Dickinson Newport**
 
 One of the smaller options for a Tiny House wood stove is the Dickinson Newport Solid Fuel Heater. Its dimensions are 7.88 inches wide by 14.7 inches high by 10 inches deep. It’s recommended for boats 20-25 feet long (and presumably for Tiny Houses of a similar size). It can burn wood, presto logs, coal, or charcoal briquettes.
 
 ![null](/img/wood-stove.png)
-
-Image credit: https://www.homedepot.com/ 
+<span class="figcaption">Image credit: [Home Depot](https://www.homedepot.com/)</span> 
 
 **Pleasant Hearth WS-2417**
 
@@ -151,7 +150,7 @@ Tiny House appliances run the gamut from luxury models to budget-friendly. Here 
 
 ![null](/img/refrigerator.png)
 
-_Image credit: http://www.sunfrost.com/ _
+<span class="figcaption">Image credit: [Sunfrost](http://www.sunfrost.com/)</span>
 
 The Sun Frost RF16 is available for a whopping $3,445 for the DC version (slightly less for the AC version). This is a highly energy-efficient refrigerator-freezer combo that’s an excellent choice for off-grid living. The basic model is white but custom laminates and wood veneers are available for an additional fee. It can be found [here.](http://www.sunfrost.com/RF16_efficient_ac_dc_refrigerator.html)
 
@@ -159,7 +158,7 @@ The Sun Frost RF16 is available for a whopping $3,445 for the DC version (slight
 
 ![null](/img/mid-range-refrigerator.png)
 
-_Image credit: https://www.homedepot.com/ _
+<span class="figcaption">Image credit: [Home Depot](https://www.homedepot.com/)</span>
 
 A popular choice among the many mid-range Tiny House refrigerator options is this 15.5 cubic foot refrigerator with top freezer from GE priced at $448. It comes with customizable humidity drawers for produce, adjustable shelves, and an optional ice maker. Color choices are white or black. It can be found [here.](https://www.homedepot.com/p/GE-15-5-cu-ft-Top-Freezer-Refrigerator-in-White-GTS16DTHWW/205092873)
 
@@ -167,7 +166,7 @@ A popular choice among the many mid-range Tiny House refrigerator options is thi
 
 ![null](/img/low-end-refrigerator.png)
 
-_Image credit: https://www.target.com/ _
+<span class="figcaption">Image credit: [Target](https://www.target.com/)</span>
 
 For minimal refrigeration needs, this Sunbeam 1.7 cubic foot mini-fridge for $85 might fit the bill. It includes a tiny freezer and doesn’t take up much real estate in a Tiny House. Color options are black or white. It can be found[ here.](https://www.target.com/p/sunbeam-1-7-cu-ft-mini-refrigerator-black-refsb17b/-/A-52014732)
 
@@ -177,7 +176,7 @@ For minimal refrigeration needs, this Sunbeam 1.7 cubic foot mini-fridge for $85
 
 ![null](/img/high-end-oven.png)
 
-_Image credit: https://www.westmarine.com/ _
+<span class="figcaption">Image credit: [West Marine](https://www.westmarine.com/)</span>
 
 A marine model such as this Three-Burner Gourmet Galley Gimbaled Propane Range from Force 10 can be a great choice for Tiny Houses. It will set you back $1600. As the name suggests, it runs on propane and does not require an electrical connection—only one AA battery. I can vouch for the quality of Force 10 products based on my experience with one of their propane cooktops, though I use a separate convection toaster oven (by Breville) rather than a combo unit. The Force 10 range can be found [here.](https://www.westmarine.com/buy/force-10--three-burner-gourmet-galley-gimbaled-propane-ranges--P015_451_001_509?recordNum=2)
 
@@ -185,7 +184,7 @@ A marine model such as this Three-Burner Gourmet Galley Gimbaled Propane Range f
 
 ![null](/img/mid-range-oven.jpg)
 
-_Image credit: https://www.bestbuy.com/ _
+<span class="figcaption">Image credit: [Best Buy](https://www.bestbuy.com/)</span>
 
 A popular mid-range model is this Avanti 20” free-standing gas range available for $499. It has four burners and an automatic electronic ignition, and comes with two oven racks. It can be found[ here.](https://www.bestbuy.com/site/avanti-20-freestanding-gas-range-stainless-steel/9517101.p?skuId=9517101)
 
@@ -193,7 +192,7 @@ A popular mid-range model is this Avanti 20” free-standing gas range available
 
 ![null](/img/low-end-cooker.jpg)
 
-_Image credit: https://www.homedepot.com/ _
+<span class="figcaption">Image credit: [Home Depot](https://www.homedepot.com/)</span>
 
 A portable propane cooktop, often used for camping, can be a great budget option for those whose cooking needs are less extensive. Rather than requiring a fixed location in the Tiny House kitchen, it can be stowed away when not in use, freeing up countertops for other purposes. Be aware that many camp stoves are not intended for indoor use, so consider restricting cooking activities to the porch or another outdoor space. The Built-In Single Side Burner Camp Stove by Chard can be had for $23. It runs on butane canisters. It can be found [here.](https://www.homedepot.com/p/Chard-Black-Built-In-Single-Side-Burner-Camp-Stove-SBBCS85/206797891)
 
@@ -207,7 +206,7 @@ A budget option for those who prefer to cook with electricity is an induction bu
 
 ![null](/img/high-end-dishwasher.jpg)
 
-_Image credit: https://www.bosch-home.com/ _
+<span class="figcaption">Image credit: [Bosch](https://www.bosch-home.com/)</span>
 
 The Bosch 800 Series SPX68U55UC Stainless Steel dishwasher is an energy-efficient model that offers a half-load option, 9 possible rack positions, and 4-part leak protection for $999. It’s touted as having especially quiet operation. It can be found [here.](https://www.bosch-home.com/us/productslist/dishwashers/18-ada/SPX68U55UC?breadcrumb=18_ada_us#/Tabs=section-technicalspecs/Togglebox=-1489128374/Togglebox=-230088015/Togglebox=-836809633/)
 
@@ -215,7 +214,7 @@ The Bosch 800 Series SPX68U55UC Stainless Steel dishwasher is an energy-efficien
 
 ![null](/img/mid-range-dishwasher.png)
 
-_Image credit: https://www.compactappliance.com/ _
+<span class="figcaption">Image credit: [Compact Appliance](https://www.compactappliance.com/)</span>
 
 The Edgestar 22 Inch Wide 6 Place Setting Energy Star Rated Countertop Dishwasher is a portable unit that can sit either on a countertop or anywhere that allows its five-foot hose to attach to a faucet. It has capacity for six place settings, comes in black, silver or white, is Energy Star rated, and has seven wash cycle settings. It has a price tag of $269. Find it [here.](https://www.compactappliance.com/edgestar-dishwasher-dishwashers/DWP62.html)
 
@@ -231,7 +230,7 @@ This is the option that makes by far the most sense to me: hand-washing the dish
 
 ![null](/img/high-end-washer.png)
 
-_Image credit: https://www.compactappliance.com/ _
+<span class="figcaption">Image credit: [Compact Appliance](https://www.compactappliance.com/)</span>
 
 The LG SIGNATURE 24" Washer/Dryer Combo with SideKick Pedestal Washer has a capacity of 3.5 cubic feet and dimensions of 33.5” high by 23.6” wide by 26.5 inches deep. It runs $3,638. The unit boasts a direct drive motor in the pedestal that saves energy and has less moving parts than traditional motors and a stainless steel drum. It can be found [here.](https://www.compactappliance.com/lg-washer-dryer-washer-dryer-combos/LUWM101HWA-KIT.html)
 
@@ -239,7 +238,7 @@ The LG SIGNATURE 24" Washer/Dryer Combo with SideKick Pedestal Washer has a capa
 
 ![null](/img/mid-range-washer.png)
 
-_Image credit: https://www.compactappliance.com/ _
+<span class="figcaption">Image credit: [Compact Appliance](https://www.compactappliance.com/)</span>
 
 The Magic Chef 24 Inch Wide 2.0 Cu. Ft. Front Loading Electric Washer / Dryer Combo with Ventless Drying Technology includes a stainless steel drum and five load settings. It also has a timer that allows the start time to be delayed up to 24 hours. Color options are white or black. Its size is 33.5” high by 23.5” wide by 22.375” deep. Its price is $740. Find it [here.](https://www.compactappliance.com/magic-chef-washer-dryer-washer-dryer-combos/MCSCWD20.html)
 
@@ -247,7 +246,7 @@ The Magic Chef 24 Inch Wide 2.0 Cu. Ft. Front Loading Electric Washer / Dryer Co
 
 ![null](/img/low-end-washer.jpg)
 
-_Image credit: http://www.laundry-alternative.com/  _
+<span class="figcaption">Image credit: [Laundry Alternative](http://www.laundry-alternative.com/ )</span>
 
 For the budget-minded who don’t mind powering an appliance with elbow grease, here is the WonderWash for $49. Its compact size and portability allow it to be stowed away in a closet when not in use. Its low water usage increases its eco-friendliness. It can be found [here.](https://www.laundry-alternative.com/our-products/the-wonderwash/)
 
@@ -259,7 +258,7 @@ Line-drying laundry is a viable option to pair with any clothes washer. Clothing
 
 ![null](/img/high-end-water-heater.png)
 
-_Image credit: https://precisiontemp.com/ _
+<span class="figcaption">Image credit: [Precision Temp](https://precisiontemp.com/)</span>
 
 PrecisionTemp’s RV-550 NSP EC water heater is a unique floor-vented model designed for use in four-season climates. It runs on propane and there’s no pilot light. The price tag is $1,125. It can be found [here.](https://precisiontemp.com/products/rv-550-nsp/)
 
@@ -267,7 +266,7 @@ PrecisionTemp’s RV-550 NSP EC water heater is a unique floor-vented model desi
 
 ![null](/img/mid-range-water-heater.jpg)
 
-_Image credit: https://www.homedepot.com/ _
+<span class="figcaption">Image credit: [Home Depot](https://www.homedepot.com/)</span>
 
 The Stiebel Eltron Tempra 24 Plus Advanced Flow Control and Self-Modulating 24 kW 4.68 GPM Electric Tankless Water Heater runs on electricity rather than propane. It includes water overheat protection technology with a thermostatic control range of 86 to 140°F. The unit requires no venting. It has a $698 price tag. Find it [here.](https://www.homedepot.com/p/Stiebel-Eltron-Tempra-24-Plus-Advanced-Flow-Control-and-Self-Modulating-24-kW-4-68-GPM-Electric-Tankless-Water-Heater-Tempra-24-Plus/203210874)
 
@@ -275,7 +274,7 @@ The Stiebel Eltron Tempra 24 Plus Advanced Flow Control and Self-Modulating 24 k
 
 ![null](/img/low-end-water-heater.jpg)
 
-_Image credit: https://www.homedepot.com/ _
+<span class="figcaption">Image credit: [Home Depot](https://www.homedepot.com/)</span>
 
 The EcoSmart “Eco 11” 11 kW Self-Modulating Electric Tankless Water Heater runs on electricity, as indicated in the name. It heats up to two gallons per minute, claiming to be appropriate for 2-person use in a small apartment. It runs $250. Find it [here. ](https://www.homedepot.com/p/EcoSmart-11-kW-Self-Modulating-Electric-Tankless-Water-Heater-ECO-11/203316215)
 
@@ -284,7 +283,7 @@ The EcoSmart “Eco 11” 11 kW Self-Modulating Electric Tankless Water Heater r
 From in-person brick-and-mortar shopping locations to websites, there are plenty of options for Tiny House appliance shopping. Here are a few ideas for where to start. It’s by no means a comprehensive list, as I’m assuming you know how to use Google (or your search engine of choice).
 
 * [Amazon](Amazon.com) is considered the king of customer service. If nothing else, it’s a good place to read reviews from product users. Take the reviews with a grain of salt, as there’s been a bit of a racket involving incentive-based slanted reviews there; look for the ‘verified buyer’ label. Free shipping is often an attractive component of Amazon purchases. They also offer fee-based installation services. And extra warranties beyond the standard offering of the manufacturer can often be purchased. Returns are generally very easy. After making a product choice, shop around online, as Amazon is not always the best buy in town.
-* [Compact appliance](https://www.compactappliance.com/) has a nice range of products and the support of a Learning Center that provides useful information when shopping guides are needed. They claim to be one of the top 500 Retail Web Sites as reported by Internet Retailer Magazine. Many of their products include free shipping.
+* [Compact Appliance](https://www.compactappliance.com/) has a nice range of products and the support of a Learning Center that provides useful information when shopping guides are needed. They claim to be one of the top 500 Retail Web Sites as reported by Internet Retailer Magazine. Many of their products include free shipping.
 * [Home Depot](https://www.homedepot.com) and other major home improvement stores can be shopped in person or online. Or order online and pick it up at the store. Many items come with free 2-day delivery. They offer installation services and tool rental. It can be hit or miss for knowledgeability when it comes to store staff.
 * Ben’s Discount Supply has a Tiny House department on their [website](https://bensdiscountsupply.com/tiny-house-appliances/.). They offer new, used, and ‘scratch and dent’ appliances. The website is easily navigable by category.
 
