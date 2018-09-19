@@ -18,7 +18,7 @@ collections:
     extension: "md"
     format: "yaml-frontmatter"
     editor:
-      preview: false
+      preview: true
     create: true # Allow users to create new documents in this collection
     filter: 
       field: "i18nlanguage"

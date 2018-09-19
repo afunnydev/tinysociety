@@ -17,6 +17,21 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^1.6.0/dist/cms.js"></script>
+  <script>
+    CMS.registerPreviewStyle("/css/admin.min.css");
+    var PostPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        var image = entry.getIn(['data', 'image']);
+        var bg = this.props.getAsset(image);
+        return h('div', {},
+          h('div', {"className": "text"}, this.props.widgetFor('body'))
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("articles", PostPreview);
+  </script>
   <!-- <script src="https://unpkg.com/netlify-cms-widget-native-color@2.2.0"></script>
   <script>
     CMS.registerWidget('youtube', youtubeControl, youtubePreview)
