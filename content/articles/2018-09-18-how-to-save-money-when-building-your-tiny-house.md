@@ -22,9 +22,8 @@ listing:
 likes: '22'
 categories:
   - Tiny Houses
-  - Cheapest Tiny Houses
-  - Save Money
   - DIY
+  - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -32,8 +31,6 @@ infographic: false
 draft: false
 noindex: false
 ---
-## How To Save Money When Building Your Tiny House
-
 Building your ideal tiny house doesn’t have to cost you an arm and a leg. On the other hand, you shouldn’t have to skimp out on any of the design features you want either. If you budget your project properly, then you can both save money as well as end up with your dream home. Even the cheapest tiny house doesn’t have to look cheap. Discover where you can cut costs throughout the building process and save your cash for your travels or to add a collapsible enclosed porch. 
 
 ## Build Your Tiny House Using Recycled Materials
@@ -42,11 +39,11 @@ Building your ideal tiny house doesn’t have to cost you an arm and a leg. On t
 
 One of the cheapest ways to build a tiny house is by using all recycled materials. While you won’t always be able to find exactly what you’re looking for, using items you have on hand might help to spark your creativity. Often, you can find things for free that you can repurpose, or already recycled materials that are being sold for close to nothing. Consider checking these areas:
 
-**Craigslist**
+### Craigslist
 
 Even though Craigslist isn’t the most reliable source, it can help you find the cheapest material to use for your tiny house. By browsing the free section, you’ll easily find pallet boards, wood, scrap metal, window panes, and furniture that can be useful. You might even get lucky and find a reasonably priced shipping container. These are a popular choice to use for a tiny house shell. They’re waterproof and already put together, so there’s less work involved. If you plan on building your tiny house on wheels, then Craigslist is the ideal place to find an inexpensive trailer as well. If you don’t have luck finding what you need on Craigslist, try similar options like Letgo, eBay, and the Facebook Marketplace. 
 
-**Your Parent’s Basement**
+### Your Parent’s Basement
 
 If your parents own a home nearby, then their basement and garage are probably filled with a whole lot of junk. They’d likely be more than happy for you to take some of it off their hands. Look for things that can no only be repurposed for the structure, but look for tools that you will need as well. Even if your parents aren’t ready to give these up, you can probably borrow a few. Other things you might consider are furniture or fabric that you can use when designing the interior. Here are some things to keep an eye out for:
 
@@ -72,13 +69,13 @@ If your parents own a home nearby, then their basement and garage are probably f
 
 ![tiny house shell](/img/tiny_house_shell.jpg)
 
-**Local Businesses  **
+### Local Businesses
 
 Local businesses can be an excellent source for finding recycled materials. They’re often tossing out perfectly good pallet boards and storage containers that you can scoop up. All it requires is being in the right place at the right time. You can also call a few local junkyards and see if they’ll let you poke around. Tell them you’re building a tiny house and they might put some things aside for you if you talk to the right person. 
 
 If you live near a [Habitat Restore](http://www.habitat.org/restores) location, run by Habitat For Humanity, definitely stop by. While each location carries different items, you’ll be able to find the cheapest materials to use for an affordable tiny house. As a nonprofit, everything is discounted, and they often run sales or offer coupons. Shopping here will not only support local businesses but everything the organization stands for as well. Aside from building materials, they also carry new and gently used furniture, light fixtures, and appliances.
 
-**Pre-Demolition Sales**
+### Pre-Demolition Sales
 
 When a building is in the planning stages of demolition, there will often be a sale scheduled for anything that can be restored. Salvaged materials can include bricks, bathtubs, doors, tiles, sinks, toilets, windows, flooring, and a whole lot more. Prices are usually next to nothing. The hardest part is finding these sales before the building is demolished. 
 
@@ -96,13 +93,13 @@ Tiny house kits are the best option for those with little or no construction exp
 
 There are a number of options to choose when it comes to powering your new home. Deciding which one is best for you doesn’t mean you should just choose the cheapest electric unit for your tiny house though. You need to determine what setup will work best for you and your intentions. Do you plan to travel? Where do you plan to park your tiny house? How much electricity do you think you’ll use? Here are the most popular power options to consider:
 
-**RV Hook Up To Local Utilities**
+### RV Hook Up To Local Utilities
 
 The simplest option for electricity when you’re tiny living is to set it up so that you can hook up to local utilities in RV parks. All you have to do is plug in your new home. If you plan on staying in these types of areas, then this might be the best option for you. Having your tiny house set up for RV parks also means you can easily remove your waste and hook up your house so that you have running water.
 
 On the downside, this isn’t the greenest option. If you’re trying to reduce your carbon footprint, then this electrical setup probably isn’t right for you. There’s also a fee for using an RV park’s utilities. It’s usually included in the cost of the parking spot, which ranges anywhere from $25 to $100.  
 
-**Solar Power**
+### Solar Power
 
 Even though solar panels are the most popular power source for tiny homes, they’re also the most expensive. Often members of the tiny house community will add them later on when they’re doing renovations. They’re ideal for those who want to live off the grid and don’t want to remain tethered to a power source. 
 
@@ -114,11 +111,11 @@ If you decide to go with solar power, add an electrician into your budget. You w
 
 ![tiny house solar powered](/img/tiny_house_solar_powered.jpg)
 
-**Wind Turbines**
+### Wind Turbines
 
 Another green option is installing a wind turbine on the top of your roof. Similar to solar panels, this power option isn’t always reliable. The wind isn’t always guaranteed. It is green though and would allow you to live off the grid. You’ll likely need a backup power source as well though if you don’t want to deal with outages. 
 
-**Generators**
+### Generators
 
 While generators are often the go-to backup power option, it can also be your primary source of electricity. Either a gas or solar generator can be used to power most of the items in your tiny house. You might not be able to run high powered items like blow dryers, air conditioners, and heaters, but living off the grid often means roughing it a bit. 
 
@@ -132,21 +129,21 @@ Once you decide which power source works best for you, it’s best that you also
 
 Heating is a hefty bill, regardless of where you live. The average homeowner will pay an average of $450 per month on heating over the winter. Fortunately, there are a number of cheaper heating options to choose from when it comes to tiny living. 
 
-**Buy an Electric Heater**
+### Buy an Electric Heater
 
 As the cheapest option, your electric heater will ensure you sleep through winter nights without having to dress in thermal pajamas. Simple to use, there’s only one downfall. Electric heaters require electricity. If you plan on parking your home in an RV park for the majority of the time, then you won’t have a problem. However, solar panels or generators built for living off the grid likely won’t be able to power your heater. 
 
-**Use a Wood Stove**
+### Use a Wood Stove
 
 An indoor wood stove is necessary if you plan on taking your home on wheels to areas where the climate is cooler. It’s relatively cheap and can serve as your back up in case your other method isn’t working. You can even purchase a model that allows you to cook on top of it as well. They’re cute, affordable, and they’ll make your tiny home smell like a campfire. You really can’t go wrong.
 
 ![tiny house wood stove](/img/tiny_house_woodstove.jpg)
 
-**Gas Heaters**
+### Gas Heaters
 
 Just a tad more expensive than electric heaters, gas heaters are also an excellent option for heating your tiny house. They don’t cost very much up front but keep in mind that you’ll need to purchase gas for it regularly. If your generator works on gas, then this might be the best option for you since you’ll be buying extra fuel anyway. While gas heaters can take up a lot of space, if you spend just a bit more you can find a relatively flat wall unit instead.
 
-**Solar Heaters**
+### Solar Heaters
 
 As the most costly option up front, a solar-powered heater might save you money in the long run. You can expect to pay a little over $1,000 for the system, which is said to attract heat from the sun even on cloudy days. Quebec resident Gabriel Parent-Leblanc discusses his use of a solar heater and how it saved him money in an interview with [Exploring Alternatives](https://www.youtube.com/watch?time_continue=210&v=Ubz5hdv5bo0).
 
