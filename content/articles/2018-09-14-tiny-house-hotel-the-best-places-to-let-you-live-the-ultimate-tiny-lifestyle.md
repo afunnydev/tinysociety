@@ -1,5 +1,5 @@
 ---
-title: Tiny House hotel - The best places to let you live the ultimate tiny lifestyle
+title: Tiny House Hotel | The best places to let you live the ultimate tiny lifestyle
 description: >-
   If you love the idea of living tiny but aren't sure about taking the leap;
   staying in a tiny house hotel is your best option! Today, tiny house hotels
@@ -14,8 +14,7 @@ notloaded:
   need: 'true'
 listing:
   title: >-
-    Tiny House hotel - The best places to let you live the ultimate tiny
-    lifestyle
+    The best places to let you live the ultimate tiny lifestyle
   description: >-
     Are you ready to take tiny living for a test drive? With tiny house hotel
     locations popping up around the country, you can easily book yourself a
@@ -26,6 +25,7 @@ listing:
 likes: '27'
 categories:
   - Tiny houses
+  - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
 ordre: '0'

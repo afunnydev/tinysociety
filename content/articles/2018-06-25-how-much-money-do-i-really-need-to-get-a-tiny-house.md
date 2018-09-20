@@ -1,5 +1,5 @@
 ---
-title: How Much Does a Tiny House Cost? |
+title: How Much Does a Tiny House Cost?
 description: >-
   One of the reasons that the Tiny lifestyle is attractive to so many people is that a Tiny House
   carries a tinier price tag than a conventional house. But how tiny is that

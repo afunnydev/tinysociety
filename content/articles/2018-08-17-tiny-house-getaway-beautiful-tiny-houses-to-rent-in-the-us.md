@@ -12,7 +12,7 @@ date: '2018-08-06'
 notloaded:
   need: 'true'
 listing:
-  title: Tiny House Getaway | Beautiful tiny houses to rent in the US
+  title: Beautiful tiny houses to rent in the US
   description: >-
     Who hasn’t dreamed of escaping the rat-race of modern day living? I know I
     have. If you’re lucky enough to own a tiny house and are already living

@@ -13,7 +13,7 @@ date: '2018-08-21'
 notloaded:
   need: 'true'
 listing:
-  title: Tiny House Security | How to protect your tiny house from being stolen
+  title: How to protect your tiny house from being stolen
   description: >-
     A tiny house doesn’t necessarily mean a tiny investment. Sure, you spend a
     lot less than on a residential home, but this doesn’t make it any easier if
