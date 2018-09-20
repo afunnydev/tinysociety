@@ -56,9 +56,7 @@ If you’re like many other tiny home enthusiasts, you likely value sustainabili
 * Solar provides DC energy. Unless you are an electrician, you may not know that most standard appliances are wired for AC. Unless you want to re-purchase all DC appliances, you’ll have to purchase an “[inverter](https://www.solarpowerauthority.com/solar-setups-choosing-the-right-converters-and-inverters/)” to convert your energy from DC to AC. Carefully consider the small details of a completely solar power system before going off the grid.
 * Solar means energy consumption awareness. Are you a late-night Netflix binge watcher? You might be consuming more energy than you think. Before getting started, use this [calculator](https://www.wholesalesolar.com/solar-information/start-here/offgrid-calculator) to figure out how much electricity you currently use.
 
-![](/img/binge-watching.gif)
-
-## [How does solar power work?](https://www.livescience.com/41747-best-solar-panels.html)
+## How does solar power work?
 
 To put it simply, solar cells are connected in a panel which converts sunlight into electricity. When the sunlight’s energy is absorbed through through the panel, it creates an imbalance which allows the electrons to escape from their position in the atom. This release of electrons are then captured to create the electric current which then powers your tiny home!
 
