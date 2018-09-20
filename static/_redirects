@@ -1,6 +1,7 @@
 # Redirect with a 200
 
 /plans /tiny-house-plans 301
+/plans/600-sq-ft-1-bathroom-1-bedroom-foundation/ /tiny-house-plans/502-sq-ft-1-bathroom-1-bedroom-foundation/ 301
 /plans/* /tiny-house-plans/:splat 301
 
 
