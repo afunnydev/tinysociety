@@ -7,6 +7,6 @@ exports.handler = async (event, context) => {
     headers: {
       "content-type": "application/json"
     },
-    body: JSON.stringify({id: productId, price: donationAmount, url: "https://tinyplans.netlify.com/.netlify/functions/product?donationAmount=" + donationAmount + "&productId=" + productId})
+    body: JSON.stringify({id: productId, price: donationAmount, url: "https://www.tinysociety.co/.netlify/functions/product?donationAmount=" + donationAmount + "&productId=" + productId})
   };
 };

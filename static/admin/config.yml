@@ -113,7 +113,6 @@ collections:
         fields:
           - {label: "Area", name: "area", widget: "string"}
           - {label: "Dimensions", name: "dimensions", widget: "string"}
-          - {label: "Cost", name: "cost", widget: "string"}
           - {label: "Nb of floor", name: "floor", widget: "string"}
       - {label: "Plan description", name: "section2", widget: "markdown", required: false}
       - name: section3
@@ -132,13 +131,11 @@ collections:
             widget: list
             fields:
               - {label: "Name", name: "title", widget: "string"}
-              - {label: "Value", name: "value", widget: "string"}
           - name: col2
             label: "Last Column"
             widget: list
             fields:
               - {label: "Name", name: "title", widget: "string"}
-              - {label: "Value", name: "value", widget: "string"}
 #   - name: "articles-en" # Used in routes, e.g. /admin/collections/blog
 #     label: "Articles - EN" # Used in the UI
 #     folder: "content/articles" # The path to the folder where the documents are stored

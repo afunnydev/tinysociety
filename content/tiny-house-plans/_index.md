@@ -25,9 +25,9 @@ section2:
 section3:
   title: We offer the best customer support in the business
   description: >-
-    Our team of plan experts, architects and designers have been helping people build their dream homes for over 10 years.
+    Our team of plan experts, architects and designers are constantly helping people build their dream tiny house.
 
 
-    We are more than happy to help you find a plan or talk though a potential floor plan customization.
+    We are more than happy to help you find a plan or discuss about a potential floor plan customization.
   ctaline: Email us anytime at [hello@tinysociety.co](hello@tinysociety.co)
 ---

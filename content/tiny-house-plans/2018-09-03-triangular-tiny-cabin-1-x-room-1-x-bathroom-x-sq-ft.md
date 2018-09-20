@@ -1,8 +1,7 @@
 ---
 title: Triangular Tiny Cabin | 1 x Room | 1 x Bathroom | 545 sq/ft
 description: >-
-  This triangular shaped tiny cabin has 1 room and 1 bathroom, and is 545 sq/ft.
-  It is built on wooden poles with a diameter of 8".
+  This triangular shaped tiny cabin has 1 room, 1 bathroom and terraces, for a total of 624 sq/ft, with 545 habitable sq/ft. It is built on wooden poles with a diameter of 8".
 slug: 545-sq-ft-1-bathroom-1-bedroom-foundation
 architect: anastasia
 image: /img/triangular-tiny-house-ext.jpg
@@ -40,10 +39,9 @@ draft: false
 tosale: true
 noindex: false
 section1:
-  area: 624 sq/ft
-  cost: x
-  dimensions: 23' x 27'
-  floor: '2 floors'
+  area: 545 sq/ft
+  dimensions: 15' x 39' 7"
+  floor: 2 floors
 section2: >-
   Not only does this tiny house look awesome thanks to its triangular design, it
   is also extremely comfortable, cozy and well organized. With its one bedroom
@@ -56,50 +54,55 @@ section2: >-
   And it looks awesome, far from the container style we've been accustomed to
   from tiny houses!
 section3:
-  - title: First Floor
+  - title: Main Floor
     image: /img/triangular-tiny-cabin-1.jpg
   - title: Second Floor
     image: /img/triangular-tiny-cabin-2.jpg
 section4:
   - col1:
-      - title: Height
-        value: 13' 1"
-      - title: Width
-        value: 15'
+      - title: >-
+          Height: 13' 1"
+      - title: >-
+          Width: 15'
     col2:
-      - title: Depth
-        value: 39' 7"
+      - title: >-
+          Depth: 39' 7"
     title: Dimensions
   - col1:
-      - title: Main Floor
-        value: 443 sq/ft
-      - title: Second Floor
-        value: 102 sq/ft
+      - title: >-
+          Main Floor: 443 sq/ft
+      - title: >-
+          Second Floor: 102 sq/ft
     col2:
-      - title: Terraces
-        value: 79 sq/ft
+      - title: >-
+          Terraces: 79 sq/ft
+      - title: >-
+          Total: 624 sq/ft
     title: Area
   - col1:
-      - title: Roof Framing
-        value: Stick
+      - title: >-
+          Roof Framing: Stick
     col2:
-      - title: Primary Pitch
-        value: "5:8"
+      - title: >-
+          Primary Pitch: 5 : 8
     title: Roof
   - col1:
-      - title: Exterior Wall Finish
-        value: Wood plank cladding
+      - title: >-
+          Wall Finish: Wood plank cladding
     col2:
-      - title: Framing
-        value: Wooden studs 2" x 4"
-    title: Exterior Wall Framing
+      - title: >-
+          Wall Framing: Wooden studs 2" x 4"
+    title: Exterior Wall 
   - col1:
-      - title: Outdoor Space
-        value: Covered terraces
+      - title: >-
+          Covered terraces
     title: Outdoor Spaces
   - col1:
-      - title: Wooden poles
-        value: Diameter 8"
+      - title: >-
+          Wooden poles
+    col2:
+      - title: >- 
+          Diameter 8"
     title: Foundation
 ---
 
