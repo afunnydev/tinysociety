@@ -7,7 +7,7 @@ description: >-
 slug: 137-sq-ft-1-bathroom-1-bedroom-on-wheels
 architect: hesham
 image: /img/mobile-tiny-house-exterior-1.jpg
-date: '2018-09-03'
+date: '2018-09-10'
 listing:
   title: 'Not A Tent-Trailer, But A House'
   description: >-
@@ -43,7 +43,6 @@ menuid: plans
 ordre: 0
 draft: false
 tosale: true
-noindex: false
 section1:
   area: 137 sq/ft
   dimensions: 20' 2" x 8' 2"

@@ -5,7 +5,7 @@ description: >-
 slug: 545-sq-ft-1-bathroom-1-bedroom-foundation
 architect: anastasia
 image: /img/triangular-tiny-house-ext.jpg
-date: '2018-09-03'
+date: '2018-08-07'
 listing:
   title: Living The Triangular Lifestyle
   description: >-
@@ -37,7 +37,6 @@ menuid: plans
 ordre: 0
 draft: false
 tosale: true
-noindex: false
 section1:
   area: 545 sq/ft
   dimensions: 15' x 39' 7"

@@ -7,10 +7,10 @@ description: >-
 slug: how-to-save-money-when-building-your-tiny-house
 author: kristen
 image: /img/tiny_house_cottage.jpg
-overlay: false
+overlay: true
 date: '2018-09-17'
 notloaded:
-  need: 'no'
+  need: true
 listing:
   title: How To Save Money When Building Your Tiny House
   description: >-
@@ -18,7 +18,7 @@ listing:
     the other hand, you shouldn’t have to skimp out on any of the design
     features you want either. If you budget your project properly, then you just
     might be able to save money as well as end up with your dream home. 
-  image: /img/tiny_house_cottage.jpg
+  image: /img/tiny_house_cottage-square.jpg
 likes: '22'
 categories:
   - Tiny houses
@@ -164,9 +164,7 @@ As the most costly option up front, a solar-powered heater might save you money 
 
 Imagine only paying $100 for heating all winter! Once again, however, it does cost more up front than your other heating options. If you want to learn more about solar heating, watch Gabriel’s interview:
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ubz5hdv5bo0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-```
+<div class="iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ubz5hdv5bo0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Use The Cheapest Furniture For Your Tiny House
 
