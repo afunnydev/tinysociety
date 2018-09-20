@@ -1,23 +1,69 @@
 {{ define "main" }}
-<div class="content_wrapper clearfix" id="blog">
+{{- $mymonths := $.Site.Data.mois.mois -}}
+{{- $mydays := $.Site.Data.jour.jour -}}
+{{- $plans := (where .Site.RegularPages ".Params.tosale" true) -}}
+{{- $foundations := len (where $plans ".Params.listing.foundation" true) -}}
+{{- $wheels := sub (len $plans) ($foundations)}}
+<div class="content_wrapper clearfix" id="plan-list">
     <div class="sections_group">
         <div class="entry-content">
-            <div id="home-slider" class="section mcb-section dark has-navi not-loaded overlayed" style="min-height: 650px; background-color:#b0b3b5; background-repeat:no-repeat; background-position:center center; background-attachment:fixed; background-size:cover; -webkit-background-size:cover" data-enllax-ratio="-0.3" data-large="{{- .Params.image -}}">
-                <div class="black-overlay"></div>
-                <div class="section-nav next" style="z-index: 10">
-                    <i class="icon-down-open-big"></i>
-                </div>
-                <div class="section_wrapper mcb-section-inner" id="slider-text">
-                    <div class="wrap mcb-wrap one  valign-top clearfix">
+            <div class="section mcb-section" id="plan-intro">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
                         <div class="mcb-wrap-inner">
-                            <div class="column mcb-column one column_image ">
-                                <div class="scale-with-grid aligncenter no_border">
-                                    <h1 class="home-title">{{ .Params.titre }}</h1>
-                                    <div class="categories-choices">
-                                        {{ $tags := $.Site.Taxonomies.collections.Alphabetical }}
-                                        {{ range $tags }}
-                                        <a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}#category-articles" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ .Term }}</span></a>
-                                        {{ end }} 
+                            <div class="column mcb-column one">
+                                <h1>{{ .Params.titre }}</h1>
+                                <p class="nb">We have <span class="plan-nb">{{ len $plans }}</span> Tiny House Plans that will interest you!</p>
+                                <div class="filters">
+                                    <span class="hidden-xs">Show me</span>
+                                    <a href="#all" data-filter="*" data-number="{{- len $plans -}}" class="active">All</a>
+                                    <a href="#on-foundation" data-filter=".on-foundation" data-number="{{- $foundations -}}">On foundation</a>
+                                    <a href="#on-wheels" data-filter=".on-wheels" data-number="{{- $wheels -}}">On wheels</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section mcb-section full-width no-margin-h no-margin-v" id="plan-masonry">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one valign-top clearfix">
+                        <div class="mcb-wrap-inner isotope-wrapper">
+                            {{ range $i, $e := (first 8 $plans) }}
+                            <div class="column mcb-column one-second column_placeholder plan-item{{ if .Params.listing.foundation }} on-foundation{{ else }} on-wheels{{ end }}">
+                                <div class="column_attr">
+                                    {{- partial "site/plans-post.html" . $ -}}
+                                </div>
+                            </div>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ with .Params.section2 }}
+            <div class="section mcb-section" style="padding-top:40px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_bg" style="background:white;">
+                                    <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                        <h4 style="margin: 0; text-align: center;">{{ .title }}</h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one">
+                                <div class="column_filters">
+                                    <div class="mcb-wrap-inner">
+                                        {{ range .icons }}
+                                        <div class="column mcb-column one-third column_column why-us">
+                                            <div class="column_attr">
+                                                <span class="{{- .icon -}}"></span>
+                                                <h5>{{- .title -}}</h5>
+                                                <p class="description">{{ .description }}</p>
+                                            </div>
+                                        </div>
+                                        {{ end }}
                                     </div>
                                 </div>
                             </div>
@@ -25,12 +71,27 @@
                     </div>
                 </div>
             </div>
-            <div class="section the_content no_content">
-                <div class="section_wrapper">
-                    <div class="the_content_wrapper"></div>
+            {{ end }}
+            {{ with .Params.section3 }}
+            <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix" style="border: 1px solid #EBEBEB; text-align: center;">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_wrapper plan-list-support" style="padding:30px 20px;">
+                                    <h5 style="margin: 0 0 30px;">{{ .title }}</h5>
+                                    <div class="middle-text">
+                                        {{ .description | markdownify }}
+                                    </div>
+                                    <span>{{ .ctaline | markdownify }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+            {{ end }}
         </div>
     </div>
-</div>
+</div>  
 {{ end }}

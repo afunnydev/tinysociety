@@ -14,9 +14,9 @@ Last updated: June 20, 2018
 
 ### 1. Definitions
 
-Tiny Society – registered address, CEO
+Tiny Society – David Morneau
 
-Third Parties – architects and/or designers 
+Third Parties – Architects and/or Designers 
 
 ### 2. Introduction
 

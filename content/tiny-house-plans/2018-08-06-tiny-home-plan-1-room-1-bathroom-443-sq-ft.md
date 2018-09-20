@@ -5,7 +5,7 @@ description: >-
 slug: 443-sq-ft-1-bathroom-1-bedroom-foundation
 architect: anastasia
 image: /img/tiny-home-container-size-exterior.jpg
-date: '2018-08-06'
+date: '2018-08-23'
 listing:
   title: 'Modern Design, Minimal Needs'
   description: >-
@@ -31,7 +31,6 @@ i18nlanguage: en
 menuid: plans
 ordre: 0
 draft: false
-noindex: false
 tosale: true
 section1:
   area: 443 sq/ft

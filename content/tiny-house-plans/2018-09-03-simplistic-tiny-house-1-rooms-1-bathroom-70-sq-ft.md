@@ -6,7 +6,7 @@ description: >-
 slug: 283-sq-ft-1-bedroom-1-bathroom-on-wheels
 architect: hesham
 image: /img/simplistic-tiny-house-exterior1.jpg
-date: '2018-09-03'
+date: '2018-09-01'
 listing:
   title: Simplistic Solar Tiny House
   description: >-
@@ -43,7 +43,6 @@ menuid: plans
 ordre: 0
 draft: false
 tosale: true
-noindex: false
 section1:
   area: 283 sq/ft
   dimensions: 40' 2" x 8' 2"

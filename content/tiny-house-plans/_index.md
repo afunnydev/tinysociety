@@ -4,7 +4,7 @@ description: >-
   View our collection of handpicked tiny house plans. Easily select your design for your next tiny home.
 image: /img/simplistic-tiny-house-exterior2.jpg
 draft: false
-noindex: false
+titre: Our Tiny House Plans
 section2:
   title: "Why Choose Our Plans"
   category: "tiny house"

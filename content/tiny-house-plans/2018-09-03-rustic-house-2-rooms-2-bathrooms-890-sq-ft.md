@@ -5,7 +5,7 @@ description: >-
 slug: 890-sq-ft-2-bathrooms-2-bedrooms-foundation
 architect: anastasia
 image: /img/rustic-house-exterior2.jpg
-date: '2018-09-03'
+date: '2018-09-08'
 listing:
   title: Rustic Ambiance In A Tiny Format
   description: >-
@@ -35,7 +35,6 @@ menuid: plans
 ordre: 0
 draft: false
 tosale: true
-noindex: false
 section1:
   area: 890 sq/ft
   dimensions: 23' 5 ½" x 27' 9"

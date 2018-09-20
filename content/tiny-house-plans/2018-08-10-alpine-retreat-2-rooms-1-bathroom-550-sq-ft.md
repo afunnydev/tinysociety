@@ -6,7 +6,7 @@ description: >-
 slug: 905-sq-ft-2-bedroom-1-bathroom-foundation
 architect: hesham
 image: /img/outside-luxurious-small-home.jpg
-date: '2018-08-10'
+date: '2018-09-17'
 listing:
   title: Small Minimalist Living Space
   description: >-
@@ -40,7 +40,6 @@ menuid: plans
 ordre: 0
 draft: false
 tosale: true
-noindex: false
 section1:
   area: 905 sq/ft
   dimensions: 24' x 24'

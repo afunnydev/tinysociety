@@ -14,7 +14,7 @@ Last updated: June 20, 2018
 
 ### 1. Introductory
 
-Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the Tiny Society (also, the ''Company''), address: 
+Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the Tiny Society (also, the ''Company''). 
 
 This Privacy Policy describes the Company's privacy practices with regard to your Personal Data. Personal Data includes any data about you that specifically identifies you as an individual and information about your activities, such as information about your use of our Service, when directly linked to personally identifiable information.
 

@@ -12,7 +12,7 @@
                     <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
                         <div class="mcb-wrap-inner">
                             <div class="column mcb-column one">
-                            	<h1>Our Tiny House Plans</h1>
+                            	<h1>{{ .Params.titre }}</h1>
                             	<p class="nb">We have <span class="plan-nb">{{ len $plans }}</span> Tiny House Plans that will interest you!</p>
                             	<div class="filters">
                             		<span class="hidden-xs">Show me</span>
@@ -91,11 +91,7 @@
                 </div>
             </div>
             {{ end }}
-		{{ .Content}}
-			{{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
-			{{ $mod1 := modBool $i 1}}
-			{{ $mod2 := modBool $i 2}}
-			{{ $mod3 := modBool $i 3}}
-		{{ end }}
-</main>
+		</div>
+    </div>
+</div>	
 {{ end }}

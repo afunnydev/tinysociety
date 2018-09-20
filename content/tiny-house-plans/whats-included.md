@@ -1,12 +1,12 @@
 ---
 title: What's included in our Tiny House Plans
-description: This is a desc
+description: >-
+  Building a tiny house ain't easy. Choose one of our worry-free tiny house plan, and focus on building the home of your dream.
 slug: whats-included
 layout: whats-included
 image: /img/tiny-house-lovers-contact.jpg
 ordre: 1
 draft: false
-noindex: true
 samplecontent:
   - image: /img/foundations-plan.jpg
     title: Foundation Plan

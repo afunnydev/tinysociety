@@ -5,7 +5,7 @@ description: >-
 slug: 502-sq-ft-1-bathroom-1-bedroom-foundation
 architect: hesham
 image: /img/california-style-exterior1.jpg
-date: '2018-09-03'
+date: '2018-08-27'
 listing:
   title: California Style Tiny Cabin for Two
   description: >-
@@ -39,7 +39,6 @@ i18nlanguage: en
 ordre: 1
 draft: false
 tosale: true
-noindex: true
 section1:
   area: 502 sq/ft
   dimensions: 14' 11" x 31' 4"
