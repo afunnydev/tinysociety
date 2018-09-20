@@ -21,9 +21,7 @@ listing:
   image: /img/tiny_house_cottage.jpg
 likes: '22'
 categories:
-  - Tiny Houses
-  - Cheapest Tiny Houses
-  - Save Money
+  - Tiny houses
   - DIY
 i18nlanguage: en
 menuid: articles
@@ -32,8 +30,6 @@ infographic: false
 draft: false
 noindex: false
 ---
-## How To Save Money When Building Your Tiny House
-
 Building your ideal tiny house doesn’t have to cost you an arm and a leg. On the other hand, you shouldn’t have to skimp out on any of the design features you want either. If you budget your project properly, then you can both save money as well as end up with your dream home. Even the cheapest tiny house doesn’t have to look cheap. Discover where you can cut costs throughout the building process and save your cash for your travels or to add a collapsible enclosed porch. 
 
 ## Build Your Tiny House Using Recycled Materials
@@ -76,7 +72,7 @@ If your parents own a home nearby, then their basement and garage are probably f
 
 <span class="figcaption">Image Source: [Flickr](https://www.flickr.com/photos/parisonponce/6803322058/in/photolist-7VLUXP-h2BMcz-h3paTX-hAtkB3-7VLV7F-7VQaX9-h2BRuy-h2BY5W-h2BHue-h2YrGE-7zFFsg-hAsNxS-bnbNCb-7VQaW1-h2YoVN-7VQb3b-h2CRt6-h2YqkG-h2YqTq-7VQb4j-7VLV3M-h2Yc4c-7VLUWx-7VQaY3-7VQaUG-8pcMcJ-7VQaP7-7VQaAG-7VLUJi-72hETB-7VLUK8) </span> 
 
-**Local Businesses  **
+**Local Businesses**
 
 Local businesses can be an excellent source for finding recycled materials. They’re often tossing out perfectly good pallet boards and storage containers that you can scoop up. All it requires is being in the right place at the right time. You can also call a few local junkyards and see if they’ll let you poke around. Tell them you’re building a tiny house and they might put some things aside for you if you talk to the right person. 
 
@@ -94,7 +90,7 @@ When a building is in the planning stages of demolition, there will often be a s
 
 If you’re on a time crunch, you might not be able to wait to collect all of the materials you need to start building. That’s when a tiny house kit comes in handy. The cheapest tiny house kits for sale will come with design plans and a list of materials. From there you can add different features such as electricity, additional square footage, and plumbing. You can even purchase pre-cut shell materials, a completed tiny house, and everything in between. 
 
-Tiny house kits are the best option for those with little or no construction experience. Some of them even with come color-coded materials for easier assembly. Purchasing a kit doesn’t mean you’re stuck with a cookie cutter design either. You can ask them to customize your affordable tiny house blueprints, but likely at a higher price. Waiting for a sale can help to reduce the cost though significantly. 
+Tiny house kits are the best option for those with little or no construction experience. Some of them even come with color-coded materials for easier assembly. Purchasing a kit doesn’t mean you’re stuck with a cookie cutter design either. You can ask them to customize your affordable tiny house blueprints, but likely at a higher price. Waiting for a sale can help to reduce the cost though significantly. 
 
 ## Power Your Tiny House Wisely
 
