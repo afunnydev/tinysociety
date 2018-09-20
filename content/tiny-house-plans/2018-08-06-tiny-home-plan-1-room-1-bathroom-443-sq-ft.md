@@ -28,9 +28,7 @@ slider:
     image: /img/tiny-cabin-luxury-room.jpg
 rating: '5'
 collections:
-  - modern tiny house
-  - tiny house
-  - modern house
+  - On foundation
 i18nlanguage: en
 menuid: plans
 ordre: 0
@@ -41,7 +39,7 @@ section1:
   area: 545 sq/ft
   cost: '30,000'
   dimensions: 15' x 39' 7"
-  floor: 1 Floor
+  floor: 1 floor
 section2: >-
   This house is ideal for two people who enjoy the feel of a modern, yet warm
   finish. With an instant to the outdoor world, this house is excellent for

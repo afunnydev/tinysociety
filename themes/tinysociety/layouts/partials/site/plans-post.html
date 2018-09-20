@@ -5,7 +5,7 @@
     <div class="plans-slider-container">
         <div class="plans-list-images" onclick="location.href='{{- .Permalink -}}';">
             {{ range .Params.slider }}
-            <div class="plan-photo" style="background-image: url('{{ .image }}');">
+            <div class="plan-photo" style="background-image: url('/half{{ .image }}');">
             </div>
             {{ end }}
         </div>
@@ -43,10 +43,10 @@
         <i class="moon-house-dimensions"></i>
         <p>{{ .dimensions }}</p>
     </div>
-    <div class="plan-desc">
+    <!-- <div class="plan-desc">
         <i class="moon-estate-money"></i>
         <p>{{ .cost }}</p>
-    </div>
+    </div> -->
     <div class="plan-desc">
         <i class="moon-floor-plans"></i>
         <p>{{ .floor }}</p>

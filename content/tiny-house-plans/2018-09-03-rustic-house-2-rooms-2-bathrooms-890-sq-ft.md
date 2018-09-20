@@ -30,9 +30,7 @@ slider:
     image: /img/rustic-house-bathroom.jpg
 rating: '5'
 collections:
-  - rustic house
-  - tiny house
-  - ''
+  - On foundation
 i18nlanguage: en
 menuid: plans
 ordre: 0
@@ -40,9 +38,9 @@ draft: false
 tosale: true
 noindex: false
 section1:
-  area: 890 sq/ft
+  area: 1084 sq/ft
   dimensions: 5 ½’’ x 9’’
-  floor: '2'
+  floor: '2 floors'
 section2: >-
   White walls, classic architecture, rustic feeling: this house is ideal for
   anyone who wants to live tiny in a house taken straight from the countryside.
@@ -56,12 +54,12 @@ section3:
 section4:
   - col1:
       - title: Height
-        value: 11’’
+        value: 25' 11"
       - title: Width
-        value: 5 ½’’
+        value: 23' 5 ½"
     col2:
       - title: Depth
-        value: 9’’
+        value: 27' 9"
     title: Dimension
   - col1:
       - title: First Floor
@@ -69,10 +67,10 @@ section4:
       - title: Second Floor
         value: 386 sq/ft
     col2:
-      - title: Main Floors
-        value: 890 sq/ft
       - title: Terraces
         value: 194 sq/ft
+      - title: Total
+        value: 1084 sq/ft
     title: Area
   - col1:
       - title: Roof Framing

@@ -1,14 +1,14 @@
 ---
-title: Simplistic Tiny House | 1 Rooms | 1 Bathroom | 70 sq/ft
+title: Simplistic Solar Tiny House | 1 Rooms | 1 Bathroom | 70 sq/ft
 description: >-
   This simplistic tiny house on wheels has 1 room and 1 bathroom, for a total of
-  70 sq/ft.
-slug: 70-sq-ft-1-bedroom-1-bathroom-foundation
+  338 sq/ft.
+slug: 338-sq-ft-1-bedroom-1-bathroom-on-wheels
 architect: hesham
 image: /img/simplistic-tiny-house-exterior1.jpg
 date: '2018-09-03'
 listing:
-  title: Compact Yet Thoroughly Enough
+  title: Simplistic Solar Tiny House
   description: >-
     This house is called Simplistic Tiny House, because it looks simplistic: it
     is on wheels, it has a container shape, it has windows near the roof. It's
@@ -21,7 +21,7 @@ listing:
     take a look!
   image: /img/simplistic-tiny-house-list.jpg
   foundation: false
-titre: Simplistic Tiny House | Compact Yet Thoroughly Enough
+titre: Simplistic Solar Tiny House | Compact Yet Thoroughly Enough
 slider:
   - title: Simplistic Tiny House Outside View
     image: /img/simplistic-tiny-house-exterior2.jpg
@@ -37,10 +37,7 @@ slider:
     image: /img/simplistic-tiny-house-laundry.jpg
 rating: '5'
 collections:
-  - simplistic tiny house
-  - simplistic house
-  - simple house
-  - tiny house
+  - On wheels
 i18nlanguage: en
 menuid: plans
 ordre: 0
@@ -48,11 +45,11 @@ draft: false
 tosale: true
 noindex: false
 section1:
-  area: 70 sq/ft
-  dimensions: 40' x 8'
-  floor: '1'
+  area: 338 sq/ft
+  dimensions: 40' x 8' 2"
+  floor: '2 floors'
 section2: >-
-  This house is called Simplistic Tiny House, because it looks simplistic: it is
+  This solar ready Tiny House is called Simplistic Solar Tiny House, because it looks simplistic: it is
   on wheels, it has a container shape, it has windows near the roof. It's pretty
   much what you would expect from your standard tiny house! 
 
@@ -70,19 +67,19 @@ section4:
       - title: Height
         value: 12”
       - title: Width
-        value: 40’ 2”
+        value: 40’
     col2:
       - title: Depth
         value: 8’ 2”
     title: Dimensions
   - col1:
-      - title: Grand Floor
-        value: 23.43 sq/ft
-      - title: First Floor
-        value: 48.8 sq/ft
+      - title: Ground Floor
+        value: 234 sq/ft 
+      - title: Second Floor
+        value: 49 sq/ft
     col2:
       - title: Porch
-        value: 55.3 sq/ft
+        value: 55 sq/ft
     title: Area
   - col1:
       - title: Ceiling Details

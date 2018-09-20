@@ -2,19 +2,19 @@
 <div class="desc-row icons">
 	<h3>Key specs</h3>
 	{{ with .Params.section1 }}
-	<div class="column one-fourth">
+	<div class="column one-third">
 		<i class="moon-simple-plan"></i>
 		<p>{{ .area }}</p>
 	</div>
-	<div class="column one-fourth">
+	<div class="column one-third">
 		<i class="moon-house-dimensions"></i>
 		<p>{{ .dimensions }}</p>
 	</div>
-	<div class="column one-fourth">
+	<!-- <div class="column one-fourth">
 		<i class="moon-estate-money"></i>
 		<p>{{ .cost }}</p>
-	</div>
-	<div class="column one-fourth">
+	</div> -->
+	<div class="column one-third">
 		<i class="moon-floor-plans"></i>
 		<p>{{ .floor }}</p>
 	</div>
@@ -34,7 +34,7 @@
 	{{ range .Params.section3 }}
 	<div class="column one">
 		<p>{{ .title }}</p>
-		<img src="/half/{{ .image }}" alt="{{ .title }}">
+		<img src="/half{{ .image }}" alt="{{ .title }}">
 	</div>
 	{{ end }}
 </div>
