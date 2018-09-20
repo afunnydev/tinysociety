@@ -1,6 +1,6 @@
 ---
-title: Terms and Condition | Tiny Society
-description: This is a desc
+title: Terms and Conditions | Tiny Society
+description: Terms and conditions for our tiny house blog
 slug: terms-and-conditions
 layout: normal
 image: /img/tiny-house-lovers-contact.jpg

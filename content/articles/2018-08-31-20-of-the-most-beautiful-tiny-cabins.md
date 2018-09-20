@@ -20,7 +20,7 @@ listing:
 likes: '13'
 categories:
   - Tiny houses
-  - Tiny cabin
+  - Tiny cabins
   - Architecture and design
 i18nlanguage: en
 menuid: articles

@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy | Tiny House Lovers
-description: This is a desc
+description: Privacy policy for our tiny house blog
 slug: privacy-policy
 layout: normal
 image: /img/tiny-house-lovers-contact.jpg

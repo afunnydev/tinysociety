@@ -20,7 +20,6 @@ listing:
 likes: '23'
 categories:
   - Tiny houses
-  - ''
 i18nlanguage: en
 menuid: articles
 ordre: '0'
