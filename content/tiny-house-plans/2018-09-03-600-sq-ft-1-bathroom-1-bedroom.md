@@ -1,8 +1,8 @@
 ---
-title: Californian Tiny House | 1 Room | 1 Bathroom | 533 sq/ft
+title: Californian Tiny House | 1 Room | 1 Bathroom | 502 sq/ft
 description: >-
-  With its 1 room, 1 bathroom, 2 floors and terrace, this California style house is 669 sq/ft, with 533 habitable sq/ft, giving you lots of space. Built on shallow foundations, it's 14' 11" by 31' 4".
-slug: 533-sq-ft-1-bathroom-1-bedroom-foundation
+  With its 1 room, 1 bathroom, 2 floors and terrace, this California style house is 638 sq/ft, with 502 habitable sq/ft, giving you lots of space. Built on shallow foundations, it's 14' 11" by 31' 4".
+slug: 502-sq-ft-1-bathroom-1-bedroom-foundation
 architect: hesham
 image: /img/california-style-exterior1.jpg
 date: '2018-09-03'
@@ -41,7 +41,7 @@ draft: false
 tosale: true
 noindex: true
 section1:
-  area: 533 sq/ft
+  area: 502 sq/ft
   dimensions: 14' 11" x 31' 4"
   floor: 2 floors
 section2: >-
@@ -73,12 +73,12 @@ section4:
       - title: >-
           Main Floor: 377 sq/ft
       - title: >-
-          Second Floor: 156 sq/ft
+          Second Floor: 125 sq/ft
     col2:
       - title: >-
           Porch: 136 sq/ft
       - title: >-
-          Total: 669 sq/ft
+          Total: 638 sq/ft
     title: Area
   - col1:
       - title: >-
