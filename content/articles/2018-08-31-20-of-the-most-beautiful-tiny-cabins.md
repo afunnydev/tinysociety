@@ -6,10 +6,10 @@ description: >
 slug: 20-beautiful-tiny-cabins
 author: jubaer
 image: /img/tiny-cabin-cover.jpg
-overlay: false
+overlay: true
 date: '2018-08-30'
 notloaded:
-  need: 'No'
+  need: true
 listing:
   title: 20 of the Most Beautiful Tiny Cabins
   description: >
@@ -43,8 +43,8 @@ Let’s start our journey!
 
 ![The Glass Paradise](/img/the-glass-paradise.png)
 
-Image source: [Plainmagazine
-](https://plainmagazine.com/6-tiny-cabins-can-rent-get-away/)
+<span class="figcaption">Image source: [Plainmagazine
+](https://plainmagazine.com/6-tiny-cabins-can-rent-get-away/)</span>
 
 The sleek looking glass paradise cabin is perfect for experiencing great outdoor scenes.
 
@@ -56,8 +56,8 @@ The home is simple: one bed and a lantern and the rests are you and a lot of fan
 
 ![Egg World](/img/egg-world.jpg)
 
-Image source: [Nantes-tourisme
-](https://www.nantes-tourisme.com/fr/chambre-d-hotes/le-caballon-de-m-plocq)
+<span class="figcaption">Image source: [Nantes-tourisme
+](https://www.nantes-tourisme.com/fr/chambre-d-hotes/le-caballon-de-m-plocq)</span>
 
 The Loire river estuary is the home for this mind-blowing egg-shaped tiny cabin. It’s just a one bedroom pod that can make you come again and again. 
 
@@ -67,8 +67,8 @@ Renting is available from May to October. But who says you cannot build somethin
 
 ![DIY Small Cabin](/img/diy-small-cabin.png)
 
-Image source: [The spruce
-](https://www.thespruce.com/tiny-cabins-to-diy-or-buy-4139768)
+<span class="figcaption">Image source: [The spruce
+](https://www.thespruce.com/tiny-cabins-to-diy-or-buy-4139768)</span>
 
 This Tiny cabin house is poetry. I believe if you ever get to live in one of them you will imagine yourself as Henry Thoreau.
 
@@ -80,19 +80,19 @@ All you need is just $2500 in your pocket and a loving heart to make something l
 
 ![The Hobbit cabin](/img/the-hobbit-cabin.png)
 
-Image source: [Hobbitat Spaces
-](http://hobbitatspaces.com/)
+<span class="figcaption">Image source: [Hobbitat Spaces
+](http://hobbitatspaces.com/)</span>
 
 If you are wondering this home is one from the Hobbit movie, well not quite right. 
 
 The tiny cabin is made from reclaimed woods, and you can get one from the Hobbitat spaces. The company is an expert in building modern homes from reclaimed materials.
 
-## Wedge- The Micro Cabin
+## Wedge - The Micro Cabin
 
 ![Micro Cabin](/img/micro-cabin.jpg)
 
-Image source: [Wheelhaus
-](http://wheelhaus.com/model/wedge/)
+<span class="figcaption">Image source: [Wheelhaus
+](http://wheelhaus.com/model/wedge/)</span>
 
 Spending vacation in this tiny cabin on wheels might be a dream for many.
 
@@ -104,8 +104,8 @@ Rent The Wedge and get inspired before building one.
 
 ![The Glass House](/img/the-glass-house.png)
 
-Image source: [Airbnb
-](https://www.airbnb.com/rooms/17865668)
+<span class="figcaption">Image source: [Airbnb
+](https://www.airbnb.com/rooms/17865668)</span>
 
 Just a shy 90 miles away from the New York City lies the world’s most beautiful tiny cabin. 
 
@@ -115,7 +115,7 @@ Who said so? Forbes said not me. The glass house’s remote location will not bo
 
 ![The Mushroom Dome](/img/the-mushroom-dome.png)
 
-Image source: [Airbnb](https://www.airbnb.com/rooms/8357?location=United%20States&s=Ukfe6QIU)
+<span class="figcaption">Image source: [Airbnb](https://www.airbnb.com/rooms/8357?location=United%20States&s=Ukfe6QIU)</span>
 
 Located in the wilderness is the mushroom dome. It’s the perfect tiny cabin for spending a quiet vacation and a chance to see the Milky Way in a carefree environment.
 
@@ -123,8 +123,8 @@ Located in the wilderness is the mushroom dome. It’s the perfect tiny cabin fo
 
 ![Ghostly Cabin](/img/ghostly-cabin.png)
 
-Image source: [Airbnb
-](https://www.airbnb.com/rooms/1974939?location=United%20States&s=Ukfe6QIU&guests=5&adults=5)
+<span class="figcaption">Image source: [Airbnb
+](https://www.airbnb.com/rooms/1974939?location=United%20States&s=Ukfe6QIU&guests=5&adults=5)</span>
 
 The Tye Haus cabin has a ghostly feel to it, especially at night. 
 
@@ -136,8 +136,8 @@ Up to 5 guests can stay, and the reviews at Airbnb speaks a lot.
 
 ![Teeny Timber Cabin](/img/teeny-timber-cabin.png)
 
-Image source: [The spruce
-](https://www.thespruce.com/tiny-cabins-to-diy-or-buy-4139768)
+<span class="figcaption">Image source: [The spruce
+](https://www.thespruce.com/tiny-cabins-to-diy-or-buy-4139768)</span>
 
 Japanese company MUJI with its large fan following has well gone past their brand products and now is they are more like a way of life.
 
@@ -149,8 +149,8 @@ The home is very expensive at $28000!!! But I recommend building it yourself!
 
 ![Remote Home in Norway](/img/remote-home-in-norway.jpg)
 
-Image source: [Cottagelife
-](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)
+<span class="figcaption">Image source: [Cottagelife
+](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)</span>
 
 Whoa! I can see the North Pole just a little far away from this awesome tiny cabin. 
 
@@ -162,8 +162,8 @@ Who cares about getting lost, I am going to stay here for a week and live my dre
 
 ![Tiny Cabin on Hill](/img/tiny-cabin-on-hill.jpg)
 
-Image Source: [Cottagelife
-](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)
+<span class="figcaption">Image Source: [Cottagelife
+](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)</span>
 
 Though it might not be on the hills, the Scottish structure is one of the project works of the Bothy project. 
 
@@ -173,8 +173,8 @@ It’s almost a complete home but more than enough to make your vacation sweet.
 
 ![Fastest Tiny Home Built Ever](/img/fastest-tiny-home-built-ever.jpg)
 
-Image source: [Cottagelife
-](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)
+<span class="figcaption">Image source: [Cottagelife
+](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)</span>
 
 This tiny home in Oregon was built in six days! If this was not the quickest, I don’t know of any tiny cabin elsewhere. 
 
@@ -186,7 +186,7 @@ Can’t get enough. Let’s get to the next!
 
 ![Tiny Cabin on Slope](/img/tiny-cabin-on-slope.jpg)
 
-Image source: [Trendir](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)
+<span class="figcaption">Image source: [Trendir](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)</span>
 
 When working from home becomes tedious, the best way is to build a tiny office cabin hanging on a cliff.
 
@@ -196,7 +196,7 @@ That’s what Peter Frazier did in Washington. His beautiful office home is insp
 
 ![Modern Lake Cabin](/img/modern-lake-cabin.jpg)
 
-Image source: Trendir
+<span class="figcaption">Image source: [Trendir](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)</span>
 
 When it comes to design and creativity, nothing can beat this waterfront vacation cabin.
 
@@ -206,7 +206,7 @@ The Bentwood C-frame provides a classy look with a minimalistic design. Guess wh
 
 ![Split Roof Tiny Cabin](/img/split-roof-tiny-cabin.jpg)
 
-Image source: Trendir
+<span class="figcaption">Image source: [Trendir](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)</span>
 
 Remarkable thing happen in life without plans! Agree?
 
@@ -218,8 +218,8 @@ I love the home not just because of its minimalist design but because the split 
 
 ![Two Storied Tiny Cabin](/img/two-storied-tiny-cabin.jpg)
 
-Image source: [Cottagelife
-](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)
+<span class="figcaption">Image source: [Cottagelife
+](https://cottagelife.com/realestate/20-tiny-cabins-that-will-inspire-you-to-downsize/)</span>
 
 In Oregon, the two storied tiny cabin is a delight to watch. 
 
@@ -229,8 +229,8 @@ The design is simple: the first floor is the living space and the second floor i
 
 ![Base Camp Cabin](/img/base-camp-cabin.png)
 
-Image source: [The spruce
-](https://www.thespruce.com/tiny-cabins-to-diy-or-buy-4139768)
+<span class="figcaption">Image source: [The spruce
+](https://www.thespruce.com/tiny-cabins-to-diy-or-buy-4139768)</span>
 
 The Backcountry Tiny Homes is proud to build its tiny cabin ‘Base Camp.’ 
 
@@ -242,8 +242,8 @@ Hiking and camping will never be difficult again living in a tiny cabin.
 
 ![Lakeview Cabin](/img/lakeview-cabin.jpg)
 
-Image source: [Trendir
-](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)
+<span class="figcaption">Image source: [Trendir
+](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)</span>
 
 Robin Falck built a 96 square foot tiny cabin and that too in just two weeks. I  Finland a home of this size requires no permit.
 
@@ -253,8 +253,8 @@ The best part is there are two stories and from both the water view is incredibl
 
 ![Futuristic Cabin](/img/futuristic-cabin.jpg)
 
-Image source: [Trendir
-](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)
+<span class="figcaption">Image source: [Trendir
+](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)</span>
 
 The tiny house movement may well have been started in America, but it’s quite soothing to see tiny cabins all around the world these days.
 
@@ -266,8 +266,8 @@ The futuristic design and the use of traditional materials like cedar shakes, an
 
 ![Tiny Cabin Built for Hikers](/img/tiny-cabin-built-for-hikers.jpg)
 
-Image source: [Trendir
-](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)
+<span class="figcaption">Image source: [Trendir
+](https://www.trendir.com/15-tiny-gateway-vacation-cabin-designs/)</span>
 
 This tiny cabin sits on top of the Italian Alps and is a resting place for Hikers.
 

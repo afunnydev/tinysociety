@@ -7,10 +7,10 @@ description: >-
 slug: tiny-house-events-2018
 author: molli
 image: /img/c56e361c-f84b-42c5-87df-90d97849e59f.jpg
-overlay: false
+overlay: true
 date: '2018-08-31'
 notloaded:
-  need: 'true'
+  need: true
 listing:
   title: Tiny House Events in 2018
   description: >-

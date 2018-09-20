@@ -7,18 +7,18 @@ description: >-
   appliance wattage and alternative energy compatibility into account.
 slug: how-to-choose-tiny-house-appliances
 author: michelleg
-image: /img/tiny-house-appliances.png
+image: /img/tiny-house-appliances.jpg
 overlay: true
 date: '2018-07-31'
 notloaded:
-  need: 'true'
+  need: true
 listing:
   title: How to Choose the Right Tiny House Appliances
   description: >-
     There are plenty of options to be had when choosing Tiny House appliances.
     The primary considerations to apply to the array of choices are budget,
     energy source, and available space.
-  image: /img/tiny-house-appliances.png
+  image: /img/tiny-house-appliances-square.jpg
 likes: '26'
 categories:
   - Tiny houses
@@ -31,7 +31,7 @@ noindex: false
 ---
 There’s a lot to consider when choosing appliances for a Tiny House. Of course size is an important consideration when every square foot—or even square inch—counts. If the Tiny House is intended to be off-grid, or potentially off-grid at some point in the future, it’s important to take appliance wattage and alternative energy compatibility into account. Choosing between propane, on-grid electricity, or alternative energy to power the Tiny House appliances is another important decision. In this article, I’ll take you through the considerations and options for equipping a Tiny House with appliances for the kitchen, laundry area, bathroom, and the entire Tiny House.
 
-## **What appliances do I need in my Tiny House?**
+## What appliances do I need in my Tiny House?
 
 Here’s a simple checklist of appliances to consider including in a Tiny House. This is a somewhat comprehensive list, and I’m by no means suggesting that every appliance on it should be included in every Tiny House. But it’s a good place to start to make sure nothing will be left out.
 

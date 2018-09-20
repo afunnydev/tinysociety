@@ -6,7 +6,7 @@ description: >
   uses.
 slug: everything-about-building-arched-cabin
 author: jubaer
-image: /img/11224066-880444682070940-8504055399277942314-n_orig.jpg
+image: /img/build-arched-cabin.jpg
 overlay: true
 date: '2018-08-20'
 notloaded:
@@ -16,7 +16,7 @@ listing:
   description: >
     Tiny homes are love! And if you looking for inspiration for your tiny house
     designs, you have come to the right place!
-  image: /img/11224066-880444682070940-8504055399277942314-n_orig.jpg
+  image: /img/build-arched-cabin-square.jpg
 likes: '23'
 categories:
   - Tiny houses
