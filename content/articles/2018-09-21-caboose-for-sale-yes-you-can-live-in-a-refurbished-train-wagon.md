@@ -49,8 +49,20 @@ This rail car might look classic on the outside, but the interior has been fully
 
 <span class="figcaption">Image source: [Tiny House Hotel](http://tinyhousehotel.com/the-caboose) </span>
 
-#### A Second Story Extension
+For a more rustic way of living, a tiny caboose turned tiny house might be more up your alley. You might not be able to host a dinner party, but something this small would be far easier to power. If you’re looking for a tiny house on wheels, this size might be more suitable for traveling. 
+
+#### A Not-So-Tiny House
 
 ![train car house](/img/train_car_house_glen_haven_road.jpg)
 
 <span class="figcaption">Image source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Train_car_house_Glen_Haven_Road.jpg) </span>
+
+The train car you select doesn’t have to be vintage. If you come across a sterling rail that’s out of commission, you might want to jump on it. Not only does it offer more space, but it has the potential to expand an existing structure if you know what you’re doing. It also helps to camouflage the building for those interested in living off the grid. No one would think twice about seeing this house from a distance.
+
+#### A Boxcar Rail Tiny House
+
+![boxcar rail tiny house](/img/old-railroad-home.jpg)
+
+<span class="figcaption">Image source: [Goods Home Design](http://www.goodshomedesign.com/railroad-boxcar-converted-tiny-home/) </span>
+
+Larger than the caboose and smaller than the sterling rail is the boxcar rail. Their high ceilings offer the illusion of open space, and could even be built with a lofted bedroom. Since boxcars are used for shipping, there’s no need to gut them during the restoration process. That tends to be a huge draw for those looking into the tiny house community.
