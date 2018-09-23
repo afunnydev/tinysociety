@@ -1,5 +1,5 @@
 ---
-title: 'Caboose For Sale: Yes You Can Live In A Refurbished Train Wagon!'
+title: 'Caboose for Sale: Yes You Can Live in a Refurbished Train Wagon!'
 description: >-
   Vintage train cars have inspired some truly unique tiny houses as people take
   to refurbishing them to design their ideal homes.  
@@ -11,7 +11,7 @@ date: '2018-09-21'
 notloaded:
   need: true
 listing:
-  title: 'Caboose For Sale: Yes You Can Live In A Refurbished Train Wagon!'
+  title: 'Caboose for Sale: Yes You Can Live in a Refurbished Train Wagon!'
   description: >-
     High costs of living have inspired some truly unique living situations over
     the years. There’s the old school bus turned RV, the tiny homes made of
@@ -33,7 +33,7 @@ High costs of living have inspired some truly unique living situations over the 
 
 Finding a caboose for sale might sound like it would be a challenge, but it just might be the easiest part of the process. As a form of [tiny living](https://www.tinysociety.co/articles/tiny-house-communities-you-want-to-join-in-2018/), you might prefer refurbishing in a rail car over building a tiny house from scratch. Learn how you can turn a deserted train caboose into your dream home!
 
-## Living In A Train Wagon
+## Living in a Train Wagon
 
 There are a number of ways you can transform a train car into your new home. Here are some fine examples to help you find inspiration for your tiny house.
 
@@ -69,7 +69,7 @@ The train car you select doesn’t have to be vintage. If you come across a ster
 
 Larger than the caboose and smaller than the sterling rail is the boxcar rail. Their high ceilings offer the illusion of open space, and could even be built with a lofted bedroom. Since boxcars are used for shipping, there’s no need to gut them during the restoration process. That tends to be a huge draw for those looking into the tiny house community.
 
-## Where To Find A Caboose For Sale
+## Where to Find a Caboose for Sale
 
 ![caboose for sale](/img/caboose-for-sale.jpg)
 
@@ -81,7 +81,7 @@ Finding a train car for sale might sound like it would be a difficult task, but 
 
 Websites like eBay and Craigslist are great for finding hidden gems like this. It might take you a while to find the right caboose for sale, but this is where you’ll find the best prices. You’ll also be able to find rail cars that have already been refurbished or fully converted into tiny homes. These are perfect for those who aren’t interested in having a big project on their hands. It might take you a few months to find what you’re looking for, but likely the price will make the wait worth it. 
 
-#### Caboose And Rail Car Sales Websites
+#### Caboose and Rail Car Sales Websites
 
 There are many websites to choose from that are dedicated to selling train cars and related materials. You can buy a caboose, a boxcar, or even a sterling rail. Some of these websites have full refurbished rail cars listed as well. The prices are a little higher, but you won’t have to wait for something to pop up on Craigslist. Here are a few websites to check out: 
 
@@ -94,7 +94,7 @@ There are many websites to choose from that are dedicated to selling train cars 
 
 If a scrapyard near you ends up with an old rail car, you might be able to buy it for close to nothing. Contact a few places and let them know that you’re in the market for a train caboose or boxcar. They might be nice enough to give you a call when they come across one.
 
-## Cost Of Restoring A Train Cabin
+## Cost of Restoring a Train Cabin
 
 ![train car tiny house](/img/train-car-tiny-house.jpg)
 
