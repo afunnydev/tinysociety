@@ -5,6 +5,7 @@ description: >-
   to refurbishing them to design their ideal homes.  
 slug: caboose-for-sale
 author: kristen
+image: /img/caboose-rec.jpg
 overlay: true
 date: '2018-09-21'
 notloaded:
@@ -15,6 +16,7 @@ listing:
     High costs of living have inspired some truly unique living situations over
     the years. There’s the old school bus turned RV, the tiny homes made of
     storage containers, and now introducing refurbished train wagons. 
+  image: /img/caboose-sq.jpg
 likes: '22'
 categories:
   - Tiny Houses
@@ -29,7 +31,7 @@ noindex: false
 ---
 High costs of living have inspired some truly unique living situations over the years. There’s the old school bus turned RV, the tiny homes made of storage containers, and now introducing refurbished train wagons. If you’ve ever seen a vintage rail car, you have to admit that they’re quite captivating. They offer a quaint quality that few structures can provide for your home. They transport you back in time and can become quite the cozy living space. 
 
-Finding a caboose for sale might sound like it would be a challenge, but it just might be the easiest part of the process. As a form of tiny living, you might prefer refurbishing in a rail car over building a tiny house from scratch. Learn how you can turn a deserted train caboose into your dream home!
+Finding a caboose for sale might sound like it would be a challenge, but it just might be the easiest part of the process. As a form of [tiny living](https://www.tinysociety.co/articles/tiny-house-communities-you-want-to-join-in-2018/), you might prefer refurbishing in a rail car over building a tiny house from scratch. Learn how you can turn a deserted train caboose into your dream home!
 
 ## Living In A Train Wagon
 
@@ -53,9 +55,9 @@ For a more rustic way of living, a tiny caboose turned tiny house might be more 
 
 #### A Not-So-Tiny House
 
-![train car house](/img/train_car_house_glen_haven_road.jpg)
+![sterling train car house](/img/sterling-train-tiny-house.jpg)
 
-<span class="figcaption">Image source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Train_car_house_Glen_Haven_Road.jpg) </span>
+<span class="figcaption">Image source: [Airbnb](https://www.airbnb.com/rooms/12056510?irgwc=1&irclid=wmw3rMwPXTO3WoPwz43TGxzhUkg2du2twUhMXs0&ircid=4560&c=Skimbit%20Ltd._290446&sharedid=content&af=126295512) </span>
 
 The train car you select doesn’t have to be vintage. If you come across a sterling rail that’s out of commission, you might want to jump on it. Not only does it offer more space, but it has the potential to expand an existing structure if you know what you’re doing. It also helps to camouflage the building for those interested in living off the grid. No one would think twice about seeing this house from a distance.
 
@@ -94,9 +96,11 @@ If a scrapyard near you ends up with an old rail car, you might be able to buy i
 
 ## Cost Of Restoring A Train Cabin
 
+![train car tiny house](/img/train-car-tiny-house.jpg)
 
+<span class="figcaption">Image source: [Inhabitat](https://inhabitat.com/restored-old-luggage-van-offers-a-serene-mini-retreat-in-the-cornwall-countryside/) </span>
 
-Now that you know where you can buy a train cabin, you’re ready to start coming up with a budget. If money is tight, stick to buying your materials at local junkyards and garage sales. When it comes to tools, try borrowing from friends and family first. Here are the average costs you can expect when restoring a rail car:
+Now that you know where you can buy a train cabin, you’re ready to [start coming up with a budget](https://www.tinysociety.co/articles/how-to-save-money-when-building-your-tiny-house/). If money is tight, stick to buying your materials at local junkyards and garage sales. When it comes to tools, try borrowing from friends and family first. Here are the average costs you can expect when restoring a rail car:
 
 #### Rail Car Shipping
 
@@ -120,6 +124,10 @@ Chains and lock $50
 
 $1,000-$3,000 for a rail car up to 1,500 square feet
 
+![rail car house interior](/img/train-car-tiny-house-interior.jpg)
+
+<span class="figcaption">Image source: [Airbnb](https://www.airbnb.com/rooms/19040062?irgwc=1&irclid=wmw3rMwPXTO3WoPwz43TGxzhUkg2do1pwUhMXs0&ircid=4560&c=Skimbit%20Ltd._290446&sharedid=content&af=126295512) </span>
+
 #### Interior Restoration
 
 Windows And Skylights - $4,000
@@ -134,7 +142,7 @@ Plumbing - $700
 
 Solar Power System - $2,800
 
-Water Heater - $1,100
+[Water Heater](https://www.tinysociety.co/articles/the-best-tiny-house-water-heaters-on-the-market-in-2018/) - $1,100
 
 Bathroom Appliances - $1,400
 
