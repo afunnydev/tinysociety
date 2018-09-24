@@ -24,7 +24,7 @@ categories:
   - Tiny Lifestyle
 i18nlanguage: en
 menuid: articles
-ordre: '-5'
+ordre: '0'
 infographic: false
 draft: false
 noindex: false
