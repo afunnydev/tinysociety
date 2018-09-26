@@ -22,7 +22,9 @@ listing:
   image: /img/49e6b063-81c2-4bef-85cd-206a5cd37944.jpg
 likes: '12'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Architecture and design
+  - ''
 i18nlanguage: en
 menuid: articles
 ordre: '0'
