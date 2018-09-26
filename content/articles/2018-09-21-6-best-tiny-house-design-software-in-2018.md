@@ -30,7 +30,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-Buying your own tiny is exciting; but building your own tiny home is a whole different ball game. Before you can get to the actual building, you’re going to need to draw out your [tiny house plan](< tiny house plan >) to conceptualize the ins and outs of your future small space. A smart way to do this is by using a tiny house compatible design software. Without further ado, here is a brief look at some of the best tiny house design softwares in 2018.
+Buying your own tiny is exciting; but building your own tiny home is a whole different ball game. Before you can get to the actual building, you’re going to need to draw out your [tiny house plan](https://www.tinysociety.co/articles/what-to-look-for-in-a-tiny-house-plan/) to conceptualize the ins and outs of your future small space. A smart way to do this is by using a tiny house compatible design software. Without further ado, here is a brief look at some of the best tiny house design softwares in 2018.
 
 ## 1. [Homebyme](https://home.by.me/en/)
 
@@ -54,19 +54,19 @@ This popular software is fairly easy to use once you understand the basic functi
 
 Floorplanner’s intuitive editor allows tiny house hopefuls to have their floor plan ready in a matter of minutes. According to their homepage, they have the “world’s biggest library of all kinds of furniture and items.” The simple, yet detailed graphics make designing a tiny house a real pleasure--you would really be able to see just how your tiny house will look. The only real downsides are that the free version only allows you to make one floor plan and includes no walk-through feature. 
 
-**_Free Version:_** Yes (only one floor plan)
+_**Free Version:**_ Yes (only one floor plan)
 
 ## 5. [CAD Pro](https://www.cadpro.com/easy-tiny-house-floor-plan-software/)
 
 This software allows you to design a variety of custom plans with an impressive number of features. Some of these features include verbal comments, as well as pop-up notes. Similarly to high-end graphic design softwares, this particular tool allows you to draw custom 2D objects that will fill your tiny home. The precision and attention to detail are particularly impressive, but unfortunately it’s only available for Windows users. 
 
-**_Free Version: _**No (approximately $99.95)
+_**Free Version:**_ No (approximately $99.95)
 
 ## 6. [Dream Plan Home Design Software](https://www.nchsoftware.com/design/index.html?ref=blog;%20https://nchsoftware.blogspot.com/2017/04/tiny-home-design-software.html)
 
 This user-friendly software is highly intuitive and simple to use. The tip bar is a useful tool that has answers for nearly every roadblock you run into. The 2D and 3D views are both easy to navigate, and take only a simple click and drag to make additions or changes. The free version they offer for non-commercial use comes packed with extras like outdoor swimming pool design, as well as the ability to import existing floor plans. On the downside, there’s only one sample house plan available to get ideas from. Another negative is that there are only a limited number of objects you can choose from for your design. 
 
-**Free Version:** Yes (for non-commercial use only)
+**_Free Version:_** Yes (for non-commercial use only)
 
 ## The Takeaway
 
