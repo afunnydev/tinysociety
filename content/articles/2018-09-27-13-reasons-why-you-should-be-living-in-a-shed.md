@@ -6,6 +6,7 @@ description: >-
   why it's a great idea. 
 slug: 13-reasons-why-you-should-be-living-in-a-shed
 author: molli
+image: /img/206e70a7-0a2d-4a5f-b826-c3a30b20fafd.jpg
 overlay: true
 date: '2018-09-27'
 notloaded:
@@ -15,6 +16,7 @@ listing:
   description: >
     I lived in a shed in South Africa for three years.  Based on my personal
     experience, check out these 13 reasons why you should be living in a shed.
+  image: /img/be6eb6d9-e90b-41e2-ae38-2f87d2d5acee.jpg
 likes: '58'
 categories:
   - tiny houses
@@ -54,7 +56,7 @@ If you think about sheds you’ve seen at your local gardening store, you might 
 
 A huge plus to living in a tiny shed is that they’re not difficult to move. The shed can be loaded onto the back of a trailer and hauled to your location of choice. My own shed had to be moved at one point during my stay--it was lifted up so easily it was almost shocking!
 
-## 6. Independence 
+## 6. Independence
 
 While similar to not having roommates; having independence is a whole different and important reason on its own. It’s that feeling of self-reliance and pride in one’s home. It’s the feeling of self-sufficiency; despite being only steps away from everyone else.
 
@@ -90,6 +92,6 @@ Living in a shed is great for those of us who enjoy going against the grain and 
 
 Houses are bigger, cars are faster, and tiny sheds provide much-needed relief from it all. It’s apparent that amidst so much growth, society is swinging back toward nature and that real, salt-of-the-earth stuff. For instance, living in a converted van isn’t a sign of creepy--but rather a symbol of adventure! 
 
-Living in my tiny shed allowed me to see life from a new viewpoint. It helped me to reevaluate my priorities--for instance, the things I need and don’t need to make me happy. 
+Living in my tiny shed allowed me to see life from a new viewpoint. It helped me to reevaluate my priorities--for instance, what I need and don’t need to make me happy. 
 
 ![](/img/15895199_10154746120451421_3335977322126780849_n.jpg)
