@@ -98,3 +98,49 @@ When it comes to your tiny house’s windows and doors, it’s crucial to avoid 
 There are numerous insulation options for your tiny house, but when you’re on a budget, you likely want to go with the cheapest one. Fiberglass comes in large, rolled batts that are pre-cut to fit the standard distance between studs, making them easy to install yourself. It costs on average between $0.64 to $1.19 per foot.
 
 **Average Cost: $145-250**
+
+## Utilities On A Budget
+
+Choosing the tiny lifestyle doesn’t mean you have to give up all of the comforts a regular sized house offers. A materials list for your utilities should address all the necessities such as heat and water, as well as a few luxuries like air conditioning.
+
+### Solar Panels
+
+While there are a number of options to supply your tiny house with electricity, you have to consider what will work best for your lifestyle. Solar panels are not just eco-friendly, but they give you more flexibility with where your build (or park) your tiny house. Part of off-grid living is being unplugged from the electric grid, which can be made possible with a [solar power setup](https://www.amazon.com/gp/product/B071D9K1BG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071D9K1BG&linkCode=as2&tag=mywebsitekb04-20&linkId=5e5fd27934f4efd251f90d7702c1da04). While the cost upfront might be more than you’d like, it pays for itself over time as your electric bill will be close to nothing. If you’re building a tiny house on wheels, you’ll want to use a portable solar generator kit so that you have the freedom to travel with them. Homes that are built on land can use a more permanent solar power system. 
+
+**Average Cost: $1,600-$2,800**
+
+### Fresh Water Tank
+
+Every tiny house requires a [fresh water tank](https://www.amazon.com/gp/product/B007MSLP7A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007MSLP7A&linkCode=as2&tag=mywebsitekb04-20&linkId=6b92aae1925801f520aaa89747ba8741). This is a container that holds the water that comes out of your sink taps and shower head. You can purchase this tank in numerous sizes, but keep in mind that the smaller your water container is, the more often it will need to be refilled. Since fresh water tanks are usually stored in dark areas, a filter is required to eliminate any bacteria and impurities.
+
+**Average Cost: $40-$100**
+
+### Water Pump
+
+To get your water to flow from your fresh water tank to your faucets and out of your showerhead, you’ll need a basic [water pump](https://www.amazon.com/gp/product/B00W5GCQC2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5GCQC2&linkCode=as2&tag=mywebsitekb04-20&linkId=2b696eea8363033036e9429c7d50f35f). They’re on the expensive side, but necessary to have running water in your tiny house.
+
+**Average Cost: $60-$80**
+
+### Grey Water Tank
+
+When you live in a tiny house, you have to create a place for all of your used water to go. This includes the water used to wash your dishes and shower water. Some people choose to collect this water in a [grey water tank](https://www.amazon.com/gp/product/B000P66C7Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000P66C7Y&linkCode=as2&tag=mywebsitekb04-20&linkId=29dea4e321cf3c19dcde48c538932408) and dump it. Others collect it and use it to water their plants or flowers. Depending on where your house is, you might be able to get away with it running a hose outside into the ground. 
+
+**Average Cost: $50-$175**
+
+### Propane Tankless Water Heater
+
+If you can’t go without regular hot showers, you’re going to need a [tankless water heater](https://www.amazon.com/gp/product/B00HRH6T2W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HRH6T2W&linkCode=as2&tag=mywebsitekb04-20&linkId=cce3253ffb9d824a38b55fd7467c89e2) and propane system. This luxury is far from cheap, so you might want to consider skipping it if your budget doesn’t allow for it. The tankless water heater alone costs around $1,200 and a dual propane tank setup will run you around $300.
+
+**Average Cost: $1,100-$1,500**
+
+### Propane Heating
+
+If you choose to splurge for a hot water system that uses propane, then it would be cost effective to use a [propane heating system](https://www.amazon.com/gp/product/B016I0DB5G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016I0DB5G&linkCode=as2&tag=mywebsitekb04-20&linkId=0440bc3224f3bcde33b2d93b417c935b) as well. These days you can hang a lightweight unit on your wall that’s able to heat your entire house without it taking up too much space. When you’re installing something like this, it’s important to take the unit’s size and weight into consideration.
+
+**Average Cost: $140-$200**
+
+### Air Conditioning
+
+When you’re on a budget, you want to be able to use what you already have. An [air conditioning window unit](https://www.amazon.com/gp/product/B00W2KG92Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W2KG92Y&linkCode=as2&tag=mywebsitekb04-20&linkId=0f0cd6facf7f21c9972042401d60bbe5) might not be ideal, as they tend to be chunky, but it’s the most cost-effective option. If you don’t already own an A/C window unit, then you might want to consider spending a little bit more for a compact or mountable unit. 
+
+**Average Cost: $140-$250**
