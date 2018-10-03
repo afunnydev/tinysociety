@@ -180,3 +180,5 @@ Even though you should design your tiny house so that it allows in a ton of natu
 Even the smallest houses need cabinets to store pots and pans in and a countertop to cook on. The price will depend on your design plans and needs, but at the very least you can expect to need two kitchen cabinets and one countertop. Keep your eye out for garage sales and Craigslist freebies, and you’ll be able to snag these items for practically nothing.
 
 **Average Cost: $50-$150**
+
+****
