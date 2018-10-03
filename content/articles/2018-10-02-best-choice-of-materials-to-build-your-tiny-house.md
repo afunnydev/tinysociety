@@ -32,6 +32,10 @@ When it comes to choosing the right tiny house materials to use for your new hom
 
 ## You Want to Build the Most Affordable Tiny House
 
+![Affordable Tiny House](/img/affordable-tiny-houses.jpg)
+
+<span class="figcaption">Image source: [Beautiful Misbehavior](https://beautifulmisbehaviour.com/furnish-tiny-house-bedroom-functional-way/)</span>
+
 When you’re looking to build your tiny house at the lowest cost possible, the materials you use can make all the difference. Since you’re building on a budget, you’ll want to start collecting materials early. Even if you don’t plan to start building for a few months, you’ll want to start your search now and ensure you get the lowest prices. 
 
 ### Tips For Finding Budget Materials
@@ -46,6 +50,10 @@ When you’re looking to build your tiny house at the lowest cost possible, the 
 * Shop at nonprofit stores like the[ Habitat Restore](http://www.habitat.org/restores). 
 
 ## Frame Building Materials List
+
+![Tiny House Frame](/img/tiny-house-framing14.jpg)
+
+<span class="figcaption">Image source: [DIY House Building](http://www.diyhousebuilding.com/tiny-home-lucy2.html)</span>
 
 These are a list of materials you will need to purchase to build the frame of your tiny house. The frame consists of the basic structure and does not apply to the interior. 
 
@@ -69,7 +77,7 @@ Commonly used siding materials include wood, metal, and vinyl. Since you’re bu
 
 ### Asphalt Shingle Roofing
 
-When you’re working with limited funds, you’ll likely be building your tiny house on your own. If you’re lucky, you’ll get the help of a few friends and family members. When it comes to the roof, you want something not only affordable but one that doesn’t require a professional to install. Asphalt shingles are both of these things and are a popular choice for tiny house roofing. 
+When you’re working with limited funds, you’ll likely be building your tiny house on your own. If you’re lucky, you’ll get the help of a few friends and family members. When it comes to the roof, you want something not only affordable but one that doesn’t require a professional to install. [Asphalt shingles](https://www.amazon.com/gp/product/B072Q8MQ88/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B072Q8MQ88&linkCode=as2&tag=mywebsitekb04-20&linkId=9f6c93334e3805ddb0fc73e37a7b1e5e) are both of these things and are a popular choice for tiny house roofing. 
 
 **Average Cost: $800-$1,000**
 
