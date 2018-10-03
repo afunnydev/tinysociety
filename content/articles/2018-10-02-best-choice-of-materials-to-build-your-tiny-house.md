@@ -101,6 +101,10 @@ There are numerous insulation options for your tiny house, but when you’re on 
 
 ## Utilities On A Budget
 
+![Tiny House Solar Panels](/img/solar-panels-tiny-house.jpg)
+
+<span class="figcaption">Image source: [Tiny Project](https://tiny-project.com/solar-power-for-tiny-homes/)</span>
+
 Choosing the tiny lifestyle doesn’t mean you have to give up all of the comforts a regular sized house offers. A materials list for your utilities should address all the necessities such as heat and water, as well as a few luxuries like air conditioning.
 
 ### Solar Panels
@@ -144,3 +148,35 @@ If you choose to splurge for a hot water system that uses propane, then it would
 When you’re on a budget, you want to be able to use what you already have. An [air conditioning window unit](https://www.amazon.com/gp/product/B00W2KG92Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W2KG92Y&linkCode=as2&tag=mywebsitekb04-20&linkId=0f0cd6facf7f21c9972042401d60bbe5) might not be ideal, as they tend to be chunky, but it’s the most cost-effective option. If you don’t already own an A/C window unit, then you might want to consider spending a little bit more for a compact or mountable unit. 
 
 **Average Cost: $140-$250**
+
+## Interior Building Materials List
+
+![Tiny House Flooring](/img/tiny-house-stainmaster-vinyl.jpg)
+
+<span class="figcaption">Image source: [Stainmaster](https://enhanceyourhome.stainmaster.com/tiny-house-flooring-tips/)</span>
+
+Once you’ve completed building your tiny house frame, your next step is to work on the interior. Even though you’re working with a limited budget, you can still come up with a look or style you want to aim for. Whether it be modern or rustic, you’ll be able to find materials at a low cost. 
+
+### Plywood Interior Siding
+
+Drywall doesn’t always work for tiny houses, as it’s heavy and more likely to crack if you build your house on wheels. The best option for your interior siding when you’re on a budget is [plywood](https://www.lowes.com/pd/RevolutionPly-5mm-Poplar-Plywood-Application-as-4-X-8/50121135?cm_mmc=SCE_PLA-_-LumberAndBuildingMaterials-_-HardwoodPlywood-_-50121135:RevolutionPly&CAWELAID=&kpid=50121135&CAGPSPN=pla&store_code=1917&k_clickID=9b2259fd-dc01-4722-a288-5f3ec5b71271&gclid=Cj0KCQjw0dHdBRDEARIsAHjZYYDGYERrx5gJ65novMj0w5y1anShRuL9VKaQiMQCFP9atSqqOyahyWwaAj6PEALw_wcB). It might not be the prettiest, but it’s inexpensive, and you can paint it any color you’d like. The average cost of a 4’ x 8’ piece of plywood is $15, so your cost of materials will depend on the size of your tiny house. 
+
+**Average Cost: $250-$500**
+
+### Laminate Flooring
+
+When you’re looking at flooring options for your tiny house, don’t be surprised if you have to purchase it new. Looking on Craigslist or at garage sales, you’ll probably only find people selling their leftovers. Unless you’re okay with having a multi-colored floor, shop at [Lowes](https://www.lowes.com/pl/Laminate-under-1/4294441952) or The Home Depot where you can get laminate flooring for under a dollar per square foot.
+
+**Average Cost: $300-$500**
+
+### Light Fixtures
+
+Even though you should design your tiny house so that it allows in a ton of natural lighting, you’ll also need a few light fixtures to use when the sun sets. This is when you should take advantage of garage sales and online auctions. Whether you’re looking for something funky or classic, you’ll definitely be able to get what you need at a reasonable cost. 
+
+**Average Cost: $200-300**
+
+### Cabinets and Countertops
+
+Even the smallest houses need cabinets to store pots and pans in and a countertop to cook on. The price will depend on your design plans and needs, but at the very least you can expect to need two kitchen cabinets and one countertop. Keep your eye out for garage sales and Craigslist freebies, and you’ll be able to snag these items for practically nothing.
+
+**Average Cost: $50-$150**
