@@ -6,6 +6,7 @@ description: >-
   what a wet bathroom offers tiny living.
 slug: tiny-house-wet-bathroom
 author: molli
+image: /img/wet-bathroom-banner-image.jpg
 overlay: true
 date: '2018-09-24'
 notloaded:
@@ -18,9 +19,11 @@ listing:
     consider the amount of utility that needs to be packed into such a small
     space, you’ll start thinking about the best ways to combine function with
     design. 
+  image: /img/wet-bathroom-square-image.jpg
 likes: '25'
 categories:
   - Tiny Houses
+  - Architecture and design
 i18nlanguage: en
 menuid: articles
 ordre: '0'
