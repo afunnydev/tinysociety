@@ -169,6 +169,8 @@
                                     <h2>{{ .title }}</h2>
                                     <hr class="no_line" style="margin: 0 auto 15px;" />
                                     {{ range sort $.Site.Data.authors "weight" "asce" }}
+                                    {{ if .notactive }}
+                                    {{ else }}
                                     <div style="position: relative; padding: 0 0 0 40px;">
                                         <span class="icon-user place-left"></span>
                                         <h5 style="font-weight: 700; margin: 0 0 6px 0">{{ .name }}</h5>
@@ -176,6 +178,7 @@
                                             {{ .bio }}
                                         </p>
                                     </div>
+                                    {{ end }}
                                     {{ end }}
                                 </div>
                             </div>

@@ -4,7 +4,7 @@ description: >-
   Tips to find land for your Tiny Home. Where to search, what to look for and
   way more explained by Anthony Gilbert from RealFX Group.
 slug: tips-for-buying-land-for-your-tiny-house
-author: jubaer
+author: guest
 image: /img/how-to-find-land-guest-post.jpg
 overlay: true
 date: '2018-10-04'
@@ -19,7 +19,6 @@ listing:
 likes: '35'
 categories:
   - Tiny Houses
-  - ''
 i18nlanguage: en
 menuid: articles
 ordre: '4'
@@ -57,7 +56,7 @@ Experts also suggest posting a “land wanted” flyer in spots like supermarket
 
 ## Special Considerations
 
-**Prospective land buyers need to consider three special things:  building codes, zoning regulations, and seller perspective.**
+**Prospective land buyers need to consider three special things:  building codes, zoning regulations, and seller perspective.**
 
 Both [building codes and zoning laws](https://www.curbed.com/2016/9/22/13002832/tiny-house-zoning-laws-regulations) limit tiny house construction.  Local building codes specify how to build the dwelling.  Zoning regulations govern where the owner can place the home.
 
@@ -69,6 +68,6 @@ Knowledge of local laws and creative negotiating will go a long way in helping y
 
 
 
-**Written by: Anthony Gilbert **
+**Written by: Anthony Gilbert**
 
 From: [RealFX group](https://www.realfx.com/about/)
