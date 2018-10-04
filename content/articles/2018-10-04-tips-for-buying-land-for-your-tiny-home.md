@@ -3,7 +3,7 @@ title: Tips for Buying Land for Your Tiny Home
 description: >-
   Tips to find land for your Tiny Home. Where to search, what to look for and
   way more explained by Anthony Gilbert from RealFX Group.
-slug: this-is-an-example
+slug: tips-for-buying-land-for-your-tiny-house
 author: jubaer
 image: /img/how-to-find-land-guest-post.jpg
 overlay: true
