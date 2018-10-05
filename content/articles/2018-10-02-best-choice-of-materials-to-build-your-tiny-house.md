@@ -36,7 +36,7 @@ When it comes to choosing the right tiny house materials to use for your new hom
 
 <span class="figcaption">Image source: [Beautiful Misbehavior](https://beautifulmisbehaviour.com/furnish-tiny-house-bedroom-functional-way/)</span>
 
-When you’re looking to build your tiny house at the lowest cost possible, the materials you use can make all the difference. Since you’re building on a budget, you’ll want to start collecting materials early. Even if you don’t plan to start building for a few months, you’ll want to start your search now and ensure you get the lowest prices. 
+When you’re looking to build your tiny house at the [lowest cost possible](https://www.tinysociety.co/articles/how-to-save-money-when-building-your-tiny-house/), the materials you use can make all the difference. Since you’re building on a budget, you’ll want to start collecting materials early. Even if you don’t plan to start building for a few months, you’ll want to start your search now and ensure you get the lowest prices. 
 
 ### Tips For Finding Budget Materials
 
@@ -133,7 +133,7 @@ When you live in a tiny house, you have to create a place for all of your used w
 
 ### Propane Tankless Water Heater
 
-If you can’t go without regular hot showers, you’re going to need a [tankless water heater](https://www.amazon.com/gp/product/B00HRH6T2W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HRH6T2W&linkCode=as2&tag=mywebsitekb04-20&linkId=cce3253ffb9d824a38b55fd7467c89e2) and propane system. This luxury is far from cheap, so you might want to consider skipping it if your budget doesn’t allow for it. The tankless water heater alone costs around $1,200 and a dual propane tank setup will run you around $300.
+If you can’t go without regular hot showers, you’re going to need a [tankless water heater](https://www.amazon.com/gp/product/B00HRH6T2W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HRH6T2W&linkCode=as2&tag=mywebsitekb04-20&linkId=cce3253ffb9d824a38b55fd7467c89e2) and propane system. This luxury is far from cheap, so you might want to consider skipping it if your budget doesn’t allow for it. The tankless [water heater](https://www.tinysociety.co/articles/the-best-tiny-house-water-heaters-on-the-market-in-2018/) alone costs around $1,200 and a dual propane tank setup will run you around $300.
 
 **Average Cost: $1,100-$1,500**
 
@@ -215,7 +215,7 @@ A [bucket toilet](https://www.amazon.com/gp/product/B075BZVVLD/ref=as_li_tl?ie=U
 
 ### Shower
 
-The most important thing to remember when collecting materials to use for your tiny house shower is that you’ll need to waterproof the area. While you’re likely used to having tiles on your bathroom walls, this can be too heavy for a house on wheels. Instead, build a shower enclosure using extra metal roofing materials or waterproof your wood siding with a sealer. A[ RV shower pan](https://www.amazon.com/gp/product/B00LY9CBQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LY9CBQ2&linkCode=as2&tag=mywebsitekb04-20&linkId=11357d0a0f95947fb971a9d79c2f067b) works great for the floor, and you can set it up so that it drains similar to a regular tub.
+The most important thing to remember when collecting materials to use for your tiny house shower is that you’ll need to [waterproof](https://www.tinysociety.co/articles/tiny-house-wet-bathroom/) the area. While you’re likely used to having tiles on your bathroom walls, this can be too heavy for a house on wheels. Instead, build a shower enclosure using extra metal roofing materials or waterproof your wood siding with a sealer. A[ RV shower pan](https://www.amazon.com/gp/product/B00LY9CBQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LY9CBQ2&linkCode=as2&tag=mywebsitekb04-20&linkId=11357d0a0f95947fb971a9d79c2f067b) works great for the floor, and you can set it up so that it drains similar to a regular tub.
 
 **Average Cost: $130-$150**
 
@@ -271,6 +271,6 @@ By using [LED light bulbs](https://www.amazon.com/gp/product/B0758GXHQK/ref=as_l
 
 ## Summary
 
-When you start planning to build your tiny house on wheels or a piece of land, you'll notice that you will ultimately be saving money and using less energy than you would in most other living situations.  There's no avoiding it, but you should prioritize one or the other. After you’ve decided what home features are most important to you and have created a tiny house design plan, you’re ready for the next big step. 
+When you start planning to build your tiny house on wheels or a piece of land, you'll notice that you will ultimately be saving money and using less energy than you would in most other living situations.  There's no avoiding it, but you should prioritize one or the other. After you’ve decided what home features are most important to you and have created a [tiny house design plan](https://www.tinysociety.co/tiny-house-plans/), you’re ready for the next big step. 
 
 Whether you’re looking for tiny house materials that are the most cost-effective, lightweight, or eco-friendly, creating a list of supplies before you begin to build will save you lots of headaches down the line. A materials list will not only help you to create an informative budget, but it will give you an idea of the overall timeframe for your project. Since it's basically a shopping list, doing this will also save time and energy while making trips to the store, junkyard, and garage sales. When you have a list dictating what materials you need, you tend to be more focused on the task at hand. Use it as a checklist, and you'll have all of your tiny house materials in no time!
