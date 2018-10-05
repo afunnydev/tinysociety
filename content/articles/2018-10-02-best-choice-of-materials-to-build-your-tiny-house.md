@@ -181,4 +181,36 @@ Even the smallest houses need cabinets to store pots and pans in and a counterto
 
 **Average Cost: $50-$150**
 
-****
+## Tiny House Appliances
+
+Since you’re working with limited space in a tiny house, you likely won’t be able to use the average size appliances you’re used to. How you choose to power your home will also affect which appliances you can and can not use. You may want to consider what appliances you already have before making any electrical decisions. 
+
+### Refrigerator
+
+Remember that [mini fridge](https://www.amazon.com/gp/product/B077W3YXHN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077W3YXHN&linkCode=as2&tag=mywebsitekb04-20&linkId=91c3b3109c93b776ab735760de069366) you had in your college dorm room? If you still have it laying around somewhere, then you don’t need to budget for a new refrigerator. When you’re on a budget, every penny counts. If you need to pick up a refrigerator, try to wait until May or June when the universities in your area let out. You’ll be able to find what you need for close to nothing.
+
+**Average Cost: $0-$50**
+
+### Stovetop
+
+While you can’t expect to be cooking major feasts in your tiny house, you’ll want to be able to have access to a stovetop so you can prepare yourself basic meals. Depending on how often you cook, you can choose between a [single hotplate ](https://www.amazon.com/gp/product/B005T0SN0K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005T0SN0K&linkCode=as2&tag=mywebsitekb04-20&linkId=485c4c7b15e26372cf58254b732cbc71)or a full stovetop. Since you’re on a budget, it would be cheaper to buy one or two hotplates, as a full stovetop will run you over $350 brand new. 
+
+**Average Cost: $10-40**
+
+### Kitchen Sink
+
+Unless you’re able to find both a kitchen and bathroom sink at a low cost, you might want to only install one. Likely you’ll use a bathroom sink to wash your hands and face, both which can be done in a kitchen sink instead. If you end up needing to buy most of your kitchen appliances, you might want to consider getting a combo kitchen like these at [Compact Appliances](https://www.compactappliance.com/tiny-house-appliances-combo-kitchens/). 
+
+**Average Cost: $150-300**
+
+### Bucket Toilet
+
+A [bucket toilet](https://www.amazon.com/gp/product/B075BZVVLD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075BZVVLD&linkCode=as2&tag=mywebsitekb04-20&linkId=21def4c982f4161d8b2a86d832bbcbd8) is pretty much as basic as it sounds. It requires just a few materials to make, including a large bucket, wooden enclosure, and a toilet seat. If it’s built properly, it won’t feel much different than any other toilet you’ve used. It does, however, require you to find something to cover up the smell and clean it out every now and then. Most people choose to let the bucket sit to compost for a few years after it is full. 
+
+**Average Cost: $60-$90**
+
+### Shower
+
+The most important thing to remember when collecting materials to use for your tiny house shower is that you’ll need to waterproof the area. While you’re likely used to having tiles on your bathroom walls, this can be too heavy for a house on wheels. Instead, build a shower enclosure using extra metal roofing materials or waterproof your wood siding with a sealer. A[ RV shower pan](https://www.amazon.com/gp/product/B00LY9CBQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LY9CBQ2&linkCode=as2&tag=mywebsitekb04-20&linkId=11357d0a0f95947fb971a9d79c2f067b) works great for the floor, and you can set it up so that it drains similar to a regular tub.
+
+**Average Cost: $130-$150**
