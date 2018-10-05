@@ -183,6 +183,10 @@ Even the smallest houses need cabinets to store pots and pans in and a counterto
 
 ## Tiny House Appliances
 
+![tiny house kitchen](/img/tiny-house-kitchen2.jpg)
+
+<span class="figcaption">Image source: [Tiny House Swoon](http://tinyhouseswoon.com/aleks-tiny-house/)</span>
+
 Since you’re working with limited space in a tiny house, you likely won’t be able to use the average size appliances you’re used to. How you choose to power your home will also affect which appliances you can and can not use. You may want to consider what appliances you already have before making any electrical decisions. 
 
 ### Refrigerator
@@ -217,6 +221,10 @@ The most important thing to remember when collecting materials to use for your t
 
 ## You Want To Build A Lightweight Tiny House
 
+![lightweight tiny house](/img/lightweight-tiny-house.jpg)
+
+<span class="figcaption">Image source: [YouTube](https://www.youtube.com/watch?v=KyEpJlGSUVk)</span>
+
 If you’re building a tiny house on wheels, you’ll want to keep the weight of your structure in mind throughout the entire process. Not only are heavy houses harder to tow, but most road permits (which you’ll need) have weight limits. Consider these alternative tiny house materials if your goal is to keep your new home lightweight.
 
 ### Honeycomb Wood Siding
@@ -225,9 +233,9 @@ Instead of putting up a wood siding, use [honeycomb wood panels](https://www.hom
 
 **Average Cost: $450-$600**
 
-### Steel Roof Panels
+### Metal Roofing Panels
 
-Regular roof shingles can be clunky and will add a lot of unnecessary weight to your tiny house. A lightweight option is to use [steel roof panels](https://www.homedepot.com/b/Building-Materials-Roofing-Gutters-Roofing-Roof-Panels-Metal-Roofing/N-5yc1vZapwh?NCNI-5&searchRedirect=metal+roofing&semanticToken=200r20000+++%3E++++st%3A%7Bmetal+roofing%7D%3Ast++cnn%3A%7B0%3A0%7D+cnr%3A%7B8%3A1%7D+cnb%3A%7B9%3A1%7D++metal+roofing+%7Bcategory%7D+qu%3A%7Bmetal+roofing%7D), which can be salvaged from a junkyard or purchased for relatively cheap. 
+Regular roof shingles can be clunky and will add a lot of unnecessary weight to your tiny house. A lightweight option is to use [metal roofing panels](https://www.homedepot.com/b/Building-Materials-Roofing-Gutters-Roofing-Roof-Panels-Metal-Roofing/N-5yc1vZapwh?NCNI-5&searchRedirect=metal+roofing&semanticToken=200r20000+++%3E++++st%3A%7Bmetal+roofing%7D%3Ast++cnn%3A%7B0%3A0%7D+cnr%3A%7B8%3A1%7D+cnb%3A%7B9%3A1%7D++metal+roofing+%7Bcategory%7D+qu%3A%7Bmetal+roofing%7D), which can be salvaged from a junkyard or purchased for relatively cheap. 
 
 **Average Cost: $150-$200**
 
@@ -236,3 +244,33 @@ Regular roof shingles can be clunky and will add a lot of unnecessary weight to 
 While many people use wood to build their tiny house frame, that’s certainly not the only option. Steel tends to be lighter and just as sturdy. People tend to be more comfortable working with wood and it’s a bit cheaper, but if you need to keep your house’s weight down, this will certainly help!
 
 **Average Cost: $4,000-$6,000**
+
+## You Want To Build An Energy-Saving Tiny House
+
+![energy saving wood stove](/img/tiny-house-energy-saving-wood-stove.jpg)
+
+<span class="figcaption">Image source: [Fiddly Dingus Club](http://fiddlydingus.club/mini-wood-burning-stove/)</span>
+
+One of the biggest draws to the tiny house lifestyle is the fact that it saves people a ton of money. Not only is it far cheaper to build than any house on the market these days, but it will continue to keep money in your pocket with is energy saving features. If you want to ensure your tiny house is built to save the most energy, consider using these alternative materials. 
+
+### Indoor Wood Stove
+
+When you have a tiny house on wheels, avoiding the brutally cold weather can be as simple as packing up and driving south. However, if you enjoy the cooler months, you’ll need to have a heating system in place. An [indoor wood stove](https://www.amazon.com/gp/product/B01GTYCLU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GTYCLU2&linkCode=as2&tag=mywebsitekb04-20&linkId=7aa23d2f054131240f876a8490a10e3d) can help to keep your tiny house nice and toasty, and if you buy one with a stovetop, you can put on a pot of tea as well. It can be used to replace another heating system or as a backup.
+
+**Average Cost: $550-$800**
+
+### Solar Appliances
+
+They might be more expensive than electric appliances, but if you’re looking for energy saving alternatives, go solar. You’ll be grateful when you’re able to reduce your power bills to little to nothing, and it’s always good to have a backup when you’re living off the grid. Items that you use outside especially should be solar powered such as a [BBQ](https://www.amazon.com/gp/product/B07583ZSX4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07583ZSX4&linkCode=as2&tag=mywebsitekb04-20&linkId=fbe5968098255e2d4e66b68f9c446e23) and any [outdoor lights](https://www.amazon.com/gp/product/B01L6PZQA6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L6PZQA6&linkCode=as2&tag=mywebsitekb04-20&linkId=bc80ff6ae4c777046186537a2ff2b379).
+
+### LED Light Bulbs
+
+By using [LED light bulbs](https://www.amazon.com/gp/product/B0758GXHQK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0758GXHQK&linkCode=as2&tag=mywebsitekb04-20&linkId=4cb2ac4a6eb71cbc5d38f0797fcfd16b), you’ll be using up to 75 percent less energy. While this is common knowledge among homeowners, it can sometimes be forgotten. 
+
+**Average Cost: $1.50-$2.00 each**
+
+## Summary
+
+When you start planning to build your tiny house on wheels or a piece of land, you'll notice that you will ultimately be saving money and using less energy than you would in most other living situations.  There's no avoiding it, but you should prioritize one or the other. After you’ve decided what home features are most important to you and have created a tiny house design plan, you’re ready for the next big step. 
+
+Whether you’re looking for tiny house materials that are the most cost-effective, lightweight, or eco-friendly, creating a list of supplies before you begin to build will save you lots of headaches down the line. A materials list will not only help you to create an informative budget, but it will give you an idea of the overall timeframe for your project. Since it's basically a shopping list, doing this will also save time and energy while making trips to the store, junkyard, and garage sales. When you have a list dictating what materials you need, you tend to be more focused on the task at hand. Use it as a checklist, and you'll have all of your tiny house materials in no time!
