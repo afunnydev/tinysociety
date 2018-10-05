@@ -5,6 +5,7 @@ description: >-
   eco-friendly guidelines, or meet any weight requirements. 
 slug: best-choice-of-materials-to-build-your-tiny-house
 author: kristen
+image: /img/tiny-house-rectangle.jpg
 overlay: true
 date: '2018-10-02'
 notloaded:
@@ -16,6 +17,7 @@ listing:
     home, it’s best to prioritize your needs. Ask yourself if the price is the
     most important aspect to you or if you will spend a little more to ensure
     your new home is eco-friendly.
+  image: /img/tiny-house-square.jpg
 likes: '22'
 categories:
   - Architecture and design
