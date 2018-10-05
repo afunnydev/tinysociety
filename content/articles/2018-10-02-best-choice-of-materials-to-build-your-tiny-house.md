@@ -214,3 +214,25 @@ A [bucket toilet](https://www.amazon.com/gp/product/B075BZVVLD/ref=as_li_tl?ie=U
 The most important thing to remember when collecting materials to use for your tiny house shower is that you’ll need to waterproof the area. While you’re likely used to having tiles on your bathroom walls, this can be too heavy for a house on wheels. Instead, build a shower enclosure using extra metal roofing materials or waterproof your wood siding with a sealer. A[ RV shower pan](https://www.amazon.com/gp/product/B00LY9CBQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LY9CBQ2&linkCode=as2&tag=mywebsitekb04-20&linkId=11357d0a0f95947fb971a9d79c2f067b) works great for the floor, and you can set it up so that it drains similar to a regular tub.
 
 **Average Cost: $130-$150**
+
+## You Want To Build A Lightweight Tiny House
+
+If you’re building a tiny house on wheels, you’ll want to keep the weight of your structure in mind throughout the entire process. Not only are heavy houses harder to tow, but most road permits (which you’ll need) have weight limits. Consider these alternative tiny house materials if your goal is to keep your new home lightweight.
+
+### Honeycomb Wood Siding
+
+Instead of putting up a wood siding, use [honeycomb wood panels](https://www.homedepot.com/p/Kimberly-Bay-3-4-in-x-5-1-2-in-x-8-ft-Primed-Wood-Nickel-Gap-Ship-Lap-Siding-and-Wall-Panel-6-Pieces-per-Box-BPAFPSS0106B/305663349) with a hollow interior. They’re structurally stable and insulated, but incredibly lightweight. Use this kind of material to build any interior furniture as well such as a table or shelves.
+
+**Average Cost: $450-$600**
+
+### Steel Roof Panels
+
+Regular roof shingles can be clunky and will add a lot of unnecessary weight to your tiny house. A lightweight option is to use [steel roof panels](https://www.homedepot.com/b/Building-Materials-Roofing-Gutters-Roofing-Roof-Panels-Metal-Roofing/N-5yc1vZapwh?NCNI-5&searchRedirect=metal+roofing&semanticToken=200r20000+++%3E++++st%3A%7Bmetal+roofing%7D%3Ast++cnn%3A%7B0%3A0%7D+cnr%3A%7B8%3A1%7D+cnb%3A%7B9%3A1%7D++metal+roofing+%7Bcategory%7D+qu%3A%7Bmetal+roofing%7D), which can be salvaged from a junkyard or purchased for relatively cheap. 
+
+**Average Cost: $150-$200**
+
+### Steel Frame
+
+While many people use wood to build their tiny house frame, that’s certainly not the only option. Steel tends to be lighter and just as sturdy. People tend to be more comfortable working with wood and it’s a bit cheaper, but if you need to keep your house’s weight down, this will certainly help!
+
+**Average Cost: $4,000-$6,000**
