@@ -19,7 +19,8 @@ listing:
   image: /img/how-to-live-minimalist-lifestyle-3.jpg
 likes: '50'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -31,9 +32,9 @@ What do you think about when you think of minimalism? Do you think about stark r
 
 While it’s true that a minimalist space lacks an abundance of objects in a room--it doesn’t mean the room needs to feel cold or unfriendly. You may be asking yourself, _what is minimalism? _Minimalism is a way of living that assists people in placing value on the things in their life. It helps people to decide what’s important and what isn’t. By removing the things that add clutter to our lives we are able to refocus on things like self improvement, relationships, and passions. You could say that minimalism acts as a clean slate for creating a full, and meaningful life.
 
-![](/img/how-to-live-minimalist-lifestyle-4.jpg)
+![null](/img/how-to-live-minimalist-lifestyle-4.jpg)
 
-##  What is a minimalist lifestyle?
+## What is a minimalist lifestyle?
 
 A minimalist lifestyle focuses on the idea of freedom in owning less. Let’s take a look at some of the pros and cons to this way of living.
 
@@ -73,15 +74,15 @@ Your bedroom should be your personal oasis. However, in a tiny house, you’re l
 
 ## Build your own Swiss-Army knife kitchen.
 
-A tiny house doesn’t offer enough space for all of the appliances you would have in the kitchen of a residential home. Particularly in a tiny house on wheels, you’ll want to go as light as possible. Just like a Swiss Army knife, this kitchen folds up and can contain everything you need to cook a meal.[ Read here](https://www.tinysociety.co/articles/6-pieces-of-furniture-you-need-in-your-tiny-house/) for more about this folding kitchen, as well as some other great furniture tips for a tiny!
+A tiny house doesn’t offer enough space for all of the appliances you would have in the kitchen of a residential home. Particularly in a tiny house on wheels, you’ll want to go as light as possible. Just like a Swiss Army knife, this kitchen folds up and can contain everything you need to cook a meal. We wrote an article about this folding kitchen, as well as some other [great furniture tips](https://www.tinysociety.co/articles/6-pieces-of-furniture-you-need-in-your-tiny-house/) for a tiny!
 
-_**The minimalist lifestyle is largely up to interpretation. **_
+**_The minimalist lifestyle is largely up to interpretation. _**
 
 Minimalism can also be extended into the space of the food we eat and the power we consume. Tiny house enthusiasts who are interested in wasting as little as possible, can continue reading to learn more about how minimalism can affect the way we look at food and power. 
 
 ## Minimalism and food.
 
-![](/img/how-to-live-minimalist-lifestyle-5.jpg)
+![null](/img/how-to-live-minimalist-lifestyle-5.jpg)
 
 Another aspect of life that can embrace minimalism, is food. Too much food today is over-processed or complicated. Additionally, far too many households buy too much food and end up wasting it. A great way to incorporate minimalism into the way you eat is by making your own food. As mentioned previously, minimalism helps you to live meaningfully, and part of that meaningful living involves the food you eat. Focus on buying and preparing foods made from unprocessed, fresh ingredients. Consider meal-prep. By making meals for the week from these fresh ingredients, you only need to buy exactly what you need. 
 
