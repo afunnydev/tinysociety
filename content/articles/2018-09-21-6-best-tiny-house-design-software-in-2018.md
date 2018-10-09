@@ -24,7 +24,6 @@ likes: '12'
 categories:
   - Tiny houses
   - Architecture and design
-  - ''
 i18nlanguage: en
 menuid: articles
 ordre: '0'

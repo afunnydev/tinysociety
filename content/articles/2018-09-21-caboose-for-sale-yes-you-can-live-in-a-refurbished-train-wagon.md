@@ -19,9 +19,9 @@ listing:
   image: /img/caboose-sq.jpg
 likes: '22'
 categories:
-  - Tiny Houses
+  - Tiny houses
   - DIY
-  - Tiny Lifestyle
+  - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
 ordre: '0'

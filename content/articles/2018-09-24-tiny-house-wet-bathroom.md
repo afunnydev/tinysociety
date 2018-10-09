@@ -22,7 +22,7 @@ listing:
   image: /img/wet-bathroom-square-image.jpg
 likes: '25'
 categories:
-  - Tiny Houses
+  - Tiny houses
   - Architecture and design
 i18nlanguage: en
 menuid: articles

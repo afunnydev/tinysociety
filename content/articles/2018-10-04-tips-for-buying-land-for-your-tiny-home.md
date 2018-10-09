@@ -18,7 +18,7 @@ listing:
   image: /img/how-to-find-land-square-image-guest-post.jpg
 likes: '35'
 categories:
-  - Tiny Houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '4'
