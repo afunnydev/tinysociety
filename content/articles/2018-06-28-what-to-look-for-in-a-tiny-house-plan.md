@@ -239,7 +239,7 @@ If you're planning on using salvaged or recycled materials, you may want to leav
 
 ### Why Should I Choose Ready-Made Tiny House Plans?
 
-If you're not interested in designing and drafting your own set of Tiny House building plans, you can always choose from a wide selection of ready-made Tiny House plans. This removes the learning curves of teaching yourself how to use drafting software (or the old-school hand drafting methods). It also eliminates the need to come up with all of the ideas yourself. And it may eliminate the risk of trying a out design that's never been built before.
+If you're not interested in designing and drafting your own set of Tiny House building plans, you can always choose from a wide selection of [ready-made Tiny House plans](https://tinysociety.co/tiny-house-plans). This removes the learning curves of teaching yourself how to use drafting software (or the old-school hand drafting methods). It also eliminates the need to come up with all of the ideas yourself. And it may eliminate the risk of trying a out design that's never been built before.
 
 ### Are the Tiny House Plans DIY-friendly?
 
