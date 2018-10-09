@@ -21,7 +21,7 @@ listing:
 likes: '22'
 categories:
   - Architecture and design
-  - Tiny Lifestyle
+  - Tiny lifestyle
   - DIY
 i18nlanguage: en
 menuid: articles
