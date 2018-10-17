@@ -50,6 +50,10 @@ When you find a design feature that you might want to include in your tiny house
 
 ## Determine the Size of Your Tiny House
 
+![tiny house blueprints](/img/tiny-house-blueprint.jpg)
+
+<span class="figcaption">Image source: [Pixabay](https://pixabay.com/en/architecture-blueprint-floor-plan-1857175/)</span>
+
 Now that you’ve created a list of all of the things you’d like your home to include, you’re ready to move on to the next step in creating your DIY tiny house plan. In order to do that, you’ll need to determine the best size for you according to your needs. Keep in mind that if you won’t have help building your home that you should try to ensure the square footage you choose is within your physical ability to construct. Some other things to consider when determining the size are:
 
 * The number of people living under one roof
@@ -63,6 +67,10 @@ Of course, the initial square footage you decide on isn’t going to be written 
 Using the universal architectural scale of ¼” = 1’you can now draw out each of the items you want to place in your kitchen as little boxes. If you’re not good with a ruler, graph paper will do. When it’s scaled down, you can easily organize the kitchen to see how much space your items will take up. Once you’ve done this with all of the other rooms you have on your list and have a rough plan drawn out, you’ll be able to better determine the best square footage for your tiny house. Don’t forget to account for windows and doors! Of course, you’ll need to be flexible when it comes to your design. Remember, tiny homes are all about minimalism!
 
 ## Design a Tiny House Suitable for Your Lifestyle
+
+![tiny house lifestyle](/img/tiny-lifestyle.jpg)
+
+<span class="figcaption">Image source: [Unsplash](https://unsplash.com/photos/bbw55-xjeJo)</span>
 
 When you decide to become part of the tiny house community, the design possibilities for your new home are endless. This can be exciting as well as challenging. Sometimes having too many options can make it harder to land on a decision, but it doesn’t have to be. Most people choose the tiny lifestyle for one of three reasons: to travel, to be more eco-friendly, or to find affordable housing. These are the best tiny house designs suitable for each of these lifestyle choices.
 
@@ -97,6 +105,10 @@ One of the most significant factors attracting so many people to the tiny house 
 
 ## Use the Best Tools Available
 
+![interior design plans](/img/interior-design-plans.jpg)
+
+<span class="figcaption">Image source: [Pixabay](https://pixabay.com/en/kitchen-lichtraum-gallery-1687256/)</span>
+
 When you’re ready to finalize your DIY tiny house plans, you’ll want to use the best tools available. There are a number of computer programs and apps available for you to use and can make the process more manageable for you. Here are some with the best user reviews:
 
 ### Sketchup Pro - $695
@@ -114,6 +126,10 @@ Known for being user-friendly, [Floor Planner](https://en.floorplanner.com/) has
 Creating your own DIY tiny house plan can be harder than it seems for some people. If you’re getting frustrated with online design programs, another option is to [buy pre-made tiny house plans ](https://www.tinysociety.co/tiny-house-plans/)from a professional. It may not be exactly what you want, but it can save you a lot of headaches. You can also find a tiny house design that you like and have it customized to be more in tune with your style and needs. 
 
 ## Learn From Other People’s Experiences
+
+![tiny house plans](/img/tiny-house-plans-blueprint.jpg)
+
+<span class="figcaption">Image source: [Unsplash](https://unsplash.com/photos/i6z2XvpUMlU)</span>
 
 The best part about joining the tiny house community is that people are incredibly helpful. You’ll be able to find the answers to any questions you have throughout the process on blogs, vlogs, forums, and anywhere else online. Here are some common mistakes to avoid when making your DIY tiny house plan:
 
