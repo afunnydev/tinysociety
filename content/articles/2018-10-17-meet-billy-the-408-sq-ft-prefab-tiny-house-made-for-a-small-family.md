@@ -40,6 +40,8 @@ Billy is a prefab tiny house designed and manufactured by [Ilo Tiny House](https
 
 ![null](/img/living-room-1.jpg)
 
+![](/img/chairs-2.jpg)
+
 ## Kitchen
 
 Lots of space for cooking in the kitchen with the wood counters. The mix of wood and modern design makes a cozy ambiance. Perfect to inspire you for cooking meals for the family! 
@@ -55,6 +57,8 @@ Simple and clean design for the bathroom. It is equiped with an automatic compos
 ## Bedroom
 
 ![null](/img/bedroom-1.jpg)
+
+![](/img/billy-v-website.jpg)
 
 Here are the options you can add to that prefab tiny house:
 
