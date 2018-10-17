@@ -7,7 +7,7 @@ description: >-
   feeling. Take a look at this Québec designed tiny house! 
 slug: ilo-tiny-house-billy
 author: davidm
-image: /img/billy-ilotinyhouse-2700x1800.png
+image: /img/v2-billy-ilotinyhouse-2700x1800-1-.png
 overlay: true
 date: '2018-10-17'
 notloaded:
