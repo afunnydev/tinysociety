@@ -5,6 +5,7 @@ description: >-
   using the best computer programs to design your blueprints. 
 slug: how-to-create-your-own-tiny-house-plan
 author: kristen
+image: /img/tiny-house-plans-rec.jpg
 overlay: true
 date: '2018-10-17'
 notloaded:
@@ -16,9 +17,12 @@ listing:
     your ideas into a full-blown tiny house plan. This plan will cover
     everything from the house’s square footage to your style preferences and
     everything in between. 
+  image: /img/tiny-house-plans-sq.jpg
 likes: '22'
 categories:
-  - ''
+  - DIY
+  - Architecture and design
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '2'
