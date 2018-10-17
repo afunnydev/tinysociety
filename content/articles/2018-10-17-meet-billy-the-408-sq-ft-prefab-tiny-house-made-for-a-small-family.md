@@ -32,16 +32,20 @@ noindex: false
 
 Billy is a prefab tiny house designed and manufactured by [Ilo Tiny House](https://www.ilotinyhouse.com/) in Napierville, Québec. At 408 sq. ft., it is the perfect size for a small family. It offers a large living room and a closed bedroom for some privacy. The price tag for that Tiny  House is listed at 59000 USD  + Options. Here is what it looks like! 
 
-![](/img/billy-outside.jpg)
+![null](/img/billy-outside.jpg)
 
-![](/img/kitchen-2.jpg)
+![null](/img/kitchen-2.jpg)
 
-![](/img/living-room-1.jpg)
+![null](/img/living-room-1.jpg)
 
 ## Kitchen
 
-![](/img/kitchen1.jpg)
+![null](/img/kitchen1.jpg)
 
 ## Bathroom
 
+![](/img/bathroom-1.jpg)
+
 ## Bedroom
+
+![]()
