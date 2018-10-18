@@ -26,7 +26,7 @@ categories:
 i18nlanguage: en
 menuid: articles
 ordre: '0'
-infographic: true
+infographic: false
 draft: false
 noindex: false
 ---

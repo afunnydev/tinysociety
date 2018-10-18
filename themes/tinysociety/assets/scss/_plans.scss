@@ -877,6 +877,12 @@ body.no-content-padding:not(.with_aside).plan-page {
 			}
 		}
 	}
+	.why-our-plans-description {
+		margin: 0px auto 50px; 
+		color: black; 
+		max-width: 800px; 
+		text-align: center;
+	}
 	.why-us {
 		text-align: center;
 		span {
@@ -893,6 +899,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 		color: black;
 		h5 {
 			font-size: 26px;
+			line-height: 30px;
 		}
 		.middle-text {
 			margin-bottom: 30px;
