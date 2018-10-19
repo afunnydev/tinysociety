@@ -32,24 +32,42 @@ The City tiny house is a 143 square feet container tiny house designed by [Alter
 
 ![null](/img/exterior_city_1.jpg)
 
+<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+
 The model is divided between one open space for the living room, the kitchen and the bedroom and another closed section for the bathroom.
 
 ![null](/img/full_view_1.jpg)
+
+<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+
+## Living Room
 
 The space is well designed and includes some hidden storage possibilities and a foldable table to make the most out of the small interior square footage.
 
 ![null](/img/special_feature_city_1.jpg)
 
+<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+
+## Bathroom
+
 The bathroom is separated from the main living space by a custom barn door that adds up to the design of the interior. The shower is also unique using corrugated steel as the primary material!
 
 ![null](/img/shower_city_1.jpg)
+
+<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
 
 The bathroom also includes a small vanity, a compost toilet, and a mirror.
 
 ![null](/img/bathroom_city_1.jpg)
 
+<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+
+## Kitchen
+
 The kitchen module has a good surface for cooking and a granite coutertop
 
 ![null](/img/kitchen_city_1.jpg)
+
+<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
 
 The price tag for that beauty? 38500$. You can contact the builders [here](https://www.alternativelivingspaces.com/) to get more information!
