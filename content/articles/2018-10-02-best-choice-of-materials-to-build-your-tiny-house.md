@@ -75,7 +75,7 @@ The structural frame of your tiny house will likely be built out of lumber. Depe
 
 Commonly used siding materials include wood, metal, and vinyl. Since you’re building on a budget, the smartest option is to use any reclaimed materials that you can get your hands on. You might not have the prettiest tiny house, but you’ll save quite a bit! 
 
-**Average Cost: $0-$1,600 **
+**Average Cost: $0-$1,600**
 
 ### Asphalt Shingle Roofing
 
