@@ -36,31 +36,49 @@ Billy is a prefab tiny house designed and manufactured by [Ilo Tiny House](https
 
 ![null](/img/billy-outside.jpg)
 
-![null](/img/kitchen-2.jpg)
-
-![null](/img/living-room-1.jpg)
-
-![](/img/chairs-2.jpg)
-
-![](/img/interior-1.jpg)
+<span class="figcaption">This is their model house in Napierville, Québec.</span>
 
 ## Kitchen
 
 Lots of space for cooking in the kitchen with the wood counters. The mix of wood and modern design makes a cozy ambiance. Perfect to inspire you for cooking meals for the family! 
 
+![null](/img/kitchen-2.jpg)
+
+<span class="figcaption"> Wooden ceiling matching with the coutertop </span>
+
 ![null](/img/kitchen1.jpg)
+
+<span class="figcaption">High-end kitchen cabinet with a lot of space for cooking.</span>
+
+## Living Room
+
+The living room is shared in the open space with the kitchen so it makes the house feel bigger than its 408 square feet.
+
+![null](/img/living-room-1.jpg)
+
+<span class="figcaption">High 8' ceiling with big windows on 3 sides</span>
+
+![null](/img/interior-1.jpg)
+
+
 
 ## Bathroom
 
-Simple and clean design for the bathroom. It is equiped with an automatic composting toilet.
+The bathroom is equiped with an automatic composting toilet. It also includes a shower and a small bathroom cabinet.
 
 ![null](/img/bathroom-1.jpg)
 
 ## Bedroom
 
+The bedroom is separated from the main living room and the bathroom. It has some storage space on the side and can easily fit a double size bed. 
+
 ![null](/img/bedroom-1.jpg)
 
-![](/img/billy-v-website.jpg)
+<span class="figcaption">The wooden wall makes it feel warm and cozy in the bedroom</span>
+
+![null](/img/billy-v-website.jpg)
+
+<span class="figcaption">The bedroom also has a window on one side</span>
 
 The price tag for that Tiny  House is listed at 59000 USD  + Options. Here are the options you can add to that prefab tiny house:
 
