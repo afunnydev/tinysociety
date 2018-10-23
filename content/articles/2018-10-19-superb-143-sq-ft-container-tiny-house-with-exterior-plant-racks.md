@@ -32,7 +32,7 @@ The City tiny house is a 143 square feet container tiny house designed by [Alter
 
 ![null](/img/exterior_city_1.jpg)
 
-<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+<span class="figcaption">Nicely designed with a wooden palett on the wall. Image source: [tinyhouselisting](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city). </span>
 
 The model is divided between one open space for the living room, the kitchen and the bedroom and another closed section for the bathroom.
 
