@@ -70,13 +70,13 @@ When a tiny house is built on a concrete slab foundation, it often resembles a b
 
 <span class="figcaption">Image source: [Unsplash](https://unsplash.com/photos/YqeK4k36F4U) </span>
 
-
+If you purchase land where the soil is more clay-like, you may need to design a tiny house with a crawlspace foundation. This style raises the house slightly, leaving a gap between the ground and the structure. While the space isn’t large enough to stand up in, it’s ideal for stashing large seasonal items that you would typically keep in a shed or garage. For example, you could store surfboards, kayaks, bicycles, small boats, patio furniture, and anything else that is either placed in containers or weather resistant.
 
 ![tiny house with crawlspace](/img/raised-tiny-house.jpg)
 
 <span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/106574022@N04/10797632983/) </span>
 
-
+A significant benefit of the crawlspace foundation is that it makes all of your utilities easily accessible. If there’s a problem with your plumbing or electric, it can be repaired without putting holes in your walls. Whether you decide to hire a professional or fix the issue yourself, this kind of foundation makes it much easier to determine what the problem is.
 
 ### Basement Foundation
 
