@@ -80,7 +80,13 @@ A significant benefit of the crawlspace foundation is that it makes all of your 
 
 ### Basement Foundation
 
-<span class="figcaption">Image source: Flickr </span>
+![tiny house with basement](/img/tiny-house-basement.jpg)
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/basecampbaker/6047380143/) </span>
+
+![tiny house with basement foundation](/img/little-tiny-house.jpg)
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/pavdw/34126734376/) </span>
 
 ### Piers Foundation
 
