@@ -62,7 +62,7 @@ A slab foundation is pretty basic. As its description indicates, it is created b
 
 <span class="figcaption">Image source: [Pexels](https://www.pexels.com/photo/house-on-green-landscape-against-sky-314937/) </span>
 
-When a tiny house is built on a concrete slab foundation, it often resembles a barn or small cabin. It's a simple yet classic look that many people prefer. If you need some storage space however, you might prefer one of these other foundation types. 
+When a tiny house is built on a concrete slab foundation, it often resembles a barn or small cabin. It's a simple yet classic look that many people prefer. If you need some storage space, however, you might prefer one of these other foundation types. 
 
 ### Crawlspace Foundation
 
@@ -70,10 +70,26 @@ When a tiny house is built on a concrete slab foundation, it often resembles a b
 
 <span class="figcaption">Image source: [Unsplash](https://unsplash.com/photos/YqeK4k36F4U) </span>
 
+
+
+![tiny house with crawlspace](/img/raised-tiny-house.jpg)
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/106574022@N04/10797632983/) </span>
+
+
+
 ### Basement Foundation
 
-<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/31062148@N08/23563443478/) </span>
+<span class="figcaption">Image source: Flickr </span>
 
 ### Piers Foundation
 
-<span class="figcaption">Image source: Unsplash </span>
+![tiny cabin built on piers](/img/piers-foundation.jpg)
+
+<span class="figcaption">Image source: [Pixabay](https://pixabay.com/en/hut-pile-construction-wood-261332/) </span>
+
+
+
+![tiny house on piers foundation](/img/tiny-house-on-piers.jpg)
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/faircompanies/14573524170/) </span>
