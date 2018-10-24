@@ -52,4 +52,28 @@ When you decide to build your tiny house on a foundation, you have several optio
 
 ### Slab Foundation
 
-A slab foundation is pretty basic. As its description indicates, it’s a slab of concrete poured directly onto the ground. This is ideal for homes close to the shores as water levels tend to be higher, so they can’t be constructed with basements.
+![tiny house slab foundation](/img/tiny-house-slab.jpg)
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/31062148@N08/23563443478/) </span>
+
+A slab foundation is pretty basic. As its description indicates, it is created by pouring concrete onto the ground and forcing it to dry into a square or rectangle slab. This kind of foundation is ideal for homes built close to the ocean shores. This is because water levels tend to be higher, in these areas, so houses can’t be constructed with basements.
+
+![tiny house foundation](/img/tiny-house-barn.jpg)
+
+<span class="figcaption">Image source: [Pexels](https://www.pexels.com/photo/house-on-green-landscape-against-sky-314937/) </span>
+
+When a tiny house is built on a concrete slab foundation, it often resembles a barn or small cabin. It's a simple yet classic look that many people prefer. If you need some storage space however, you might prefer one of these other foundation types. 
+
+### Crawlspace Foundation
+
+![crawl space foundation](/img/tiny-house-crawl-space.jpg)
+
+<span class="figcaption">Image source: [Unsplash](https://unsplash.com/photos/YqeK4k36F4U) </span>
+
+### Basement Foundation
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/31062148@N08/23563443478/) </span>
+
+### Piers Foundation
+
+<span class="figcaption">Image source: Unsplash </span>
