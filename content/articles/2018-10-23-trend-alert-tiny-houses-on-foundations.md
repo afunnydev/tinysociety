@@ -6,6 +6,7 @@ description: >-
   allows you to have a more permanent residence. 
 slug: tiny-houses-on-foundations
 author: kristen
+image: /img/foundation-rec.jpg
 overlay: true
 date: '2018-10-23'
 notloaded:
@@ -17,6 +18,7 @@ listing:
     built on a trailer. While wheels are an ideal solution for those who enjoy
     traveling, they’re not for everyone. Many people can’t live in a home
     without a backyard they can garden in or where their dogs can run around. 
+  image: /img/foundation-sq.jpg
 likes: '22'
 categories:
   - Architecture and design
@@ -37,7 +39,7 @@ Unless you plan to take your house on the road, there’s really no reason to bu
 
 ### Owning Your Land
 
-When you plan to build tiny houses on foundations, you will need to buy a piece of land. Renting land might be an option for you, but it’s considered a risky one. If at some point down the line the landowner decides to sell or that they need to use the land, you can lose your tiny house. So, in these kinds of situations, it’s usually better to buy. Depending on how big or small the land is, you can get a great deal. Some cities will sell small vacant lots for under $1,000. 
+When you plan to build tiny houses on foundations, you will need to [buy a piece of land](https://www.tinysociety.co/articles/tips-for-buying-land-for-your-tiny-house/). Renting land might be an option for you, but it’s considered a risky one. If at some point down the line the landowner decides to sell or that they need to use the land, you can lose your tiny house. So, in these kinds of situations, it’s usually better to buy. Depending on how big or small the land is, you can get a great deal. Some cities will sell small vacant lots for under $1,000. 
 
 ### Property Will Appreciate In Value
 
@@ -53,7 +55,7 @@ Since people who build tiny homes on trailers are traveling frequently, the hous
 
 ### Use Traditional Utility Hookups
 
-When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, solar power, and water tanks. Building a tiny house on a foundation gives you the option to hook up to the grid so that you can have traditional plumbing, electricity, and the most important utility, WiFi. 
+When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power,](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) and water tanks. Building a tiny house on a foundation gives you the option to hook up to the grid so that you can have traditional plumbing, electricity, and the most important utility, WiFi. 
 
 ## Different Types of Tiny Houses on Foundations
 
@@ -119,7 +121,7 @@ This foundation style is also an excellent choice for those who plan to build th
 
 After you’ve settled on living in a tiny house on a foundation, your next step is to determine the best way to have it built. Typically, you’ll have three options to choose from. You can either build the foundation yourself, hire professionals, or buy a tiny house that's already established on the foundation you prefer. 
 
-If you already own some property, then you’re likely considering building your tiny house from scratch. Digging or pouring the foundation on your own will save you money on your overall cost, but it can be more work than you’re qualified for. Start with your tiny house building plans. If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process. 
+If you already own some property, then you’re likely considering building your tiny house from scratch. Digging or pouring the foundation on your own will save you money on your overall cost, but it can be more work than you’re qualified for. Start with your[ tiny house building plans](https://www.tinysociety.co/tiny-house-plans/). If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process. 
 
 Certainly, hiring a builder will utilize a significant chunk of your budget, but it will save you the stress of trying to figure it out on your own. However, if you’re determined to stick to your budget, here are a few more options:
 
@@ -131,6 +133,10 @@ Certainly, hiring a builder will utilize a significant chunk of your budget, but
 If you don’t own any property, then you might want to consider buying a tiny house that’s already built on a foundation. It would cost more, but then you have the option to move right in rather than having to worry about building. You can also search for land that has a foundation already built. Sometimes there might still be a rundown structure on the property, but tearing it down should be relatively easy. As long as the foundation is in good condition, you’ll be able to build your tiny house on it. 
 
 ## Laws and Regulations For Tiny Houses on Foundations
+
+![tiny house construction](/img/tiny-house-construction.jpg)
+
+<span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/stonesoupinstitute/11073429893/in/photolist-hSwdV4-XLApfM-aXabFR-dnZyZ9-qyF8pX-2bVYesj-meAAZD-aLCSCM-gyXhs-9gWDfn-rwVfmE-8SE1re-bXnYKB-8iYiXR-6tk2H5-e1Jgaz-fodsgd-2aUvLXy-23fwWDC-bXnZvg-ppYzf4-fU9HGD-5roBTv-9LPcDg-4QCGtf-cfJjzm-9LPhFK-hSvUJ5-9gWCWX-qowgiy-9LPgxR-8j2xrW-NvRqPN-qopQpM-8UEHkH-7b41x8-bXnZCT-a3Vqve-7b427i-9LPdKp-riP4Sb-pfmTNv-qeLwTU-9LPaCX-9M7pV9-9gZLfj-5AZoqS-tHh4m6-9YozqJ-bXnZqR) </span>
 
 Just because you own a piece of land, doesn’t mean you can legally build a tiny house on it. Unfortunately, there are zoning and building codes that dictate the required size and placement of any dwelling, and tiny houses don’t usually fall in line with their specifications. Each city and state has their own laws though, and tiny homes are slowly being recognized in places like California, Colorado, Florida, New York, Oregon, and Texas. 
 
@@ -146,4 +152,4 @@ If the city you live in doesn’t have anything on the books in regards to tiny 
 
 ## Summary
 
-The tiny house movement is taking over, and now this option no longer leaves you without running water and city quality electricity. Codes and zoning laws are catching up, making tiny houses on foundations the next big housing trend. Living in a trailer might sound like fun for a while, but it’s far from the ideal situation for everyone. Building a permanent foundation sheds a new light on the tiny lifestyle, ultimately attracting more people who are looking for affordable housing. Get started now by contacting your city officials and drawing up your DIY plans. A tiny house on a foundation can make building your dream house possible.
+The tiny house movement is taking over, and now this option no longer leaves you without running water and city quality electricity. Codes and zoning laws are catching up, making tiny houses on foundations the next big housing trend. Living in a trailer might sound like fun for a while, but it’s far from the ideal situation for everyone. Building a permanent foundation sheds a new light on the tiny lifestyle, ultimately attracting more people who are looking for affordable housing. Get started now by contacting your city officials and [drawing up your DIY plans.](https://www.tinysociety.co/articles/how-to-create-your-own-tiny-house-plan/) A tiny house on a foundation can make building your dream house possible.
