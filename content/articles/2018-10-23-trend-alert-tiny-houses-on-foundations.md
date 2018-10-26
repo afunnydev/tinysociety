@@ -119,4 +119,22 @@ Certainly, hiring a builder will utilize a significant chunk of your budget, but
 * Take photos of your process and share them with the tiny house community for feedback. 
 * Do all the proper research. 
 
-If you don’t own any property, then you might want to consider buying a tiny house that’s already built on a foundation. It would cost more, but then you have the option to move right in rather than having to worry about building. You can also search for land that has a foundation already built. Sometimes there might still be a rundown structure on the property, but tearing it down should be relatively easy. As long as the foundation is in good condition, you’ll be able to build your tiny house on it.
+If you don’t own any property, then you might want to consider buying a tiny house that’s already built on a foundation. It would cost more, but then you have the option to move right in rather than having to worry about building. You can also search for land that has a foundation already built. Sometimes there might still be a rundown structure on the property, but tearing it down should be relatively easy. As long as the foundation is in good condition, you’ll be able to build your tiny house on it. 
+
+## Laws and Regulations For Tiny Houses on Foundations
+
+Just because you own a piece of land, doesn’t mean you can legally build a tiny house on it. Unfortunately, there are zoning and building codes that dictate the required size and placement of any dwelling, and tiny houses don’t usually fall in line with their specifications. Each city and state has their own laws though, and tiny homes are slowly being recognized in places like California, Colorado, Florida, New York, Oregon, and Texas. 
+
+### Building Codes
+
+Building codes refer to the required dimensions of any structure designed to be a permanent living space. This includes everything from the ceiling height to the size of each room. As you might have guessed, building codes can get in the way of building the tiny house of your dreams.
+
+### Zoning Codes
+
+Zoning codes are laws pertaining to where your tiny house is going to be built. Like building codes, these can also refer to the size of your structure as well. Instead of a minimum size though, zoning codes prevent structures from blocking views or being a nuisance to neighbors. 
+
+If the city you live in doesn’t have anything on the books in regards to tiny house zoning and building codes, the easiest thing you can do is make some phone calls. It may take some back and forth, but at least you’ll be sure of exactly what you can build, where you can build it, and what permits you’ll need. There are always ways to get around these codes, and before long tiny houses will have their very own laws and regulations.
+
+## Summary
+
+The tiny house movement is taking over, and now this option no longer leaves you without running water and city quality electricity. Codes and zoning laws are catching up, making tiny houses on foundations the next big housing trend. Living in a trailer might sound like fun for a while, but it’s far from the ideal situation for everyone. Building a permanent foundation sheds a new light on the tiny lifestyle, ultimately attracting more people who are looking for affordable housing. Get started now by contacting your city officials and drawing up your DIY plans. A tiny house on a foundation can make building your dream house possible.
