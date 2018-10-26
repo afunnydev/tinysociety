@@ -84,9 +84,13 @@ A significant benefit of the crawlspace foundation is that it makes all of your 
 
 <span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/basecampbaker/6047380143/) </span>
 
+It’s not common to find a tiny house built on a basement foundation, but that doesn’t mean they don’t exist. If you’re looking to build your home’s foundation on your own, this might not be the right option for you. While having a basement would provide you with a significant amount of storage, the construction process is costly. 
+
 ![tiny house with basement foundation](/img/little-tiny-house.jpg)
 
 <span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/pavdw/34126734376/) </span>
+
+More than just a hole in the ground, a basement foundation requires precision. In order to prevent your home’s heat from escaping and to keep out any small critters, it will need to be adequately sealed and mimic the shape of your home. If you plan on hiring help anyway, a basement foundation is an excellent choice for a tiny house. 
 
 ### Piers Foundation
 
@@ -94,8 +98,10 @@ A significant benefit of the crawlspace foundation is that it makes all of your 
 
 <span class="figcaption">Image source: [Pixabay](https://pixabay.com/en/hut-pile-construction-wood-261332/) </span>
 
-
+As a semi-permanent foundation, building a tiny house on piers gives you the best of both worlds. You’re able to move your home when needed, so it gives you the freedom to rent land rather than buy any. A piers foundation offers the flexibility of a tiny house on wheels without the weight and size restrictions of building a house on a trailer.
 
 ![tiny house on piers foundation](/img/tiny-house-on-piers.jpg)
 
 <span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/faircompanies/14573524170/) </span>
+
+This foundation style is also an excellent choice for those who plan to build their tiny house prior to having purchased or rented land. You can take your time with the construction, and then move your home to your new property when you’re ready. If you end up moving, you can either bring your house with you or sell it to someone willing to transport it.
