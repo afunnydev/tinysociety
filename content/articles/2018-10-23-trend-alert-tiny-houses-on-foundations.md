@@ -105,3 +105,18 @@ As a semi-permanent foundation, building a tiny house on piers gives you the bes
 <span class="figcaption">Image source: [Flickr](https://www.flickr.com/photos/faircompanies/14573524170/) </span>
 
 This foundation style is also an excellent choice for those who plan to build their tiny house prior to having purchased or rented land. You can take your time with the construction, and then move your home to your new property when you’re ready. If you end up moving, you can either bring your house with you or sell it to someone willing to transport it.
+
+## The Next Steps Toward Getting Your Tiny House on Foundations
+
+After you’ve settled on living in a tiny house on a foundation, your next step is to determine the best way to have it built. Typically, you’ll have three options to choose from. You can either build the foundation yourself, hire professionals, or buy a tiny house that's already established on the foundation you prefer. 
+
+If you already own some property, then you’re likely considering building your tiny house from scratch. Digging or pouring the foundation on your own will save you money on your overall cost, but it can be more work than you’re qualified for. Start with your tiny house building plans. If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process. 
+
+Certainly, hiring a builder will utilize a significant chunk of your budget, but it will save you the stress of trying to figure it out on your own. However, if you’re determined to stick to your budget, here are a few more options:
+
+* Get a group of friends to help.
+* Find an acquaintance in the construction industry to look over your foundation.
+* Take photos of your process and share them with the tiny house community for feedback. 
+* Do all the proper research. 
+
+If you don’t own any property, then you might want to consider buying a tiny house that’s already built on a foundation. It would cost more, but then you have the option to move right in rather than having to worry about building. You can also search for land that has a foundation already built. Sometimes there might still be a rundown structure on the property, but tearing it down should be relatively easy. As long as the foundation is in good condition, you’ll be able to build your tiny house on it.
