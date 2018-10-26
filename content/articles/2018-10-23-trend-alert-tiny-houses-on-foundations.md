@@ -1,5 +1,9 @@
 ---
 title: 'Trend Alert: Tiny Houses On Foundations'
+description: >-
+  If a home on wheels doesn't sound appealing, a tiny house built on a
+  foundation might be more suitable. Not only is it cost effective, but it
+  allows you to have a more permanent residence. 
 slug: tiny-houses-on-foundations
 author: kristen
 overlay: true
@@ -8,6 +12,11 @@ notloaded:
   need: true
 listing:
   title: 'Trend Alert: Tiny Houses On Foundations'
+  description: >-
+    When you picture a tiny house, most likely you imagine one that has been
+    built on a trailer. While wheels are an ideal solution for those who enjoy
+    traveling, they’re not for everyone. Many people can’t live in a home
+    without a backyard they can garden in or where their dogs can run around. 
 likes: '22'
 categories:
   - Architecture and design
