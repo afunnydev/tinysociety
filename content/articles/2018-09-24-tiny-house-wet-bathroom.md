@@ -41,7 +41,7 @@ Essentially, a wet bathroom turns your entire bathroom into shower space when in
 
 Deciding on a wet bathroom also means you’ll have to do some serious moisture control. The reality is that the entire room will be wet. It’s important to take steps the ensure your tiny house bathroom (and your tiny house) is able to combat mold! A stylish way to waterproof your tiny bathroom is by installing tiles throughout the entire space. Just remember--tiles can be fairly heavy! 
 
-_**Pro Tip: **_Another thing to keep in mind is that you’ll need a place to keep your toilet paper from getting wet. A plastic, water-tight box or something similar should do the trick.
+\*\*Pro Tip\*\* Another thing to keep in mind is that you’ll need a place to keep your toilet paper from getting wet. A plastic, water-tight box or something similar should do the trick.
 
 ## Do I need to have a wet bathroom?
 
