@@ -32,13 +32,13 @@ The City tiny house is a 143 square feet container tiny house designed by [Alter
 
 ![null](/img/exterior_city_1.jpg)
 
-<span class="figcaption">Nicely designed with a wooden palett on the wall. Image source: [tinyhouselisting](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city). </span>
+<span class="figcaption">Nicely designed with a wooden palett on the wall.</span>
 
 The model is divided between one open space for the living room, the kitchen and the bedroom and another closed section for the bathroom.
 
 ![null](/img/full_view_1.jpg)
 
-<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+<span class="figcaption">Lots of light coming from the two big windows in the main room of the house!</span>
 
 ## Living Room
 
@@ -46,7 +46,7 @@ The space is well designed and includes some hidden storage possibilities and a 
 
 ![null](/img/special_feature_city_1.jpg)
 
-<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+<span class="figcaption">Those can be closed with a lid so it can be used as a spot to sit.</span>
 
 ## Bathroom
 
@@ -54,13 +54,13 @@ The bathroom is separated from the main living space by a custom barn door that 
 
 ![null](/img/shower_city_1.jpg)
 
-<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+<span class="figcaption">Mix of wood and corrugated steel gives an original look to the small bathroom</span>
 
 The bathroom also includes a small vanity, a compost toilet, and a mirror.
 
 ![null](/img/bathroom_city_1.jpg)
 
-<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+<span class="figcaption">Everything you need in a bathroom. Even some storage space under the sink!</span>
 
 ## Kitchen
 
@@ -68,6 +68,10 @@ The kitchen module has a good surface for cooking and a granite coutertop
 
 ![null](/img/kitchen_city_1.jpg)
 
-<span class="figcaption">Image source: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)</span>
+<span class="figcaption">In that particular one, there is also a foldable wooden table under the microwave! </span>
 
 The price tag for that beauty? 38500$. You can contact the builders [here](https://www.alternativelivingspaces.com/) to get more information!
+
+
+
+All Images are from: [tinyhouselistings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-city)
