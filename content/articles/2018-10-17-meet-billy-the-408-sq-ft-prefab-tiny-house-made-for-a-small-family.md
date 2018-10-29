@@ -60,8 +60,6 @@ The living room is shared in the open space with the kitchen so it makes the hou
 
 ![null](/img/interior-1.jpg)
 
-
-
 ## Bathroom
 
 The bathroom is equiped with an automatic composting toilet. It also includes a shower and a small bathroom cabinet.
@@ -91,3 +89,7 @@ The price tag for that Tiny  House is listed at 59000 USD  + Options. Here are t
 * Automatic composting toilet
 
 Ilo Tiny House ships prefab houses to the United States too. You can [contact them](https://www.ilotinyhouse.com/contact/) to know if they offer delivery in your State!
+
+
+
+All images are taken from: [Ilo tiny house](https://www.ilotinyhouse.com/models/)
