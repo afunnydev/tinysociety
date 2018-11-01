@@ -708,7 +708,7 @@ Utah has been fairly slow to accommodate codes and regulations to tiny houses de
 * Burlington permits tiny houses as accessory dwelling units (ADUs) with no minimum square footage.
 * Williston allows tiny houses to have a maximum of 1500 square feet. 
 
-Vermont’s major cities are strict in regards to tiny houses; but in some cases, it may be possible to build as an ADU. It’s common in Vermont to park a tiny house on wheels in rural areas to fly under the radar. 
+Vermont’s major cities are strict in regards to tiny houses; but in some cases, it may be possible to build as an ADU. It’s relatively common in Vermont to park a tiny house on wheels in rural areas to fly under the radar. 
 
 **Links: **
 
