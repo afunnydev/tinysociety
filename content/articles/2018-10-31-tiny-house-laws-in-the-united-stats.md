@@ -129,7 +129,7 @@ Connecticut is very strict when it comes to tiny houses, RVs, or anything that c
 
 ## Delaware
 
-**Tiny House Friendly: **
+**Tiny House Friendly: 4/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * The state requires owners of tiny houses on wheels to get titles within 30 days of purchase.
@@ -140,7 +140,7 @@ Delaware has no specific regulations for tiny houses to date. There are currentl
 
 ## Florida
 
-**Tiny House Friendly: **
+**Tiny House Friendly: 7/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Sarasota county requires a tiny house on wheels that stays in an RV park for more than 45 days to have a foundation.
@@ -170,7 +170,7 @@ The tiny house movement is moving faster than local municipalities can change zo
 
 ## Hawaii
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny homeowners can purchase a plot of land for their tiny house.
@@ -183,7 +183,7 @@ The Hawaii Tiny House Initiative was launched with the goal of first solving the
 
 ## Idaho
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 7/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny houses must comply with one of the following options:
@@ -201,7 +201,7 @@ Idaho is the first state to discuss RV’s, manufactured, modular and tiny house
 
 ## Illinois
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * The state of Illinois allows tiny houses in campgrounds, mobile home parks, and private properties. Beyond that, individual counties have authority over where you can and cannot live in your tiny house. 
@@ -212,11 +212,11 @@ As is the case with most major cities, tiny houses are not allowed in Chicago. H
 
 ## Indiana
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * The state of Indiana allows counties to establish specific building codes.
 * Tiny house regulations and codes may vary by city, town, or county.
-* _Important to note: _They specifically exclude codes that apply to private homes built by the individuals and used for their own occupancy--also known as the Log Cabin Rule. 
+* _Important to note:_ They specifically exclude codes that apply to private homes built by the individuals and used for their own occupancy--also known as the Log Cabin Rule. 
 * Log Cabin Rule does not protect tiny houses on wheels.
 * Locations to consider asking local zoning offices about tiny houses:
   * Indianapolis 
@@ -239,7 +239,7 @@ While the tiny house movement is really catching on in metro areas with high hou
 
 ## Kansas
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny houses built on foundations:
@@ -256,7 +256,7 @@ While this state does allow for tiny houses built on foundations, tiny houses on
 
 ## Kentucky
 
-**Tiny House Friendly: **
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny homes are allowed in Louisville Metro provided they apply with the following codes:
@@ -268,7 +268,7 @@ Conversations are moving forward concerning tiny houses in the state of Kentucky
 
 ## Louisiana
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 4/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * All cities in Louisiana are supposed to follow the 2012 International Residential Code (IRC).
@@ -280,7 +280,7 @@ By following the 2012 IRC, building a tiny house with all of the mentioned speci
 
 ## Maine
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 9/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Maine has created statewide construction guidelines for tiny houses; defining them as a dwelling less than 400 square feet allowing sleeping lofts, permitting ladder access to lofts, and approving skylights as points of emergency egress. 
@@ -291,7 +291,7 @@ By following the 2012 IRC, building a tiny house with all of the mentioned speci
   * You do not build on a permanent foundation.
   * It is on the lot existing before the date of the ordinance or larger than 30,000 square feet. 
 
-Maine is one of the leading states in the tiny house movement, as they are the first to have adopted statewide construction guidelines for tiny houses. 
+Maine is one of the leading states in the tiny house movement, as they are the first to have adopted statewide construction guidelines for tiny houses. It's also common to convert old boat houses into tiny houses as a secondary dwelling. Not only are they cute, but they also maintain the New England maritime culture that is so prevalent in the state of Maine.
 
 **Links:**
 
@@ -299,7 +299,7 @@ Maine is one of the leading states in the tiny house movement, as they are the f
 
 ## Maryland
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 4/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny houses are not yet acknowledged by the state.
@@ -314,7 +314,7 @@ While the demand is certainly there, some counties and cities in Maryland have z
 
 ## Massachusetts
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 8/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * ADUs (accessory dwelling units) are allowed in many towns and cities in Massachusetts. See the full list [here.](http://www.masshousingregulations.com/pdf/accessory.pdf)
@@ -331,7 +331,7 @@ While it’s more difficult to own a tiny house on wheels in Massachusetts, owni
 
 ## Michigan
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 8/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Briley Township in Northern Michigan has defined a new type of dwelling, and refers to it as an ‘Economy Efficient Dwelling.’
@@ -343,7 +343,7 @@ Michigan has adapted their zoning regulations to be more tiny house-friendly. Af
 
 ## Minnesota
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 7/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * For zoning purposes, there are two common types of tiny houses in Minnesota: RVs and ADUs (accessory dwelling units).
@@ -357,7 +357,7 @@ While tiny houses are more in demand than ever, finding a place to park or build
 
 ## Mississippi
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 4/10**
 
 * There are currently no laws in place that govern tiny houses. 
 * Tiny house builders in Mississippi can construct any size tiny, but they usually range between 100 and 900 square feet.
@@ -375,7 +375,7 @@ Tiny houses were used as emergency shelters after Hurricane Katrina. Since then,
 
 ## Missouri
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 3/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny houses on wheels fall under the term ‘travel trailer.’
@@ -397,7 +397,7 @@ Missouri is another state that hasn’t officially addressed tiny houses. Howeve
 
 ## Montana
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 3/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Montana will let you register a self-built tiny house, but you will face similar restrictions to that of an RV or travel trailer. 
@@ -406,7 +406,7 @@ Montana could really use tiny houses as a means of affordable housing. Currently
 
 ## Nebraska
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Manufactured (mobile) homes built in accordance with the rules and regulations of the United States Department of Housing and Urban Development’s (HUD) Federal Manufactured Home Act. Such homes passing inspection are issued a HUD manufactured home label.
@@ -423,7 +423,7 @@ Nebraska has drafted an official document that references the different types of
 
 ## Nevada
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 7/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Nevada is fairly welcoming towards tiny houses, but individuals must abide by local regulations.
@@ -438,7 +438,7 @@ It is possible to live in a tiny home, dependent on local ordinances. In Clark C
 
 ## New Hampshire
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 8/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * The state passed a law to allow accessory dwelling units (ADUs).
@@ -463,7 +463,7 @@ In the midst of an affordable housing crisis, New Hampshire has seen great impro
 
 ## New Jersey
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 4/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny house regulations are in the works as a way to create affordable housing, but many counties remain firmly against allowing them.
@@ -475,7 +475,7 @@ There is a great deal of interest in tiny houses because of their affordability;
 
 ## New Mexico
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 8/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * A tiny house must have on room that’s at least 70 square feet and not less than 7 feet in any one direction (including ceiling height).
@@ -495,16 +495,16 @@ The city of Albuquerque provides guidelines for building a tiny house. Convertin
 
 ## New York
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 2/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * In the state of New York, temporary structures such as tiny houses are not permitted.
 
-While you can register a tiny house on wheels in New York, it doesn’t mean you are able to live in one full-time. The further away from major cities you are, the more likely you are able to make it work.
+While you can register a tiny house on wheels in New York, it doesn’t mean you are able to live in one full-time. The further away from major cities you are, the more likely you are able to live in your tiny home under the radar.
 
 ## North Carolina
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Wilmington, North Carolina:
@@ -514,7 +514,7 @@ While you can register a tiny house on wheels in New York, it doesn’t mean you
   * Accessory dwelling units (ADUs) are allowed on single-family lots as long as they are occupied by relatives, caretakers, etc.
   * Antique and custom-built vehicles presented for first-time titling and registration in North Carolina must be examined and photographed by a local NC Division of Motor Vehicles inspector.
 
-The people of North Carolina are divided over tiny houses. Some are worried they could ruin the character of their town, while others believe they could be the solution to rising housing costs and high-density areas. 
+The people of North Carolina are divided over tiny houses. Some are worried they could ruin the character of their town, while others believe they could be the solution to rising housing costs and high-density areas. Either way, tiny living could be an excellent, affordable way to live for college students and low-income residents alike.
 
 **Links:**
 
@@ -522,7 +522,7 @@ The people of North Carolina are divided over tiny houses. Some are worried they
 
 ## North Dakota
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Burleigh County regulations:
@@ -542,7 +542,7 @@ While popular, not all counties have specifically addressed tiny houses. Burleig
 
 ## Ohio
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 3/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Many areas do not know how to classify tiny houses.
@@ -559,7 +559,7 @@ Ohio is another state where it is clear that many people live in their tiny hous
 
 ## Oklahoma
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 4/10**
 
 * No regulations yet on tiny houses.
 * Tiny houses outside of cities have a better chance of meeting zoning requirements.
@@ -570,7 +570,7 @@ While not yet represented in terms of regulations, tiny houses are still gaining
 
 ## Oregon
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 8/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny houses on wheels are officially allowed titles by Oregon DMVs. 
@@ -585,7 +585,7 @@ Despite the lack of clarity on tiny houses in parts of Oregon, tiny houses conti
 
 ## Pennsylvania
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 8/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * The city of Philadelphia requires no minimum house size; however, tiny houses must meet the [International Residential Code (IRC) 2009.](https://codes.iccsafe.org/content/document/754?site_type=public) 
@@ -601,7 +601,7 @@ Pennsylvania is one of the friendlier tiny house states to date. A community in 
 
 ## Rhode Island
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 2/10**
 
 * Tiny houses are not acknowledged in ordinances by the city of Providence.
 * Check with your local municipality for specifics on zoning regulations and building codes.
@@ -614,7 +614,7 @@ Most cities like Providence will refer to sheds as a place to keep gardening equ
 
 ## South Carolina
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * [Greenville County](https://www.greenvillecounty.org/BuildingSafety/forms/TinyHouses400SquareFootOrLess.pdf) allows permanent tiny houses on wheels that are 400 square feet or less.
@@ -629,7 +629,7 @@ The growing popularity of tiny houses in South Carolina is due in part to the ri
 
 ## South Dakota
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 7/10**
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Spearfish, South Dakota:
@@ -650,7 +650,7 @@ South Dakota has made huge advancements in regulating tiny houses. Places like S
 
 ## Tennessee
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * Etowah, Tennessee has amended an ordinance to prevent the building of tiny houses. There is a minimum of 800 square feet in Residential 1 zones and a minimum of 600 square feet in Residential 2 and 3 zones.
@@ -667,7 +667,7 @@ Multiple cities and counties in Tennessee provide guidelines and regulations for
 
 ## Texas
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 9/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * Breckenridge, Texas requires tiny houses to be on permanent foundations and a minimum of 320 square feet.
@@ -685,7 +685,7 @@ Tiny houses in Texas are widely accepted and regulated. Additionally, the rising
 
 ## Utah
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * [Washington County](http://www.stgeorgeutah.com/wp-content/uploads/2016/07/County-subdivision-ordinance.pdf) minimum square footage is under 300 feet. Tiny houses on foundations are allowed in residential areas as long as they are hooked up to utilities. Tiny houses on wheels are classified as park model recreational vehicles.
@@ -702,7 +702,7 @@ Utah has been fairly slow to accommodate codes and regulations to tiny houses de
 
 ## Vermont
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 6/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * Burlington permits tiny houses as accessory dwelling units (ADUs) with no minimum square footage.
@@ -716,7 +716,7 @@ Vermont’s major cities are strict in regards to tiny houses; but in some cases
 
 ## Virginia
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 4/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * Staunton County allows tiny homes with a minimum of 200 square feet.
@@ -730,7 +730,7 @@ Tiny houses in Virginia may be on the rise, but regulations in many of its major
 
 ## Washington
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * [Woodland, WA ](https://www.municode.com/library/wa/woodland/codes/code_of_ordinances?nodeId=WOODLAND_MUNICIPAL_CODE_TIT17ZO_CH17.16LODERELDZODI_17.16.100CRSTACUS)requires accessory dwelling units (ADUs) to be between 300 and 800 square feet.
@@ -747,7 +747,7 @@ Tiny houses are popular in Washington State, with many cities that allow them as
 
 ## West Virginia
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 3/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * [Jefferson County ](http://www.jeffersoncountywv.org/home/showdocument?id=12211)permits accessory dwelling units (ADUs) that are a maximum of 1700 square feet. 
@@ -760,7 +760,7 @@ While tiny houses may be a solution in disasters such as flooding; tiny house re
 
 ## Wisconsin
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 3/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * Madison defines tiny houses on wheels that are no more than 150 square feet as “portable shelters.”
@@ -775,7 +775,7 @@ Tiny houses on foundations can be classified as ADUs in most instances; while ti
 
 ## Wyoming
 
-**Tiny House Friendly:**
+**Tiny House Friendly: 5/10**
 
 * Tiny house regulations and codes vary by city, town, or county.
 * Casper, WY:
