@@ -1,5 +1,5 @@
 ---
-title: Tiny House Laws in the United Stats
+title: Tiny House Laws in the United States
 slug: this-is-an-example
 author: molli
 overlay: true
@@ -7,7 +7,7 @@ date: '2018-10-31'
 notloaded:
   need: true
 listing:
-  title: Tiny House Laws in the United Stats
+  title: Tiny House Laws in the United States
 likes: '50'
 categories:
   - tiny houses
@@ -18,13 +18,13 @@ infographic: false
 draft: false
 noindex: false
 ---
-Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is **_the need to find a home for your tiny home._**
+Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is _**the need to find a home for your tiny home.**_
 
 In some ways, living in a tiny house is just like living in a residential home--just a lot smaller. For instance; tiny houses often have all the comforts of a traditional home, but in sizes that suit the space. However, there are also ways in which tiny living is completely different from living in a residential home. A good example of this is the fact that finding a place to live in a tiny house isn’t as easy as one might think. There are currently a number of regulations that tiny house enthusiasts must abide by if their tiny home is to be considered legal in the eyes of the law. 
 
 In the United States, tiny house laws vary not only by state, but also by county. This makes pinpointing laws specific to each state tricky due to inconsistent regulations and codes from one jurisdiction to the next. 
 
-The following information on tiny house laws in the United States should be perceived as guidelines for understanding how tiny house-friendly a particular state is, as regulations and codes are actively changing.  So before you decide on a location to call home, it’s a good idea to contact your local municipality on the matter. [Click here ](https://www.tinysociety.co/articles/tiny-house-laws-united-states/)to learn some common terms to help better understand tiny house laws.
+The following information on tiny house laws in the United States should be perceived as guidelines for understanding how tiny house-friendly a particular state is, as regulations and codes are actively changing.  So before you decide on a location to call home, it’s a good idea to contact your local municipality for the most up-to-date information. [Click here ](https://www.tinysociety.co/articles/tiny-house-laws-united-states/)to learn some common terms to better understand tiny house laws.
 
 Are you ready to find a home for your tiny home? Click on the interactive map to find out more about tiny house laws by state. 
 
@@ -282,8 +282,6 @@ By following the 2012 IRC, building a tiny house with all of the mentioned speci
 
 **Tiny House Friendly:**
 
-
-
 * Tiny house regulations and codes may vary by city, town, or county.
 * Maine has created statewide construction guidelines for tiny houses; defining them as a dwelling less than 400 square feet allowing sleeping lofts, permitting ladder access to lofts, and approving skylights as points of emergency egress. 
 * It’s important to note that towns are still able to approve or deny the construction of tiny houses. 
@@ -499,8 +497,6 @@ The city of Albuquerque provides guidelines for building a tiny house. Convertin
 
 **Tiny House Friendly:**
 
-
-
 * Tiny house regulations and codes may vary by city, town, or county.
 * In the state of New York, temporary structures such as tiny houses are not permitted.
 
@@ -635,8 +631,6 @@ The growing popularity of tiny houses in South Carolina is due in part to the ri
 
 **Tiny House Friendly:**
 
-
-
 * Tiny house regulations and codes may vary by city, town, or county.
 * Spearfish, South Dakota:
 * A permanent tiny house on foundations that is building code compliant is permitted in all residential zoning districts in Spearfish.
@@ -654,7 +648,7 @@ South Dakota has made huge advancements in regulating tiny houses. Places like S
 
 * [Beresford Zoning Regulations](https://www.beresfordsd.com/vertical/sites/%7B6A44A985-1C80-43EF-AAFD-FF6BAEBE7745%7D/uploads/2017_Revised_Beresford_Zoning_Regulations.pdf)
 
-## Tennessee 
+## Tennessee
 
 **Tiny House Friendly:**
 
@@ -697,8 +691,6 @@ Tiny houses in Texas are widely accepted and regulated. Additionally, the rising
 * [Washington County](http://www.stgeorgeutah.com/wp-content/uploads/2016/07/County-subdivision-ordinance.pdf) minimum square footage is under 300 feet. Tiny houses on foundations are allowed in residential areas as long as they are hooked up to utilities. Tiny houses on wheels are classified as park model recreational vehicles.
 * [Salt Lake City](http://www.slcdocs.com/Planning/Projects/Sust/ADU.pdf) permits accessory dwelling units (ADUs) that are either 50% of the square footage of the principal structure or 650 square feet (whichever is greater).
 * [Eagle Mountain City](http://eaglemountaincity.com/home/showdocument?id=5815) allows tiny homes on wheels in base and tier I residential zones.
-
-
 
 Utah has been fairly slow to accommodate codes and regulations to tiny houses despite growing demand. However, there are a number of tiny house builders available for those who wish to join the movement regardless.
 
@@ -760,7 +752,7 @@ Tiny houses are popular in Washington State, with many cities that allow them as
 * Tiny house regulations and codes vary by city, town, or county.
 * [Jefferson County ](http://www.jeffersoncountywv.org/home/showdocument?id=12211)permits accessory dwelling units (ADUs) that are a maximum of 1700 square feet. 
 
-While tiny houses may be a solution in disasters such as flooding--tiny house regulations are difficult to navigate for full-time dwellers in West Virginia. 
+While tiny houses may be a solution in disasters such as flooding; tiny house regulations are difficult to navigate for full-time dwellers in West Virginia. 
 
 **Links:**
 
@@ -774,7 +766,7 @@ While tiny houses may be a solution in disasters such as flooding--tiny house re
 * Madison defines tiny houses on wheels that are no more than 150 square feet as “portable shelters.”
 * [Dane County](https://plandev.countyofdane.com/documents/pdf/CompZoningRevision/Special_Topics/Fact_Sheets/Accessory_Dwelling_Units_2017.pdf) allows accessory dwelling units (ADUs) that are no more than 800 square feet.
 
-Tiny houses can be classified as ADUs in most instances, although tiny houses on wheels may find the process far more difficult. 
+Tiny houses on foundations can be classified as ADUs in most instances; while tiny houses on wheels may find the process far more difficult. 
 
 **Links:**
 
@@ -791,7 +783,7 @@ Tiny houses can be classified as ADUs in most instances, although tiny houses on
 * Tiny houses on wheels fall under the definition of a trailer, and can only be placed in an R-6 (Manufactured Home (Mobile) Park) zoning district.
 * [The City of Cody](https://www.cityofcody-wy.gov/DocumentCenter/View/2429/Complete-Document?bidId=) refers to tiny houses on wheels as recreational units (RVs), and they are not permitted to be used as accessory dwelling units (ADUs).
 
-Tiny houses in Wyoming are rapidly growing in popularity. Tiny house rentals are common in this state, particularly in close proximity to outdoor activities and mountain views. There will be an increase in the number of cities that include tiny houses in their regulations and codes in the coming years. 
+Tiny houses in Wyoming are rapidly growing in popularity. Tiny house rentals are common in this state, particularly in close proximity to outdoor activities and mountain views. There will be an increase in the number of cities that include tiny houses in their regulations and codes in the coming year. 
 
 **Links:**
 
