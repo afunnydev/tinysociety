@@ -1,6 +1,6 @@
 ---
 title: Tiny House Laws in the United States
-slug: this-is-an-example
+slug: tiny-house-laws-in-the-us
 author: molli
 overlay: true
 date: '2018-10-31'
@@ -10,7 +10,8 @@ listing:
   title: Tiny House Laws in the United States
 likes: '50'
 categories:
-  - tiny houses
+  - Tiny houses
+  - ''
 i18nlanguage: en
 menuid: articles
 ordre: 0
