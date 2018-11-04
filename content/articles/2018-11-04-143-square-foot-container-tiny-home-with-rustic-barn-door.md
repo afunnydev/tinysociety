@@ -28,7 +28,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-‘The Haven’ is 143 square feet of tiny house heaven. This 20 foot container designed with the highest quality materials makes the perfect living space for an ADU or tiny house on wheels. 
+‘The Haven’ is 143 square feet of tiny house heaven. This 20 foot container designed with the highest quality materials makes it a perfect living space for an ADU or tiny house on wheels. 
 
 ![](/img/haven_1.jpeg)
 <span class="figcaption">A beautiful container home, customized to your needs.</span>
