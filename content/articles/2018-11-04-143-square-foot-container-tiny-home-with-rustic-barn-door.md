@@ -6,6 +6,7 @@ description: >-
   wheels, this customizable container could be perfect for you. 
 slug: 143-square-foot-container-tiny-home-with-rustic-barn-door
 author: molli
+image: /img/thehaven_banner.jpg
 overlay: true
 date: '2018-11-04'
 notloaded:
@@ -16,6 +17,7 @@ listing:
     ‘The Haven’ is 143 square feet of tiny house heaven. This 20 foot container
     designed with the highest quality materials makes the perfect living space
     for an ADU or tiny house on wheels. 
+  image: /img/haven.jpg
 likes: '25'
 categories:
   - tiny houses
