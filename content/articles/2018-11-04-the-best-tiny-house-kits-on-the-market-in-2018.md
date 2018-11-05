@@ -196,7 +196,7 @@ Options start at 875 square feet, and can either be completely custom made from 
 
 <span class="figcaption">Image source: [Artisan Tiny House](https://artisantinyhouse.com/) </span>
 
-A unique tiny house on wheels, the Curved House model gives off a gypsy vibe that some in the tiny community look for. You get the retro look without having to refurbish an old wagon. Designed by [Artisan Tiny House](http://artisantinyhouse.com/wp-content/uploads/2018/06/ATHoW-2018-Catalog_010118-1.pdf), this kit can be purchased in several sizes and can also be customized to include a loft. The curved roof certainly stands out, but it can be more challenging than other kits to put together so make sure you’re up for it. 
+A unique tiny house on wheels, the Curved House model gives off a gypsy vibe that some in the tiny community look for. You get the retro look without having to [refurbish an old wagon](https://www.tinysociety.co/articles/caboose-for-sale/). Designed by [Artisan Tiny House](http://artisantinyhouse.com/wp-content/uploads/2018/06/ATHoW-2018-Catalog_010118-1.pdf), this kit can be purchased in several sizes and can also be customized to include a loft. The curved roof certainly stands out, but it can be more challenging than other kits to put together so make sure you’re up for it. 
 
 Artisan Tiny Houses uses Structural Insulated Panels (SIPs) in their kits, which are not only eco-friendly and lightweight but also an affordable alternative to other materials used to build tiny house frames. They’re already insulated, but you can upgrade to a thicker option if you live in an area where you think you’ll need more. Here are the details for the Curved House on wheels:
 
@@ -217,3 +217,9 @@ Artisan Tiny Houses uses Structural Insulated Panels (SIPs) in their kits, which
 
 * Custom trailer
 * Thicker SIPs providing more insulation
+
+## Summary
+
+Tiny house kits give you the opportunity to build your home without the frustration that comes with trying to figure out how to construct it from scratch. Building experience is no longer necessary with packages like these, as the hardest part of the process is deciding which one to buy. Each kit should come with a [materials list](https://www.tinysociety.co/articles/best-choice-of-materials-to-build-your-tiny-house/) so you’re aware of both the items you’re receiving as well as the ones you will need to buy to complete the project. It may even be a good idea to look at the materials list before deciding on a kit so you can compare the cost of any upgrades or additions they offer to similar items in local stores. 
+
+It has never been easier to build a tiny house than it is today, and these tiny house kits are making it even more accessible. The building process makes it so that anyone can give this DIY project a try, and with housing costs on the rise, more and more people are. Find the right tiny house kit for you and get ready to join the tiny community!
