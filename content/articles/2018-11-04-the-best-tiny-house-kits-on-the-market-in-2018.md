@@ -1,5 +1,9 @@
 ---
 title: The Best Tiny House Kits on the Market in 2018
+description: >-
+  If you're thinking about joining the tiny house community but don't know a
+  thing about construction, tiny house kits just might be the solution you've
+  been waiting for.
 slug: the-best-tiny-house-kits-on-the-market-in-2018
 author: kristen
 overlay: true
