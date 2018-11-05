@@ -6,6 +6,7 @@ description: >-
   been waiting for.
 slug: the-best-tiny-house-kits-on-the-market-in-2018
 author: kristen
+image: /img/tiny-house-kits-rec-edited.jpg
 overlay: true
 date: '2018-11-04'
 notloaded:
@@ -17,6 +18,7 @@ listing:
     professional contractor, the planning process alone can quickly become
     overwhelming. It’s for this reason that many people who are interested in
     this lifestyle choose to start with a tiny house kit.
+  image: /img/tiny-house-kits-sq-edited.jpg
 likes: '22'
 categories:
   - DIY
