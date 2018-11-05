@@ -36,3 +36,30 @@ While the price tag on most tiny house kits can be appealing, there is no standa
 It’s also important to know that a kit only constitutes for about 25 to 35 percent of the cost of the entire project. There are still some elements that need to be considered as they will likely require a professional, such as your electric and plumbing connections. Unless you have experience in these fields, the cost of hiring someone will significantly contribute to the overall cost of your tiny home. So will any construction workers you need to hire, tools that you rent or buy, and the charge of the lot you will be building on. 
 
 There are ways to get around these additional costs, but it’s important that you understand the cost of these kits won’t be the final cost of your tiny house. If you’re still eager to become part of the tiny house community, here are some of the best kits on the market today:
+
+## Tiny Heirloom’s DIY Tiny House Shell
+
+While some tiny house kits come in a standard design, Tiny Heirloom offers you the chance to select from several of their models for your new home. Pricing is given by trailer size and starts at $15,000 for an 18ft tiny house on wheels. They offer several blueprint options for you to choose from, all which include roofing, a trailer, and a loft. 
+
+Tiny Heirloom also offers an alternative affordable and simple exterior package that includes windows, doors, and a primed or stained siding. It costs more than the basic shell package does, but it gives you all of the materials you need to build a finished tiny house shell if that’s what you’re looking for. 
+
+While it’s great to have options, their DIY frame is known as one of the most affordable tiny house kits on the market today. Here are the specs for a basic frame kit from Tiny Heirloom:
+
+### Pricing: 
+
+1. 18’ - $15,000
+2. 22’ - $17,000
+3. 26’ - $19,500
+4. 30’ - $23,000
+
+
+
+### Includes:
+
+* DIY timber framed tiny home shell 
+* Wall and roof framing and sheathing
+* Steel tiny home trailer 
+* 8’ interior loft 
+* Weatherproofing on exterior walls and roof
+* Windows and doors cut out 
+* Plywood subfloor
