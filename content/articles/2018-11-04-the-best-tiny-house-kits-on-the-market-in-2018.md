@@ -189,3 +189,31 @@ Options start at 875 square feet, and can either be completely custom made from 
 * Porch or deck
 * Skylights
 * Lofts
+
+## Artisan Tiny House Curved House Kit
+
+![Curved House](/img/screenshot-2018-11-05-at-7.19.45-am-edited.png)
+
+<span class="figcaption">Image source: [Artisan Tiny House](https://artisantinyhouse.com/) </span>
+
+A unique tiny house on wheels, the Curved House model gives off a gypsy vibe that some in the tiny community look for. You get the retro look without having to refurbish an old wagon. Designed by [Artisan Tiny House](http://artisantinyhouse.com/wp-content/uploads/2018/06/ATHoW-2018-Catalog_010118-1.pdf), this kit can be purchased in several sizes and can also be customized to include a loft. The curved roof certainly stands out, but it can be more challenging than other kits to put together so make sure you’re up for it. 
+
+Artisan Tiny Houses uses Structural Insulated Panels (SIPs) in their kits, which are not only eco-friendly and lightweight but also an affordable alternative to other materials used to build tiny house frames. They’re already insulated, but you can upgrade to a thicker option if you live in an area where you think you’ll need more. Here are the details for the Curved House on wheels:
+
+### Price:
+
+* 133 Square Feet - $12,000
+* 166 Square Feet - $13,000
+* 200 Square Feet - $14,000
+
+### Includes:
+
+* 4 ½” SIPs for the floor, walls, and roof
+* Custom window and door placement 
+* Window and door cutouts
+* Hardware
+
+### Possible Additions/Upgrades:
+
+* Custom trailer
+* Thicker SIPs providing more insulation
