@@ -39,20 +39,22 @@ There are ways to get around these additional costs, but it’s important that y
 
 ## Tiny Heirloom’s DIY Tiny House Shell
 
+![Tiny Heirloom](/img/tiny-heirlome.jpg)
+
+<span class="figcaption">Image source: [Tiny Heirloom](https://www.tinyheirloom.com/galleries/archway-tiny-house)</span>
+
 While some tiny house kits come in a standard design, Tiny Heirloom offers you the chance to select from several of their models for your new home. Pricing is given by trailer size and starts at $15,000 for an 18ft tiny house on wheels. They offer several blueprint options for you to choose from, all which include roofing, a trailer, and a loft. 
 
 Tiny Heirloom also offers an alternative affordable and simple exterior package that includes windows, doors, and a primed or stained siding. It costs more than the basic shell package does, but it gives you all of the materials you need to build a finished tiny house shell if that’s what you’re looking for. 
 
 While it’s great to have options, their DIY frame is known as one of the most affordable tiny house kits on the market today. Here are the specs for a basic frame kit from Tiny Heirloom:
 
-### Pricing: 
+### Pricing:
 
 1. 18’ - $15,000
 2. 22’ - $17,000
 3. 26’ - $19,500
 4. 30’ - $23,000
-
-
 
 ### Includes:
 
