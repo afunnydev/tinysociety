@@ -111,6 +111,17 @@ While it’s great to have options, their DIY frame is known as one of the most 
 * Windows and doors cut out 
 * Plywood subfloor
 
+### Possible Additions/Upgrades:
+
+* Windows 
+* Skylights
+* Front door  
+* Standing seam metal roof
+* Pre-stained or pre-primed siding
+* Plumbing
+* Electricity
+* Painting
+
 ## Arched Cabins’ Kits
 
 ![Arched Cabins](/img/arched-cabins.jpg)
@@ -119,7 +130,7 @@ While it’s great to have options, their DIY frame is known as one of the most 
 
 If you’re looking to build a tiny house quickly, [Arched Cabins](http://archedcabins.com/sizes-and-prices.html) might have just what you need. Their kits are said to be so easy to construct that two people can put these homes together in only a few days. With a variety of sizes available, the liveable cabins that include room for a bathroom and kitchen range they offer range in size from 120 to 1200 square feet. 
 
-Without the option to build these tiny houses on wheels, it’s necessary to either create your own foundation or order a concrete block foundation with your kit. It’s important to note that Arched Cabins doesn’t offer plumbing and electricity upgrades. If this is something you can’t do yourself, then you’ll have to hire a professional and should account for that in the price of your tiny home. 
+Without the option to build these tiny houses on wheels, it’s necessary to either create your own foundation or order a concrete block foundation with your kit. It’s important to note that Arched Cabins doesn’t offer plumbing and electricity upgrades. If this is something you can’t do yourself, then you’ll have to hire a professional and should account for that in the price of your tiny home. Here’s a look at the details for these models:
 
 ### Pricing Depending On Size:
 
@@ -141,3 +152,40 @@ Without the option to build these tiny houses on wheels, it’s necessary to eit
 * Exterior stairs
 * Insulation upgrade
 * Fireplace thimble installation
+
+## Shelter-Kit Custom Tiny Homes
+
+![shelter kit](/img/shelter-kit.jpg)
+
+<span class="figcaption">Image source: [Shelter-Kit](https://shelter-kit.com/our-buildings/houses/) </span>
+
+If you have specific tiny house needs, then you might want to consider a [Shelter-Kit](https://shelter-kit.com/our-buildings/houses/). Each kit is custom made based on the size you want and can be designed to be a 1-story, 1 ½-story, or 2-story model. One of the benefits of choosing to buy your kit from Shelter-Kit is that they claim no power tools are needed to assemble them. It might be wise to have a hammer or two on hand though.
+
+Options start at 875 square feet, and can either be completely custom made from your own designs or alterations can be made to one of their existing blueprints. All of their models allow for simple additions, so if you want to add an extension at a later time, you’ll be able to. This allows you to start with a smaller, more affordable structure knowing you will always have the opportunity to add rooms to your home. At $28 to $49 per square foot, here’s what you can expect with a package from Starter-Kit:
+
+### Pricing  Depending On Size:
+
+* Basic Kit - $24,500 to $84,000
+* Advanced Kit - $42,875 to $147,000
+
+### Includes:
+
+* Frame
+* Flooring
+* Exterior wall sheathing
+* Siding
+* Roof sheathing
+* Trim
+* Shingles
+* Hardware
+
+### Possible Additions/Upgrades:
+
+* Alternative siding looks
+* Higher ceilings
+* Windows
+* Doors
+* Second floor with stairs
+* Porch or deck
+* Skylights
+* Lofts
