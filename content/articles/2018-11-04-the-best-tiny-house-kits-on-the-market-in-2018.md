@@ -110,3 +110,30 @@ While it’s great to have options, their DIY frame is known as one of the most 
 * Weatherproofing on exterior walls and roof
 * Windows and doors cut out 
 * Plywood subfloor
+
+## Arched Cabins’ Kits
+
+If you’re looking to build a tiny house quickly, Arched Cabins might have just what you need. Their kits are said to be so easy to construct that two people can put these homes together in only a few days. With a variety of sizes available, the liveable cabins that include room for a bathroom and kitchen range they offer range in size from 120 to 1200 square feet. 
+
+Without the option to build these tiny houses on wheels, it’s necessary to either create your own foundation or order a concrete block foundation with your kit. It’s important to note that Arched Cabins doesn’t offer plumbing and electricity upgrades. If this is something you can’t do yourself, then you’ll have to hire a professional and should account for that in the price of your tiny home. 
+
+### Pricing Depending On Size:
+
+* Basic DIY Kit - $2,200 to $15,000 
+* DIY Kit With All Upgrades - $2,850 to $18,450
+
+### Includes: 
+
+* Floor plates
+* Ridge beam
+* Roof paneling
+* Hardware
+* Standard R-13 insulation
+
+### Possible Additions/Upgrades:
+
+* Concrete block foundation
+* Loft structure and ladder
+* Exterior stairs
+* Insulation upgrade
+* Fireplace thimble installation
