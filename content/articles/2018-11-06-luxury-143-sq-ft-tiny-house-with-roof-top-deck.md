@@ -34,20 +34,34 @@ At 143 square feet, The Haven is bigger than most studio apartments. It has a fu
 
 ## Kitchen
 
+Located next to the bedroom, the kitchen offers the option of stainless steel or oil rubbed bronze fixtures. It may be small, but it gets the job done!
+
 ![The Haven Kitchen](/img/kitchen-1-thehaven.jpeg)
 
 <span class="figcaption"> The Haven's kitchen comes with granite counter tops. </span>
 
-Located next to the bedroom, the kitchen offers the option of stainless steel or oil rubbed bronze fixtures. 
-
 ## Bedroom
+
+The bedroom gets a ton of natural lighting making it the ideal place to sleep for those who like to wake up next with the sun. Multiple options are available to choose from for your flooring.
 
 ![The Haven Bedroom](/img/bedroom-1-thehaven.jpg)
 
 <span class="figcaption"> Notice the AC/heater wall unit, a standard feature of this tiny house. </span>
 
-The bedroom gets a ton of natural lighting making it the ideal place to sleep for those who like to wake up next with the sun. Multiple options are available to choose from for your flooring.
+A small wall mounted television allows you to catch up on your shows while you're in bed or while cooking a meal. 
 
 ![The Haven Bathroom](/img/bedroom-2-thehaven.jpeg)
 
-<span class="figcaption"> The Haven offers shiplap walls for the interior. </span>
+<span class="figcaption"> The Haven uses shiplap for the interior walls giving your tiny home a rustic vibe. </span>
+
+## Bathroom
+
+The Haven comes with a full bathroom including a corrugated steel shower, a vanity, a toilet, and a mirror. In conjunction with the rustic decor, the bathroom has a charming sliding barn door. 
+
+![The Have Bathroom](/img/kitchen-2-thehaven.jpeg)
+
+<span class="figcaption"> This tiny house uses a standard electrical and sewage hook up making the transition to the tiny lifestyle easier. </span>
+
+If you're dying to get your hands on this luxury tiny home, it'll cost you just $35,000! Contact the builders [here](https://www.alternativelivingspaces.com/) for more information on how you can make this tiny haven your dream home.
+
+All images are from: [Tiny House Listings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-haven)
