@@ -6,6 +6,7 @@ description: >-
   rooftop deck.
 slug: alternative-living-spaces-the-haven
 author: kristen
+image: /img/tinyhouse-2-thehaven-rec.jpg
 overlay: true
 date: '2018-11-06'
 notloaded:
@@ -16,6 +17,7 @@ listing:
     The Haven is a unique luxury tiny house designed by Alternative Living
     Spaces. At 20 feet long, this refurbished shipping container is suitable for
     full-time living, a guest room, pool house, or more. 
+  image: /img/tinyhouse-2-thehaven-sq.jpg
 likes: '2'
 categories:
   - Tiny houses
