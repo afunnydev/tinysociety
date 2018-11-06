@@ -1,6 +1,10 @@
 ---
 title: Luxury 143 sq. ft. Tiny House With Rooftop Deck
-slug: alternative-living-space-the-haven
+description: >-
+  Tiny house builders at Alternative Living Spaces turn an ordinary shipping
+  container into a luxury home with a bedroom, full bathroom, kitchen, and
+  rooftop deck.
+slug: alternative-living-spaces-the-haven
 author: kristen
 overlay: true
 date: '2018-11-06'
