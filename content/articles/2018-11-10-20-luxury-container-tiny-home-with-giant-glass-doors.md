@@ -29,7 +29,7 @@ noindex: false
 ---
 "The Zion" tiny house designed by [Alternative Tiny Houses](https://www.alternativelivingspaces.com/), is a 20' container revamped to create a luxurious and modern tiny home. This space makes the perfect guest house or tiny house on a trailer. 
 
-Our favorite feature of this tiny home are the standard container doors that open up extra wide to bring the outside in.  The large windows that line the entire container are also a great addition for letting in natural light. 
+Our favorite feature of this tiny home are the standard, container doors that open up extra wide to bring the outdoors in.  The large windows that line the entire container are also a great addition for letting in natural light. 
 
 ## Living Room/Bedroom
 
