@@ -69,6 +69,6 @@ We love the breakfast bar that doubles as a working space.
 
 <span class="figcaption">Work or enjoy your coffee with a view.</span>
 
-This modern yet understated container tiny home will only set you back $38500. Not bad at all for all of the features included! Get in touch with the builders [here](https://www.alternativelivingspaces.com/) for more information.
+This modern, yet understated container tiny home will only set you back $38500. Not bad at all for all of the features included! Get in touch with the builders [here](https://www.alternativelivingspaces.com/) for more information.
 
 All images are from: [Tiny House Listings](https://tinyhouselistings.com/)
