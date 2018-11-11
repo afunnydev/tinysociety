@@ -25,7 +25,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-This spacious tiny home comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends over!
+This spacious tiny home comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
 
 ## Living Room
 
@@ -33,7 +33,7 @@ This spacious tiny home comes packed with all the luxuries of a residential home
 
 <span class="figcaption">A cozy, yet spacious living room.</span>
 
-When we say this tiny home has space--we mean it. Although still tiny, this tiny home doesn't feel small. Unlike some tiny homes, this one has a dedicated living room space with enough room for a sofa or love seat. 
+When we say this tiny home has space, we mean it. Although still tiny, this tiny home doesn't feel small. Unlike some tiny homes, this one has a dedicated living room with enough space for a sofa or love seat. 
 
 ## Bathroom
 
