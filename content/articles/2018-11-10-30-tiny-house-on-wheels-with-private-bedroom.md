@@ -13,8 +13,8 @@ notloaded:
 listing:
   title: 30' Tiny House on Wheels with Private Bedroom
   description: >-
-    The customizable "Stony Ledge" tiny house on wheels and has 218 square feet
-    of space. At 30 feet long, this tiny home is perfect for full-time tiny
+    The customizable "Stony Ledge" tiny house on wheels has 218 square feet of
+    space. At 30 feet long, this tiny home is perfect for full-time tiny
     living. 
   image: /img/stonyledge.jpg
 likes: '22'
@@ -27,17 +27,17 @@ infographic: false
 draft: false
 noindex: false
 ---
-The customizable "Stony Ledge" tiny house on wheels and has 218 square feet of space. At 30 feet long, this tiny home is perfect for full-time tiny living. 
+The customizable "Stony Ledge" tiny house on wheels has 218 square feet of space. At 30 feet long, this tiny home is perfect for full-time tiny living. 
 
 ## Living Room/Dining Room
 
 This space includes a bench with cushions for hanging out or watching television. A small two-seater breakfast bar faces a large window, and is a great spot for eating a meal or working on a laptop. 
 
-![](/img/stonyledge_1.jpg)
+![null](/img/stonyledge_1.jpg)
 
 <span class="figcaption">A seating area with a view.</span>
 
-![](/img/stonyledge_2.jpg)
+![null](/img/stonyledge_2.jpg)
 
 <span class="figcaption">Breakfast for two.</span>
 
@@ -45,7 +45,7 @@ This space includes a bench with cushions for hanging out or watching television
 
 A mere step away from the living room/dining room puts you in the center of the tiny home. The kitchen boasts an L-shaped counter with plenty of cabinets and surface areas for food prep. 
 
-![](/img/stonyledge4.jpg)
+![null](/img/stonyledge4.jpg)
 
 <span class="figcaption">The L-shaped counter creates extra space. There is even room for a full-sized fridge.</span>
 
@@ -53,7 +53,7 @@ A mere step away from the living room/dining room puts you in the center of the 
 
 Our favorite part of the bathroom is the tub/shower combo. While a full-grown adult wouldn't be able to lie down in the tub, it certainly is a nice touch for anyone who loves baths or has kids. 
 
-![](/img/stonyledge_5.jpg)
+![null](/img/stonyledge_5.jpg)
 
 <span class="figcaption">The tiling adds some spa-like luxury.</span>
 
@@ -61,7 +61,7 @@ Our favorite part of the bathroom is the tub/shower combo. While a full-grown ad
 
 It isn't very often that you find a tiny house with a queen size bed on the ground floor. The separate bedroom has night stand storage, as well as a full-length closet. 
 
-![](/img/stonyledge_6.jpg)
+![null](/img/stonyledge_6.jpg)
 
 <span class="figcaption">Perfect for those who want a private bedroom area.</span>
 
