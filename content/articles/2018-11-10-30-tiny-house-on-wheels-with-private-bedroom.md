@@ -5,6 +5,7 @@ description: >-
   private bedroom. 
 slug: tiny-house-on-wheels-with-private-bedroom
 author: molli
+image: /img/stonyledge_banner.jpg
 overlay: true
 date: '2018-11-10'
 notloaded:
@@ -15,6 +16,7 @@ listing:
     The customizable "Stony Ledge" tiny house on wheels and has 218 square feet
     of space. At 30 feet long, this tiny home is perfect for full-time tiny
     living. 
+  image: /img/stonyledge.jpg
 likes: '22'
 categories:
   - tiny houses
