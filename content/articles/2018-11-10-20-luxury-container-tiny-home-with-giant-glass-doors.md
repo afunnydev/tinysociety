@@ -7,7 +7,7 @@ slug: 20-foot-luxury-container-tiny-home-with-giant-glass-doors
 author: molli
 image: /img/thezion.png
 overlay: true
-date: '2018-11-10'
+date: '2018-11-07'
 notloaded:
   need: true
 listing:
