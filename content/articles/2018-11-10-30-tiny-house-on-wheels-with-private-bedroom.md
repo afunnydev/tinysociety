@@ -29,6 +29,8 @@ infographic: false
 draft: false
 noindex: false
 ---
+![](/img/square-stony-ledge-exterior1-2.jpg)
+
 The customizable "Stony Ledge" tiny house on wheels has 218 square feet of space. At 30 feet long, this tiny home is perfect for full-time tiny living. 
 
 ## Living Room/Dining Room
