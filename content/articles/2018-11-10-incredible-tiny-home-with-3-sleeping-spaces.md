@@ -25,7 +25,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-![](/img/square-stony-ledge-exterior1-2.jpg)
+![null](/img/sunbear.jpg)
 
 This spacious tiny home comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
 
