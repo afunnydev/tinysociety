@@ -21,7 +21,6 @@ listing:
 likes: '2'
 categories:
   - Tiny houses
-  - Tiny house review
 i18nlanguage: en
 menuid: articles
 ordre: '2'
@@ -29,6 +28,8 @@ infographic: false
 draft: true
 noindex: false
 ---
+![](/img/haven.png)
+
 The Haven is a unique luxury tiny house designed by [Alternative Living Spaces](https://www.alternativelivingspaces.com/). At 20 feet long, this refurbished shipping container is suitable for full-time living, a guest room, pool house, or more. This quality structure allows you to either place your tiny house on a permanent foundation or on a trailer that provides you with full mobility.  
 
 ![The Haven Tiny House Deck](/img/deck-2-thehaven.jpeg)
