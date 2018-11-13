@@ -25,17 +25,17 @@ infographic: false
 draft: false
 noindex: false
 ---
-![null](/img/sunbear.jpg)
-
 This spacious tiny home comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
 
+![null](/img/sunbear.jpg)
+
 ## Living Room
+
+When we say this tiny home has space, we mean it. Although still tiny, this tiny home doesn't feel small. Unlike some tiny homes, this one has a dedicated living room with enough space for a sofa or love seat. 
 
 ![null](/img/whitehouse_livingroom.jpg)
 
 <span class="figcaption">A cozy, yet spacious living room.</span>
-
-When we say this tiny home has space, we mean it. Although still tiny, this tiny home doesn't feel small. Unlike some tiny homes, this one has a dedicated living room with enough space for a sofa or love seat. 
 
 ## Bathroom
 
