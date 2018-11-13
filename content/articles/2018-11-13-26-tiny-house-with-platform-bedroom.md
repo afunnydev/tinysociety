@@ -61,11 +61,11 @@ There is an eco-friendly sink, composting toilet, and large walk-in shower in th
 
 ## Sleeping Spaces
 
-The platform bedroom accessible by a few stairs is the popular feature of this tiny house. The clothing racks and additional dressers make for the ideal bedroom!
+The platform bedroom accessible by only a few stairs, is the popular feature of this tiny house. The clothing racks and additional dressers make for the ideal master bedroom!
 
 ![](/img/lookout5.jpeg)
 
-<span class="figcaption">The railing around the bed makes for a sleep that's both safe and sound.</span>
+<span class="figcaption">You'll sleep like a baby in this enclosed bed.</span>
 
 ![](/img/lookout6.jpeg)
 
