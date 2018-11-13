@@ -5,6 +5,7 @@ description: >-
   options, and a separate bathroom. 
 slug: incredible-tiny-home-wtih-3-sleeping-spaces
 author: molli
+image: /img/sunbear1.jpg
 overlay: true
 date: '2018-11-10'
 notloaded:
@@ -15,6 +16,7 @@ listing:
     This spacious tiny home comes packed with all the luxuries of a residential
     home. With three sleeping spaces, this tiny is ready for multi-person
     families or for having friends over!
+  image: /img/sunbear2.jpg
 likes: '25'
 categories:
   - tiny houses
