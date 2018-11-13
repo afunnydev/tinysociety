@@ -28,15 +28,15 @@ infographic: false
 draft: true
 noindex: false
 ---
+The Haven is a unique luxury tiny house designed by [Alternative Living Spaces](https://www.alternativelivingspaces.com/). At 20 feet long, this refurbished shipping container is suitable for full-time living, a guest room, pool house, or more. This quality structure allows you to either place your tiny house on a permanent foundation or on a trailer that provides you with full mobility.  
+
 ![](/img/haven.png)
 
-The Haven is a unique luxury tiny house designed by [Alternative Living Spaces](https://www.alternativelivingspaces.com/). At 20 feet long, this refurbished shipping container is suitable for full-time living, a guest room, pool house, or more. This quality structure allows you to either place your tiny house on a permanent foundation or on a trailer that provides you with full mobility.  
+At 143 square feet, The Haven is bigger than most studio apartments. It has a full bathroom, kitchen, bedroom, and living room area. 
 
 ![The Haven Tiny House Deck](/img/deck-2-thehaven.jpeg)
 
 <span class="figcaption">This rooftop deck will ensure you always have the best views. </span>
-
-At 143 square feet, The Haven is bigger than most studio apartments. It has a full bathroom, kitchen, bedroom, and living room area. 
 
 ![The Haven Tiny House](/img/tiny-house-1-thehaven.jpeg)
 
