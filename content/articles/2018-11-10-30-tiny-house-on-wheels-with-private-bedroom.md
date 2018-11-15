@@ -31,6 +31,8 @@ noindex: false
 ---
 The customizable "Stony Ledge" tiny house on wheels has 218 square feet of space. At 30 feet long, this tiny home is perfect for full-time tiny living. 
 
+![](/img/square-stony-ledge-exterior1-2.jpg)
+
 ## Living Room/Dining Room
 
 This space includes a bench with cushions for hanging out or watching television. A small two-seater breakfast bar faces a large window, and is a great spot for eating a meal or working on a laptop. 
@@ -67,6 +69,6 @@ It isn't very often that you find a tiny house with a queen size bed on the grou
 
 <span class="figcaption">Perfect for those who want a private bedroom area.</span>
 
-Do you love this tiny home as much as we do? Get more information from the tiny house builder [here.](https://bbtinyhouses.com)
+The cost of this tiny house on wheels is $69000. Do you love this tiny home as much as we do? Get more information from the tiny house builder [here.](https://bbtinyhouses.com/contact/)
 
 All images are from[ B&B Tiny Houses.](https://bbtinyhouses.com)
