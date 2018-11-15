@@ -72,6 +72,6 @@ The platform bedroom accessible by only a few stairs, is the popular feature of 
 
 <span class="figcaption">Plenty of places to hang or store clothes.</span>
 
-This tiny home comes in at $93000. Want to learn more about this award-winning tiny house? Get more information from the builder [here](https://tinyhousechattanooga.com/contact/).
+This tiny home comes in at $93000. Want to learn more about this award-winning tiny house? Get more information from the builder [here.](https://tinyhousechattanooga.com/contact/)
 
 All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Tiny House Chattanooga.](https://tinyhousechattanooga.com)
