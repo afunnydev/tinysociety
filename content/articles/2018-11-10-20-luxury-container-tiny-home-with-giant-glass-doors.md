@@ -20,7 +20,6 @@ listing:
 likes: '27'
 categories:
   - Tiny houses
-  - Architecture and design
   - Tiny house review
 i18nlanguage: en
 menuid: articles
