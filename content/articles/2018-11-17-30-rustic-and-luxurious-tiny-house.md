@@ -6,6 +6,7 @@ description: >-
   for any adventure.
 slug: 30-foot-rustic-and-luxurious-tiny-house
 author: molli
+image: /img/mint_banner.png
 overlay: true
 date: '2018-11-16'
 notloaded:
@@ -16,6 +17,7 @@ listing:
     This 30' tiny home offers potential homeowners the chance to downsize in
     luxury! The space features quartz counter tops, gorgeous hard woods, and a
     spacious interior. 
+  image: /img/mint_square.png
 likes: '40'
 categories:
   - tiny houses
