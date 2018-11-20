@@ -34,11 +34,11 @@ This versatile, glamorous tiny house is for the homeowner who wants to have enou
 
 ## Kitchen
 
-Equipped with top of the line appliances, this tiny house kitchen is anything but tiny. Full size appliances and spacious counter tops mean you have plenty of room to cook up a big meal.
+Equipped with top of the line appliances, the kitchen feels anything but tiny. Full size appliances and spacious counter tops mean you have plenty of room to cook up a big meal.
 
 ![](/img/custom1.jpeg)
 
-<span class="figcaption">Cabinet space for storing all the food and kitchen utensils one could need.</span>
+<span class="figcaption">Enough cabinet space to store all the food and kitchen utensils one could want.</span>
 
 ![](/img/custom2.jpeg)
 
@@ -46,15 +46,15 @@ Equipped with top of the line appliances, this tiny house kitchen is anything bu
 
 ## Living Room
 
-Just next to the breakfast bar is the living room. Big enough for a comfy set of couches, this open plan area makes an excellent room for entertaining.
+Next to the breakfast bar is the airy living room. Big enough for a comfy set of couches, this open plan area makes an excellent place for entertaining.
 
 ![](/img/custom3.jpeg)
 
-<span class="figcaption">The opposite facing windows allow lots of natural light in the space.</span>
+<span class="figcaption">The opposite facing windows allow for plenty of natural light.</span>
 
 ## Bathroom
 
-This tiny house bathroom is large enough for a big shower, composting toilet, and sink. Our favorite part about the bathroom is that it's conveniently between the bedroom and living space!
+This tiny house bathroom is large enough for a walk-in shower, composting toilet, and sink. Our favorite part about the bathroom is that it's conveniently located between the bedroom and living space!
 
 ![](/img/custom4.jpeg)
 
@@ -66,7 +66,7 @@ This tiny house bathroom is large enough for a big shower, composting toilet, an
 
 ## Sleeping Spaces
 
-Just beyond the bathroom is the master bedroom with a custom Murphy Bed/workspace combo. A ladder leads up to the loft which can either be a cozy sleeping space, or storage area. 
+Just beyond the bathroom is the master bedroom with a custom Murphy Bed/workspace combo. A ladder leads up to the loft which can either be a second cozy sleeping space or storage area. 
 
 ![](/img/custom6.jpeg)
 
