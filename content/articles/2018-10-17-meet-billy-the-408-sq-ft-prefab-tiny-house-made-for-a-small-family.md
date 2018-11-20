@@ -23,6 +23,7 @@ listing:
 likes: '55'
 categories:
   - Tiny houses
+  - Tiny house review
 i18nlanguage: en
 menuid: articles
 ordre: '0'

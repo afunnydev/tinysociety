@@ -20,7 +20,8 @@ listing:
   image: /img/haven.jpg
 likes: '25'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Tiny house review
 i18nlanguage: en
 menuid: articles
 ordre: '0'

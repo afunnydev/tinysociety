@@ -29,5 +29,5 @@ section3:
 
 
     We are more than happy to help you find a plan or discuss about a potential floor plan customization.
-  ctaline: Email us anytime at [hello@tinysociety.co](hello@tinysociety.co)
+  ctaline: Email us anytime at [hello@tinysociety.co](mailto:hello@tinysociety.co)
 ---

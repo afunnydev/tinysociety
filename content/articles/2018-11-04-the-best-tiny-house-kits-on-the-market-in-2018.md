@@ -130,7 +130,7 @@ While it’s great to have options, their DIY frame is known as one of the most 
 
 ## Arched Cabins’ Kits
 
-![Arched Cabins](/img/arched-cabins.jpg)
+![Arched Cabins](/img/arched-cabins-2.jpg)
 
 <span class="figcaption">Image source: [Arched Cabins](http://archedcabins.com)</span>
 
@@ -198,7 +198,7 @@ Options start at 875 square feet, and can either be completely custom made from 
 
 ## Artisan Tiny House Curved House Kit
 
-![Curved House](/img/screenshot-2018-11-05-at-7.19.45-am-edited.png)
+![Curved House](/img/artisan-tiny-house.jpg)
 
 <span class="figcaption">Image source: [Artisan Tiny House](https://artisantinyhouse.com/) </span>
 

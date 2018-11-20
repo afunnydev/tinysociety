@@ -6,6 +6,7 @@ image: /img/simplistic-tiny-house-exterior2.jpg
 titre: "Our Tiny House Plans"
 menuid: home
 iscollection: true
+noindex: true
 section2:
   title: "Why Choose Our Plans"
   category: "tiny house"

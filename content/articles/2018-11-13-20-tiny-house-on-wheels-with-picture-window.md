@@ -20,7 +20,7 @@ listing:
   image: /img/theview_square.jpg
 likes: '27'
 categories:
-  - tiny houses
+  - Tiny houses
 i18nlanguage: en
 menuid: articles
 ordre: '0'
