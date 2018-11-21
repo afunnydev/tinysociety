@@ -5,7 +5,7 @@ description: >-
   rental, or hang out space. 
 slug: 20-foot-luxury-container-tiny-home-with-giant-glass-doors
 author: molli
-image: /img/thezion.png
+image: /img/zion_banner.jpg
 overlay: true
 date: '2018-11-07'
 notloaded:
@@ -16,7 +16,7 @@ listing:
     "The Zion" tiny house designed by Alternative Tiny Houses, is a 20'
     container revamped to create a luxurious and modern tiny home. This space
     makes the perfect guest house or tiny house on a trailer. 
-  image: /img/thezion_2.0.png
+  image: /img/zion_square.jpg
 likes: '27'
 categories:
   - Tiny houses
