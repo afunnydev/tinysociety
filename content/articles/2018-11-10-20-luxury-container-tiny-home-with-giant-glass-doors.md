@@ -36,7 +36,7 @@ Our favorite feature of this tiny home are the standard, container doors that op
 
 ## Living Room/Bedroom
 
-![null](/img/thezion_livingroom.png)
+![null](/img/zion_livingroom.jpeg)
 
 <span class="figcaption">A cozy living room space with hidden bedroom capabilities.</span>
 
@@ -46,13 +46,13 @@ When your visitors leave, you can even turn the couch and bench into a comfy bed
 
 ## Bathroom
 
-![null](/img/thezion_bathroom.png)
+![null](/img/zion_bathroom.jpeg)
 
 <span class="figcaption">The separate bathroom space even has a vanity with a mirror!</span>
 
 The bathroom is at the far end of the container in a closed-off space. The sliding barn door makes an excellent feature piece in the tiny house. 
 
-![null](/img/thezion_shower.png)
+![null](/img/zion_shower.jpeg)
 
 <span class="figcaption">The beautifully rustic, corrugated iron shower.</span>
 
@@ -60,7 +60,7 @@ The bathroom has a toilet, a sink with mirror--even a corrugated iron shower!
 
 ## Kitchen
 
-![null](/img/thezion_kitchen1.png)
+![null](/img/zion_kitchen.jpeg)
 
 <span class="figcaption">The spacious kitchen area with the barn door at the far end.</span>
 
@@ -68,7 +68,7 @@ The kitchen area is spacious with a mixture of granite counter tops and rustic w
 
 We love the breakfast bar that doubles as a working space.
 
-![null](/img/thezion_bfastbar.png)
+![null](/img/zion_breakfastbar.jpeg)
 
 <span class="figcaption">Work or enjoy your coffee with a view.</span>
 
