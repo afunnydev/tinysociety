@@ -60,6 +60,6 @@ The kitchen can be fitted with a solid granite counter top and backsplash. Altho
 ![](/img/haven_5.jpeg)
 <span class="figcaption">A small eating/working area and kitchen makes excellent use of the small space.</span>
 
-You sure can't beat the price! At $35000, tiny house enthusiasts are able to design their ideal tiny. Contact the builders [here ](https://www.alternativelivingspaces.com/)for more information.
+You sure can't beat the price! At $35000, tiny house enthusiasts are able to design their ideal tiny. Prices may vary over time; you can contact the builders [here ](https://www.alternativelivingspaces.com/)for the most up to date information. 
 
 All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-haven)
