@@ -21,6 +21,7 @@ listing:
 likes: '2'
 categories:
   - Tiny houses
+  - Tiny house review
 i18nlanguage: en
 menuid: articles
 ordre: '2'
