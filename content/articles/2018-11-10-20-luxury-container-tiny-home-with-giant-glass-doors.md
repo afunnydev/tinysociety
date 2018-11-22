@@ -5,7 +5,7 @@ description: >-
   rental, or hang out space. 
 slug: 20-foot-luxury-container-tiny-home-with-giant-glass-doors
 author: molli
-image: /img/thezion.png
+image: /img/zion_banner.jpg
 overlay: true
 date: '2018-11-07'
 notloaded:
@@ -16,7 +16,7 @@ listing:
     "The Zion" tiny house designed by Alternative Tiny Houses, is a 20'
     container revamped to create a luxurious and modern tiny home. This space
     makes the perfect guest house or tiny house on a trailer. 
-  image: /img/thezion_2.0.png
+  image: /img/zion_square.jpg
 likes: '27'
 categories:
   - Tiny houses
@@ -36,7 +36,7 @@ Our favorite feature of this tiny home are the standard, container doors that op
 
 ## Living Room/Bedroom
 
-![null](/img/thezion_livingroom.png)
+![null](/img/zion_livingroom.jpeg)
 
 <span class="figcaption">A cozy living room space with hidden bedroom capabilities.</span>
 
@@ -46,13 +46,13 @@ When your visitors leave, you can even turn the couch and bench into a comfy bed
 
 ## Bathroom
 
-![null](/img/thezion_bathroom.png)
+![null](/img/zion_bathroom.jpeg)
 
 <span class="figcaption">The separate bathroom space even has a vanity with a mirror!</span>
 
 The bathroom is at the far end of the container in a closed-off space. The sliding barn door makes an excellent feature piece in the tiny house. 
 
-![null](/img/thezion_shower.png)
+![null](/img/zion_shower.jpeg)
 
 <span class="figcaption">The beautifully rustic, corrugated iron shower.</span>
 
@@ -60,7 +60,7 @@ The bathroom has a toilet, a sink with mirror--even a corrugated iron shower!
 
 ## Kitchen
 
-![null](/img/thezion_kitchen1.png)
+![null](/img/zion_kitchen.jpeg)
 
 <span class="figcaption">The spacious kitchen area with the barn door at the far end.</span>
 
@@ -68,10 +68,10 @@ The kitchen area is spacious with a mixture of granite counter tops and rustic w
 
 We love the breakfast bar that doubles as a working space.
 
-![null](/img/thezion_bfastbar.png)
+![null](/img/zion_breakfastbar.jpeg)
 
 <span class="figcaption">Work or enjoy your coffee with a view.</span>
 
-This modern, yet understated container tiny home will only set you back $38500. Not bad at all for all of the features included! Get in touch with the builders [here](https://www.alternativelivingspaces.com/) for more information.
+This modern, yet understated container tiny home will only set you back $38500. Not bad at all for all of the features included! Prices may vary over time; get in touch with the builders [here](https://www.alternativelivingspaces.com/) for the most up to date information.
 
 All images are from: [Tiny House Listings](https://tinyhouselistings.com/)
