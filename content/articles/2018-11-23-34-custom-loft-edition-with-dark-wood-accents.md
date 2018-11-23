@@ -1,13 +1,22 @@
 ---
 title: 34' Custom Loft Edition with Dark Wood Accents
-slug: this-is-an-example
+description: >-
+  This tiny home features dark wood accents and fully customizable features. At
+  387 sq ft, this tiny home is ideal for full-time tiny living for a
+  multi-person family. 
+slug: 34-foot-custom-loft-edition-with-dark-wood-accents
 author: molli
+image: /img/darkcustomloft_banner.jpg
 overlay: true
 date: '2018-11-23'
 notloaded:
   need: true
 listing:
   title: 34' Custom Loft Edition with Dark Wood Accents
+  description: >-
+    This fully customizable tiny home features rich, dark wood accents. At 387
+    sq ft, this tiny can be designed to your exact specifications. 
+  image: /img/darkcustomloft_square.jpg
 likes: '21'
 categories:
   - Tiny houses
