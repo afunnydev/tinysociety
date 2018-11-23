@@ -74,6 +74,6 @@ Where do we begin? There are three different options for sleeping in this tiny h
 
 <span class="figcaption">Elevator bed with the cozy couch-bed underneath.</span>
 
-The cost of this tiny home is $75000. For more information, contact the builder [here.](http://sunbeartinyhomes.com/)
+The cost of this tiny home is $75000. Prices may vary over time; contact the builder [here](http://sunbeartinyhomes.com/) for more information.
 
 All images are from [Sun Bear Tiny Homes.](http://sunbeartinyhomes.com/)
