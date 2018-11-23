@@ -34,11 +34,11 @@ This fully customizable tiny home features rich, dark wood accents. At 387 sq ft
 
 ## Kitchen
 
-The kitchen has space for full-sized appliances that can be arranged to your liking. 
+The kitchen has space for full-sized appliances such as a farmhouse sink or double-door fridge. The lofted ceilings make the space appear airy and spacious. 
 
 ![](/img/darkcustomloft1.jpeg)
 
-* <span class="figcaption">We love the gorgeous, hard wood counter tops!</span>
+<span class="figcaption">The rafters work well with the hard wood counter tops!</span>
 
 ![](/img/darkcustomloft3.jpeg)
 
