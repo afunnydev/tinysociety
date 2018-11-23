@@ -28,7 +28,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-Built on a gooseneck trailer, this award-winning tiny home has two lofts and a 5 foot picture window on one side. At 20 feet long, this tiny house on wheels is perfect for seasonal or full-time living. 
+Built on a gooseneck trailer, this 248 square foot award-winning tiny home has two lofts and a 5 foot picture window. At 20 feet long, this tiny house on wheels is perfect for seasonal or full-time living. 
 
 ![](/img/theview.jpeg)
 
@@ -82,6 +82,6 @@ The V-staircase leads to a loft bedroom with enough room for a bed and not much 
 
 This no-frills tiny is ideal for potential tiny homeowners who are looking to focus on minimalist living. However, despite being a smaller tiny house, this 20' tiny has a great deal to offer for the $64900 price tag. 
 
-Want to know more about this tiny home? Contact the builder [here.](https://tinyhousechattanooga.com/contact/)
+Prices may vary over time; for more information you can contact the builder [here.](https://tinyhousechattanooga.com/contact/) 
 
 All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/cleveland-tn-12-award-winning-20ft-thow-with-huge-porthole-window-by-award-winning-builder)
