@@ -28,7 +28,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-"The Zion" tiny house designed by [Alternative Tiny Houses](https://www.alternativelivingspaces.com/), is a 20' container revamped to create a luxurious and modern tiny home. This space makes the perfect guest house or tiny house on a trailer. 
+"The Zion" tiny house designed by [Alternative Tiny Houses](https://www.alternativelivingspaces.com/), is a 20' container revamped to create a luxurious and modern tiny home. At 143 square feet, this space makes the perfect guest house or tiny house on a trailer. 
 
 ![](/img/zion.png)
 
