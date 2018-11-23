@@ -14,7 +14,7 @@ notloaded:
 listing:
   title: Luxury 143 sq. ft. Tiny House With Rooftop Deck
   description: >-
-    The Haven is a unique luxury tiny house designed by Alternative Living
+    The Haven is 143 square feet of unique luxury designed by Alternative Living
     Spaces. At 20 feet long, this refurbished shipping container is suitable for
     full-time living, a guest room, pool house, or more. 
   image: /img/tinyhouse-2-thehaven-sq.jpg
