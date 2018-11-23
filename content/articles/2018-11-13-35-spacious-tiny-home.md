@@ -13,8 +13,8 @@ notloaded:
 listing:
   title: 35' Spacious Tiny Home
   description: >-
-    The ultimate in modern-luxury meets farmhouse; this tiny home sits on a
-    gooseneck trailer and steel frame kit from tinyhousefoundations.com.
+    The ultimate in modern-luxury meets farmhouse; this 315 sq ft tiny home sits
+    on a gooseneck trailer and steel frame kit from tinyhousefoundations.com.
   image: /img/gooseneck_square.jpg
 likes: '25'
 categories:
@@ -27,7 +27,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-The ultimate in modern-luxury meets farmhouse; this tiny home sits on a gooseneck trailer and steel frame kit from tinyhousefoundations.com.
+The ultimate in modern-luxury meets farmhouse; this 315 square foot tiny home sits on a gooseneck trailer and steel frame kit from tinyhousefoundations.com.
 
 ![](/img/gooseneck1.jpeg)
 
@@ -71,6 +71,6 @@ A secret set of stairs on the gooseneck of the trailer lead to a private space b
 
 <span class="figcaption">Each step has its own drawer.</span>
 
-This tiny home rings in at $121,200. We love this tiny because it has plenty of space for entertaining and cooking. You can check it out [here.](https://tinyhouselistings.com/listings/beautiful-35-steel-framed-gooseneck-tiny-home)
+This tiny home rings in at $121,200. We love this tiny because it has plenty of space for entertaining and cooking. Please note; prices may vary over time. You can contact the builder for the most up-to-date info [here.](https://tinyhouselistings.com/listings/beautiful-35-steel-framed-gooseneck-tiny-home)
 
 All images are from [Tiny House Listings.](https://tinyhouselistings.com/)
