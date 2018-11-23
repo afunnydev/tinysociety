@@ -28,7 +28,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-This 26' tiny house was voted People's Choice Best in Show at the Tiny House Jamboree 2016. Spacious and with an open-plan feel, this tiny is also accessible for homeowners who don't want to climb into a loft. 
+This 26' tiny house was voted People's Choice Best in Show at the Tiny House Jamboree 2016. Spacious and with an open-plan feel, this 299 sq ft tiny is also accessible for homeowners who don't want to climb into a loft. 
 
 ![](/img/lookout-main.jpg)
 
@@ -72,6 +72,6 @@ The platform bedroom accessible by only a few stairs, is the popular feature of 
 
 <span class="figcaption">Plenty of places to hang or store clothes.</span>
 
-This tiny home comes in at $93000. Want to learn more about this award-winning tiny house? Get more information from the builder [here.](https://tinyhousechattanooga.com/contact/)
+This tiny home comes in at $93000. Please note that prices may vary over time; you can contact the builder for the most up-to-date information [here.](https://tinyhousechattanooga.com/contact/)
 
 All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Tiny House Chattanooga.](https://tinyhousechattanooga.com)
