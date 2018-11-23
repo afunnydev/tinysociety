@@ -28,7 +28,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-This spacious tiny home comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
+This 335 square foot spacious tiny comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
 
 ![null](/img/sunbear.jpg)
 
