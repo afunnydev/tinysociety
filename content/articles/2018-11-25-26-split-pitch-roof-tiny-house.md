@@ -27,7 +27,9 @@ infographic: false
 draft: false
 noindex: false
 ---
+```
 If you're looking for the perfect tiny home, look no further. At 265 square feet, this cozy yet spacious tiny house on wheels ticks off all the boxes. 
+```
 
 ![](/img/napa.jpeg)
 
@@ -48,8 +50,6 @@ The space is extremely functional, and can fit full-size appliances. You'll noti
 Just inside the front door is the living room. This cozy little nook has several windows which allow natural light to brighten the space.
 
 ![](/img/napa_3.jpeg)
-
-![]()
 
 <span class="figcaption">The living room is located beneath one of the sleeping lofts.</span>
 
