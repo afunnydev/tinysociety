@@ -27,9 +27,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-```
 If you're looking for the perfect tiny home, look no further. At 265 square feet, this cozy yet spacious tiny house on wheels ticks off all the boxes. 
-```
 
 ![](/img/napa.jpeg)
 
