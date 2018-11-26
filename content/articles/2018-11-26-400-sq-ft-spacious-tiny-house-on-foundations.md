@@ -6,6 +6,7 @@ description: >-
   tiny innovative in terms of tiny house design.
 slug: 400-square-foot-spacious-tiny-house-on-foundations
 author: molli
+image: /img/denali_banner.jpg
 overlay: true
 date: '2018-11-26'
 notloaded:
@@ -16,6 +17,7 @@ listing:
     This 400 square foot tiny house on foundations is the perfect size for
     everything a tiny dweller needs. With incredible windows and angles, this
     tiny house is one of the most innovative designs out there. 
+  image: /img/denali_square.jpg
 likes: '25'
 categories:
   - Tiny houses
