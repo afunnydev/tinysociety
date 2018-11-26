@@ -29,7 +29,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-This 30' tiny home offers potential homeowners the chance to downsize in luxury! The space features quartz counter tops, gorgeous hard woods, and a spacious interior. 
+This 30' tiny home offers potential homeowners the chance to downsize in luxury! The space features 330 sq ft of quartz counter tops, gorgeous hard wood, and a spacious interior. 
 
 ![](/img/mint1.png)
 
@@ -43,7 +43,7 @@ Tucked securely beneath the main loft is a cozy space big enough for a couch and
 
 ## Kitchen
 
-The size of this kitchen is ideal for entertaining; it has an open plan feel and multiple surfaces for food prep. You'll notice the appliances are full-size, and can accommodate the inner-chef in you. 
+The size of this kitchen is ideal for entertaining; it has an open plan feel and multiple surfaces for food prep. You'll notice the appliances are full-size, and can accommodate your inner chef.  
 
 ![](/img/mint4.jpeg)
 
@@ -77,6 +77,6 @@ There are two full-size lofts in this tiny house. The "master loft" has a set of
 
 <span class="figcaption">You can access the second loft using the ladder.</span>
 
-For $95000, you can make this luxurious tiny home your own. For more information, you can contact the builder [here.](https://www.minttinyhomes.com/contact-tiny-living)
+For $95000, you can make this luxurious tiny home your own. Please note that prices may vary over time. For more information and the most up-to-date prices, you can contact the builder [here.](https://www.minttinyhomes.com/contact-tiny-living)
 
 All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Mint Tiny House Company.](https://www.minttinyhomes.com/)
