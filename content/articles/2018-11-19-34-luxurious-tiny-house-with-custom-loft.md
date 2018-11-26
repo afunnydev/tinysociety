@@ -15,12 +15,13 @@ listing:
   title: 34' Luxurious Tiny House with Custom Loft
   description: >-
     This versatile, glamorous tiny house is for the homeowner who wants to have
-    enough space for everything they need. With fully customizable options, each
-    space can be designed to your exact specifications. 
+    enough space for everything they need. With fully customizable options, the
+    350 sq ft space can be designed to your exact specifications. 
   image: /img/custom_square.jpg
 likes: '27'
 categories:
-  - tiny houses
+  - Tiny houses
+  - Tiny house review
 i18nlanguage: en
 menuid: articles
 ordre: '0'
@@ -28,7 +29,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-This versatile, glamorous tiny house is for the homeowner who wants to have enough space for everything they need. With fully customizable options, each space can be designed to your exact specifications. 
+This versatile, glamorous tiny house is for the homeowner who wants to have enough space for everything they need. With fully customizable options, this 350 sq ft space can be designed to your exact specifications. 
 
 ![](/img/custom.jpg)
 
@@ -84,6 +85,6 @@ Just beyond the bathroom is the master bedroom with a custom Murphy Bed/workspac
 
 <span class="figcaption">Nothing small about this loft bedroom.</span>
 
-Do you love this bespoke tiny house as much as we do? This customizable tiny home can be yours for $88000! For more information, contact the builder[ here.](https://www.minttinyhomes.com/contact-tiny-living)
+Do you love this bespoke tiny house as much as we do? This customizable tiny home can be yours for $88000! Please note; prices may vary over time. For the most up-to-date information, contact the builder[ here.](https://www.minttinyhomes.com/contact-tiny-living)
 
 All images are from [Mint Tiny House Company](https://www.minttinyhomes.com/) and [Tiny House Listings.](https://tinyhouselistings.com)
