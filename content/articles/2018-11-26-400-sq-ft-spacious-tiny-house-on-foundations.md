@@ -35,7 +35,7 @@ This 400 square foot tiny house on foundations is the perfect size for everythin
 
 ## Kitchen
 
-The kitchen of this tiny house is unique because it has a wrapping counter island that is perfect for having entertaining or family dinners. Full-sized appliances and storage cabinets fit snugly into the corner. 
+The kitchen of this tiny house is unique because it has a wrapping counter island that is perfect for entertaining or family dinners. Full-sized appliances and storage cabinets fit snugly into the corner. 
 
 ![](/img/denali_2.jpg)
 
@@ -47,7 +47,7 @@ Next to the kitchen is an open plan living room with space for a corner sofa and
 
 ![](/img/denali_3.jpg)
 
-<span class="figcaption">The high ceiling makes the space appear large.</span>
+<span class="figcaption">The high ceiling makes the space appear bigger.</span>
 
 ## Bathroom
 
