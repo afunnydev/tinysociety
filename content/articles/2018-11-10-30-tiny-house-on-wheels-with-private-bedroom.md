@@ -1,7 +1,7 @@
 ---
 title: 30' Tiny House on Wheels with Private Bedroom
 description: >-
-  This 30' tiny house on wheels boasts a large kitchen, smaller living room, and
+  This 30' tiny house on wheels boasts a large kitchen, cozy living room, and
   private bedroom. Check it out here! 
 slug: tiny-house-on-wheels-with-private-bedroom
 author: molli
