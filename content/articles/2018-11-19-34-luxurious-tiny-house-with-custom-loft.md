@@ -20,7 +20,7 @@ listing:
   image: /img/custom_square.jpg
 likes: '27'
 categories:
-  - tiny houses
+  - Tiny houses
   - Tiny house review
 i18nlanguage: en
 menuid: articles
