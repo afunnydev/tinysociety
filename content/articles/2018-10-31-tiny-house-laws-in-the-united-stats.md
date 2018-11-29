@@ -16,8 +16,8 @@ i18nlanguage: en
 menuid: articles
 ordre: 0
 infographic: false
-draft: false
-noindex: false
+draft: true
+noindex: true
 ---
 Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is _**the need to find a home for your tiny home.**_
 
