@@ -1,5 +1,7 @@
 ---
 title: Tiny House Laws in the United States
+description: >-
+  Go to guide for understanding how tiny house-friendly is any particular state in the USA. We update this guide frequently with new regulations and codes.
 slug: tiny-house-laws-in-the-us
 author: molli
 image: /img/tiny-house-laws-maps.jpg
@@ -10,7 +12,7 @@ notloaded:
 listing:
   title: Tiny House Laws in the United States
   description: >-
-    The following information on tiny house laws in the United States should be perceived as guidelines for understanding how tiny house-friendly a particular state is, as regulations and codes are actively changing
+    The following information on tiny house laws in the United States should be perceived as guidelines for understanding how tiny house-friendly a particular state is, as regulations and codes are actively changing.
   image: /img/tiny-house-laws-by-state-square.jpg
 likes: '50'
 categories:
