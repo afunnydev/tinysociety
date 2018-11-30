@@ -1,0 +1,201 @@
+states:
+  - state: AK
+    statename: Alaska
+    friendliness: 4
+    notes: 
+  - state: AR
+    statename: Arkansas
+    friendliness: 2
+    notes: 
+  - state: AL
+    statename: Alabama
+    friendliness: 2
+    notes: 
+  - state: AZ
+    statename: Arizona
+    friendliness: 7
+    notes: 
+  - state: CA
+    statename: California
+    friendliness: 7
+    notes: 
+  - state: CO
+    statename: Colorade
+    friendliness: 6
+    notes: 
+  - state: CT
+    statename: Connecticut
+    friendliness: 0
+    notes: 
+  - state: DE
+    statename: Delaware
+    friendliness: 4
+    notes: 
+  - state: FL
+    statename: Florida
+    friendliness: 7
+    notes: 
+  - state: GA
+    statename: Georgia
+    friendliness: 8
+    notes: 
+  - state: HI
+    statename: Hawaii
+    friendliness: 5
+    notes: 
+  - state: ID
+    statename: Idaho
+    friendliness: 7
+    notes: 
+  - state: IL
+    statename: Illinois
+    friendliness: 5
+    notes: 
+  - state: IN
+    statename: Indiana
+    friendliness: 6
+    notes: 
+  - state: IA
+    statename: Iowa
+    friendliness: 3
+    notes: 
+  - state: KS
+    statename: Kansas
+    friendliness: 6
+    notes: 
+  - state: KY
+    statename: Kentucky
+    friendliness: 5
+    notes: 
+  - state: LA
+    statename: Louisiana
+    friendliness: 4
+    notes: 
+  - state: MD
+    statename: Maryland
+    friendliness: 4
+    notes: 
+  - state: ME
+    statename: Maine
+    friendliness: 9
+    notes: 
+  - state: MA
+    statename: Massachusetts
+    friendliness: 8
+    notes: 
+  - state: MN
+    statename: Minnesota
+    friendliness: 7
+    notes: 
+  - state: MI
+    statename: Michigan
+    friendliness: 8
+    notes: 
+  - state: MS
+    statename: Mississippi
+    friendliness: 4
+    notes: 
+  - state: MO
+    statename: Missouri
+    friendliness: 3
+    notes: 
+  - state: MT
+    statename: Montana
+    friendliness: 3
+    notes: 
+  - state: NC
+    statename: North Carolina
+    friendliness: 6
+    notes: 
+  - state: NE
+    statename: Nebraska
+    friendliness: 7
+    notes: 
+  - state: NV
+    statename: Nevada
+    friendliness: 7
+    notes: 
+  - state: NH
+    statename: New Hampshire
+    friendliness: 8
+    notes: 
+  - state: NJ
+    statename: New Jersey
+    friendliness: 4
+    notes: 
+  - state: NY
+    statename: New York
+    friendliness: 2
+    notes: 
+  - state: ND
+    statename: North Dakota
+    friendliness: 5
+    notes: 
+  - state: NM
+    statename: New Mexico
+    friendliness: 8
+    notes: 
+  - state: OH
+    statename: Ohio
+    friendliness: 3
+    notes: 
+  - state: OK
+    statename: Oklahoma
+    friendliness: 4
+    notes: 
+  - state: OR
+    statename: Oregon
+    friendliness: 8
+    notes: 
+  - state: PA
+    statename: Pennsylvania
+    friendliness: 8
+    notes: 
+  - state: RI
+    statename: Rhode Island
+    friendliness: 2
+    notes: 
+  - state: SC
+    statename: South Carolina
+    friendliness: 6
+    notes: 
+  - state: SD
+    statename: South Dakota
+    friendliness: 7
+    notes: 
+  - state: TN
+    statename: Tennessee
+    friendliness: 6
+    notes: 
+  - state: TX
+    statename: Texas
+    friendliness: 9
+    notes: 
+  - state: UT
+    statename: Utah
+    friendliness: 5
+    notes: 
+  - state: VA
+    statename: Virginia
+    friendliness: 4
+    notes: 
+  - state: VT
+    statename: Vermont
+    friendliness: 6
+    notes: 
+  - state: WI
+    statename: Wisconsin
+    friendliness: 3
+    notes: 
+  - state: WA
+    statename: Washington
+    friendliness: 5
+    notes: 
+  - state: WV
+    statename: West Virginia
+    friendliness: 3
+    notes: 
+  - state: WY
+    statename: Wyoming
+    friendliness: 5
+    notes: 

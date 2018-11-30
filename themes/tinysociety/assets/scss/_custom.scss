@@ -678,6 +678,28 @@ div.overlayed {
 		}
 	}
 }
+#map-tiny-container {
+	width: 100%;
+	// background-image: url(/img/loader.gif);
+	// background-position: center center;
+	// background-repeat: no-repeat;
+	background-color: transparent;
+	#map-tiny-friendly {
+		width: 100%
+	}
+}
+.maps-hoverinfo {
+	background-color: white;
+	padding: 10px 20px;
+	p {
+		font-size:18px;
+		font-family: $pfont;
+		margin-bottom: 0 !important;
+	}
+	a.innerlink {
+		display: none
+	}
+}
 /* The progress container (grey background) */
 .progress-container {
   width: 100%;
@@ -901,6 +923,24 @@ h6.regular-text {
 			}
 		}
 	}
+	#map-tiny-container {
+		width: 100%;
+		overflow-x: scroll;
+		white-space: nowrap;
+		-webkit-overflow-scrolling: touch;
+		#map-tiny-friendly {
+			width: 150%;
+			height: 30vh;
+		}
+	}
+	.maps-hoverinfo {
+		p {
+			
+		}
+		a.innerlink {
+			display: block !important;
+		}
+	}
 	.masonry.tiles .post-item.format-quote blockquote, .masonry.tiles .post-item.format-quote blockquote a, .masonry.tiles .post-item.format-link .post-title .icon-link, .masonry.tiles .post-item.format-link .post-title .link-wrapper h4, .masonry.tiles .post-item.format-link .post-title .link-wrapper a, .masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title .entry-title a {
 		font-size: 20px;
 		line-height: 24px;
@@ -952,6 +992,28 @@ h6.regular-text {
 		right: 40px;
 		left: initial;
 	}
+	.maps-body #Footer .footer_copy a#back_to_top {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		z-index: 10;
+		background-color: $brown !important;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		transform: scale(1);
+		&.scaled {
+			transform: scale(1.2);
+		}
+		.button_icon {
+			padding: 0px 7px;
+			i {
+				&:before {
+					color: $gray;
+				}
+			}
+		}
+	}
 }
 
 @media only screen and (max-width: 479px) {
@@ -982,6 +1044,12 @@ h6.regular-text {
 			}
 		}
 	}
+	#map-tiny-container {
+		#map-tiny-friendly {
+			width: 200%;
+			height: 40vh;
+		}
+	}
 	#Subheader.contact {
 		margin-top: 90px;
 		padding:60px 0 70px !important;
@@ -994,6 +1062,15 @@ h6.regular-text {
 			.post-desc {
 				min-height: 275px;
 			}
+		}
+	}
+}
+
+@media only screen and (max-width: 350px) {
+	#map-tiny-container {
+		#map-tiny-friendly {
+			width: 300%;
+			height: 60vh;
 		}
 	}
 }

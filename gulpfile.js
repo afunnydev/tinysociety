@@ -33,6 +33,23 @@ const jsFiles = [
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
+const jsFilesMaps = [
+                  'themes/tinysociety/assets/js/theme/jquery-2.1.4.min.js',
+                  'themes/tinysociety/assets/js/theme/mfn.menu.js',
+                  'themes/tinysociety/assets/js/theme/jquery.plugins.js',
+                  'themes/tinysociety/assets/js/theme/jquery.jplayer.min.js',
+                  'themes/tinysociety/assets/js/theme/animations/animations.js',
+                  'themes/tinysociety/assets/js/theme/email.js',
+                  'themes/tinysociety/assets/js/theme/scripts.js',
+                  'themes/tinysociety/assets/js/vendor/instafeed.min.js',
+                  'themes/tinysociety/assets/js/vendor/lazyload.js',
+                  'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
+                  // 'themes/tinysociety/assets/js/datamaps/d3.js',
+                  'themes/tinysociety/assets/js/datamaps/topojson.js',
+                  'themes/tinysociety/assets/js/datamaps/datamaps.usa.js',
+                  // 'themes/tinysociety/assets/js/datamaps/usastats.js',
+                  'themes/tinysociety/assets/js/main.js',
+                ];
 const jsFilesPlans = [
                   'themes/tinysociety/assets/js/theme/jquery-2.1.4.min.js',
                   'themes/tinysociety/assets/js/theme/mfn.menu.js',
@@ -147,7 +164,17 @@ gulp.task('scripts-plans', function() {
         .pipe(gulp.dest(jsDest));
 });
 
-gulp.task('scripts', ['scripts-normal', 'scripts-ui', 'scripts-plans']);
+gulp.task('scripts-maps', function() {
+    return gulp.src(jsFilesMaps)
+        .pipe(sourcemaps.init())
+        .pipe(concat('main-maps.min.js'))
+        .pipe(uglify())
+        .pipe(sourcemaps.write('maps'))
+        .pipe(gulp.dest(jsDest));
+});
+
+// gulp.task('scripts', ['scripts-normal', 'scripts-ui', 'scripts-plans', 'scripts-maps']);
+gulp.task('scripts', ['scripts-maps']);
 
 // watching
 gulp.task("watch", function() {

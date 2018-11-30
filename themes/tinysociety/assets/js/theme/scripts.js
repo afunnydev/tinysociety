@@ -121,7 +121,18 @@ function mfn_sticky() {
 		}
 	}
 }
-
+/* ---------------------------------------------------------------------------
+ * Back to top magic
+ * --------------------------------------------------------------------------- */
+var backToTop = jQuery('#back_to_top');
+function hideBackToTop() {
+	var window_y = jQuery(window).scrollTop();
+	if (window_y > 1000) {
+		backToTop.show();
+	} else {
+		backToTop.hide();
+	}
+}
 /* ---------------------------------------------------------------------------
  * Sidebar height
  * --------------------------------------------------------------------------- */
@@ -1378,9 +1389,10 @@ jQuery(document).ready(function() {
 	/* ---------------------------------------------------------------------------
 	 * Go to top
 	 * --------------------------------------------------------------------------- */
-	jQuery('#back_to_top').click(function() {
+	backToTop.hide();
+	backToTop.click(function() {
 		jQuery('body,html').animate({
-			scrollTop: 0
+			scrollTop: 500
 		}, 500);
 		return false;
 	});
@@ -1515,6 +1527,7 @@ jQuery(window).scroll(function() {
 	mfn_stickyH();
 	mfn_sticky();
 	onePageActive();
+	hideBackToTop();
 });
 
 /* --------------------------------------------------------------------------------------------------------------------------

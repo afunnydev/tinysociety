@@ -1,3 +1,4 @@
+{{ $values := slice "Hard" "Hard" "Hard" "Hard" "Hard" "Ok" "Ok" "Ok" "Possible" "Possible" "Possible"}}
 {{ with .Site.Params.googleapikey }}
 <script async defer src="https://maps.googleapis.com/maps/api/js?key={{.}}"
   type="text/javascript"></script>
@@ -18,6 +19,79 @@
 {{ end }}
 {{ if eq .Params.layout "contact" }}
 <script src="/js/main-with-ui.min.js"></script>
+{{ else if .Params.mapsjs }}
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+<script src="/js/main-maps.min.js"></script>
+<script>
+jQuery(window).load(function() {
+    function URLify(string) {
+      return string.trim().replace(/\s/g, '-').toLowerCase();
+    }
+    var scrollTo = function(stateName) {
+        jQuery('html,body').animate({scrollTop: $("h2#" + URLify(stateName)).offset().top},'slow');
+    }
+    var mapElement = document.getElementById('map-tiny-friendly');
+    var mapContainer = document.getElementById('map-tiny-container');
+    var election = new Datamap({
+      scope: 'usa',
+      element: mapElement,
+      geographyConfig: {
+        highlightFillColor: '#5E452B',
+        highlightBorderColor: '#E8E3DB',
+        popupTemplate: function(geography, data) {
+          return '<div class="maps-hoverinfo"><p>' + geography.properties.name + ' Tiny House Friendliness:' +  data.friendliness + '</p></div>'
+        },
+        highlightBorderWidth: 3
+      },
+      done: function(datamap) {
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+            mapContainer.scrollLeft = mapContainer.offsetWidth;
+            var touchmoved;
+            var backToTop = jQuery('#back_to_top');
+            datamap.svg.selectAll('.datamaps-subunit').on('touchend', function(geography) {
+                if(touchmoved != true){
+                    scrollTo(geography.properties.name);
+                    setTimeout(function() {
+                        backToTop.css('bottom', 40);
+                        setTimeout(function() {
+                            backToTop.css('bottom', 20);
+                        }, 400)
+                    }, 800)
+                }
+            }).on('touchmove', function(e){
+                touchmoved = true;
+            }).on('touchstart', function(){
+                touchmoved = false;
+            });;
+        } else {
+          //If its not a mobile device use 'click'
+            datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+              scrollTo(geography.properties.name);
+            });
+        }
+      },
+      responsive: true,
+      fills: {
+        'Possible': '#768948',
+        'Ok': '#CDC776',
+        'Hard': '#262322',
+        defaultFill: '#E8E3DB'
+      },
+      data:{
+        {{ range $i, $e := .Site.Data.tinyhousemaps.states }}
+        {{ if $i }},{{ end }}"{{ $e.state }}": {
+            "fillKey": "{{ index $values $e.friendliness }}",
+            "friendliness": {{ $e.friendliness }}
+        }
+        {{ end }}
+      }
+    });
+    election.labels();
+    window.addEventListener('resize', function() {
+        election.resize();
+    });
+});
+</script>
 {{ else if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 <script src="/js/main-plans.min.js"></script>
