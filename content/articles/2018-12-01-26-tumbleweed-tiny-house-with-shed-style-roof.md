@@ -44,7 +44,7 @@ The kitchen in this tiny house has plenty of counter tops for food prep and cook
 
 ## Living Room
 
-The shared space with the kitchen makes this living room feel spacious. A sofa fits snugly against the wall and leaves enough room to walk through the space with ease. 
+The shared space with the kitchen makes this living room feel spacious. A sofa fits snugly against the wall and leaves enough space to walk through the room with ease. 
 
 ![](/img/tumbleweed-3.jpeg)
 
