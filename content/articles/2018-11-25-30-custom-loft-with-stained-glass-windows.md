@@ -79,4 +79,4 @@ A set of custom stairs leads to a spacious sleeping loft. There's even enough ro
 
 This custom tiny house on wheels can be yours for $85000. Please note; prices may vary over time. Be sure to check with the tiny house builder [here](https://www.minttinyhomes.com/contact-tiny-living) for the most up to date prices and information. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Mint Tiny House Company.](https://www.minttinyhomes.com)
+All images are from [Tiny House Listings](https://tinyhouselistings.com/listings/delta-b-c-12-30ft-custom-loft-edition-tiny-home) and [Mint Tiny House Company.](https://www.minttinyhomes.com/tiny-house-gallery-mint-loft-5)
