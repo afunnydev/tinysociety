@@ -71,4 +71,4 @@ This tiny house is great for families because it offers a sleeping loft and grou
 
 This tiny house on foundations can be yours for a starting price of $95489. Please note; prices may vary over time. Contact the tiny house builder [here](http://www.utopian-villas.com/contact-about-us/) for the most up-to-date information. 
 
-All images are from [Utopian Villas](http://www.utopian-villas.com/).
+All images are from [Utopian Villas.](http://www.utopian-villas.com/the-valley_forge/)
