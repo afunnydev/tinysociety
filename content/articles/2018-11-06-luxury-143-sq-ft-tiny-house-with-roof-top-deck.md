@@ -75,4 +75,4 @@ The Haven comes with a full bathroom including a corrugated steel shower, a vani
 
 If you're dying to get your hands on this luxury tiny home, it'll cost you just $35,000! Prices may vary over time. Contact the builders [here](https://www.alternativelivingspaces.com/) for the most up to date price and how to make this tiny haven your dream home.
 
-All images are from: [Tiny House Listings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-haven)
+All images are from:[ Tiny House Listings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-haven)
