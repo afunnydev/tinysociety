@@ -45,4 +45,4 @@ This dome literally has everything under one roof--kitchen, living room, and bed
 
 Interested in this dome for your next camping experience? You can make it yours for only $9500. Please note; prices may vary over time. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/kansas-city-mo-15-the-universal-dome-by-luna-glamping)
