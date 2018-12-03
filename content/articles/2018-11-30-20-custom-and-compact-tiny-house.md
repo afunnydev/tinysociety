@@ -67,3 +67,5 @@ A spacious sleeping loft with plenty of natural light is a great place to hit th
 <span class="figcaption">A ladder can slide away from view when not in use.</span>
 
 Get this tiny house for $65000. Please note; prices may vary over time. For the most up-to-date prices and information, you can contact the builder [here](http://www.tinyhousecrafters.com/contact).
+
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/londonderry-vermont-12-8x20-custom-tiny-house-with-built-ins)
