@@ -74,4 +74,4 @@ This customizable tiny allows you to choose between multiple sleeping options. Y
 
 This dark wood accent tiny home can be yours for $93000! Please note; prices may vary over time. For the most up-to-date information, contact the builder[ here.](https://www.minttinyhomes.com/contact-tiny-living)
 
-All images are from [Mint Tiny House Company](https://www.minttinyhomes.com/) and [Tiny House Listings.](https://tinyhouselistings.com)
+All images are from [Mint Tiny House Company](https://www.minttinyhomes.com/tiny-home-products-loft) and [Tiny House Listings.](https://tinyhouselistings.com/listings/vancouver-12-34ft-custom-loft-edition-with-dark-wood-accents)
