@@ -73,4 +73,4 @@ This compact bathroom can hold a walk in shower, sink, and composting toilet.
 
 This rustic beauty can be yours for $87000. Please note; prices may vary over time. You can contact the builder [here](https://www.minttinyhomes.com/contact-tiny-living) for more information.
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/delta-bc-canada-12-rustic-24ft-loft-edition)
