@@ -4,7 +4,7 @@ description: >-
   This 24' tiny house on wheels is the perfect small space for full-time tiny
   living or holiday rentals. The 200 square feet of space contains a kitchen,
   bathroom, living room, and sleeping loft.
-slug: this-is-an-example
+slug: 24-foot-classy-tiny-house-on-wheels-with-cedar-siding
 author: molli
 image: /img/berry-banner.jpg
 overlay: true
@@ -67,4 +67,4 @@ An airy loft accessible by stairs adds even more room with the addition of an ex
 
 This tiny house starts at $45000. Please note; prices may vary over time. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/mobile-tiny-house-mini-split-ac-classy-interior-cedar-siding)
