@@ -64,4 +64,4 @@ Our favorite part of the bathroom is the tiny tub! While an adult couldn't lie f
 
 You can make this tiny house on wheels yours for $80000. Prices may vary over time; please contact the builder [here](https://www.minttinyhomes.com/contact-tiny-living) for the most up-to-date information.
 
-All images are from [Tiny House Listings.](https://tinyhouselistings.com)
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/vancouver-12-custom-34-ft-loft-edition)
