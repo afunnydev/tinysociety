@@ -4,7 +4,7 @@ description: >-
   This rustic and luxurious tiny house on wheels offers a large kitchen, loft
   sleeping space, and spacious bathroom. For a small space, this tiny is large
   enough for full-time living or a holiday stay. 
-slug: this-is-an-example
+slug: tiny-house-with-3-skylight
 author: molli
 image: /img/legacy-banner.jpg
 overlay: true
