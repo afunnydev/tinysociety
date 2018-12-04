@@ -71,4 +71,4 @@ Luxurious double sleeping lofts that are accessible by stairs mean this tiny can
 
 Make this tiny house yours for $65000. Please note; prices may vary over time. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/10-wide-tiny-house-24-dual-loft-mini-split-eco-features)
