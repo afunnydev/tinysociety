@@ -66,4 +66,4 @@ The large loft space has high ceilings and enough floor space for up to two beds
 
 This tiny cabin can be yours for a starting price of $54000. Please note; prices may vary. Contact the builder [here](https://www.wiserockhomes.com/tiny-homestiny-cabins/) for the most up-to-date price and information.
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/this-is-fine-luxurious-tiny-cabin-ready-for-febuary-delivery-to-your-site-in-your-state-ready-for-plumbing-electric-hook-ups-solar-andshipping-are-additional-as-well-as)
