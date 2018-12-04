@@ -68,4 +68,4 @@ A custom staircase leads to a cozy but airy loft. Two windows make it a great sp
 
 The price of this tiny house is $79150. Please note; prices may vary over time. Contact the builder [here](https://www.tumbleweedhouses.com/company/contact/) for the most up-to-date prices and information.
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/colorado-springs-co-12-2018-tumbleweed-roanoke)
