@@ -66,4 +66,4 @@ The unique connected double lofts give this tiny house a second floor. The joint
 
 The price of this tiny house is $42500. Please note; prices may vary over time. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/sacramento-ca-12-spacious-32-tiny-house-rv-hookups-dual-loft-kitchen-full-bathroom-w-36-shower)
