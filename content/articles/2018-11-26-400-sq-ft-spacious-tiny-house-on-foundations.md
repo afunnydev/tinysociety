@@ -71,4 +71,4 @@ There are three sleeping options in this tiny. The first is the ground floor mas
 
 The starting price for this tiny house on foundations is $99429. Please note; prices may vary over time. Be sure to check with the tiny house builder [here](http://www.utopian-villas.com/contact-about-us/) for the most up-to-date information.
 
-All images are from [Utopian Villas](http://www.utopian-villas.com/).
+All images are from [Utopian Villas.](http://www.utopian-villas.com/the_denali/)
