@@ -16,7 +16,7 @@ listing:
     This spacious tiny home comes packed with all the luxuries of a residential
     home. With 335 square feet of space, this tiny is ready for multi-person
     families or for having friends over!
-  image: /img/sunbear2.jpg
+  image: /img/whitehouse_kitchen-800x800.jpg
 likes: '25'
 categories:
   - Tiny houses
