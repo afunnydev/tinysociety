@@ -75,4 +75,4 @@ A loft space accessible by a custom storage staircase is large enough to fit a k
 
 Interested in this tiny house? Contact the builder [here](http://www.smalldwelling.com/contact-us/) for the most up-to-date price and information.
 
-All images are from [Small Dwelling Co.](http://www.smalldwelling.com/) and [Tiny Modern Homes](http://tinymodernhomes.com/).
+All images are from [Small Dwelling Co.](http://www.smalldwelling.com/fiero/) and [Tiny Modern Homes.](http://tinymodernhomes.com/portfolio/#/fiero/)
