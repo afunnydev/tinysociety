@@ -67,4 +67,4 @@ This tiny house has one sleeping loft that allows in plenty of natural light. Th
 
 The base price for this incredibly functional and compact tiny house is $59000. Please note; prices may vary over time. Please contact the builder [here](https://bbtinyhouses.com/contact/) for the most up-to-date information.
 
-All images are from [Tiny House Listings.](https://tinyhouselistings.com)
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/north-adams-ma-12-the-arcadia-by-bb-micro-manufacturing)
