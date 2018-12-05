@@ -14,9 +14,9 @@ listing:
   title: Incredible Tiny Home with 3 Sleeping Spaces
   description: >-
     This spacious tiny home comes packed with all the luxuries of a residential
-    home. With three sleeping spaces, this tiny is ready for multi-person
+    home. With 335 square feet of space, this tiny is ready for multi-person
     families or for having friends over!
-  image: /img/sunbear2.jpg
+  image: /img/whitehouse_kitchen-800x800.jpg
 likes: '25'
 categories:
   - Tiny houses
@@ -28,7 +28,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-This spacious tiny home comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
+This 335 square foot spacious tiny comes packed with all the luxuries of a residential home. With three sleeping spaces, this tiny is ready for multi-person families or for having friends stay over.
 
 ![null](/img/sunbear.jpg)
 
@@ -74,6 +74,6 @@ Where do we begin? There are three different options for sleeping in this tiny h
 
 <span class="figcaption">Elevator bed with the cozy couch-bed underneath.</span>
 
-The cost of this tiny home is $75000. For more information, contact the builder [here.](http://sunbeartinyhomes.com/)
+The cost of this tiny home is $75000. Prices may vary over time; contact the builder [here](http://sunbeartinyhomes.com/) for more information.
 
 All images are from [Sun Bear Tiny Homes.](http://sunbeartinyhomes.com/)
