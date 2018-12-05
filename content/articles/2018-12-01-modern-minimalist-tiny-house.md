@@ -68,4 +68,4 @@ A staircase leads to an airy loft with plenty of space.
 
 Contact the builder [here](http://www.smalldwelling.com/contact-us/) for prices or more information. 
 
-All images are from [Small Dwelling Co](http://www.smalldwelling.com/).
+All images are from [Small Dwelling Co](http://www.smalldwelling.com/comal/).
