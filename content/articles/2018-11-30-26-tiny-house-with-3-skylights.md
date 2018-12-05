@@ -75,4 +75,4 @@ A cozy loft with skylight makes the small space feel not so small at all. A besp
 
 Make this tiny house yours for $85000. Please note that prices may vary over time. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/taylors-sc-12-the-legacy-built-by-wood-heart-building-co-2)
