@@ -35,7 +35,7 @@ This 309 square foot tiny house is an absolutely functional work of art. With pl
 
 ## Kitchen
 
-Full-sized kitchen appliance and plentiful cabinet space make this tiny house kitchen anything but tiny. There are also a number of counter tops--perfect for cooking and food prep!
+Full-sized kitchen appliance and plentiful cabinet space make this tiny house kitchen anything but tiny. There are also a number of counter tops--perfect for cooking and food prep! An available option is the Furrion propane oven and cooktop which is certified for RV use.
 
 ![](/img/30customloft_2.jpeg)
 
@@ -77,6 +77,6 @@ A set of custom stairs leads to a spacious sleeping loft. There's even enough ro
 
 <span class="figcaption">Along the custom staircase, we get a glimpse of the bespoke stained-glass windows.</span>
 
-This custom tiny house on wheels can be yours for $85000. Please note; prices may vary over time. Be sure to check with the tiny house builder [here](https://www.minttinyhomes.com/contact-tiny-living) for the most up to date prices and information. 
+This RVIA certified, custom tiny house on wheels can be yours for $85000. Please note; prices may vary over time. Be sure to check with the tiny house builder [here](https://www.minttinyhomes.com/contact-tiny-living) for the most up to date prices and information. 
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Mint Tiny House Company.](https://www.minttinyhomes.com)
+All images are from [Tiny House Listings](https://tinyhouselistings.com/listings/delta-b-c-12-30ft-custom-loft-edition-tiny-home) and [Mint Tiny House Company.](https://www.minttinyhomes.com/tiny-house-gallery-mint-loft-5)
