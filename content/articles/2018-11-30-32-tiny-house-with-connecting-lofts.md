@@ -17,6 +17,7 @@ listing:
     This 350 square foot not-so-tiny tiny house offers an open floor plan feel
     in towable form. The tiny home features a large kitchen and living room, as
     well as a connected double loft.
+  image: /img/tiny-house-square-image-stony-house.jpg
 likes: '12'
 categories:
   - Tiny houses
