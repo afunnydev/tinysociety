@@ -71,4 +71,4 @@ It isn't very often that you find a tiny house with a queen size bed on the grou
 
 The cost of this tiny house on wheels is $69000. Do you love this tiny home as much as we do? Get more information from the tiny house builder [here.](https://bbtinyhouses.com/contact/)
 
-All images are from[ B&B Tiny Houses.](https://bbtinyhouses.com)
+All images are from [B&B Tiny Houses.](https://bbtinyhouses.com/shop/tiny-houses/stony-ledge/)
