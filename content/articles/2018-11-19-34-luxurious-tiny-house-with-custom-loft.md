@@ -87,4 +87,4 @@ Just beyond the bathroom is the master bedroom with a custom Murphy Bed/workspac
 
 Do you love this bespoke tiny house as much as we do? This customizable tiny home can be yours for $88000! Please note; prices may vary over time. For the most up-to-date information, contact the builder[ here.](https://www.minttinyhomes.com/contact-tiny-living)
 
-All images are from [Mint Tiny House Company](https://www.minttinyhomes.com/) and [Tiny House Listings.](https://tinyhouselistings.com)
+All images are from [Mint Tiny House Company](https://www.minttinyhomes.com/tiny-house-gallery-mint-loft-7) and [Tiny House Listings.](https://tinyhouselistings.com/listings/34ft-custom-loft-edition)
