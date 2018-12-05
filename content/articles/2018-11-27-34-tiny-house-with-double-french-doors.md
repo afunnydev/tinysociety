@@ -80,4 +80,4 @@ A queen sized bed fits in the master, ground-floor bedroom. Two lofts offer addi
 
 Make this tiny house on wheels your own for $92000. Please note; prices may vary over time. Contact the builder [here](https://www.minttinyhomes.com/contact-tiny-living) for the most up-to-date information.
 
-All images are from [Tiny House Listings.](https://tinyhouselistings.com)
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/autumn-34ft-tiny-house-rv)
