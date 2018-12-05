@@ -14,7 +14,7 @@ notloaded:
 listing:
   title: Luxury 143 sq. ft. Tiny House With Rooftop Deck
   description: >-
-    The Haven is a unique luxury tiny house designed by Alternative Living
+    The Haven is 143 square feet of unique luxury designed by Alternative Living
     Spaces. At 20 feet long, this refurbished shipping container is suitable for
     full-time living, a guest room, pool house, or more. 
   image: /img/tinyhouse-2-thehaven-sq.jpg
@@ -31,11 +31,13 @@ noindex: false
 ---
 The Haven is a unique luxury tiny house designed by [Alternative Living Spaces](https://www.alternativelivingspaces.com/). At 20 feet long, this refurbished shipping container is suitable for full-time living, a guest room, pool house, or more. This quality structure allows you to either place your tiny house on a permanent foundation or on a trailer that provides you with full mobility.  
 
+![](/img/haven.png)
+
+At 143 square feet, The Haven is bigger than most studio apartments. It has a full bathroom, kitchen, bedroom, and living room area. 
+
 ![The Haven Tiny House Deck](/img/deck-2-thehaven.jpeg)
 
 <span class="figcaption">This rooftop deck will ensure you always have the best views. </span>
-
-At 143 square feet, The Haven is bigger than most studio apartments. It has a full bathroom, kitchen, bedroom, and living room area. 
 
 ![The Haven Tiny House](/img/tiny-house-1-thehaven.jpeg)
 
@@ -71,6 +73,6 @@ The Haven comes with a full bathroom including a corrugated steel shower, a vani
 
 <span class="figcaption"> This tiny house uses a standard electrical and sewage hook up making the transition to the tiny lifestyle easier. </span>
 
-If you're dying to get your hands on this luxury tiny home, it'll cost you just $35,000! Contact the builders [here](https://www.alternativelivingspaces.com/) for more information on how you can make this tiny haven your dream home.
+If you're dying to get your hands on this luxury tiny home, it'll cost you just $35,000! Prices may vary over time. Contact the builders [here](https://www.alternativelivingspaces.com/) for the most up to date price and how to make this tiny haven your dream home.
 
-All images are from: [Tiny House Listings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-haven)
+All images are from:[ Tiny House Listings](https://tinyhouselistings.com/listings/container-luxury-living-space-model-the-haven)
