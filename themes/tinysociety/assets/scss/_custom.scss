@@ -264,6 +264,12 @@ div.overlayed {
 	a {
 		font-size: 1.4em;
 	}
+	.description-column {
+		a {
+			font-size: 1em !important;
+			text-decoration: underline;
+		}
+	}
 	.author-list {
 		.icon-user {
 			position: absolute;
