@@ -74,4 +74,4 @@ The platform bedroom accessible by only a few stairs, is the popular feature of 
 
 This tiny home comes in at $93000. Please note that prices may vary over time; you can contact the builder for the most up-to-date information [here.](https://tinyhousechattanooga.com/contact/)
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Tiny House Chattanooga.](https://tinyhousechattanooga.com)
+All images are from [Tiny House Listings](https://tinyhouselistings.com/listings/cleveland-tn-12-the-lookout) and [Tiny House Chattanooga.](https://tinyhousechattanooga.com/builds/)

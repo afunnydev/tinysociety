@@ -79,4 +79,4 @@ There are two full-size lofts in this tiny house. The "master loft" has a set of
 
 For $95000, you can make this luxurious tiny home your own. Please note that prices may vary over time. For more information and the most up-to-date prices, you can contact the builder [here.](https://www.minttinyhomes.com/contact-tiny-living)
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com) and [Mint Tiny House Company.](https://www.minttinyhomes.com/)
+All images are from [Tiny House Listings](https://tinyhouselistings.com/listings/rustic-meets-luxury-30ft-loft-edition) and [Mint Tiny House Company.](https://www.minttinyhomes.com/tiny-house-gallery-mint-loft-2)

@@ -77,4 +77,4 @@ Two sleeping lofts make use of the high ceilings in this tiny house. The main lo
 
 The price of this tiny home is $74000. Please note: price may vary over time. For the most up to date price, you can contact the builder [here.](https://www.minttinyhomes.com/contact-tiny-living)
 
-All images are from [Tiny House Listings](https://tinyhouselistings.com).
+All images are from [Tiny House Listings.](https://tinyhouselistings.com/listings/delta-british-columbia-canada-12-light-grey-26ft-napa-edition)
