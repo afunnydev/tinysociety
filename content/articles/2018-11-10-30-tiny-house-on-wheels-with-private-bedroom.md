@@ -55,7 +55,7 @@ A mere step away from the living room/dining room puts you in the center of the 
 
 ## Bathroom
 
-Our favorite part of the bathroom is the tub/shower combo. While a full-grown adult wouldn't be able to lie down in the tub, it certainly is a nice touch for anyone who loves baths or has kids. 
+Our favorite part of the bathroom is the tub/shower combo. It features a full size bath and a modern touch with tile finishing for the walls. It certainly is a nice touch for anyone who loves baths or has kids. 
 
 ![null](/img/stonyledge_5.jpg)
 
