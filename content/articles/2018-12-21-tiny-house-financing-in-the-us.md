@@ -41,7 +41,7 @@ Purchasing a residential home typically works by getting a mortgage. Today, buyi
 
 ## **Ways to Finance Your Tiny House**
 
-**Get approved for a loan through a tiny house builder or lender. **Finance your tiny house either directly through a lender, or through a lender that is partnered with a tiny house builder.
+**Get approved for a loan through a tiny house builder or lender. **Finance your tiny house either directly through a loan provider, or through a loan provider that is partnered with a tiny house builder.
 
 **Apply for a traditional mortgage. **If you’re looking to building an accessory dwelling unit (ADU) next to your house, then this might be the best option for you. Your ADU will likely need to be on foundations, as well as meet your local building codes and zoning requirements. 
 
