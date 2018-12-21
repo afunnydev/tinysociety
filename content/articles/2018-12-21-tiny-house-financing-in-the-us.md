@@ -23,6 +23,7 @@ listing:
 likes: '58'
 categories:
   - Tiny houses
+  - Tiny house financing
 i18nlanguage: en
 menuid: articles
 ordre: '0'
