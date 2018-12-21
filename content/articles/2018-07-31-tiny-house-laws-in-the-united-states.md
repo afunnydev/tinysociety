@@ -27,7 +27,7 @@ i18nlanguage: en
 menuid: articles
 ordre: '0'
 infographic: false
-draft: false
+draft: true
 noindex: false
 ---
 Looking for the next step in joining the Tiny House Movement? You came to the right place. Many people in similar positions have wondered how it’s possible to live in their tiny house without breaking any laws. Sure, it would be great if it were easy, but once you’re living worry-free in your tiny home you’ll be glad you took the time to do the research. 
