@@ -30,7 +30,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-**So, you’ve found the perfect tiny house to call home. What happens next? **
+## **So, you’ve found the perfect tiny house to call home. What happens next? **
 
 Typically less than 500 square feet, [tiny houses cost far less](https://www.tinysociety.co/articles/how-much-money-does-a-tiny-house-cost/) than the average residential home. Despite the tinier price tag, it still may not be possible to pay the total cost all at once. This is where tiny house financing comes in. 
 
@@ -57,7 +57,7 @@ The most popular way of financing a tiny house is through a loan provider; wheth
 
 Tiny houses on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
 
-_**Please note:**_ the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
+**_Please note:_** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
 
 ## **Lightstream**
 
@@ -109,7 +109,7 @@ Check to see if you qualify[ here.](https://www.financemytrailer.com/)
 
 This is a viable option for anyone who wants either a tiny house on foundations or to build their own tiny house on wheels. In this case, the amount of money you are able to secure depends greatly on your credit score. A better credit score means you’re more likely to get a lower rate and more favorable terms. A positive of going down the personal loan route is that you often get more flexibility in terms of how the money is used. For instance, it’s possible to use the money for either a tiny house on foundations, on wheels, or even the land it sits on. 
 
-## Upstart 
+## Upstart
 
 Founded by ex-staff members of Google, this lending platform is the first to use artificial intelligence to fully automate the borrowing process. This loan service has one of the industry’s highest consumer ratings for personal loans. 
 
@@ -133,7 +133,7 @@ This personal loan company makes the process easy by breaking it down in three s
 
 Check to see if you qualify [here.](https://www.lendingclub.com/)
 
-## Citizens Bank 
+## Citizens Bank
 
 A well-established bank that can help you secure a personal loan for your dream tiny house. With customizable repayment options and no additional fees, this loan service is able to tailor a financial plan to suit your needs. 
 
