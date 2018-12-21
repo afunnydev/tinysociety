@@ -175,4 +175,4 @@ Check to see if you qualify [here.](http://sofi.com)
 * Get a quote from various lenders.
 * Compare! Look carefully at the interest rates, as well as any fees that might pop up. 
 
-Do you have financing tips to add? [Get in touch!](https://www.tinysociety.co/contact-us/) As the tiny house movement grows, so does our list of tiny house financing. Be sure to check back with us to see the most up-to-date information!
+Do you have financing tips to add? [Get in touch!](https://www.tinysociety.co/contact-us/) As the tiny house movement grows, so does our list of tiny house financing options. Be sure to check back with us to see the most up-to-date information!
