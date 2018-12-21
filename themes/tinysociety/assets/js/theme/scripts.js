@@ -127,7 +127,7 @@ function mfn_sticky() {
 var backToTop = jQuery('#back_to_top');
 function hideBackToTop() {
 	var window_y = jQuery(window).scrollTop();
-	if (window_y > 1000) {
+	if (window_y > 4500) {
 		backToTop.show();
 	} else {
 		backToTop.hide();
@@ -1391,9 +1391,12 @@ jQuery(document).ready(function() {
 	 * --------------------------------------------------------------------------- */
 	backToTop.hide();
 	backToTop.click(function() {
-		jQuery('body,html').animate({
-			scrollTop: 500
-		}, 500);
+		var titlePosition = jQuery('#tiny-house-laws-by-states').position();
+		if (titlePosition) {
+			jQuery('body,html').animate({
+				scrollTop: titlePosition.top + 450
+			}, 500);
+		}
 		return false;
 	});
 	

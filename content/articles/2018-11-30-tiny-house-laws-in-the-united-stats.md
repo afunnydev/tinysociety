@@ -245,7 +245,7 @@ The Hawaii Tiny House Initiative was launched with the goal of first solving the
 
 Idaho is the first state to discuss RV’s, manufactured, modular and tiny houses in the same reference document. While there are strict regulations to abide by; Idaho is certainly making decisions in favor of tiny living. 
 
-**Links: **
+**Links:**
 
 * [Tiny House Requirements ](https://dbs.idaho.gov/programs/manufactured/publications/DBS_RV-MOD-HUD_Brochure.pdf)
 
@@ -586,7 +586,7 @@ The people of North Carolina are divided over tiny houses. Some are worried they
 
 While popular, not all counties have specifically addressed tiny houses. Burleigh County is one location that is gradually loosening restrictions and paving the way for a tiny homeowners. Although they do not currently allow ADUs, their county ordinance does address the fact that they see the benefit of a “granny suite” for elderly family members. 
 
-**Links: **
+**Links:**
 
 * [Burleigh County Ordinance](https://burleighco.com/uploads%5Cresources%5C1473%5Cmay-2016-newsletter.pdf)
 
@@ -658,7 +658,7 @@ Pennsylvania is one of the friendlier tiny house states to date. A community in 
 
 Most cities like Providence will refer to sheds as a place to keep gardening equipment. Recently, Rhode Island has passed a state law allowing owner-occupants of single-family homes to build accessory dwelling units (ADUs) for senior relatives age 62 and older. 
 
-**Links: **
+**Links:**
 
 * [ADUs for senior relatives](http://kwaor.org/pdfs/ADU_FAQS.pdf)
 
@@ -710,7 +710,7 @@ South Dakota has made huge advancements in regulating tiny houses. Places like S
 
 Multiple cities and counties in Tennessee provide guidelines and regulations for building and living in a tiny. While there is still backlash from some municipalities, enough are in favor of tiny houses to make it an attractive state for tiny house hopefuls. 
 
-**Links: **
+**Links:**
 
 * [Knoxville, TN Tiny Home Guidelines](http://www.knoxvilletn.gov/UserFiles/Servers/Server_109478/File/PlansReviewsInspections/tiny_homes_guidelines.pdf)
 * [Warren County, TN Requirements](http://www.warrencountytn.gov/docs/Minimum%20Requirements%20for%20Residential%20Occupancy.pdf)
@@ -760,7 +760,7 @@ Utah has been fairly slow to accommodate codes and regulations to tiny houses de
 
 Vermont’s major cities are strict in regards to tiny houses; but in some cases, it may be possible to build as an ADU. It’s relatively common in Vermont to park a tiny house on wheels in rural areas to fly under the radar. 
 
-**Links: **
+**Links:**
 
 * [Vermont ADUs](https://www.essex.org/vertical/sites/%7B60B9D552-E088-4553-92E3-EA2E9791E5A5%7D/uploads/FinalReport_EssexHousingAudit_v2_20180726.pdf)
 
