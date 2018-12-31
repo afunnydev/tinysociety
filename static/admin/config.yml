@@ -52,7 +52,11 @@ collections:
           - {label: "Summary", name: "description", widget: "text"}
           - {label: "Square Image (square - 800px by 800px)", name: "image", widget: "image", required: false}
       - {label: "Likes", name: "likes", widget: "string"}
-      - {label: "Categories (separate with commas)", name: "categories", widget: "list"}
+      - label: "Categories" 
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "Architecture and design", "DIY", "Energy efficiency", "Sustainable building and living", "Tiny cabins", "Tiny house review", "Tiny houses", "Tiny lifestyle", "Tiny house financing" ]
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
       - {label: "Menu ID", name: "menuid", widget: "hidden", default: "articles"}
       - {label: "Priority (0 is the most important)", name: "ordre", widget: "number", default: 0, required: false}
