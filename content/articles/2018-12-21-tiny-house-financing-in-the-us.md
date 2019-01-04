@@ -31,7 +31,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-## **So, you’ve found the perfect tiny house to call home. What happens next? **
+## **So, you’ve found the perfect tiny house to call home. What happens next?**
 
 Typically less than 500 square feet, [tiny houses cost far less](https://www.tinysociety.co/articles/how-much-money-does-a-tiny-house-cost/) than the average residential home. Despite the tinier price tag, it still may not be possible to pay the total cost all at once. This is where tiny house financing comes in. 
 
@@ -58,7 +58,7 @@ The most popular way of financing a tiny house is through a loan provider; wheth
 
 Tiny houses on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
 
-**_Please note:_** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
+_**Please note:**_ the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
 
 ## **Lightstream**
 
