@@ -56,11 +56,11 @@ Purchasing a residential home typically works by getting a mortgage. Today, buyi
 
 The most popular way of financing a tiny house is through a loan provider; whether that means using a loan service that’s partnered with your tiny house builder, or acquiring a personal loan directly from a provider. Let’s take a closer look at the different types of loans you can get through these two options. 
 
-# 1. Loan Through Your Tiny House Builder
+## **\*\*Loan Through Your Tiny House Builder\*\***
 
 Tiny houses on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
 
-_**Please note:**_ the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
+**_Please note:_** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
 
 ## **Lightstream**
 
@@ -108,7 +108,7 @@ This financial service provider is a “traditional RV lender,” and specialize
 
 Check to see if you qualify[ here.](https://www.financemytrailer.com/)
 
-# 2. Personal Loan
+## **\*\*Personal Loan\*\***
 
 This is a viable option for anyone who wants either a tiny house on foundations or to build their own tiny house on wheels. In this case, the amount of money you are able to secure depends greatly on your credit score. A better credit score means you’re more likely to get a lower rate and more favorable terms. A positive of going down the personal loan route is that you often get more flexibility in terms of how the money is used. For instance, it’s possible to use the money for either a tiny house on foundations, on wheels, or even the land it sits on. 
 
