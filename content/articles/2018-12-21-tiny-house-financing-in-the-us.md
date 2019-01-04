@@ -31,7 +31,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-## **So, you’ve found the perfect tiny house to call home. What happens next? **
+## **So, you’ve found the perfect tiny house to call home. What happens next?**
 
 Typically less than 500 square feet, [tiny houses cost far less](https://www.tinysociety.co/articles/how-much-money-does-a-tiny-house-cost/) than the average residential home. Despite the tinier price tag, it still may not be possible to pay the total cost all at once. This is where tiny house financing comes in. 
 
@@ -42,13 +42,13 @@ Purchasing a residential home typically works by getting a mortgage. Today, buyi
 
 ## **Ways to Finance Your Tiny House**
 
-**Get approved for a loan through a tiny house builder or lender. **Finance your tiny house either directly through a loan provider, or through a loan provider that is partnered with a tiny house builder.
+**Get approved for a loan through a tiny house builder or lender.** Finance your tiny house either directly through a loan provider, or through a loan provider that is partnered with a tiny house builder.
 
-**Apply for a traditional mortgage. **If you’re looking to building an accessory dwelling unit (ADU) next to your house, then this might be the best option for you. Your ADU will likely need to be on foundations, as well as meet your local building codes and zoning requirements. 
+**Apply for a traditional mortgage.** If you’re looking to building an accessory dwelling unit (ADU) next to your house, then this might be the best option for you. Your ADU will likely need to be on foundations, as well as meet your local building codes and zoning requirements. 
 
-**Start an online fundraiser. **Before you roll your eyes at this one, keep in mind that financing a chunk of your tiny house is possible through fundraising. It’s not uncommon that people who live in tiny houses work from home. And if you don’t work from home, consider any crafts or skills you could offer. Just asking for money won’t do the trick. The key is to offer your services or crafts for various levels of donations. People will be more inclined to help out if they know it’s not just a handout!
+**Start an online fundraiser.** Before you roll your eyes at this one, keep in mind that financing a chunk of your tiny house is possible through fundraising. It’s not uncommon that people who live in tiny houses work from home. And if you don’t work from home, consider any crafts or skills you could offer. Just asking for money won’t do the trick. The key is to offer your services or crafts for various levels of donations. People will be more inclined to help out if they know it’s not just a handout!
 
-**Get a low Interest credit card. **Although not the most recommended method of financing, an individual with good credit history might find success with the right terms.
+**Get a low Interest credit card.** Although not the most recommended method of financing, an individual with good credit history might find success with the right terms.
 
 ## Which Method is Best for me?
 
@@ -64,13 +64,13 @@ Tiny houses on wheels are often classified similarly to RVs (recreational vehicl
 
 This online consumer lending division offers consumers with excellent credit scores the right to a loan at decent rates. The process is simple: fill out the electronic form to see if you qualify for the loan. You can even receive funds the same day if everything is in order. Lightstream gives tiny house hopefuls the freedom to put their loan toward any type of tiny house.
 
-**To Qualify: **You must have a good credit score, sufficient income, and assets to support existing debt and requested loan amount. 
+**To Qualify:** You must have a good credit score, sufficient income, and assets to support existing debt and requested loan amount. 
 
 **Loan Amount:** from $5,000 - $100,000
 
-**APR Rate: **from 4.29% with AutoPay (determined by credit profile)
+**APR Rate:** from 4.29% with AutoPay (determined by credit profile)
 
-**Partners:** 84 Lumber Tiny Living
+**Partners:** 84 Lumber, Tiny Living
 
 Check to see if you qualify [here.](https://www.lightstream.com/)
 
@@ -80,11 +80,11 @@ Koala Financial Group (KFG) offers an easy online application process for a loan
 
 **To Qualify:** approved credit score combined with annual income (minimum 600 FICO).
 
-**Loan Amount: **from $20,000 - $150,000 over a minimum 5 year term.
+**Loan Amount:** from $20,000 - $150,000 over a minimum 5 year term.
 
 **APR Rate:** 6% - 15% fixed rates
 
-**Partners: **Tiny Heirloom, Wind River, Indigo River Tiny Homes, Tiny House Chattanooga
+**Partners:** Tiny Heirloom, Wind River, Indigo River Tiny Homes, Tiny House Chattanooga
 
 Check to see if you qualify [here.](https://tinyhousemoney.com/#)
 
@@ -92,7 +92,7 @@ Check to see if you qualify [here.](https://tinyhousemoney.com/#)
 
 This financial service provider is a “traditional RV lender,” and specializes in trailer and recreational equipment loans (this includes tiny houses on wheels!). Rock Solid Funding prides themselves on their approval rate, as well as their ability to work with lower credit scores. 
 
-**To Qualify: **
+**To Qualify:**
 
 * Minimum credit score of 575
 * $2,000 per month gross minimum income for single applicant
@@ -150,7 +150,7 @@ Check to see if you qualify [here.](https://www.citizensbankpersonalloans.com/pe
 
 Secure your tiny house loan easily through Freedom Plus. The online system allows you to see if you qualify in just a few, simple steps. Instead of only offering to individuals with good credit, Freedom Plus also offers to borrowers whose financial situation is stabilized and improving. 
 
-**To Qualify: **approved credit score of 640 or better
+**To Qualify:** approved credit score of 640 or better
 
 **Loan Amount:** from $10,000 - $35,000 (2, 3, 4, & 5 year terms).
 
