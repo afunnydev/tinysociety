@@ -3,9 +3,15 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - admin
   branch: development # Branch to update (master by default)
+  squash_merges: true
 
 media_folder: "themes/tinysociety/source-images" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
 
 publish_mode: editorial_workflow
 
