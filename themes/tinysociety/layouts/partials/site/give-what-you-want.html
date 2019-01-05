@@ -9,9 +9,9 @@
        data-item-id="{{ .Params.slug }}"
        data-item-name="{{ .Params.listing.title }}"
        data-item-price="160"
-       data-item-url="https://tinyplans.netlify.com/.netlify/functions/product?donationAmount=160&productId={{ .Params.slug }}"
+       data-item-url="{{ $.Site.Params.siteaddressno }}/.netlify/functions/product?donationAmount=160&productId={{ .Params.slug }}"
        data-item-description="{{ .Params.listing.description }}"
-       data-item-image="https://tinyplans.netlify.com{{ .Params.listing.image }}">
+       data-item-image="{{ $.Site.Params.siteaddressno }}{{ .Params.listing.image }}">
 		<span class="button_label">GO FOR IT</span>
 	</a>
 </div>
