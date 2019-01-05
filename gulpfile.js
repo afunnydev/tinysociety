@@ -173,8 +173,8 @@ gulp.task('scripts-maps', function() {
         .pipe(gulp.dest(jsDest));
 });
 
-// gulp.task('scripts', ['scripts-normal', 'scripts-ui', 'scripts-plans', 'scripts-maps']);
-gulp.task('scripts', ['scripts-maps']);
+gulp.task('scripts', ['scripts-normal', 'scripts-ui', 'scripts-plans', 'scripts-maps']);
+// gulp.task('scripts', ['scripts-maps']);
 
 // watching
 gulp.task("watch", function() {
