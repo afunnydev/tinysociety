@@ -97,6 +97,16 @@
 .ui-tabs .ui-tabs-nav li.ui-state-active a:after {
 	background: $brown;
 }
+
+.atss .at-share-btn .at-icon-wrapper, .atss a .at-icon-wrapper, .addthis-smartlayers, div#at4-follow, div#at4-share, div#at4-thankyou, div#at4-whatsnext, .atss .at-share-btn, .atss a {
+	background-color: transparent !important;
+}
+
+.atss .at-share-btn span .at-icon, .atss a span .at-icon {
+	fill: $orange !important;
+}
+
+
 /********** HEADER **********/
 
 // To fix the logo moving on load
@@ -818,6 +828,12 @@ h6.regular-text {
 			}
 		}
 	}
+	.at-share-dock.atss {
+		background-color: $gray !important
+	}
+	.atss .at-share-btn span .at-icon, .atss a span .at-icon {
+		fill: $brown !important;
+	}
 }
 
 @media only screen and (max-width: 767px) {
@@ -1000,7 +1016,7 @@ h6.regular-text {
 	}
 	.maps-body #Footer .footer_copy a#back_to_top {
 		position: fixed;
-		bottom: 20px;
+		bottom: 60px;
 		right: 20px;
 		z-index: 10;
 		background-color: $brown !important;
