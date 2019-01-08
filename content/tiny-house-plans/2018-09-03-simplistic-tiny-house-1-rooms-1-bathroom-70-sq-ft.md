@@ -12,9 +12,7 @@ listing:
   description: >-
     This house is called Simplistic Tiny House, because it looks simplistic: it
     is on wheels, it has a container shape, it has windows near the roof. It's
-    pretty much what you would expect from your standard tiny house! 
-
-
+    pretty much what you would expect from your standard tiny house!
     What you wouldn't expect is the cleverness of its inside, how the kitchen,
     the laundry, the bathroom, the room and the living room are all
     intelligently disposed to maximize the space and the comfort. You should

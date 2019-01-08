@@ -219,6 +219,10 @@ body.no-content-padding:not(.with_aside).plan-page {
 					// }
 					.plans-slider-item {
 						margin: 0 6px 0 5px;
+						min-height: 100px;
+						background-size: cover;
+						background-repeat: no-repeat;
+						background-position: center;
 					}
 				}
 				.slider-left-column {
@@ -1118,6 +1122,11 @@ body.no-content-padding:not(.with_aside).plan-page {
 							height: 300px !important;
 						}
 					}
+					.plans-slider-navigation {
+						.plans-slider-item {
+							min-height: 80px;
+						}
+					}
 				}
 			}
 		}
@@ -1152,6 +1161,11 @@ body.no-content-padding:not(.with_aside).plan-page {
 							height: 250px !important;
 						}
 					}
+					.plans-slider-navigation {
+						.plans-slider-item {
+							min-height: 70px;
+						}
+					}
 				}
 			}
 		}
@@ -1182,7 +1196,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 						.title-holder {
 							h1 {
 								font-size: 30px;
-								line-height: 45px;
+								line-height: 38px;
 							}
 							div.profile {
 								margin-bottom: 20px;

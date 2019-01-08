@@ -1,5 +1,5 @@
 ---
-title: Mobile Tiny House | 1 x Room | 1 x Bathroom | 137 sq/ft
+title: Mobile Tiny House | 1 Room | 1 Bathroom | 137 sq/ft
 description: >-
   Far from being a tent-trailer, this mobile tiny house is 137 sq/ft, has 1
   bathroom and 1 bedroom and is 20' 2" by 8' 2". It is built on wheels, giving it
@@ -14,11 +14,9 @@ listing:
     Some might say that this tiny house looks like a sophisticated, almost
     luxurious tent-trailer, which wouldn't be completely false. Although this
     tiny house isn't as mobile as tent-trailer, it is possible to bring it
-    anywhere the road will lead you. 
-
-
-    Comfy, utilitarian, amazing looking, this mobile tiny house has it all for
-    anyone who wants to dip in the self-sufficient world of tiny houses. 
+    anywhere the road will lead you. Comfy, utilitarian, amazing looking, this 
+    mobile tiny house has it all for anyone who wants to dip in the 
+    self-sufficient world of tiny houses. 
   image: /img/mobile-tiny-house-list.jpg
   foundation: false
 titre: 'Mobile Tiny House | Not A Tent-Trailer, But A House'

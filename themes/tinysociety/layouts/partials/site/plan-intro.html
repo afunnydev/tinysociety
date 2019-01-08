@@ -61,9 +61,7 @@
                                 <div class="column_attr">
                                     <ul class="plans-slider-navigation">
                                         {{ range .Params.slider }}
-                                        <li class="plans-slider-item">
-                                            <img src="/quart{{ .image }}" alt="" style="width: 100%;">
-                                        </li>
+                                        <li class="plans-slider-item" style="background-image: url(/quart{{ .image }})"></li>
                                         {{ end }}
                                     </ul>
                                 </div>

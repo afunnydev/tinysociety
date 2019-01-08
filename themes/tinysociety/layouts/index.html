@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{- $plans := (where .Pages ".Params.tosale" true) -}}
 <div class="content_wrapper clearfix">
     <div class="sections_group">
         <div class="entry-content">
@@ -146,6 +147,63 @@
                 </div>
             </div>
             {{ end }}
+            <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:#dcdfe1">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color" style="background:#fff" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="hover_color_bg" style="background:#f0f1f2;">
+                                        <a href="{{ $.Site.BaseURL }}tiny-house-plans/">
+                                            <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                                <h4 style="margin: 0;">Tiny House Plans</h4>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one column_blog ">
+                                <div class="column_filters">
+                                    <div class="blog_wrapper isotope_wrapper clearfix">
+                                        <div class="posts_group lm_wrapper col-3 masonry tiles isotope" style="background: #f0f1f2">
+                                            {{ range first 3 (where .Pages ".Params.tosale" true) }}
+                                            <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people" onclick="location.href='{{- .Permalink -}}';">
+                                                <div class="post-photo-wrapper scale-with-grid"><img src="/quart{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" itemprop="image" />
+                                                </div>
+                                                <div class="post-desc-wrapper">
+                                                    <div class="post-desc">
+                                                        <div class="post-head">
+                                                            <div class="post-meta clearfix">
+                                                                <div class="author-date">
+                                                                    {{ if isset .Params "architect" }}
+                                                                        {{ $architect := index .Site.Data.architects .Params.architect }}
+                                                                        <span class="vcard author post-author">
+                                                                            <span class="label">Designed by </span>
+                                                                            <i class="icon-user"></i> 
+                                                                            <span class="fn">{{ $architect.name }}</span>
+                                                                        </span>
+                                                                    {{ end }}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="post-title">
+                                                            <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}">{{ .Params.listing.title }}</a></h2>
+                                                        </div>
+                                                        <div class="post-excerpt">
+                                                            {{ .Params.listing.description }}
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            {{ end }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             {{ with .Params.section4 }}
             <div class="section mcb-section pre-footer" style="padding-top:40px; padding-bottom:0px; ">
                 <div class="section_wrapper mcb-section-inner">

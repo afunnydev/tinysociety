@@ -94,7 +94,8 @@ jQuery( document ).ready(function($) {
             vertical: false,
             verticalSwiping: false,
             slidesToShow: 4,
-            slidesToScroll: 1
+            slidesToScroll: 1,
+            arrows: false
           }
         },
         {
@@ -104,7 +105,7 @@ jQuery( document ).ready(function($) {
             verticalSwiping: false,
             slidesToShow: 3,
             slidesToScroll: 1,
-            arrows: false,
+            arrows: false
           }
         },
       ]
