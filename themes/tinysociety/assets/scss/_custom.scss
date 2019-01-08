@@ -1186,6 +1186,9 @@ h6.regular-text {
 			}
 		}
 	}
+	.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-head .post-meta {
+		display: none !important;
+	}
 }
 @media only screen and (min-width: 960px) and (max-width: 1239px) {
 	#blog {
@@ -1208,6 +1211,11 @@ h6.regular-text {
 					}
 				}
 			}
+		}
+	}
+	#related_posts {
+		.post-desc .post-head .post-meta {
+			display: none !important;
 		}
 	}
 }
