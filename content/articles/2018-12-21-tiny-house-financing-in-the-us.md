@@ -47,9 +47,11 @@ Purchasing a residential home typically works by getting a mortgage. Today, buyi
 
 ## Helpful Terms to Know
 
-Take a look at these commonly used financial terms and phrases to better understand your options. 
+Take a look at these commonly used financial terms to better understand your options. 
 
-
+* **FICO: **Fair Issac Corporation. Creates credit scores for use by lenders, and can affect the success of your loan application. 
+* **Credit Score:** A number used to represent the creditworthiness of an individual. Most credit scores fall between 600 and 750, although some loan providers will accept lower scores.
+* **APR:** Annual Percentage Rate. The annual rate charged for accepting a loan. 
 
 ## Ways to Finance Your Tiny House
 
@@ -69,7 +71,7 @@ The most popular way of financing a tiny house is through a loan provider; wheth
 
 Tiny houses on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
 
-**_Please note:_** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
+_**Please note:**_ the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
 
 ### Lightstream
 
