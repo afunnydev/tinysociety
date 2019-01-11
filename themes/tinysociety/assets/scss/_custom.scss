@@ -732,6 +732,9 @@ div.overlayed {
 		}
 		#related_posts {
 			span {color: white}
+			&.masonry.tiles {
+				height: 275px;
+			}
 		}
 		.iframe-container {
 		    position: relative;
@@ -892,6 +895,15 @@ h6.regular-text {
 	.progress-container {
 	  	bottom: initial;
 	  	top: 0px;
+	}
+	#article {
+		#Content {
+			#related_posts {
+				&.masonry.tiles {
+					height: 500px;
+				}
+			}
+		}
 	}
 }
 
