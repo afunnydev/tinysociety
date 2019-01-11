@@ -835,7 +835,8 @@ h6.regular-text {
 		fill: $brown !important;
 	}
 	.progress-container {
-	  	bottom: 48px;
+	  	bottom: initial;
+	  	top: 0px;
 	}
 }
 

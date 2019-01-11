@@ -159,15 +159,38 @@
     font-size: 18px;
     a.close-overlay-article {
         position: absolute;
-        left: 30px;
-        top: 30px;
+        left: 0px;
+        top: 0px;
         font-size: 30px;
         z-index: 9916;
+        width: 60px;
+        height: 50px;
+        background-color: $gray;
         i {
             color: $brown;
+            position: absolute;
+            left: 9px;
+            top: 10px;
         }
     }
     .typeform-widget {
-        margin-top: 90px;
+        margin-top: 50px;
+        height: 500px;
+        [data-qa="close-button-mobile"] {
+            display: none !important;
+        }
+        > div {
+            background-color: $gray !important;
+            > div {
+               background-color: $gray !important; 
+            }
+        }
+    }
+}
+@media only screen and (max-width: 767px) {
+    #article-overlay {
+        .typeform-widget {
+            height: 350px;
+        }
     }
 }

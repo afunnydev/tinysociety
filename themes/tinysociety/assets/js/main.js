@@ -459,6 +459,7 @@ jQuery( document ).ready(function($) {
       var documentHeight = $(document).height();
 
       addThisBar.hide();
+      progressBarContainer.hide();
       
       $(window).scroll(function(){
         // Update the progress bar
