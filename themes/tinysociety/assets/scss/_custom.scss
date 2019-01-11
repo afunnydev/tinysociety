@@ -163,7 +163,62 @@ div.social-icons {
 }
 
 /********* FOOTER *********/
-
+#footer-subscribe {
+	background-color: #191f25;
+	color: white;
+	h4, h5 {
+		color: white;
+	}
+	p {
+		font-size: 14px;
+	}
+	.intro-section {
+		text-align: center;
+		h4 {
+			font-size: 24px;
+		}
+		span {
+			text-decoration: underline;
+		}
+	}
+	input[type="submit"] {
+		color: white !important;
+		background-color: transparent !important;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		width: 80%;
+		margin: auto;
+		margin-top: 25px;
+		border: 1px solid white !important;
+	}
+	#newsletter-description {
+		.one-third {
+			&:before {
+				border-color: #191f25;
+				content: '';
+			    display: block;
+			    border-top: 1px solid #d3d3d1;
+			    margin-bottom: 2.5rem;
+			    opacity: 0.5;
+			}
+		}
+		h5 {
+			font-size: 13px;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			margin-bottom: 5px;
+		}
+		p {
+			font-size: 12px;
+			a {
+				color: white;
+				font-size: 1em;
+				text-decoration: underline;
+				cursor: pointer;
+			}
+		}
+	}
+}
 .footer_copy .copyright i {
 	margin-left: 5px;
 	margin-right: 5px;
@@ -992,6 +1047,15 @@ h6.regular-text {
 		h2 {
 			font-size: 22px;
 			line-height: 26px;
+		}
+	}
+	#footer-subscribe {
+		input {
+			width: 100%;
+		}
+		input[type="submit"] {
+			margin-top: 0 !important;
+			width: 100%;
 		}
 	}
 	body.no-content-padding:not(.with_aside).plan-page {

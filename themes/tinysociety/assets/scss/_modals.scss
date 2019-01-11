@@ -139,10 +139,16 @@
         height: initial;
         bottom: 40px;
     }
+    #bite-3 .col-md-auto.px-0 {
+        margin-bottom: 0;
+        img {
+            display: none;
+        }
+    }
     #bite-3 .modal-content {
         text-align: center;
-        padding: 30px;
-        width: 95%;
+        padding: 15px 20px;
+        width: 90%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -151,7 +157,7 @@
         right: 5px;
     }
     #bite-3 .col-md-auto {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     #bite-3 .btn {
         margin-left: 0 !important;
