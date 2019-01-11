@@ -9,8 +9,11 @@
 @import "vendor/icomoon.scss";
 @import "vendor/jquery-ui-slider.scss";
 @import "vendor/jquery-ui-slider-pips.scss";
+@import "vendor/animate.scss";
+@import "vendor/bites-theme.scss";
 
 /* Custom Akia CSS */
+@import "_modals.scss";
 @import "_custom.scss";
 @import "_plans.scss";
 

@@ -1,0 +1,81 @@
+#bite-5 .modal-content {
+    background-image: url(../images/newsletter-popup.jpg);
+    background-size: cover;
+    background-color: rgba(0,0,0,0.6);
+    background-blend-mode: multiply;
+    padding: 107px 87px;
+}
+#bite-5 .popup-title {
+    font-size: 27px;
+    line-height: 1.53;
+    letter-spacing: -0.1px;
+}
+#bite-5 .popup-text {
+    font-size: 18px;
+    line-height: 1.44;
+    letter-spacing: .1px;
+    margin-bottom: 36px;
+    font-family: $pfont
+}
+#bite-5 .form-control {
+    width: 315px;
+    height: 51px;
+    padding-right: 55px;
+    padding-left: 21px;
+    background-color: white !important;
+}
+#bite-5 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-5 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-5 .btn {
+    right: 55px;
+    height: auto;
+    background-color: white !important;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-5 .btn:hover {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#bite-5 .btn i {
+    font-size: 15px;
+    color: #727272;
+    opacity: .55;
+}
+#bite-5 .modal-header .close {
+    background-color: transparent !important;
+}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    #bite-5 .modal-content {
+        background-image: url(../images/newsletter-popup2x.jpg);
+    }
+}
+@media only screen and (max-width: 575px) {
+    #bite-5 .modal-content {
+        padding: 30px;
+    }
+    #bite-5 .form-inline {
+        display: block !important;
+        position: relative;
+    }
+    #bite-5 .form-group {
+        margin-bottom: 0;
+    }
+    #bite-5 .form-control {
+        width: 100%;
+    }
+    #bite-5 .btn {
+        right: 15px;
+        top: 7px;
+    }
+}

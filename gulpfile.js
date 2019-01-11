@@ -31,6 +31,9 @@ const jsFiles = [
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
                   'themes/tinysociety/assets/js/vendor/lazyload.js',
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
+                  'themes/tinysociety/assets/js/vendor/popper.min.js',
+                  'themes/tinysociety/assets/js/vendor/bootstrap.js',
+                  'themes/tinysociety/assets/js/vendor/bites.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsFilesMaps = [
@@ -48,6 +51,9 @@ const jsFilesMaps = [
                   'themes/tinysociety/assets/js/datamaps/topojson.js',
                   'themes/tinysociety/assets/js/datamaps/datamaps.usa.js',
                   // 'themes/tinysociety/assets/js/datamaps/usastats.js',
+                  'themes/tinysociety/assets/js/vendor/popper.min.js',
+                  'themes/tinysociety/assets/js/vendor/bootstrap.js',
+                  'themes/tinysociety/assets/js/vendor/bites.js',
                   'themes/tinysociety/assets/js/main.js',
                 ];
 const jsFilesPlans = [
@@ -82,6 +88,9 @@ const jsFilesUI = [
                   'themes/tinysociety/assets/js/vendor/instafeed.min.js',
                   'themes/tinysociety/assets/js/vendor/lazyload.js',
                   'themes/tinysociety/assets/js/vendor/jquery.sticky-sidebar.js',
+                  'themes/tinysociety/assets/js/vendor/popper.min.js',
+                  'themes/tinysociety/assets/js/vendor/bootstrap.js',
+                  'themes/tinysociety/assets/js/vendor/bites.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsDest = 'themes/tinysociety/static/js';

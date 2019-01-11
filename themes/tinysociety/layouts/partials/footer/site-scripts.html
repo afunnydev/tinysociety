@@ -1,4 +1,5 @@
 {{ $values := slice "Hard" "Hard" "Hard" "Hard" "Hard" "Ok" "Ok" "Ok" "Possible" "Possible" "Possible"}}
+
 {{ with .Site.Params.googleapikey }}
 <script async defer src="https://maps.googleapis.com/maps/api/js?key={{.}}"
   type="text/javascript"></script>
