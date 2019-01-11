@@ -131,6 +131,15 @@ jQuery(window).load(function() {
         }
     });
 </script>
+{{ if eq .Params.slug "caboose-for-sale" }}
+<script>
+    jQuery(window).load(function() {
+        jQuery('.in-article-cta .form-caboose').click(function() {
+                jQuery('#bite-3').modal('hide');
+        });
+    });
+</script>
+{{ end }}
 {{ if getenv "IS_PROD" }}
 {{- if and (eq .Type "articles") .IsPage -}}
 <!-- Go to www.addthis.com/dashboard to customize your tools -->

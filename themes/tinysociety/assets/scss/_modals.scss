@@ -79,6 +79,10 @@
         top: 7px;
     }
 }
+#bite-3 {
+    height: 200px;
+    top: initial;
+}
 
 #bite-3 .modal-content {
     padding: 13px 16px;
@@ -107,6 +111,9 @@
     line-height: 1;
     border: 1px solid $brown;
     color: $brown !important;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }
 #bite-3 .modal-body img {
     max-width: 60px;
@@ -128,6 +135,10 @@
     min-height: calc(100% - 56px) !important;
 }
 @media only screen and (max-width: 575px) {
+    #bite-3 {
+        height: initial;
+        bottom: 40px;
+    }
     #bite-3 .modal-content {
         text-align: center;
         padding: 30px;

@@ -64,6 +64,13 @@
                                         <div class="column mcb-column two-third column_column content" id="content">
                                             <div class="column_attr">
                                                 {{ .Content | markdownify }}
+                                                {{ if eq .Params.slug "caboose-for-sale" }}
+                                                <div class="in-article-cta">
+                                                    <h4>Want to buy a Caboose?</h4>
+                                                    <p>Let us help you find the right ressources to get your project going!</p>
+                                                    <button class="form-caboose">Get Started</button>
+                                                </div>
+                                                {{ end }}
                                             </div>
                                             <!-- {{- partial "site/post-author.html" . -}} -->
                                         </div>
