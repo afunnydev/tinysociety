@@ -145,6 +145,11 @@ jQuery( document ).ready(function($) {
     $('#Overlay #give-what-you-want').css('margin-top', '-' + menuH + 'px');
   });
 
+  $('.form-caboose, .close-overlay-article').click(function(e) {
+    e.preventDefault();
+    $('#article-overlay').fadeToggle(500);
+  });
+
     //GTM Customization - Making sure Snipcart is ready
   document.addEventListener('snipcart.ready', function() {
 
@@ -450,7 +455,7 @@ jQuery( document ).ready(function($) {
       }
 
       var addThisBar = $('.addthis-smartlayers');
-      var progressBar = $('.progress-container');
+      var progressBarContainer = $('.progress-container');
       var documentHeight = $(document).height();
 
       addThisBar.hide();
@@ -480,10 +485,10 @@ jQuery( document ).ready(function($) {
         }
         if (fromTop > 700 && fromTop < documentHeight - 1000) {
           addThisBar.show();
-          progressBar.show();
+          progressBarContainer.show();
         } else {
           addThisBar.hide();
-          progressBar.hide();
+          progressBarContainer.hide();
         }                   
       });
     }

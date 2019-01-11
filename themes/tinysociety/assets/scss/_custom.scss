@@ -722,7 +722,7 @@ div.overlayed {
   height: 8px;
   background: #ccc;
   position: fixed;
-  bottom: 48px;
+  bottom: 0px;
   z-index: 1;
   width: 100%;
   background-color: #f1f1f1;
@@ -833,6 +833,9 @@ h6.regular-text {
 	}
 	.atss .at-share-btn span .at-icon, .atss a span .at-icon {
 		fill: $brown !important;
+	}
+	.progress-container {
+	  	bottom: 48px;
 	}
 }
 

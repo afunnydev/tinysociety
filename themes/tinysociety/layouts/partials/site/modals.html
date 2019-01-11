@@ -1,4 +1,30 @@
-<!-- The Modal -->
+{{ if eq .Params.slug "caboose-for-sale" }}
+<div class="modal position-bottom-center scrollshow fade m-width-770" id="bite-3" bite-show="slideInUp" bite-hide="slideOutDown" displayed="false" data-backdrop="false">
+    <div class="modal-dialog">
+        <div class="modal-content bg-white">
+            <div class="modal-header">
+                <button type="button" class="close close-dark" data-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-md-auto col-sm-auto px-0">
+                            <img src="/img/logo-tiny-house.png" srcset="/img/logo-tiny-house.png 2x" alt="" />
+                        </div>
+                        <div class="col-md-auto col-sm-auto align-self-center">
+                            <div class="popup-title">Want to buy a Caboose?</div>
+                            <p class="popup-text mb-0">Let us help you find the right ressources to get your project going!</p>
+                        </div>
+                        <div class="col align-self-center">
+                            <button data-dismiss="modal" class="btn ml-5 text-white b-radius-25 form-caboose">Get Started</button>
+                        </div>
+                    </div>
+                </div>       
+            </div>
+        </div>
+    </div>
+</div>
+{{ else }}
 <div class="modal position-center-center timeoutshow fade m-width-570" id="bite-5" bite-show="fadeIn" bite-hide="fadeOut" bite-timeout="20">
     <div class="modal-dialog animated fast">
         <div class="modal-content text-center">
@@ -20,3 +46,4 @@
         </div>
     </div>
 </div>
+{{ end }}
