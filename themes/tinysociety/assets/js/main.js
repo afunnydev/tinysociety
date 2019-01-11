@@ -450,6 +450,7 @@ jQuery( document ).ready(function($) {
       }
 
       var addThisBar = $('.addthis-smartlayers');
+      var progressBar = $('.progress-container');
       var documentHeight = $(document).height();
 
       addThisBar.hide();
@@ -479,8 +480,10 @@ jQuery( document ).ready(function($) {
         }
         if (fromTop > 700 && fromTop < documentHeight - 1000) {
           addThisBar.show();
+          progressBar.show();
         } else {
           addThisBar.hide();
+          progressBar.hide();
         }                   
       });
     }

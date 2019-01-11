@@ -625,9 +625,14 @@ $(function() {
     }
     
     // Remove effect for a period of n days (expires: n)
-    if (!Cookies.get('popup') || !Cookies.get('newsletter')) {
+    if (!Cookies.get('popup') && !Cookies.get('newsletter')) {
     // if (!Cookies.get('newsletter')) {
        window.setTimeout(function () {timeOutShowModal();}, ms); // Show modal after m seconds ({showModal();}, m)
+       // Prefetch images
+       var img = new Image();
+       var imgMobile = new Image();
+       img.src = 'https://www.tinysociety.co/images/newsletter-popup.jpg';
+       imgMobile.src = 'https://www.tinysociety.co/images/newsletter-popup2x.jpg';
     }
     timeoutshow.on('shown.bs.modal', function () {
         Cookies.set('popup', 'valid', { expires: 30, path: "/" }); // need to set the path to fix a FF bug
