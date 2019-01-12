@@ -71,6 +71,18 @@ The train car you select doesn’t have to be vintage. If you come across a ster
 
 Larger than the caboose and smaller than the sterling rail is the boxcar rail. Their high ceilings offer the illusion of open space, and could even be built with a lofted bedroom. Since boxcars are used for shipping, there’s no need to gut them during the restoration process. That tends to be a huge draw for those looking into the tiny house community.
 
+## Different Available Dimensions For a Caboose
+
+There are many sizes available for a Caboose. If you want to build from an actual train wagon, those are the regular sizes you will find:
+
+Lenght: 48" to 60"
+
+Width: between 14½" and 15"
+
+Height: 21"
+
+If you are building a caboose looking tiny house, then there are no dimensions standards. 
+
 ## Where to Find a Caboose for Sale
 
 ![caboose for sale](/img/caboose-for-sale.jpg)
