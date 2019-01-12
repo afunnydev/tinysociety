@@ -73,15 +73,15 @@ Larger than the caboose and smaller than the sterling rail is the boxcar rail. T
 
 ## Different Available Dimensions For a Caboose
 
-There are many sizes available for a Caboose. If you want to build from an actual train wagon, those are the regular sizes you will find:
+There are many sizes available for a Caboose. Each of the manufacturer has its own sizes so it varies a lot from one to another. But as a guideline, the dimensions should be around those numbers: 
 
-Lenght: 48" to 60"
+Lenght: 30 to 50 feet
 
-Width: between 14½" and 15"
+Width: between 9 and 10 feet
 
-Height: 21"
+Height: 10 to 14 feet (depending if you count in the coupola)
 
-If you are building a caboose looking tiny house, then there are no dimensions standards. 
+If you are building a caboose looking tiny house, there are no dimension standards. Your imagination and the [building regulations in your state](https://www.tinysociety.co/articles/tiny-house-laws-united-states/) are the limit! 
 
 ## Where to Find a Caboose for Sale
 
