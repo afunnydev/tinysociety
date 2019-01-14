@@ -94,11 +94,11 @@ Keep in mind that if you have zero experience with wiring your tiny house, it ma
 
 Offers a wide selection of customizable solar panels, and all of the materials to put together your own kit. Grape Solar also specializes in light-weight panels that are perfect for going off grid. 
 
-[Renogy solar kit](https://www.amazon.com/Renogy-Watts-Volts-Monocrystalline-Starter/dp/B00BFCNFRM//ref=as_at?creativeASIN=B00BFCNFRM&imprToken=Xw5QZwjHZQFzjuDaVF24Bw&slotNum=4&ie=UTF8&linkCode=w61&tag=earthsfriends-20&linkId=ff2658252c449aed2a18cbf9ffca8d3c)
+[Renogy solar kit](https://amzn.to/2RQxNyA)
 
 ![solar-kit](/img/solar-kit-renogy.png)
 
-[Go Power solar kit](https://www.amazon.com/Go-Power-GP-PSK-120-Portable-Controller/dp/B009MIPH4K//ref=as_at?creativeASIN=B009MIPH4K&imprToken=Xw5QZwjHZQFzjuDaVF24Bw&slotNum=12&ie=UTF8&linkCode=w61&tag=earthsfriends-20&linkId=79ab978995211e244d4acd7eab539a90)
+[Go Power solar kit](https://amzn.to/2MbwxRp)
 
 A foldable, highly portable solar kit. While this kit is on the pricey side; you get a fast set up as well as excellent performance and quality as reported by customers.
 
