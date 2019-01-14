@@ -104,7 +104,7 @@ A foldable, highly portable solar kit. While this kit is on the pricey side; you
 
 ![solar-panel](/img/go-power.jpg)
 
-## Examples of solar tiny houses
+## Examples of solar panel tiny houses
 
 [A couple.](https://www.tumbleweedhouses.com/expert-advice-how-to-resources/solar-power-for-tiny-house-rvs/) Jenna Spesard and her partner are living and travelling around North America in their tiny home with the help of their [Goal Zero Yeti 1250](http://www.goalzero.com/p/140/goal-zero-yeti-1250-solar-generator) solar generator and solar panels. They love their system because it’s portable, efficient and rechargeable if there is no sunlight. As remote workers, having enough power to charge their laptops and camera batteries is important. To keep electricity use to a minimum, they use other alternative energy appliances (propane stove and wood stove heater) when they can.
 
@@ -128,6 +128,6 @@ I know there is a lot of information to process, so I made up this list of tools
 
 \- [Available sun hours per day (US and Canada)](http://solardirect.com/pv/systems/gts/gts-sizing-sun-hours.html)
 
-## The Takeaway
+## The Takeaway: Solar Panels for Tiny Houses
 
 Living off the grid using solar energy truly suits the tiny house lifestyle. It embraces a sustainable way of living which focuses on minimizing cost and environmental impact. Additionally, solar energy gives you the freedom to roam and wake up in a new place each day. On the other hand, tiny house enthusiasts need to be aware of the challenges that solar power can present. Finding enough sunlight is one of the challenges, particularly in winter months in regions that are shadowed by mountains or blanketed by snow. Tiny house owners need to be prepared to plan and manage their power to ensure their home meets the requirements for their individual lifestyle. After that, you’re ready to take your tiny, sustainable home to embark on an off grid adventure!
