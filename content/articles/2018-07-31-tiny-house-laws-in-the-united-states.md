@@ -13,7 +13,7 @@ date: '2018-08-14'
 notloaded:
   need: 'true'
 listing:
-  title: Tiny House Laws In The United-States
+  title: Tiny House Laws In The United-States; States That Allow Tiny Houses
   description: >-
     Depending on the type of tiny home you’re looking for and what state you’re
     looking to build in, these can vary greatly. Certain states are more
