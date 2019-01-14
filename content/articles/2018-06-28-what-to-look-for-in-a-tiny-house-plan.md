@@ -568,3 +568,21 @@ There are many factors to consider when choosing a Tiny House design and its ass
 * Are all of the recommended drawings included in the drawing set?
 * Are the plans and instructions detailed enough for the intended builder to follow?
 * Will the Tiny House be subject to rules and regulations that will work for your particular needs and situation?
+
+
+
+## What's Next?
+
+Once you have found what you are looking for, you should probably start thinking about tiny house regulation and tiny home loans, if you need them of course. 
+
+
+
+<h3> Tiny House Laws</h3>
+
+This is a pretty complex subject, given that each country, state and city has a unique take on the laws that govern building. You can read our article on [tiny house laws in the US ](https://www.tinysociety.co/articles/tiny-house-laws-united-states/)to know more about this subject.
+
+
+
+<h3> Tiny House Financing and Funding </h3>
+
+There are many solutions out there, but in most cases, you won't be able to find a typical mortgage usually offered for typical houses. You can read our article of different [tiny house loans](https://www.tinysociety.co/articles/tiny-house-financing-in-the-us/) to know about this subject.
