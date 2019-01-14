@@ -27,6 +27,8 @@ infographic: false
 draft: false
 noindex: false
 ---
+## A Breakdown of States That Allow Tiny Houses
+
 Looking for the next step in joining the Tiny House Movement? You came to the right place. Many people in similar positions have wondered how it’s possible to live in their tiny house without breaking any laws. Sure, it would be great if it were easy, but once you’re living worry-free in your tiny home you’ll be glad you took the time to do the research. 
 
 ## **The U.S. primary regulation regarding Tiny Houses**
@@ -71,7 +73,7 @@ Simply click on your state to learn more about tiny house laws in there! If you 
 
 <div id="map-tiny-container"><div id="map-tiny-friendly"></div></div>
 
-Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is **_the need to find a home for your tiny home._**
+Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is _**the need to find a home for your tiny home.**_
 
 In some ways, living in a tiny house is just like living in a residential home--just a lot smaller. For instance; tiny houses often have all the comforts of a traditional home, but in sizes that suit the space. However, there are also ways in which tiny living is completely different from living in a residential home. A good example of this is the fact that finding a place to live in a tiny house isn’t as easy as one might think. There are currently a number of regulations that tiny house enthusiasts must abide by if their tiny home is to be considered legal in the eyes of the law. 
 
