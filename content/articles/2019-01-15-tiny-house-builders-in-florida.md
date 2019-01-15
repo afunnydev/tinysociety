@@ -41,6 +41,10 @@ Florida is an excellent [place to live in a tiny house](https://www.tinysociety.
 
 ## Cornerstone Tiny Homes
 
+![](/img/cornerstone.jpg)
+
+<span class="figcaption">Image source: [Cornerstone Tiny Homes](https://cornerstonetinyhomes.com/tiny-home-models-3/)</span>
+
 A family-run business with combined experience in the fields of interior design, construction, and engineering. This tiny house builder combines bespoke, old-world craftsmanship with high-quality materials. Additionally, they will identify your lifestyle needs to ensure your tiny house is a custom fit. 
 
 * **Location: **Longwood, Florida 
@@ -54,6 +58,10 @@ A family-run business with combined experience in the fields of interior design,
 Contact the builder [here](https://cornerstonetinyhomes.com/contact-us/) for more information.
 
 ## Tampa Bay Tiny Homes
+
+![](/img/tampa-bay-tiny.jpeg)
+
+<span class="figcaption">Image source: [Tampa Bay Tiny Homes](http://tampabaytinyhomes.com/the-burg-model-tiny-house-by-tampa-bay-tiny-homes/)</span>
 
 This tiny house builder works with local businesses to provide high-quality, eco-friendly tiny homes. Their main focus is on sustainability, as well as on quality off-grid solutions that allow their tiny homes to go where others can’t. 
 
@@ -69,6 +77,10 @@ Contact the builder [here](http://tampabaytinyhomes.com/about/) for more informa
 
 ## Tiny Studios
 
+![](/img/tiny-studios.jpeg)
+
+<span class="figcaption">Image source: [Tiny Studios](https://www.tinystudiosfl.com/)</span>
+
 What’s more eco-friendly than living in a recyclable? This small space designer offers custom, repurposed shipping containers for everything from pop-up shops to tiny dwellings. The founder of Tiny Studios is an experienced interior designer who works with expert local contractors. There are also a number of extras you can add onto your tiny container; for example, a rooftop deck or chic design package.
 
 * **Location:** Sarasota, Florida
@@ -82,6 +94,10 @@ What’s more eco-friendly than living in a recyclable? This small space designe
 Contact the builder [here](https://www.tinystudiosfl.com/contact/) for more information.
 
 ## Moveable Roots
+
+![](/img/movable-roots.jpeg)
+
+<span class="figcaption">Image source: [Moveable Roots](https://www.movableroots.com/gallery-the-lee)</span>
 
 This tiny house builder not only builds tiny houses, but also has experience living in one. Choose one of their impressive flagship models; or, go for a personalized tiny home. Their custom build process allows them to assist you at any step of your tiny house adventure. The Moveable Roots process includes a free consultation, design layout, pricing, and finally, the build itself. 
 
@@ -97,6 +113,10 @@ Contact the builder [here](https://www.movableroots.com/contact-us) for more inf
 
 ## Norsk Tiny Houses
 
+![](/img/norsk.jpeg.jpg)
+
+<span class="figcaption">Image source: [Norsk Tiny Houses](http://norsktinyhouses.com/#gallery)</span>
+
 This tiny house builder offers quality design at an affordable price. Each tiny home can be completely personalized according to individual lifestyle needs, and then shipped anywhere in the United States. This builder’s focus is on open spaces, portability, and maximum comfort. Their understanding is that tiny houses lead to a simpler, happier life--and we couldn’t agree more!
 
 * **Location:** Atlantic Beach, Florida
@@ -111,6 +131,10 @@ Contact the builder [here](http://norsktinyhouses.com/#contact) for more informa
 
 ## Sanctuary a Tiny Home Company
 
+![](/img/sanctuary.jpeg)
+
+<span class="figcaption">Image source: [Sanctuary Tiny Homes](https://www.sanctuarytinyhomes.com/projects)</span>
+
 Tiny homes equal freedom. This is exactly what this tiny builder realized when they decided to use their experience to try and change the world. Their goal of providing people with beautifully made, environmentally responsible tiny homes, is what places Sanctuary at the front of the tiny house movement. 
 
 * **Location:** De Bary, Florida
@@ -124,6 +148,10 @@ Tiny homes equal freedom. This is exactly what this tiny builder realized when t
 Contact the builder [here](https://www.sanctuarytinyhomes.com/contact) for more information.
 
 ## Historic Shed
+
+![](/img/historic-shed.jpg)
+
+<span class="figcaption">Image source: [Historic Shed](https://historicshed.com/cottages-and-home-offices/cottages/)</span>
 
 This tiny house shed builder aims to provide environmentally-conscious designs with durable results. Although prefab, the historic aesthetic of their sheds are able to preserve the architectural history of the area. They offer everything from tiny house sheds, all the way to pint-sized parking attendant huts. The versatility and affordability of the shed makes it an excellent choice.
 
