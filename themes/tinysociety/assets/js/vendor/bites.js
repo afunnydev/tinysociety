@@ -601,23 +601,24 @@ $(function() {
     if ($('.scrollshowpoint').length){
         var modalScrollUp = $('.scrollshowpoint').offset().top - $(window).height();
     }
-                
-    $(window).scroll(function() {
-        if ($(document).scrollTop() > modalScrollUp && scrollshow.attr("displayed") === "false") {
-            if (!Cookies.get('popupscroll')) {
-                scrollShowModal();
-            }
-            scrollshow.on('shown.bs.modal', function () {
-                Cookies.set('popupscroll', 'valid', { expires: 1, path: "/" }); // need to set the path to fix a FF bug
-                Cookies.remove('popupscroll', { path: '/' }); // removed cookie!
-            })
-            scrollshow.attr("displayed", "true");
-        }
-    });
+    if (!Cookies.get('popupscroll')) {          
+      $(window).scroll(function() {
+          if (scrollshow.attr("displayed") === "false" && $(document).scrollTop() > modalScrollUp) {
+              scrollShowModal();
+              scrollshow.attr("displayed", "true");
+          }
+      });
+      // scrollshow.on('shown.bs.modal', function () {
+      //     Cookies.set('popupscroll', 'valid', { expires: 1, path: "/" }); // need to set the path to fix a FF bug
+      //     Cookies.remove('popupscroll', { path: '/' }); // removed cookie!
+      // })
+    }
     
     var timeoutshow = $('.timeoutshow');
     
-    var num = $('.timeoutshow').attr('bite-timeout');
+    var num = timeoutshow.attr('bite-timeout');
+    var popupImg = timeoutshow.data('image');
+    var popupBigImg = timeoutshow.data('big');
     var ms = num * 1000;
     
     function timeOutShowModal(){
@@ -631,8 +632,8 @@ $(function() {
        // Prefetch images
        var img = new Image();
        var imgMobile = new Image();
-       img.src = 'https://www.tinysociety.co/images/newsletter-popup.jpg';
-       imgMobile.src = 'https://www.tinysociety.co/images/newsletter-popup2x.jpg';
+       img.src = 'https://www.tinysociety.co/images/' + popupImg;
+       imgMobile.src = 'https://www.tinysociety.co/images/' + popupBigImg;
     }
     timeoutshow.on('shown.bs.modal', function () {
         Cookies.set('popup', 'valid', { expires: 30, path: "/" }); // need to set the path to fix a FF bug

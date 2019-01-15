@@ -147,7 +147,7 @@ jQuery( document ).ready(function($) {
 
   $('.form-caboose, .close-overlay-article').click(function(e) {
     e.preventDefault();
-    $('#article-overlay').fadeToggle(500);
+    $('#typeform-overlay').fadeToggle(500);
     $('.__typeform-embed-mobile-modal-open').removeClass('__typeform-embed-mobile-modal-open');
   });
 

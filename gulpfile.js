@@ -71,6 +71,9 @@ const jsFilesPlans = [
                   'themes/tinysociety/assets/js/theme/ui/jquery-ui-slider.js',
                   'themes/tinysociety/assets/js/vendor/jquery-ui-slider-pips.js',
                   'themes/tinysociety/assets/js/vendor/twemoji.js',
+                  'themes/tinysociety/assets/js/vendor/popper.min.js',
+                  'themes/tinysociety/assets/js/vendor/bootstrap.js',
+                  'themes/tinysociety/assets/js/vendor/bites.js',
                   'themes/tinysociety/assets/js/main.js'
                 ];
 const jsFilesUI = [

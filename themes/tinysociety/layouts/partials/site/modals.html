@@ -1,4 +1,4 @@
-{{ if eq .Params.slug "caboose-for-sale" }}
+{{- if eq .Params.slug "caboose-for-sale" -}}
 <div class="modal position-bottom-center scrollshow fade m-width-770" id="bite-3" bite-show="slideInUp" bite-hide="slideOutDown" displayed="false" data-backdrop="false">
     <div class="modal-dialog">
         <div class="modal-content bg-white">
@@ -26,8 +26,90 @@
         </div>
     </div>
 </div>
+{{- else if or (eq .Params.slug "tiny-house-laws-united-states") (eq .Params.slug "tiny-houses-on-foundations")}}
+<div class="modal position-bottom-center scrollshow fade m-width-770" id="bite-3" bite-show="slideInUp" bite-hide="slideOutDown" displayed="false" data-backdrop="false">
+    <div class="modal-dialog">
+        <div class="modal-content bg-white">
+            <div class="modal-header">
+                <button type="button" class="close close-dark" data-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-md-auto col-sm-auto px-0">
+                            <img src="/img/logo-tiny-house.png" srcset="/img/logo-tiny-house.png 2x" alt="" />
+                        </div>
+                        <div class="col-md-auto col-sm-auto align-self-center">
+                            <div class="popup-title">Looking for a tiny house builder?</div>
+                            <p class="popup-text mb-0">Let us find a builder for your project through our verified builders list.</p>
+                        </div>
+                        <div class="col align-self-center">
+                            <button data-dismiss="modal" class="btn ml-5 text-white form-caboose">Get Started</button>
+                            <!-- <button data-dismiss="modal" class="btn ml-5 text-white b-radius-25 form-caboose"><a class="typeform-share link" href="https://akiamktg.typeform.com/to/yYGNdS" data-mode="drawer_left" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank">Get Started </a></button>
+                            <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> -->
+                        </div>
+                    </div>
+                </div>       
+            </div>
+        </div>
+    </div>
+</div>
+{{- else if eq .Params.slug "what-to-look-for-in-a-tiny-house-plan" -}}
+<div class="modal position-bottom-center scrollshow fade m-width-770" id="bite-3" bite-show="slideInUp" bite-hide="slideOutDown" displayed="false" data-backdrop="false">
+    <div class="modal-dialog">
+        <div class="modal-content bg-white">
+            <div class="modal-header">
+                <button type="button" class="close close-dark" data-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-md-auto col-sm-auto px-0">
+                            <img src="/img/logo-tiny-house.png" srcset="/img/logo-tiny-house.png 2x" alt="" />
+                        </div>
+                        <div class="col-md-auto col-sm-auto align-self-center">
+                            <div class="popup-title">Looking for a tiny house plan?</div>
+                            <p class="popup-text mb-0">Discover our selection of plans from builders all around the world.</p>
+                        </div>
+                        <div class="col align-self-center">
+                            <button class="btn ml-5 text-white" id="to-plan-button" onclick="location.href='{{ $.Scratch.Get "plansPage" }}'">Our Plans</button>
+                        </div>
+                    </div>
+                </div>       
+            </div>
+        </div>
+    </div>
+</div>
+{{- else if eq .Type "tiny-house-plans" -}}
+<div class="modal position-bottom-center scrollshow fade m-width-770" id="bite-3" bite-show="slideInUp" bite-hide="slideOutDown" data-backdrop="false" displayed="false">
+    <div class="modal-dialog">
+        <div class="modal-content bg-white">
+            <div class="modal-header">
+                <button type="button" class="close close-dark" data-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col">
+                    <div class="row">
+                        <div class="col-md-auto col-sm-auto px-0">
+                            <img src="/img/logo-tiny-house.png" srcset="/img/logo-tiny-house.png 2x" alt="" />
+                        </div>
+                        <div class="col-md-auto col-sm-auto align-self-center">
+                            <div class="popup-title">Not finding the right plan?</div>
+                            <p class="popup-text mb-0">We can customize any plan for you.</p>
+                        </div>
+                        <div class="col align-self-center cta-col">
+                            <button data-dismiss="modal" class="btn ml-5 text-white form-caboose">Get Started</button>
+                            <!-- <button data-dismiss="modal" class="btn ml-5 text-white b-radius-25 form-caboose"><a class="typeform-share link" href="https://akiamktg.typeform.com/to/yYGNdS" data-mode="drawer_left" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank">Get Started </a></button>
+                            <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> -->
+                        </div>
+                    </div>
+                </div>       
+            </div>
+        </div>
+    </div>
+</div>
 {{ else }}
-<div class="modal position-center-center timeoutshow fade m-width-570" id="bite-5" bite-show="fadeIn" bite-hide="fadeOut" bite-timeout="20">
+<div class="modal position-center-center timeoutshow fade m-width-570" id="bite-5" bite-show="fadeIn" bite-hide="fadeOut" bite-timeout="20" data-image="newsletter-popup.jpg" data-big="newsletter-popup2x.jpg">
     <div class="modal-dialog animated fast">
         <div class="modal-content text-center">
             <div class="modal-header">
@@ -39,6 +121,9 @@
                 <form class="form-subscribe form-inline justify-content-center" action="https://tinysociety.us7.list-manage.com/subscribe/post" method="POST">
                     <input type="hidden" name="u" value="5dc026c37e348098dcbb9995f">
                     <input type="hidden" name="id" value="9250b0de0e">
+                    <!-- <div class="form-group">
+                        <input type="text" name="MERGE1" class="b-radius-30" placeholder="First name (optionnal)" />
+                    </div> -->
                     <div class="form-group">
                         <input type="text" name="MERGE0" class="form-control b-radius-30 email-address" placeholder="Enter your email" />
                     </div>

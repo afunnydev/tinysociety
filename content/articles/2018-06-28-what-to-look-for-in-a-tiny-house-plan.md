@@ -129,6 +129,7 @@ Here are a few examples showing the range of possibilities:
 
 ![Micro Tiny House](/img/what-to-look-for-tiny-house-plan-28.jpg)
 
+<span class="scrollshowpoint"></span>
 ## Tiny House Plans Checklist
 
 ### What basic plans should be included in your set of tiny home plans:

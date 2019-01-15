@@ -1,4 +1,5 @@
 <!-- <h4>Awesome Tiny Cabin </h4> -->
+<div class="scrollshowpoint"></div>
 <div class="desc-row icons">
 	<h3>Key specs</h3>
 	{{ with .Params.section1 }}
@@ -25,6 +26,7 @@
 	<div class="column one">
 		<p>{{ .Params.section2 | markdownify }}</p>
 	</div>
+	<span class="scrollshowpoint"></span>
 </div>
 {{- partial "site/plan-options.html" . -}}
 <!-- {{- partial "site/cost-to-build-cta.html" . -}}  -->

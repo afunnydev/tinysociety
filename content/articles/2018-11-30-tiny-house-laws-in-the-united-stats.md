@@ -63,6 +63,7 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 
 <span class="figcaption">Source: [Tiny Home Builders](https://www.tinyhomebuilders.com/tiny-house-marketplace/billabong-tiny-home-by-imagine-kit)</span>
 
+<span class="scrollshowpoint"></span>
 ## Tiny House laws by states
 
 Simply click on your state to learn more about tiny house laws in there! If you can't see the full map, simply scroll left and right 😃

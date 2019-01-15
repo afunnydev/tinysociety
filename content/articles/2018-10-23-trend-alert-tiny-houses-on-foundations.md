@@ -57,6 +57,7 @@ Since people who build tiny homes on trailers are traveling frequently, the hous
 
 When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power,](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) and water tanks. Building a tiny house on a foundation gives you the option to hook up to the grid so that you can have traditional plumbing, electricity, and the most important utility, WiFi. 
 
+<span class="scrollshowpoint"></span>
 ## Different Types of Tiny Houses on Foundations
 
 When you decide to build your tiny house on a foundation, you have several options to choose from including slab, crawlspace, basement, or on piers. While other building foundations exist, these are the few most suitable for a smaller construction like a tiny house. 

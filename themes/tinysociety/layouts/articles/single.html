@@ -2,12 +2,6 @@
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
 {{ $text := split .Content "<!-- split -->" }}
-<div id="article-overlay">
-    <div class="typeform-widget" data-url="https://akiamktg.typeform.com/to/yYGNdS" data-transparency="100" data-hide-headers=true data-hide-footer=true style="width: 100%;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=yYGNdS&utm_source=typeform.com-11699389-Pro&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
-    <a href="#" class="close-overlay-article">
-        <i class="close icon-cancel-fine"></i>
-    </a>
-</div>
 <div id="article">
     <div id="Intro" class="parallax{{ if .Params.overlay }} overlayed{{ end }}{{ if .Params.notloaded }} not-loaded"{{ else }}" style="background-image: url('/half{{- .Params.image -}}')"{{ end }} data-enllax-ratio="-0.3" data-large="/half{{- .Params.image -}}">
         {{ if .Params.overlay }}
@@ -110,5 +104,9 @@
 <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
 </div>
-
+{{- if eq .Params.slug "caboose-for-sale" -}}
+{{- partial "site/typeform-overlay.html" (dict "context" . "typeformeid" "yYGNdS") -}}
+{{- else if or (eq .Params.slug "tiny-house-laws-united-states") (eq .Params.slug "tiny-houses-on-foundations") -}}
+{{- partial "site/typeform-overlay.html" (dict "context" . "typeformeid" "UynMh4") -}}
+{{- end -}}
 {{ end }}

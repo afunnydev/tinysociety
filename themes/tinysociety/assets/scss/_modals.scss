@@ -119,6 +119,10 @@
     max-width: 60px;
     height: auto;
 }
+#bite-3 .cta-col {
+    text-align: right; 
+    margin-right:20px;
+}
 #bite-3 .btn:hover {
     background-color: $brown !important;
     color: $gray !important;
@@ -159,12 +163,16 @@
     #bite-3 .col-md-auto {
         margin-bottom: 10px;
     }
+    #bite-3 .cta-col {
+        text-align: center; 
+        margin-right: 0;
+    }
     #bite-3 .btn {
         margin-left: 0 !important;
     }
 }
 
-#article-overlay {
+#typeform-overlay {
     position: fixed;
     top: 0;
     left: 0;
@@ -213,7 +221,7 @@
     // bottom: 0 !important; 
 }
 @media only screen and (max-width: 767px) {
-    #article-overlay {
+    #typeform-overlay {
         .typeform-widget {
             height: 350px;
         }
