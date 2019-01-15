@@ -6,6 +6,7 @@ description: >-
   house builders in the state of Florida. 
 slug: tiny-house-builders-in-florida
 author: molli
+image: /img/tiny-house-builder-florida-banner.jpg
 overlay: true
 date: '2019-01-15'
 notloaded:
@@ -17,6 +18,7 @@ listing:
     all tiny houses are created equal. And by that, we mean that there are some
     key points to consider before choosing the right builder for your project.
     Let's take a look at some of the best tiny house builders in Florida.
+  image: /img/tiny-house-builder-florida-square.jpg
 likes: '58'
 categories:
   - Tiny houses
