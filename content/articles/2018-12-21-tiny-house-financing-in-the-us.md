@@ -34,40 +34,48 @@ draft: false
 noindex: false
 hincluded: true
 ---
-So, you’ve found the perfect tiny house to call home. What happens next?
+## So, you’ve found the perfect tiny house to call home. What happens next?
 
-## Tiny house financing 
+## Tiny home financing
 
-Typically less than 500 square feet, [tiny houses cost far less](https://www.tinysociety.co/articles/how-much-money-does-a-tiny-house-cost/) than the average residential home. Despite the tinier price tag, it still may not be possible to pay the total cost all at once. This is where tiny house financing comes in. 
+Typically less than 500 square feet, [tiny houses cost far less](https://www.tinysociety.co/articles/how-much-money-does-a-tiny-house-cost/) than the average residential home. Despite the tinier price tag, it still may not be possible to pay the total cost all at once. This is where tiny home financing comes in. 
 
 Purchasing a residential home typically works by getting a mortgage. Today, buying a tiny house doesn’t work this way for two reasons:
 
-* A tiny house doesn’t cost enough to be approved for a mortgage loan.
+* A tiny home doesn’t cost enough to be approved for a mortgage loan.
 * A mortgage is only approved for a home that is on a permanent foundation (an issue for a tiny house on wheels).
 
-## Ways to Finance Your Tiny House
+## Helpful Terms to Know
 
-**Get approved for a loan through a tiny house builder or lender.** Finance your tiny house either directly through a loan provider, or through a loan provider that is partnered with a tiny house builder.
+Take a look at these commonly used financial terms to better understand your options. 
+
+* **FICO: **Fair Issac Corporation. Creates credit scores for use by lenders, and can affect the success of your loan application. 
+* **Credit Score:** A number used to represent the creditworthiness of an individual. Most credit scores fall between 600 and 750, although some loan providers will accept lower scores.
+* **APR:** Annual Percentage Rate. The annual rate charged for accepting a loan. 
+
+## Ways to Fund Your Tiny House
+
+**Get approved for a loan through a tiny house builder or lender.** Finance your tiny house either directly through a loan provider, or through a loan provider that is partnered with a tiny home builder.
 
 **Apply for a traditional mortgage.** If you’re looking to building an accessory dwelling unit (ADU) next to your house, then this might be the best option for you. Your ADU will likely need to be on foundations, as well as meet your local building codes and zoning requirements. 
 
-**Start an online fundraiser.** Before you roll your eyes at this one, keep in mind that financing a chunk of your tiny house is possible through fundraising. It’s not uncommon that people who live in tiny houses work from home. And if you don’t work from home, consider any crafts or skills you could offer. Just asking for money won’t do the trick. The key is to offer your services or crafts for various levels of donations. People will be more inclined to help out if they know it’s not just a handout!
+**Start an online fundraiser.** Before you roll your eyes at this one, keep in mind that financing a chunk of your tiny house is possible through fundraising. It’s not uncommon that people who live in tiny homes work from home. And if you don’t work from home, consider any crafts or skills you could offer. Just asking for money won’t do the trick. The key is to offer your services or crafts for various levels of donations. People will be more inclined to help out if they know it’s not just a handout!
 
 **Get a low Interest credit card.** Although not the most recommended method of financing, an individual with good credit history might find success with the right terms.
 
 ## Which Method is Best for me?
 
-The most popular way of financing a tiny house is through a loan provider; whether that means using a loan service that’s partnered with your tiny house builder, or acquiring a personal loan directly from a provider. Let’s take a closer look at the different types of loans you can get through these two options. 
+The most popular way of financing a tiny house is through a loan provider; whether that means using a loan service that’s partnered with your tiny home builder, or acquiring a personal loan directly from a provider. Let’s take a closer look at the different types of loans you can get through these two options. 
 
 ## Loan Through Your Tiny House Builder
 
-Tiny houses on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
+Tiny homes on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
 
-_**Please note:**_ the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
+**_Please note:_** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
 
 ### Lightstream
 
-This online consumer lending division offers consumers with excellent credit scores the right to a loan at decent rates. The process is simple: fill out the electronic form to see if you qualify for the loan. You can even receive funds the same day if everything is in order. Lightstream gives tiny house hopefuls the freedom to put their loan toward any type of tiny house.
+This online consumer lending division offers consumers with excellent credit scores the right to a loan at decent rates. The process is simple: fill out the electronic form to see if you qualify for the loan. You can even receive funds the same day if everything is in order. Lightstream gives tiny home hopefuls the freedom to put their loan toward any type of tiny house.
 
 **To Qualify:** You must have a good credit score, sufficient income, and assets to support existing debt and requested loan amount. 
 
@@ -81,7 +89,7 @@ Check to see if you qualify [here.](https://www.lightstream.com/)
 
 ### KFG - Koala Financial Group
 
-Koala Financial Group (KFG) offers an easy online application process for a loan to suit any budget. After filling out the online form, your details will be submitted for approval and you can expect a decision within 5-7 days. KFG is a tiny house financing partner of several tiny house builders. 
+Koala Financial Group (KFG) offers an easy online application process for a loan to suit any budget. After filling out the online form, your details will be submitted for approval and you can expect a decision within 5-7 days. KFG is a tiny home loans and funding partner of several tiny house builders. 
 
 **To Qualify:** approved credit score combined with annual income (minimum 600 FICO).
 
@@ -181,4 +189,4 @@ Check to see if you qualify [here.](http://sofi.com)
 * Get a quote from various lenders.
 * Compare! Look carefully at the interest rates, as well as any fees that might pop up. 
 
-Do you have financing tips to add? [Get in touch!](https://www.tinysociety.co/contact-us/) As the tiny house movement grows, so does our list of tiny house financing options. Be sure to check back with us to see the most up-to-date information!
+Do you have financing tips to add? [Get in touch!](https://www.tinysociety.co/contact-us/) As the tiny house movement grows, so does our list of tiny home financing options. Be sure to check back with us to see the most up-to-date information!
