@@ -6,7 +6,7 @@ description: >-
   house builders in the state of Florida. 
 slug: tiny-house-builders-in-florida
 author: molli
-image: /img/tiny-house-builder-florida-banner.jpg
+image: /img/florida-builders-banner.jpg
 overlay: true
 date: '2019-01-15'
 notloaded:
