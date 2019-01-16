@@ -47,7 +47,7 @@ Florida is an excellent [place to live in a tiny house](https://www.tinysociety.
 
 A family-run business with combined experience in the fields of interior design, construction, and engineering. This tiny house builder combines bespoke, old-world craftsmanship with high-quality materials. Additionally, they will identify your lifestyle needs to ensure your tiny house is a custom fit. 
 
-* **Location:**Longwood, Florida
+* **Location:** Longwood, Florida
 * **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** yes
 * **Custom builds:** yes
@@ -66,7 +66,7 @@ Contact the builder [here](https://cornerstonetinyhomes.com/contact-us/) for mor
 This tiny house builder works with local businesses to provide high-quality, eco-friendly tiny homes. Their main focus is on sustainability, as well as on quality off-grid solutions that allow their tiny homes to go where others can’t. 
 
 * **Location:** St. Petersburg, Florida
-* **Tiny houses on wheels:**yes
+* **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** yes
 * **Custom builds:** yes
 * **Certifications:** N/A
