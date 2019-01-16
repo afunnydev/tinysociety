@@ -34,7 +34,7 @@ As mentioned in our previous article, [How to Find a Tiny House Builder](https:/
 
 * **How long have they been in business?** Go for a more experienced tiny house builder and you’re more likely to get someone who knows what works and what doesn’t.
 * **Can they build exactly what I’m looking for?** While some tiny house builders focus on set designs, there are also builders out there who will take your design dreams and make them a reality!
-* **What kinds of material do they use**? Take a look at some of the tiny houses they built in the past. Make sure they use quality materials that will make your tiny house last!
+* **What kinds of material do they use?** Take a look at some of the tiny houses they built in the past. Make sure they use quality materials that will make your tiny house last!
 * **Have they built a lot of tiny houses?** Tiny house builders often come from other types of building backgrounds, and may not know what’s what (even if they claim to). Make sure they’ve built other tiny houses before.
 
 Florida is an excellent [place to live in a tiny house](https://www.tinysociety.co/articles/tiny-house-laws-united-states/). Known as the Sunshine State, Florida offers more than just beaches and Disney--it offers some of the best RV parks and tiny house hotels in the country. Florida’s growing reputation as a tiny house-friendly location has also lead to the increased number of acclaimed tiny house builders in the state. 
