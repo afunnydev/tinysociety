@@ -18,7 +18,7 @@ listing:
     all tiny houses are created equal. And by that, we mean that there are some
     key points to consider before choosing the right builder for your project.
     Let's take a look at some of the best tiny house builders in Florida.
-  image: /img/tiny-house-builder-florida-square.jpg
+  image: /img/florida-builders.jpg
 likes: '58'
 categories:
   - Tiny houses
