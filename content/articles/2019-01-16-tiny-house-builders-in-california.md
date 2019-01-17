@@ -94,7 +94,7 @@ This tiny house builder offers a variety of stock models, or a custom build to s
 * **Tiny house financing partners:** yes, LightStream. Learn more [here](https://www.sierratinyhouses.com/financing/). 
 * **Price: **starting at approx. $55,000 for a stock model.
 
-Contact the builder [here](https://www.movableroots.com/contact-us) for more information.
+Contact the builder [here](https://www.sierratinyhouses.com/contact/) for more information.
 
 ## Tiny House Basics
 
