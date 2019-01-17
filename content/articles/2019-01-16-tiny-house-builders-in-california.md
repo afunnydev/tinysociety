@@ -1,6 +1,11 @@
 ---
 title: Tiny House Builders in California
-slug: this-is-an-example
+description: >-
+  California is an excellent place to live in a tiny house. Known worldwide for
+  its van-life culture, California is no stranger to the idea of living in small
+  spaces. Let's take a look at some of the best tiny house builders in
+  California. 
+slug: tiny-house-builders-in-california
 author: molli
 overlay: true
 date: '2019-01-16'
@@ -8,12 +13,17 @@ notloaded:
   need: true
 listing:
   title: Tiny House Builders in California
+  description: >-
+    California is an excellent place to live in a tiny house. Known worldwide
+    for its van-life culture, California is no stranger to the idea of living in
+    small spaces. Let's take a look at some of the best tiny house builders in
+    the state of California.
 likes: '44'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: 0
+ordre: '0'
 infographic: false
 draft: false
 noindex: false
