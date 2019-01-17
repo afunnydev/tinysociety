@@ -7,6 +7,7 @@ description: >-
   California. 
 slug: tiny-house-builders-in-california
 author: molli
+image: /img/tiny-house-builders-cali-banner.jpg
 overlay: true
 date: '2019-01-16'
 notloaded:
@@ -18,6 +19,7 @@ listing:
     for its van-life culture, California is no stranger to the idea of living in
     small spaces. Let's take a look at some of the best tiny house builders in
     the state of California.
+  image: /img/tiny-house-builder-cali-square.jpg
 likes: '44'
 categories:
   - Tiny houses
