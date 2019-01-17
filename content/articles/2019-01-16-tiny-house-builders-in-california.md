@@ -32,6 +32,10 @@ At the end of the day, the tiny house movement started out west and is slightly 
 
 ## Pacifica Tiny Homes
 
+![](/img/pacifica-tiny.jpeg)
+
+<span class="figcaption">Image source: [Pacifica Tiny Homes](https://pacificatinyhomes.com/models)</span>
+
 A family-run business made up of skilled contractors and plumbers. After noticing the rising need for affordable housing in the notoriously pricy Bay Area, the crew at Pacifica Tiny Homes made it their mission to offer quality tiny houses at a decent price. They were also recently awarded the NOAH certificate of Featured Builder for the month of December 2018--a huge honor in the tiny house builder community. 
 
 * **Location:** Bay Area, California
@@ -45,6 +49,10 @@ A family-run business made up of skilled contractors and plumbers. After noticin
 Contact the builder [here](https://pacificatinyhomes.com/contact-us) for more information.
 
 ## California Tiny House
+
+![](/img/ca-tinyhouse.jpeg)
+
+<span class="figcaption">Image source: [California Tiny House](https://www.californiatinyhouse.com/fullscreen-page/comp-jj6kp16d/1363315d-d25a-4b88-8a8a-2fdcb41ecc48/0/%3Fi%3D0%26p%3Dc1dmp%26s%3Dstyle-jj6kp0yk)</span>
 
 Another family-owned business, this tiny house builder understands the power of the tiny house movement and what it stands for! The folks at California Tiny House pride themselves on their hands-on approach to the design and build process. Their focus is on a high-quality build and positive experience for their clients. 
 
@@ -60,6 +68,10 @@ Contact the builder [here](https://www.californiatinyhouse.com/) for more inform
 
 ## Sierra Tiny Houses
 
+![](/img/sierra-tinyhouse.jpeg)
+
+<span class="figcaption">Image source: [Sierra Tiny Houses](https://www.sierratinyhouses.com/property/roomy-retreat/)</span>
+
 This tiny house builder offers a variety of stock models, or a custom build to suit your budget and lifestyle. A huge bonus, is that they’re also a dealer for one of the best trailer companies in the country. Although based in Northern California, Sierra Tiny Houses can deliver anywhere in the United States. 
 
 * **Location:** Sacramento, California
@@ -73,6 +85,10 @@ This tiny house builder offers a variety of stock models, or a custom build to s
 Contact the builder [here](https://www.movableroots.com/contact-us) for more information.
 
 ## Tiny House Basics
+
+![](/img/tinyhouse-basics.jpeg)
+
+<span class="figcaption">Image source: [Tiny House Basics](http://www.tinyhousebasics.com/shells/24ft-shells/)</span>
 
 The team at Tiny House Basics will help you make your tiny house dreams a reality. A quality tiny house on wheels needs to have a quality trailer. At Tiny House Basics, their specialty is deck between, deck over, and gooseneck trailer models. With five locations across the United States, this tiny house builder is able to deliver tiny houses across the U.S. and Canada. 
 
@@ -88,6 +104,10 @@ Contact the builder [here](http://www.tinyhousebasics.com/TinyHouseTrailers/) fo
 
 ## KJE Tiny Homes
 
+![](/img/kje.jpeg)
+
+<span class="figcaption">Image source: [KJE Tiny Homes](http://www.kjetinyhomes.com/gallery.html)</span>
+
 This small, family-run business offers custom-built tiny homes that are NOAH certified. Their HQ located in Fresno, California is the first city in the United States to allow tiny houses on wheels in a residential area. Additionally, the state of California is no stranger to wildfires, and this builder has done its part to give back to the community and people affected by the devastation. 
 
 * **Location:** Fresno, California
@@ -101,6 +121,10 @@ This small, family-run business offers custom-built tiny homes that are NOAH cer
 Contact the builder [here](http://www.kjetinyhomes.com/contact-us.html) for more information.
 
 ## Liberty Cabins
+
+![](/img/liberty-cabins.jpeg)
+
+<span class="figcaption">Image source: [Liberty Cabins](http://www.libertycabins.com/gallery--video-tour.html)</span>
 
 This tiny house builder specializes in just one customizable model in order to put the best quality product on the market. Their affordable prices and quality materials make them a leader in the RV (recreational vehicle) industry.
 
@@ -116,6 +140,10 @@ Contact the builder [here](http://www.libertycabins.com/contact.html) for more i
 
 ## Sunwest Tiny Homes
 
+![](/img/sunwest.jpg)
+
+<span class="figcaption">Image source: [Sunwest Tiny Homes](http://www.sunwesttinyhomes.com/homemodels.html)</span>
+
 Sunwest Tiny Homes offers beautifully constructed tiny homes either as a standard model, a shell, or a custom build. Their standard models boast windows that allow in plenty of natural light, eco-friendly features, and unique custom features.
 
 * **Location: **Ord Bend, California
@@ -129,6 +157,10 @@ Sunwest Tiny Homes offers beautifully constructed tiny homes either as a standar
 Contact the builder [here](http://www.sunwesttinyhomes.com/contact-us.html) for more information.
 
 ## Seabreeze Tiny Homes
+
+![](/img/seabreeze-carmel-at-home-show-1024x768.jpg)
+
+* <span class="figcaption">Image source: [Seabreeze Tiny Homes](https://www.seabreezetinyhomes.com/tiny-home-for-sale-carmel-model-26-230-sq-ft-2bd-1ba79900/)</span>
 
 A commitment to stylish and comfortable homes is what Seabreeze Tiny Homes promises their clients. With 40 years of experience under their belt, this tiny house builder is able to offer a small space with a number of out-of-the-box features. 
 
