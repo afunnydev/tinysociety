@@ -30,7 +30,6 @@ California is an excellent [place to live in a tiny house](https://www.tinysocie
 
 At the end of the day, the tiny house movement started out west and is slightly further along than its east coast counterparts. With an increasing number of tiny house builder choices, you’ll have your dream tiny home in no time (although you may need to ditch the California king-bed).
 
-
 ## Pacifica Tiny Homes
 
 A family-run business made up of skilled contractors and plumbers. After noticing the rising need for affordable housing in the notoriously pricy Bay Area, the crew at Pacifica Tiny Homes made it their mission to offer quality tiny houses at a decent price. They were also recently awarded the NOAH certificate of Featured Builder for the month of December 2018--a huge honor in the tiny house builder community. 
@@ -61,7 +60,6 @@ Contact the builder [here](https://www.californiatinyhouse.com/) for more inform
 
 ## Sierra Tiny Houses
 
-
 This tiny house builder offers a variety of stock models, or a custom build to suit your budget and lifestyle. A huge bonus, is that they’re also a dealer for one of the best trailer companies in the country. Although based in Northern California, Sierra Tiny Houses can deliver anywhere in the United States. 
 
 * **Location:** Sacramento, California
@@ -90,7 +88,6 @@ Contact the builder [here](http://www.tinyhousebasics.com/TinyHouseTrailers/) fo
 
 ## KJE Tiny Homes
 
-
 This small, family-run business offers custom-built tiny homes that are NOAH certified. Their HQ located in Fresno, California is the first city in the United States to allow tiny houses on wheels in a residential area. Additionally, the state of California is no stranger to wildfires, and this builder has done its part to give back to the community and people affected by the devastation. 
 
 * **Location:** Fresno, California
@@ -103,9 +100,7 @@ This small, family-run business offers custom-built tiny homes that are NOAH cer
 
 Contact the builder [here](http://www.kjetinyhomes.com/contact-us.html) for more information.
 
-
 ## Liberty Cabins
-
 
 This tiny house builder specializes in just one customizable model in order to put the best quality product on the market. Their affordable prices and quality materials make them a leader in the RV (recreational vehicle) industry.
 
@@ -119,9 +114,7 @@ This tiny house builder specializes in just one customizable model in order to p
 
 Contact the builder [here](http://www.libertycabins.com/contact.html) for more information.
 
-
 ## Sunwest Tiny Homes
-
 
 Sunwest Tiny Homes offers beautifully constructed tiny homes either as a standard model, a shell, or a custom build. Their standard models boast windows that allow in plenty of natural light, eco-friendly features, and unique custom features.
 
@@ -135,9 +128,7 @@ Sunwest Tiny Homes offers beautifully constructed tiny homes either as a standar
 
 Contact the builder [here](http://www.sunwesttinyhomes.com/contact-us.html) for more information.
 
-
 ## Seabreeze Tiny Homes
-
 
 A commitment to stylish and comfortable homes is what Seabreeze Tiny Homes promises their clients. With 40 years of experience under their belt, this tiny house builder is able to offer a small space with a number of out-of-the-box features. 
 
@@ -151,8 +142,6 @@ A commitment to stylish and comfortable homes is what Seabreeze Tiny Homes promi
 
 Contact the builder [here](https://www.seabreezetinyhomes.com/contact-us/) for more information.
 
-## 
-The Takeaway
-
+## The Takeaway
 
 Finding the right tiny house builder for you isn’t an easy task. This is one of the most important steps of the tiny house process because ultimately, it’s a choice that decides whether your dream home becomes a reality or not. The number of qualified tiny house builders out there is steadily growing. Be sure to do your research, and even schedule a chat with several of the builders before committing to one. Our biggest advice? Don’t rush the process. Enjoy it. Having your own tiny home built to your exact specifications is a moment that you’ll want to remember for the rest of your life.
