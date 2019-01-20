@@ -31,7 +31,7 @@ draft: false
 noindex: false
 hincluded: false
 ---
-As mentioned in our previous article, [How to Find a Tiny House Builder](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), not all tiny houses are created equal. And by that, we mean that there are some key points to consider before choosing the right builder for your project. Here’s a refresher on the most important points to consider:
+As mentioned in our previous article, [How to Find a Tiny House Builder](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), it's important to take the time to research exactly what you want. There are a number of key points to consider before choosing the right builder for your project. Here's a quick review of the questions you want to ask when deciding on the company that will build your dream tiny home:
 
 * **How long have they been in business?** Go for a more experienced tiny house builder and you’re more likely to get someone who knows what works and what doesn’t.
 * **Can they build exactly what I’m looking for?**While some tiny house builders focus on set designs, there are also builders out there who will take your design dreams and make them a reality!
