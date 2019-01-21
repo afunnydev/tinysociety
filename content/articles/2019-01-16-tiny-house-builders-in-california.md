@@ -35,7 +35,7 @@ As mentioned in our previous article, [How to Find a Tiny House Builder](https:/
 
 * **How long have they been in business?** Go for a more experienced tiny house builder and you’re more likely to get someone who knows what works and what doesn’t.
 * **Can they build exactly what I’m looking for?**While some tiny house builders focus on set designs, there are also builders out there who will take your design dreams and make them a reality!
-* **What kinds of material do they use? **Take a look at some of the tiny houses they built in the past. Make sure they use quality materials that will make your tiny house last!
+* **What kinds of material do they use?** Take a look at some of the tiny houses they built in the past. Make sure they use quality materials that will make your tiny house last!
 * **Have they built a lot of tiny houses?** Tiny house builders often come from other types of building backgrounds, and may not know what’s what (even if they claim to). Make sure they’ve built other tiny houses before.
 
 California is an excellent [place to live in a tiny house](https://www.tinysociety.co/articles/tiny-house-laws-united-states/). Known worldwide for its van-life culture, California is no stranger to the idea of living in small spaces. While most cities in California allow ADUs (accessory dwelling units), not all accept the idea of a tiny house on wheels. However, unlike other states, California is warming up to these mobile houses that aren’t quite RVs. Take Fresno for example. Fresno is the first city in the entire United States to allow tiny houses on wheels as secondary dwellings in residential neighborhoods--a massive win for the tiny house community. 
@@ -87,12 +87,12 @@ Contact the builder [here](https://www.californiatinyhouse.com/) for more inform
 This tiny house builder offers a variety of stock models, or a custom build to suit your budget and lifestyle. A huge bonus, is that they’re also a dealer for one of the best trailer companies in the country. Although based in Northern California, Sierra Tiny Houses can deliver anywhere in the United States. 
 
 * **Location:** Sacramento, California
-* **Tiny houses on wheels: **yes
+* **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** yes
 * **Custom builds:** yes
 * **Certifications:** RVIA (Recreational Vehicle Industry Association)
 * **Tiny house financing partners:** yes, LightStream. Learn more [here](https://www.sierratinyhouses.com/financing/). 
-* **Price: **starting at approx. $55,000 for a stock model.
+* **Price:** starting at approx. $55,000 for a stock model.
 
 Contact the builder [here](https://www.sierratinyhouses.com/contact/) for more information.
 
@@ -124,11 +124,11 @@ This small, family-run business offers custom-built tiny homes that are NOAH cer
 
 * **Location:** Fresno, California
 * **Tiny houses on wheels:** yes
-* **Tiny houses on foundations: **N/A
+* **Tiny houses on foundations:** N/A
 * **Custom builds:** yes
 * **Certifications:** N/A
-* **Tiny house financing partners: **yes, you can learn more [here](http://www.kjetinyhomes.com/financing.html).
-* **Price: **starts at approx. $40,000 
+* **Tiny house financing partners:** yes, you can learn more [here](http://www.kjetinyhomes.com/financing.html).
+* **Price:** starts at approx. $40,000 
 
 Contact the builder [here](http://www.kjetinyhomes.com/contact-us.html) for more information.
 
@@ -158,13 +158,13 @@ Contact the builder [here](http://www.libertycabins.com/contact.html) for more i
 
 Sunwest Tiny Homes offers beautifully constructed tiny homes either as a standard model, a shell, or a custom build. Their standard models boast windows that allow in plenty of natural light, eco-friendly features, and unique custom features.
 
-* **Location: **Ord Bend, California
+* **Location:** Ord Bend, California
 * **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** no
 * **Custom builds:** yes
 * **Certifications:** no
 * **Tiny house financing partners:** no, but you can see their buying program [here](http://www.sunwesttinyhomes.com/financing.html).
-* **Price: **starting at approx. $45,000
+* **Price:** starting at approx. $45,000
 
 Contact the builder [here](http://www.sunwesttinyhomes.com/contact-us.html) for more information.
 
@@ -176,8 +176,8 @@ Contact the builder [here](http://www.sunwesttinyhomes.com/contact-us.html) for 
 
 A commitment to stylish and comfortable homes is what Seabreeze Tiny Homes promises their clients. With 40 years of experience under their belt, this tiny house builder is able to offer a small space with a number of out-of-the-box features. 
 
-* **Location: **Fresno, California
-* **Tiny houses on wheels: **yes
+* **Location:** Fresno, California
+* **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** no
 * **Custom builds:** yes
 * **Certifications:** N/A
