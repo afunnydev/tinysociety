@@ -172,7 +172,7 @@ Contact the builder [here](http://www.sunwesttinyhomes.com/contact-us.html) for 
 
 ![](/img/seabreeze-carmel-at-home-show-1024x768.jpg)
 
-* <span class="figcaption">Image source: [Seabreeze Tiny Homes](https://www.seabreezetinyhomes.com/tiny-home-for-sale-carmel-model-26-230-sq-ft-2bd-1ba79900/)</span>
+<span class="figcaption">Image source: [Seabreeze Tiny Homes](https://www.seabreezetinyhomes.com/tiny-home-for-sale-carmel-model-26-230-sq-ft-2bd-1ba79900/)</span>
 
 A commitment to stylish and comfortable homes is what Seabreeze Tiny Homes promises their clients. With 40 years of experience under their belt, this tiny house builder is able to offer a small space with a number of out-of-the-box features. 
 
