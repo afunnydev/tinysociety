@@ -26,6 +26,7 @@ ordre: 0
 infographic: false
 draft: false
 noindex: false
+mapsjs: true
 ---
 ## A Breakdown of States That Allow Tiny Houses
 

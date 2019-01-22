@@ -626,7 +626,7 @@ $(function() {
     }
     
     // Remove effect for a period of n days (expires: n)
-    if (!Cookies.get('popup') && !Cookies.get('newsletter')) {
+    if (!Cookies.get('popup') && !Cookies.get('newsletter') && timeoutshow.length) {
     // if (!Cookies.get('newsletter')) {
        window.setTimeout(function () {timeOutShowModal();}, ms); // Show modal after m seconds ({showModal();}, m)
        // Prefetch images

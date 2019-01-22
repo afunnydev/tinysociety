@@ -71,6 +71,7 @@ collections:
       - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
       - {label: "H3 included", name: "hincluded", widget: "hidden", default: false}
+      - {label: "Special map", name: "mapsjs", widget: "hidden", default: false}
   - name: "plans" # Used in routes, e.g. /admin/collections/blog
     label: "Plans" # Used in the UI
     folder: "content/plans" # The path to the folder where the documents are stored
