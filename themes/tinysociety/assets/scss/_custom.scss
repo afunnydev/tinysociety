@@ -105,6 +105,9 @@
 .atss .at-share-btn span .at-icon, .atss a span .at-icon {
 	fill: $orange !important;
 }
+.at-share-dock.atss {
+	z-index: 992 !important;
+}
 
 
 /********** HEADER **********/
