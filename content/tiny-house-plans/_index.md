@@ -11,7 +11,7 @@ section2:
   class: "category-people"
   icons:
     - title: Learn everything you need
-      icon: moon-vie-quartier
+      icon: moon-tinyhouse
       description: >-
         Discover our blog on tiny houses and get our lastest advices on living the tiny dream.
     - title: Customize any plan

@@ -31,7 +31,7 @@
                     <div class="wrap mcb-wrap one valign-top clearfix">
                         <div class="mcb-wrap-inner isotope-wrapper">
                         	{{ range $i, $e := (first 8 $plans) }}
-                            <div class="column mcb-column one-second column_placeholder plan-item{{ if .Params.listing.foundation }} on-foundation{{ else }} on-wheels{{ end }}">
+                            <div class="column mcb-column one-second column_placeholder plan-item{{ if .Params.listing.foundation }} on-foundation{{ else }} on-wheels{{ end }}{{ if or (eq $i 0) (eq $i 1) }} featured{{ end }}">
                             	<div class="column_attr">
                                 	{{- partial "site/plans-post.html" . $ -}}
                                 </div>

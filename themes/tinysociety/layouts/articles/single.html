@@ -104,9 +104,9 @@
 <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
 </div>
-{{- if eq .Params.slug "caboose-for-sale" -}}
-{{- partial "site/typeform-overlay.html" (dict "context" . "typeformeid" "yYGNdS") -}}
-{{- else if or (eq .Params.slug "tiny-house-laws-united-states") (eq .Params.slug "tiny-houses-on-foundations") -}}
-{{- partial "site/typeform-overlay.html" (dict "context" . "typeformeid" "UynMh4") -}}
+{{- range $.Site.Data.cta.typeform -}}
+{{- if eq $.Params.slug .slug -}}
+{{- partial "site/typeform-overlay.html" (dict "context" $ "typeformeid" .typeformid) -}}
+{{- end -}}
 {{- end -}}
 {{ end }}

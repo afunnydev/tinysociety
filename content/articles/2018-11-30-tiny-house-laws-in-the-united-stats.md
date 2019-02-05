@@ -71,19 +71,17 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 <span class="scrollshowpoint"></span>
 ## Tiny House laws by states
 
-Simply click on your state to learn more about tiny house laws in there! If you can't see the full map, simply scroll left and right 😃
-
-<div id="map-tiny-container"><div id="map-tiny-friendly"></div></div>
-
 Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is _**the need to find a home for your tiny home.**_
 
-In some ways, living in a tiny house is just like living in a residential home--just a lot smaller. For instance; tiny houses often have all the comforts of a traditional home, but in sizes that suit the space. However, there are also ways in which tiny living is completely different from living in a residential home. A good example of this is the fact that finding a place to live in a tiny house isn’t as easy as one might think. There are currently a number of regulations that tiny house enthusiasts must abide by if their tiny home is to be considered legal in the eyes of the law. 
+Finding a place to live in a tiny house isn’t as easy as one might think. There are currently a number of regulations that tiny house enthusiasts must abide by if their tiny home is to be considered legal in the eyes of the law. 
 
 In the United States, tiny house laws vary not only by state, but also by county. This makes pinpointing laws specific to each state tricky due to inconsistent regulations and codes from one jurisdiction to the next. 
 
-The following information on tiny house laws in the United States should be perceived as guidelines for understanding how tiny house-friendly a particular state is, as regulations and codes are actively changing.  So before you decide on a location to call home, it’s a good idea to contact your local municipality for the most up-to-date information. [Click here ](https://www.tinysociety.co/articles/tiny-house-laws-united-states/)to learn some common terms to better understand tiny house laws.
+The following information on tiny house laws in the United States should be perceived as guidelines for understanding how tiny house-friendly a particular state is, as regulations and codes are actively changing.  So before you decide on a location to call home, it’s a good idea to contact your local municipality for the most up-to-date information.
 
-Are you ready to find a home for your tiny home? Click on the interactive map to find out more about tiny house laws by state. 
+Are you ready to find a home for your tiny home? Click on the interactive map to find out more about tiny house laws by state. If you can't see the full map, simply scroll left and right 😃
+
+<div id="map-tiny-container"><div id="map-tiny-friendly"></div></div>
 
 ## Alabama
 

@@ -771,6 +771,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 		.plan-item {
 			width: 49.8%;
 			cursor: pointer;
+			position: relative;
 			&:nth-of-type(2n+1) {
 				padding-right: 0.2%;
 			}
@@ -878,6 +879,27 @@ body.no-content-padding:not(.with_aside).plan-page {
 						margin-right: 10px;
 						display: inline
 					}
+				}
+			}
+			.on-sale {
+				display: none !important;
+			}
+			&.featured .on-sale {
+				display: block !important;
+				position: absolute;
+				top: 20px;
+				left: 20px;
+				height: 30px;
+				background-color: $brown;
+				padding: 3px 15px 5px;
+				-webkit-border-radius: 2px;
+				-moz-border-radius: 2px;
+				border-radius: 2px;
+				p {
+					color: $gray;
+					line-height: 30px;
+					font-size: 20px;
+					font-family: $hfont;
 				}
 			}
 		}
