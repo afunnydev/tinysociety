@@ -1,16 +1,21 @@
 typeform:
-  - title: Want to buy a Caboose?
-    slug: caboose-for-sale
+  - btn: Get Started
     description: Let us help you find the right ressources to get your project going!
-    btn: Get Started
+    slug: caboose-for-sale
+    title: Want to buy a Caboose?
     typeformid: yYGNdS
-  - title: Looking for a tiny house builder?
+  - btn: Get Started
+    description: Let us find a builder for your project through our verified builders list.
     slug: tiny-house-laws-united-states
+    title: Looking for a tiny house builder?
+    typeformid: tRPuNe
+  - btn: Get Started
     description: Let us find a builder for your project through our verified builders list.
-    btn: Get Started
-    typeformid: UynMh4
-  - title: Looking for a tiny house builder?
     slug: tiny-houses-on-foundations
+    title: Looking for a tiny house builder?
+    typeformid: tRPuNe
+  - btn: Get Started
     description: Let us find a builder for your project through our verified builders list.
-    btn: Get Started
-    typeformid: UynMh4
+    slug: tiny-house-builders-in-california
+    title: Looking for a tiny house builder?
+    typeformid: tRPuNe
