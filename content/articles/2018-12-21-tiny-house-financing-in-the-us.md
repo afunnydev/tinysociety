@@ -49,7 +49,7 @@ Purchasing a residential home typically works by getting a mortgage. Today, buyi
 
 Take a look at these commonly used financial terms to better understand your options. 
 
-* **FICO: **Fair Issac Corporation. Creates credit scores for use by lenders, and can affect the success of your loan application. 
+* **FICO:** Fair Issac Corporation. Creates credit scores for use by lenders, and can affect the success of your loan application. 
 * **Credit Score:** A number used to represent the creditworthiness of an individual. Most credit scores fall between 600 and 750, although some loan providers will accept lower scores.
 * **APR:** Annual Percentage Rate. The annual rate charged for accepting a loan. 
 
