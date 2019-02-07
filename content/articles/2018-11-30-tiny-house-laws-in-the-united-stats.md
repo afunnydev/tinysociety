@@ -68,7 +68,6 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 
 <span class="figcaption">Source: [Tiny Home Builders](https://www.tinyhomebuilders.com/tiny-house-marketplace/billabong-tiny-home-by-imagine-kit)</span>
 
-<span class="scrollshowpoint"></span>
 ## Tiny House laws by states
 
 Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is _**the need to find a home for your tiny home.**_

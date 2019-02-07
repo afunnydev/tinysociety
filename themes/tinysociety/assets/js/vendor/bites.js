@@ -593,13 +593,14 @@ $(function() {
     });
     
     var scrollshow = $('.scrollshow');
+    var modalScrollUp = 1500;
 
     function scrollShowModal(){
         scrollshow.modal({show:true});
     }
     
     if ($('.scrollshowpoint').length){
-        var modalScrollUp = $('.scrollshowpoint').offset().top - $(window).height();
+        modalScrollUp = $('.scrollshowpoint').offset().top - $(window).height();
     }
     if (!Cookies.get('popupscroll')) {          
       $(window).scroll(function() {

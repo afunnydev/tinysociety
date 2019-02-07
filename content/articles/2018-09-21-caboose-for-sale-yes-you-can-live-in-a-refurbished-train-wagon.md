@@ -53,8 +53,6 @@ This rail car might look classic on the outside, but the interior has been fully
 
 For a more rustic way of living, a tiny caboose turned tiny house might be more up your alley. You might not be able to host a dinner party, but something this small would be far easier to power. If you’re looking for a tiny house on wheels, this size might be more suitable for traveling. 
 
-<span class="scrollshowpoint"></span>
-
 #### A Not-So-Tiny House
 
 ![sterling train car house](/img/sterling-train-tiny-house.jpg)

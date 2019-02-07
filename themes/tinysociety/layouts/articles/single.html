@@ -45,6 +45,7 @@
                                         {{ if .Params.infographic }}
                                         <div class="column mcb-column one column_column content" id="content">
                                             <div class="column_attr">
+                                                <span class="scrollshowpoint"></span>
                                                 {{ .Content | markdownify }}
                                             </div>
                                         </div>
@@ -57,7 +58,18 @@
                                         </div>
                                         <div class="column mcb-column two-third column_column content" id="content">
                                             <div class="column_attr">
-                                                {{ .Content | markdownify }}
+                                                {{ $fulltext := (.Content | markdownify) }}
+                                                {{ $splittext := split $fulltext "</h2>"}}
+                                                {{ $splitnb := math.Ceil (add 1 (div (len $splittext) 5)) }}
+                                                {{ if lt $splitnb 6 }}
+                                                    {{ delimit (first $splitnb $splittext) "</h2>" | markdownify }}</h2>
+                                                    <span class="scrollshowpoint"></span>
+                                                    {{ delimit (after $splitnb $splittext) "</h2>" | markdownify }}</h2>
+                                                {{ else }}
+                                                    {{ delimit (first 5 $splittext) "</h2>" | markdownify }}</h2>
+                                                    <span class="scrollshowpoint"></span>
+                                                    {{ delimit (after 5 $splittext) "</h2>" | markdownify }}</h2>
+                                                {{ end }}
                                                 {{ if eq .Params.slug "caboose-for-sale" }}
                                                 <div class="in-article-cta">
                                                     <h4>Want to buy a Caboose?</h4>
