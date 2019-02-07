@@ -46,13 +46,17 @@ _Building Codes_
 * Minimum ceiling height: The common spaces must have a minimum ceiling height of 6 feet 8 inches, while bathrooms can be a minimum of 6 feet 4 inches. 
 * Windows: There actually isn’t a minimum number of windows that need to be in a tiny house. It does however, need to meet the standard requirement for emergency exit points. 
 * Plumbing: At least one separate bathroom is required (and we totally understand why!)
-* Stairs: TIny houses need to have stairs or ladders in order to reach loft areas.
+* Stairs: Tiny houses need to have stairs or ladders in order to reach loft areas.
+
+_International Building Code (IBC) vs International Residential Code (IRC)_
+
+The IBC refers to the regulations for commercial construction, whereas the IRC refers to the rules for residential construction. You can check with your local building department for the specific requirements for either.
 
 _Zoning Regulations_
 
 Unfortunately, you can’t park or build your tiny house just anywhere. You will need to check with your local zoning department to find out more about the area where you’re thinking of building. 
 
-Keep in mind that while there are federal laws and local zoning regulations in place, you can still apply through your local planning commision to build outside of the existing codes. Much of what it comes down to is how tiny house friendly the area where you want to build is. 
+Keep in mind that while there are federal laws and local zoning regulations in place, you can still apply through your local planning commission to build outside of the existing codes. Much of what it comes down to is how tiny house friendly the area where you want to build is. 
 
 ## Types of Tiny Houses
 
@@ -69,9 +73,10 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 <span class="figcaption">Source: [Tiny Home Builders](https://www.tinyhomebuilders.com/tiny-house-marketplace/billabong-tiny-home-by-imagine-kit)</span>
 
 <span class="scrollshowpoint"></span>
+
 ## Tiny House laws by states
 
-Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is _**the need to find a home for your tiny home.**_
+Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is **_the need to find a home for your tiny home._**
 
 Finding a place to live in a tiny house isn’t as easy as one might think. There are currently a number of regulations that tiny house enthusiasts must abide by if their tiny home is to be considered legal in the eyes of the law. 
 
