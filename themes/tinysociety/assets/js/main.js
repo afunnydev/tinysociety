@@ -50,7 +50,7 @@ jQuery( document ).ready(function($) {
   var userFeed = new Instafeed({
       get: 'user',
       userId: '7328857212',
-      accessToken: '7328857212.4cf9aed.f0350c126116412c978dd2f3346ba315',
+      accessToken: '7328857212.13bdb1e.f527c3d9544e425795d29599645fc181',
       limit: '8',
       resolution: "thumbnail",
       error: {
@@ -300,6 +300,23 @@ jQuery( document ).ready(function($) {
         containerSelector: ".plan-main-section",
         innerWrapperSelector: '.sidebar__inner'
     });
+    if ($( "#accordion" ).length) {
+      $('#accordion .toggle').click(function(e) {
+        e.preventDefault();
+      
+        var $this = $(this);
+      
+        if ($this.next().hasClass('show')) {
+            $this.next().removeClass('show');
+            $this.next().slideUp(350);
+        } else {
+            $this.parent().parent().find('li .inner.show').slideUp(350);
+            $this.parent().parent().find('li .inner').removeClass('show');
+            $this.next().slideToggle(350);
+            $this.next().toggleClass('show');
+        }
+      });
+    }
     // Plans Give Us What You Want
     // taken from apps.timwhitlock.info <3
     var emoji = [ "👊", "👍", "👌", "🙏","😉", "😋", "😃", "😎", "😘", "😍", "😳", "😇", "🔥", "🚀", "🏠" ],

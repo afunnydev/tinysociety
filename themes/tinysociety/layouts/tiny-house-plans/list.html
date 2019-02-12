@@ -74,6 +74,40 @@
                 </div>
             </div>
             {{ end }}
+            {{ with .Params.sectionfaq }}
+            <div class="section mcb-section" style="padding-top:40px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_bg" style="background:white;">
+                                    <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                        <h4 style="margin: 0; text-align: center; font-size: 30px; line-height: 34px">{{ .title }}</h4>
+                                    </div>
+                                    <p class="why-our-plans-description">We understand that making the leap to build a tiny house is no small feat--and for that we congratulate you! Our job at Tiny House Society is to make it easier for you to have the tiny house of your dreams. And to do just that, we’ve compiled a list of the tiny house plan-related questions we get asked the most. If the answers to your questions can’t be found here, please feel free to <a href='{{ $.Scratch.Get "contactPage" }}' title="Contact Us">reach out to us</a>! The team at Tiny House Society is here to help.</p>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one">
+                                <div class="column_filters">
+                                    <div class="mcb-wrap-inner">
+                                        <ul id="accordion">
+                                            {{ range $i, $e := .faq }}
+                                            <li>
+                                                <a class="toggle" href="javascript:void(0);">{{ $e.question }}</a>
+                                                <div class="inner">
+                                                  {{ $e.answer | markdownify }}
+                                                </div>
+                                            </li>
+                                            {{ end }}
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
             {{ with .Params.section3 }}
             <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:white">
                 <div class="section_wrapper mcb-section-inner">

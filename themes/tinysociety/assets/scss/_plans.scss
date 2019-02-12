@@ -940,6 +940,53 @@ body.no-content-padding:not(.with_aside).plan-page {
 	}
 }
 
+ul#accordion {
+    list-style: none;
+    padding: 0;
+    max-width: 800px;
+    margin: auto;
+    .inner {
+        padding: 15px 1em;
+        overflow: hidden;
+        display: none;
+        color: black;
+        text-align: left !important;
+      
+        &.show {
+          display: block;
+        }
+        ul {
+        	margin-bottom: 15px;
+        	margin-left: 20px;
+        	li {
+        		text-align: left;
+        		list-style-type: disc;
+        	}
+        }
+    }
+  
+    li {
+        margin: .5em 0;
+      	text-align: center;
+        a.toggle {
+            max-width: 100%;
+            display: block;
+            background: white;
+            color: black;
+            padding: .75em;
+            border-radius: 0.15em;
+            transition: background .3s ease;
+            border: 1px solid #EBEBEB;
+            font-family: $hfont;
+            font-size: 16px;
+
+            // &:hover {
+            //     background: rgba(0, 0, 0, 0.9);
+            // }
+        }
+    }
+}
+
 /******** RESPONSIVE ********/
 
 @media only screen and (max-width: 959px) {
