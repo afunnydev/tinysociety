@@ -67,4 +67,4 @@ When purchasing or building a new tiny home, look into all possible avenues for 
 
 **Bio:** Ben Mizes is the Co-Founder and CEO of[ Clever Real Estate](https://listwithclever.com/), the free online service that connects you with top Real Estate Agents who can help you save thousands on commission. Ben is also an active real estate investor with 22 units in St. Louis, and a licensed Real Estate Agent in the State of Missouri.
 
-**Website:** listwithclever.com
+**Website:** [listwithclever.com](https://listwithclever.com/)
