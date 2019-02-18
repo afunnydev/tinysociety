@@ -9,6 +9,7 @@ description: >-
   government.
 slug: down-payment-for-financing-my-tiny-house
 author: davidm
+image: /img/banner-image-2700-1800-tiny-house-guest-post-feb-2019.jpg
 overlay: true
 date: '2019-02-18'
 notloaded:
@@ -21,6 +22,7 @@ listing:
     building a tiny home to downsize your living situation, save money, or get
     off the grid, you may not think you need to save a 20% down payment like in
     a traditional mortgage.
+  image: /img/square-image-guest-post-febuary-2019.jpg
 likes: '0'
 categories:
   - Tiny house financing
