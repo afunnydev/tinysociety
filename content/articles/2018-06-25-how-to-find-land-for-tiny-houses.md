@@ -46,8 +46,6 @@ The first decision to make is whether to rent or to buy land.
 
 Renting allows for flexibility if your Tiny House is on wheels rather than on a fixed foundation. And it allows for a change of scenery as often as you like. When you’re ready for a change or your lease is up, hitch to a truck and head down the road. 
 
-![road trip gif](/img/road-trip.gif)
-
 ### Why would I buy land?
 
 A few of the reasons to purchase land include:
@@ -87,8 +85,6 @@ Online resources for finding land to rent include:
 * <https://www.parkmybnb.com/>
 * <https://www.tryittiny.com/>
 * the Tiny Houses/Land/Lots for Sale/Rent [Facebook group](https://www.facebook.com/groups/498815593612411/)
-
-![Computer-success gif](/img/computer-success.gif)
 
 **Mobile home parks**
 
@@ -173,8 +169,6 @@ Embarking on the Tiny Life is a major change for many people. If you’re not qu
 #### What to do with my stuff?
 
 Put most of your belongings in storage, find an available Tiny House rental, and give it a go. If it doesn’t work out for you, you can always pull your stuff out of storage and go back to the big life. And if it does, sell what you don’t need and put it towards a new Tiny House of your own!
-
-![moving gif](/img/moving.gif)
 
 #### What if I don’t like it?
 
