@@ -183,6 +183,10 @@ Only interest, no hidden fees. SoFi is a personal loan company that offers low r
 
 Check to see if you qualify [here.](http://sofi.com)
 
+### Table of Comparison
+
+![](/img/financing_options_table.png)
+
 ## How to Find the Right Financing Option
 
 * Work out how much you need, the terms, and the APR rate that works best for you before looking at different loan companies. 
