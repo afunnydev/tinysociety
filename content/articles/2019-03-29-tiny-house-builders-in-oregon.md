@@ -6,6 +6,7 @@ description: >-
   house builders in Oregon that we've compiled for you!
 slug: tiny-house-builders-in-oregon
 author: molli
+image: /img/oregon-tiny-.jpg
 overlay: true
 date: '2019-03-28'
 notloaded:
@@ -39,7 +40,7 @@ Tiny houses are certainly not a new thing in Oregon. In fact, the tiny house lif
 
 ## Tiny Smart House
 
-![](/img/boho.png)
+![](/img/tinysmart.jpeg)
 
 <span class="figcaption">Image source: [Tiny Smart House](https://www.tinysmarthouse.com/models/california-cabin-tiny-house/)</span>
 
@@ -56,6 +57,10 @@ This affordable tiny house builder boasts quality craftsmanship and efficient so
 Contact the builder [here](https://www.tinysmarthouse.com/contact/) for more information.
 
 ## Bohemian Cottages and Tiny Houses
+
+![](/img/boho.jpg)
+
+<span class="figcaption">Image source:[ Bohemian Cottages and Tiny Houses](http://www.bohemiancottages.com/the-bungalow)</span>
 
 These founders know all about craftsmanship and homesteading through personal experiences--these skills and values translated well into tiny home building. Whether you’re looking for a mini art studio or guest home for your backyard, Bohemian Cottages and Tiny Houses has you covered. 
 
@@ -87,9 +92,9 @@ This family business combines the talents of individuals with over a decade of e
 
 Contact the builder [here](https://www.tinyheirloom.com/about-and-contact#contact) for more information.
 
-## Tiny Innovations 
+## Tiny Innovations
 
-![](/img/innovatetiny.png)
+![](/img/innovatetiny.jpeg)
 
 <span class="figcaption">Image source: [Tiny Innovations](https://innovatetiny.com/catalina/)</span>
 
@@ -105,7 +110,7 @@ This unique tiny home builder offers modern tiny houses that can be customized t
 
 Contact the builder [here](https://www.tinyheirloom.com/about-and-contact#contact) for more information. 
 
-## Tru Form Tiny 
+## Tru Form Tiny
 
 ![](/img/truform.jpg)
 
