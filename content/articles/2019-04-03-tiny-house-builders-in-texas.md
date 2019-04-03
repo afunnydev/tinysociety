@@ -6,6 +6,7 @@ description: >-
   top stop for anyone interested in tiny living. 
 slug: tiny-house-builders-in-texas
 author: molli
+image: /img/texas_builders_banner.jpg
 overlay: true
 date: '2019-04-03'
 notloaded:
@@ -17,6 +18,7 @@ listing:
     tiny house laws, this state is a true destination for anyone interested in
     tiny living. Without further ado, let's take a look at some of the top tiny
     house builders in Texas. 
+  image: /img/texas_builders_square.jpg
 likes: '22'
 categories:
   - Tiny houses
