@@ -37,11 +37,11 @@ collections:
         name: "author"
         widget: "select"
         options:
-          - { label: "Michelle Garofano", value: "michelleg" }
           - { label: "David Morneau", value: "davidm" }
-          - { label: "Jubaer Ahmed Prodhan", value: "jubaer" }
           - { label: "Rose Burke", value: "kristen" }
           - { label: "Molli McGee", value: "molli" }
+          - { label: "Alexis Grenon", value: "alexis" }
+          - { label: "Guest Post", value: "guest" }
       - {label: "Banner and share image (rectangle - 2700px by 1800px)", name: "image", widget: "image" , required: false}
       - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: true}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
