@@ -111,3 +111,47 @@ Started in 2016 by a wife and husband team, they now have a couple of projects u
 **Price:** From 33 000$ for tiny house shell only to 82 000$ for a full equiped luxury one. Prices vary depending on the options/model choosen!
 
 Contact [Backcountry Tiny Homes](https://www.backcountrytinyhomes.com/) for more information!
+
+## West Coast Homes
+
+The company was created in 2011 as a division of Faber Construction. They are oriented in building small parked models and fixed foundations tiny houses. They offer models, but they can customize a plan to fit your needs aswell. 
+
+**Location:** Lynden, Washington
+
+**Tiny houses on wheels:** No
+
+**Tiny houses on foundations:** Yes
+
+**Custom builds:** Yes
+
+**Tiny house models available:** Yes
+
+**Certifications:** N/A
+
+**Tiny house financing partners:** N/A
+
+**Price:** 120 000$ - 130 000$ depending on the model and options chosen. Otherwise, they offer alternatives depending on your budget.
+
+Contact [West Coast Homes](http://www.westcoast-homes.com/) for more information!
+
+
+
+## West Coast Homes
+
+The company was created in 2011 as a division of Faber Construction. They are oriented in building small parked models and fixed foundations tiny houses. They offer models, but they can customize a plan to fit your needs aswell. 
+
+**Location:** Lynden, Washington
+
+**Tiny houses on wheels:** No
+
+**Tiny houses on foundations:** Yes
+
+**Custom builds:** Yes
+
+**Tiny house models available:** Yes
+
+**Certifications:** N/A
+
+**Tiny house financing partners:** N/A
+
+**Price:** 120 000$ - 130 000$ depending on the model and options chosen. Otherwise, they offer alternatives depending on your budget.
