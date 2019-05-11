@@ -136,9 +136,9 @@ Contact [West Coast Homes](http://www.westcoast-homes.com/) for more information
 
 
 
-## West Coast Homes
+## Tiny House Cribs
 
-The company was created in 2011 as a division of Faber Construction. They are oriented in building small parked models and fixed foundations tiny houses. They offer models, but they can customize a plan to fit your needs aswell. 
+The company is well informed of the tiny house laws in the State of Washington as advetised on their website. They have a whole page on the subject with videos of the different laws and bills passed in the state of Washington! You can choose in their selection of tiny house on wheels models and fixed foundation models or if you prefer, you can get them to build a custom one. This Wenatchee company also offers financing options with interest rates as low as 5% (as advertised on their webiste). 
 
 **Location:** Lynden, Washington
 
@@ -152,6 +152,12 @@ The company was created in 2011 as a division of Faber Construction. They are or
 
 **Certifications:** N/A
 
-**Tiny house financing partners:** N/A
+**Tiny house financing partners:** They offer financing, but they don't specify their financing partner.
 
-**Price:** 120 000$ - 130 000$ depending on the model and options chosen. Otherwise, they offer alternatives depending on your budget.
+**Price:** 120 000$ - 130 000$ depending on the model and options chosen. Otherwise, they offer alternatives depending on your budget. You can give them your budget and they will offer you the best alternative they can offer.
+
+Contact [Tiny House Cribs](https://tinyhousecribs.com) for more information!
+
+
+
+## Wolf Industries
