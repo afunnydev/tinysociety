@@ -60,11 +60,7 @@ Every home built by this tiny house company is made unique and one by one! The b
 
 **Price:**  Around 70 000$ US. Contact the builder for more details.
 
-
-
 Contact [Big Freedom Tiny Homes](https://www.bigfreedomtinyhomes.com/) for more information!
-
-
 
 ## Seattle Tiny Homes
 
@@ -87,8 +83,6 @@ With a wide variety of models available and a fully custom tiny house building s
 **Price:** Between 43 000$ and 120 000$ depending on options and model
 
 Contact [Seattle Tiny Homes](https://seattletinyhomes.com) for more information!
-
-
 
 ## Backcountry Tiny Homes
 
@@ -134,8 +128,6 @@ The company was created in 2011 as a division of Faber Construction. They are or
 
 Contact [West Coast Homes](http://www.westcoast-homes.com/) for more information!
 
-
-
 ## Tiny House Cribs
 
 The company is well informed of the tiny house laws in the State of Washington as advetised on their website. They have a whole page on the subject with videos of the different laws and bills passed in the state of Washington! You can choose in their selection of tiny house on wheels models and fixed foundation models or if you prefer, you can get them to build a custom one. This Wenatchee company also offers financing options with interest rates as low as 5% (as advertised on their webiste). 
@@ -158,6 +150,6 @@ The company is well informed of the tiny house laws in the State of Washington a
 
 Contact [Tiny House Cribs](https://tinyhousecribs.com) for more information!
 
+## Did we forget your favorite builder?
 
-
-## Wolf Industries
+Did you have a pleasant experience with a tiny house builder in Washington? Or do you think we forgot one builder that should make the list? It is possible, and we would love to know about them! You can [write to us here](https://www.tinysociety.co/contact-us/) to tell us about it!
