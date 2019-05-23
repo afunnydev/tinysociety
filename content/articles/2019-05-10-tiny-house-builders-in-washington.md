@@ -44,6 +44,8 @@ Washington remains a State where regulations regarding tiny houses are not too s
 
 ## Big Freedom Tiny Homes
 
+![](/img/big-freedom-picture-11-deep-bedroom-loft-with-4-of-head-space.jpg "big-freedom-loft-bedroom")
+
 Every home built by this tiny house company is made unique and one by one! The builder and founder of the company Shannon Black takes care of your project from A to Z. If you are looking for a high quality tiny house made with quality materials, this is a great option for you. You can check out different projects he has made on his website or Instagram profile.
 
 **Location:** Bellingham, Washington
