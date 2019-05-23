@@ -86,6 +86,14 @@ Contact [Big Freedom Tiny Homes](https://www.bigfreedomtinyhomes.com/) for more 
 
 ## Seattle Tiny Homes
 
+![](/img/seattle-tiny-homes.jpg "Interior-seattle-tiny-homes-1")
+
+<span class="figcaption">Image source: Seattle Tiny Homes</span>
+
+![](/img/seattle-tiny-homes-2.jpg "Seattle tiny homes interior 2")
+
+<span class="figcaption">Image source: Seattle Tiny Homes</span>
+
 With a wide variety of models available and a fully custom tiny house building service, it has pretty much everything you might request from a builder. They are in business since 2010 and sometimes they are so busy they don't even accept building projects! They offer a wide variety of pricing depending on model and materials choosen. Their focus is on tiny houses on wheels, but they still offer a design service for tiny houses on fixed foundations. If you want to choose them to build your tiny house, you should consider to contact them as soon as possible so they can put you in their busy schedule! 
 
 **Location:** Seattle, Washington
@@ -107,6 +115,12 @@ With a wide variety of models available and a fully custom tiny house building s
 Contact [Seattle Tiny Homes](https://seattletinyhomes.com) for more information!
 
 ## Backcountry Tiny Homes
+
+![](/img/backcountry-tiny-homes-image-1.jpg "Backcountry tiny homes exterior 1")
+
+<span class="figcaption">Image source: Backcountry Tiny Homes</span>
+
+
 
 Started in 2016 by a wife and husband team, they now have a couple of projects under their hat! They mainly build tiny houses on wheels, but they also offer consulting, plan design and carpentry service for your tiny house furniture! This one stop shop owned by Tina and Luke is perfect either if you want pre made model or a fully custom tiny home!
 
