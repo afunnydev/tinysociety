@@ -46,6 +46,24 @@ Washington remains a State where regulations regarding tiny houses are not too s
 
 ![](/img/big-freedom-picture-11-deep-bedroom-loft-with-4-of-head-space.jpg "big-freedom-loft-bedroom")
 
+<span class="figcaption">Image source: Big Freedom Tiny Homes</span>
+
+![](/img/big-freedom-picture-inside-nice-finishing.jpg "Big-freedom-tiny-homes-kitchen")
+
+<span class="figcaption">Image source: Big Freedom Tiny Homes</span>
+
+![](/img/big-freedom-picture-inside-white.jpg "Big freedom tiny homes nice interior white")
+
+<span class="figcaption">Image source: Big Freedom Tiny Homes</span>
+
+![](/img/big-freedom-tiny-house-picture.jpg "Wood finish interior big freedom tiny homes")
+
+<span class="figcaption">Image source: Big Freedom Tiny Homes</span>
+
+![](/img/big-freedom-picture-outside.jpg "Big freedom tiny homes exterior")
+
+<span class="figcaption">Image source: Big Freedom Tiny Homes</span>
+
 
 
 Every home built by this tiny house company is made unique and one by one! The builder and founder of the company Shannon Black takes care of your project from A to Z. If you are looking for a high quality tiny house made with quality materials, this is a great option for you. You can check out different projects he has made on his website or Instagram profile.
