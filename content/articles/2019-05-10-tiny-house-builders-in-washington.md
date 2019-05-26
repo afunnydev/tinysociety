@@ -7,6 +7,7 @@ description: >-
   Feel free to contact us if you feel like we missed a good one! 
 slug: tiny-house-buiders-washington
 author: alexis
+image: /img/backcountry-tiny-homes-grizzly-model-interior-3.jpg
 overlay: true
 date: '2019-05-10'
 notloaded:
@@ -19,6 +20,7 @@ listing:
     information about their specialties! Use this article as a reference to
     choose your builder! Feel free to contact us if you feel like we missed a
     good one! 
+  image: /img/tiny-house-builders-washington-state-800px.jpg
 likes: '0'
 categories:
   - Tiny houses
