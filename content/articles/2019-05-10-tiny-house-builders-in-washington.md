@@ -64,8 +64,6 @@ Washington remains a State where regulations regarding tiny houses are not too s
 
 <span class="figcaption">Image source: Big Freedom Tiny Homes</span>
 
-
-
 Every home built by this tiny house company is made unique and one by one! The builder and founder of the company Shannon Black takes care of your project from A to Z. If you are looking for a high quality tiny house made with quality materials, this is a great option for you. You can check out different projects he has made on his website or Instagram profile.
 
 **Location:** Bellingham, Washington
@@ -120,8 +118,6 @@ Contact [Seattle Tiny Homes](https://seattletinyhomes.com) for more information!
 
 <span class="figcaption">Image source: Backcountry Tiny Homes</span>
 
-
-
 Started in 2016 by a wife and husband team, they now have a couple of projects under their hat! They mainly build tiny houses on wheels, but they also offer consulting, plan design and carpentry service for your tiny house furniture! This one stop shop owned by Tina and Luke is perfect either if you want pre made model or a fully custom tiny home!
 
 **Location:** Vancouver, Washington
@@ -144,7 +140,7 @@ Contact [Backcountry Tiny Homes](https://www.backcountrytinyhomes.com/) for more
 
 ## West Coast Homes
 
-The company was created in 2011 as a division of Faber Construction. They are oriented in building small parked models and fixed foundations tiny houses. They offer models, but they can customize a plan to fit your needs aswell. 
+The company was created in 2011 as a division of Faber Construction. They are oriented in building small parked models and fixed foundations tiny houses. They offer models, but they can customize a plan to fit your needs aswell. As you can see from the pictures, their models are well designed and stylish! 
 
 **Location:** Lynden, Washington
 
@@ -182,7 +178,7 @@ The company is well informed of the tiny house laws in the State of Washington a
 
 **Tiny house financing partners:** They offer financing, but they don't specify their financing partner.
 
-**Price:** 120 000$ - 130 000$ depending on the model and options chosen. Otherwise, they offer alternatives depending on your budget. You can give them your budget and they will offer you the best alternative they can offer.
+**Price:** 85 000$ - 130 000$ depending on the model and options chosen. Otherwise, they offer alternatives depending on your budget. You can give them your budget and they will offer you the best alternative they can offer.
 
 Contact [Tiny House Cribs](https://tinyhousecribs.com) for more information!
 
