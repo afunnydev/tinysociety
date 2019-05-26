@@ -176,6 +176,38 @@ Contact [Backcountry Tiny Homes](https://www.backcountrytinyhomes.com/) for more
 
 ## West Coast Homes
 
+![](/img/westcoasthomes-salish-model-exterior-1.jpg "West Coast Homes exterior 1")
+
+<span class="figcaption">Image source: West Coast Homes Salish model</span>
+
+![](/img/westcoasthomes-salish-model-interior-1.jpg "West Coast Homes interior 1")
+
+<span class="figcaption">Image source: West Coast Homes Salish model</span>
+
+![](/img/westcoasthomes-salish-model-interior-2.jpg "West Coast Homes interior 2")
+
+<span class="figcaption">Image source: West Coast Homes Salish model</span>
+
+![](/img/westcoasthomes-san-juan-model-exterior-1.jpg "West Coast Homes exterior 2")
+
+<span class="figcaption">Image source: West Coast Homes San Juan model</span>
+
+![](/img/westcoasthomes-san-juan-model-exterior-2.jpg "West Coast Homes exterior 3")
+
+<span class="figcaption">Image source: West Coast Homes San Juan model</span>
+
+![](/img/westcoasthomes-wildwood-model-exterior-1.jpg "West Coast Homes interior 4")
+
+<span class="figcaption">Image source: West Coast Homes Wildwood model</span>
+
+![](/img/westcoasthomes-wildwood-model-exterior-2.jpg "West Coast Homes exterior 4")
+
+<span class="figcaption">Image source: West Coast Homes Wildwood model</span>
+
+![](/img/westcoasthomes-wildwood-model-interior-1.jpg "West Coast Homes interior 7")
+
+<span class="figcaption">Image source: West Coast Homes Wildwood model</span>
+
 The company was created in 2011 as a division of Faber Construction. They are oriented in building small parked models and fixed foundations tiny houses. They offer models, but they can customize a plan to fit your needs aswell. As you can see from the pictures, their models are well designed and stylish! 
 
 **Location:** Lynden, Washington
