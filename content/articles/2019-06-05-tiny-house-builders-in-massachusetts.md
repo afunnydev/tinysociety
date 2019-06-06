@@ -8,6 +8,7 @@ description: >-
   your favorite builder! 
 slug: tiny-house-buiders-massachusetts
 author: alexis
+image: /img/tiny-house-builders-in-massachusetts-2700x1800.jpg
 overlay: true
 date: '2019-05-10'
 notloaded:
@@ -20,6 +21,7 @@ listing:
     about their specialties and location! Use this article as a reference to
     choose which one fits best with your project! Feel free to contact us if we
     missed your favorite builder! 
+  image: /img/tiny-house-builders-in-masachusetts-square.jpg
 likes: '0'
 categories:
   - Tiny houses
