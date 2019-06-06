@@ -63,20 +63,6 @@ B&B Micro Manufacturing is one of the leaders regarding tiny house building. The
 
 Contact [B&B Micro Manufacturing](https://bbtinyhouses.com/) for more information!
 
+## 
 
-
-## Big Freedom Tiny Homes
-
-**Location:** North Jackson, Ohio
-
-**Tiny houses on wheels:** yes
-
-**Tiny houses on foundations:** no
-
-**Custom builds:** N/A
-
-**Certifications:** N/A
-
-**Tiny house financing partners:** N/A
-
-**Price:** Contact the builder
+Unfortunately
