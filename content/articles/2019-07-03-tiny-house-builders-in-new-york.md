@@ -180,3 +180,27 @@ This company specialises in the construction of tiny houses on wheels. They make
 **Price:** N/A
 
 Contact [Adirondacks White Pine Cabins](http://www.adirondackwhitepinecabins.com/construction-methods.php) for more information!
+
+## Bear Creek Tiny Houses
+
+![]()
+
+<span class="figcaption">Image source: Bear Creek Tiny Houses - Model XYZ</span>
+
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+
+**Location:** Valatie, New York
+
+**Tiny houses on wheels:** Yes
+
+**Tiny houses on foundations:** N/A
+
+**Custom builds:** Yes
+
+**Certifications:** NFPA 1192 RV standards
+
+**Tiny house financing partners:** None
+
+**Price:** N/A
+
+Contact [Bear Creek Tiny Houses](https://bearcreektinyhouses.com/) for more information!
