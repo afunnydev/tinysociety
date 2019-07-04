@@ -37,7 +37,7 @@ New York is a State where regulations regarding tiny houses are pretty strict! O
 
 <span class="figcaption">Image source: Hudson River Tiny Homes - Model XYZ</span>
 
-This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+This family owned company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. Their team has a total of 75 combined years of experience in the construction sector. A lot of their projects have wood for the exterior and interior finishing which gives them a nice natural look! It is possible for them to provide a turnkey package or simply a shell you can complete on your own. The process for building your project is quite fast with 4 to 6 weeks to complete the construction (excluding the time to revceive the trailer frame from their supplier).
 
 **Location:** Valatie, New York
 
