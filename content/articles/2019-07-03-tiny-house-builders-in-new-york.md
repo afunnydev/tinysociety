@@ -79,11 +79,23 @@ Contact [Hudson River Tiny Homes](https://www.hudsonrivertinyhomes.com/) for mor
 
 ## Tiny Timber
 
-![]()
+![](/img/tiny-timber-330-sq.ft.-model-exterior.jpg "Tiny Timber - 330sq.ft.- exterior")
 
-<span class="figcaption">Image source: Tiny Timber - Model XYZ</span>
+<span class="figcaption">Tiny Timber - 330sq.ft. model</span>
 
-This company specialises in the construction of tiny houses on fixed foundations.  Originally, they only offered full size house construction, but now they also offer some tiny houses options.  Their design all have that same woody and cabin like feel. They are transitionning to make modular homes made as prefab models. The founders of the company are an architect and a construction entrepreneur. 
+![](/img/tiny-timber-330-sq.ft.-model-interior-1.png "Tiny Timber - 330sq.ft.- interior 1")
+
+<span class="figcaption">Tiny Timber - 330sq.ft. model</span>
+
+![](/img/tiny-timber-330-sq.ft.-model-interior-2.png "Tiny Timber - 330sq.ft.- loft space")
+
+<span class="figcaption">Tiny Timber - 330sq.ft. model - loft space</span>
+
+![](/img/tiny-timber-interior.jpg "Tiny Timber - interior design")
+
+<span class="figcaption">Tiny Timber interior design</span>
+
+This company specialises in the construction of tiny houses on fixed foundations.  Originally, they only offered full size house construction, but now they also offer some tiny houses options.  Their design all have that same woody and cabin like feel. They are transitionning to make modular homes made as prefab models. The founders of the company are an architect and a construction entrepreneur. They also have a [design specification page](https://www.tinytimber.house/design-specifications) where they explain how they build houses. 
 
 **Location:** Ithaca, New York
 
