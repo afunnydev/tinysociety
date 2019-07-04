@@ -54,3 +54,129 @@ This company specialises in the construction of tiny houses on wheels. They make
 **Price:** N/A
 
 Contact [Hudson River Tiny Homes](https://www.hudsonrivertinyhomes.com/) for more information!
+
+
+
+## Tiny Timber
+
+![]()
+
+<span class="figcaption">Image source: Tiny Timber - Model XYZ</span>
+
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+
+**Location:** Valatie, New York
+
+**Tiny houses on wheels:** Yes
+
+**Tiny houses on foundations:** N/A
+
+**Custom builds:** Yes
+
+**Certifications:** NFPA 1192 RV standards
+
+**Tiny house financing partners:** None
+
+**Price:** N/A
+
+Contact [Tiny Timber](https://www.tinytimber.house/) for more information!
+
+
+
+## Cocoon9
+
+![]()
+
+<span class="figcaption">Image source: Cocoon 9 - Model XYZ</span>
+
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+
+**Location:** Valatie, New York
+
+**Tiny houses on wheels:** Yes
+
+**Tiny houses on foundations:** N/A
+
+**Custom builds:** Yes
+
+**Certifications:** NFPA 1192 RV standards
+
+**Tiny house financing partners:** None
+
+**Price:** N/A
+
+Contact [Cocoon9](http://cocoon9.com/) for more information!
+
+
+
+## Syracuse Tiny Houses
+
+![]()
+
+<span class="figcaption">Image source: Syracuse Tiny Houses - Model XYZ</span>
+
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+
+**Location:** Valatie, New York
+
+**Tiny houses on wheels:** Yes
+
+**Tiny houses on foundations:** N/A
+
+**Custom builds:** Yes
+
+**Certifications:** NFPA 1192 RV standards
+
+**Tiny house financing partners:** None
+
+**Price:** N/A
+
+Contact Syracuse Tiny Houses by phone +1 315-729-7229 for more information!
+
+## Tiny Hamptons LLC
+
+![]()
+
+<span class="figcaption">Image source: Syracuse Tiny Houses - Model XYZ</span>
+
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+
+**Location:** Valatie, New York
+
+**Tiny houses on wheels:** Yes
+
+**Tiny houses on foundations:** N/A
+
+**Custom builds:** Yes
+
+**Certifications:** NFPA 1192 RV standards
+
+**Tiny house financing partners:** None
+
+**Price:** N/A
+
+Contact [Tiny Hamptons](https://tinyhamptonshomes.com/contact) for more information!
+
+## Adirondacks White Pine Cabins
+
+![]()
+
+<span class="figcaption">Image source: Syracuse Tiny Houses - Model XYZ</span>
+
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+
+**Location:** Valatie, New York
+
+**Tiny houses on wheels:** Yes
+
+**Tiny houses on foundations:** N/A
+
+**Custom builds:** Yes
+
+**Certifications:** NFPA 1192 RV standards
+
+**Tiny house financing partners:** None
+
+**Price:** N/A
+
+Contact [Adirondacks White Pine Cabins](http://www.adirondackwhitepinecabins.com/construction-methods.php) for more information!
