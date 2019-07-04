@@ -33,9 +33,29 @@ New York is a State where regulations regarding tiny houses are pretty strict! O
 
 ## Hudson River Tiny Homes
 
-![]()
+![](/img/hudson-river-tiny-houses-the-barnsider-model-exterior-1.webp "Hudson River Tiny Homes - The Barnsider model exterior")
 
-<span class="figcaption">Image source: Hudson River Tiny Homes - Model XYZ</span>
+
+
+<span class="figcaption">Hudson River Tiny Homes - The Barnsider model</span>
+
+
+
+![](/img/hudson-river-tiny-houses-the-barnsider-model-interior-1.webp "Hudson River Tiny Homes - The Barnsider model interior 1")
+
+<span class="figcaption">Hudson River Tiny Homes - The Barnsider model </span>
+
+![](/img/hudson-river-tiny-houses-the-barnsider-model-interior-2.webp "Hudson River Tiny Homes - The Barnsider model interior 2")
+
+<span class="figcaption">Hudson River Tiny Homes - The Barnsider model </span>
+
+![](/img/hudson-river-tiny-houses-the-barnsider-model-interior-3.webp "Hudson River Tiny Homes - The Barnsider model interior 3")
+
+<span class="figcaption">Hudson River Tiny Homes - The Barnsider model </span>
+
+![](/img/hudson-river-tiny-houses-interior-1.webp "Hudson River Tiny Homes - interior")
+
+<span class="figcaption">Hudson River Tiny Homes</span>
 
 This family owned company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. Their team has a total of 75 combined years of experience in the construction sector. A lot of their projects have wood for the exterior and interior finishing which gives them a nice natural look! It is possible for them to provide a turnkey package or simply a shell you can complete on your own. The process for building your project is quite fast with 4 to 6 weeks to complete the construction (excluding the time to revceive the trailer frame from their supplier).
 
@@ -63,23 +83,23 @@ Contact [Hudson River Tiny Homes](https://www.hudsonrivertinyhomes.com/) for mor
 
 <span class="figcaption">Image source: Tiny Timber - Model XYZ</span>
 
-This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
+This company specialises in the construction of tiny houses on fixed foundations.  Originally, they only offered full size house construction, but now they also offer some tiny houses options.  Their design all have that same woody and cabin like feel. They are transitionning to make modular homes made as prefab models. The founders of the company are an architect and a construction entrepreneur. 
 
-**Location:** Valatie, New York
+**Location:** Ithaca, New York
 
-**Tiny houses on wheels:** Yes
+**Tiny houses on wheels:** No
 
-**Tiny houses on foundations:** N/A
+**Tiny houses on foundations:** Yes
 
 **Custom builds:** Yes
 
-**Certifications:** NFPA 1192 RV standards
+**Certifications:** N/A
 
-**Tiny house financing partners:** None
+**Tiny house financing partners:** N/A
 
-**Price:** N/A
+**Price:** Their 330 square feet model is listed at 75 000$. They also mention prices between $150/sqft and $200/sqft. for their new smaller models.
 
-Contact [Tiny Timber](https://www.tinytimber.house/) for more information!
+Contact [Tiny Timber ](https://www.tinytimber.house/)for more information!
 
 
 
