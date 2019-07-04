@@ -33,20 +33,24 @@ New York is a State where regulations regarding tiny houses are pretty strict! O
 
 ## Hudson River Tiny Homes
 
+![]()
 
+<span class="figcaption">Image source: Hudson River Tiny Homes - Model XYZ</span>
 
-**Location:** 
+This company specialises in the construction of tiny houses on wheels. They make energy efficient and environnementally responsable design for each of their build. 
 
-**Tiny houses on wheels:** 
+**Location:** Valatie, New York
 
-**Tiny houses on foundations:** 
+**Tiny houses on wheels:** Yes
 
-**Custom builds:** 
+**Tiny houses on foundations:** N/A
 
-**Certifications:** 
+**Custom builds:** Yes
 
-**Tiny house financing partners:** 
+**Certifications:** NFPA 1192 RV standards
 
-**Price:** 
+**Tiny house financing partners:** None
 
-Contact [B&B Micro Manufacturing](https://bbtinyhouses.com/) for more information!
+**Price:** N/A
+
+Contact [Hudson River Tiny Homes](https://www.hudsonrivertinyhomes.com/) for more information!
