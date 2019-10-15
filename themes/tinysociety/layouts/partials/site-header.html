@@ -32,9 +32,12 @@
                     <li class="{{ if eq .Params.menuid "contact" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "contactPage" }}'>Contact us.</a>
                     </li>
+                    <li class="{{ if eq .Params.menuid "plans" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "plansPage" }}'>Tiny House Plans.</a>
+                    </li>
                     {{ end }}
                     <!-- <li class="buy-now-btn">
-                        <a target="_blank" href="#">Buy a plan</a>
+                        <a target="_blank" href="#">Tiny House Plans</a>
                     </li> -->
                 </ul>
             </nav>
@@ -91,7 +94,7 @@
         {{ if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
         <a href='{{ $.Scratch.Get "articlesPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Read our articles</span></a>
         {{ else }}
-        <a href='{{ $.Scratch.Get "plansPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Buy a plan</span></a>
+        <a href='{{ $.Scratch.Get "plansPage" }}' class="button button_theme button_js action_button header_cta new_theme_cta" target="_blank"><span class="button_label">Tiny House Plans</span></a>
         {{ end }}
         <div class="header_placeholder"></div>
         <div id="Top_bar">

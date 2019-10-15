@@ -1,5 +1,68 @@
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
+<div class="section mcb-section pre-footer" style="padding-top:40px; padding-bottom:0px; " id="footer-subscribe">
+    <div class="section_wrapper mcb-section-inner">
+        <div class="wrap mcb-wrap one  valign-top clearfix">
+            <div class="mcb-wrap-inner">
+                <div class="column mcb-column one column_column">
+                    <div class="column_attr intro-section">
+                        <h4>Get Inspired Monthly</h4>
+                        <p class="sub"><em>Every month you will receive tiny house ideas, our latest news and awesome tips</em> ✌. <em>You can unsubscribe in one click, and <span>we will never share your email address</span></em>. 🤐</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <form action="https://tinysociety.us7.list-manage.com/subscribe/post" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank">
+            <input type="hidden" name="u" value="5dc026c37e348098dcbb9995f">
+            <input type="hidden" name="id" value="9250b0de0e">
+            <div class="wrap mcb-wrap one  valign-top clearfix">
+                <div class="mcb-wrap-inner">
+                    <div class="column mcb-column one-third column_column description-column">
+                        <div class="column_attr">
+                            <label for="MERGE1">First name:</label> <input type="text" name="MERGE1" placeholder="First Name">
+                        </div>
+                    </div>
+                    <div class="column mcb-column one-third column_column author-list">
+                        <div class="column_attr">
+                            <label for="MERGE0">Email:</label> 
+                            <input type="email" name="MERGE0" class="required email" placeholder="Email">
+                        </div>
+                    </div>
+                    <div class="column mcb-column one-third column_column">
+                        <div class="column_attr">
+                            <input type="submit" value="Sounds awesome!" name="subscribe" id="mc-embedded-subscribe" class="button">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="wrap mcb-wrap one valign-top clearfix" id="newsletter-description">
+            <div class="mcb-wrap-inner">
+                <div class="column mcb-column one-third column_column description-column">
+                    <div class="column_attr">
+                        <h5>Blog Updates</h5>
+                        <hr class="no_line" style="margin: 0 auto 15px;" />
+                        <p>You will get our best selection of articles every month, freshly delivered to your inbox.</p>
+                    </div>
+                </div>
+                <div class="column mcb-column one-third column_column author-list">
+                    <div class="column_attr">
+                        <h5>Tiny House Community</h5>
+                        <hr class="no_line" style="margin: 0 auto 15px;" />
+                        <p>You can join our <a href="https://www.facebook.com/groups/244034846164612/" target="_blank" rel="noopener noreferrer nofollow">Tiny House Enthousiasts Group</a> or our Tiny House Owner Exclusive Group to get to know other Tiny House lovers and ask all your questions.</p>
+                    </div>
+                </div>
+                <div class="column mcb-column one-third column_column">
+                    <div class="column_attr">
+                        <h5>Daily Inspiration</h5>
+                        <hr class="no_line" style="margin: 0 auto 15px;" />
+                        <p>Follow us on <a href="https://www.instagram.com/tiny.house.society/" target="_blank" rel="noopener noreferrer nofollow">Instagram</a> and get inspired for you next Tiny House project.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <footer id="Footer" class="clearfix">
     <div class="widgets_wrapper" style="padding:40px 0 30px;">
         <div class="container">
@@ -22,6 +85,9 @@
                             </li>
                             <li>
                                 <i class="icon-pencil-line" style="color: #fff; margin-right: 10px;"></i><a href='{{ $.Scratch.Get "writePage" }}'>Write for Us</a>
+                            </li>
+                            <li>
+                                <i class="moon-floor-plans" style="color: #fff; margin-right: 13px; margin-left: 3px;"></i><a href='{{ $.Scratch.Get "plansPage" }}'>Tiny House Plans</a>
                             </li>
                         </ul>
                     </div>
@@ -80,7 +146,7 @@
             <div class="column one">
                 <a id="back_to_top" class="button button_left button_js" href="#"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
                 <div class="copyright">
-                    &copy; 2018 Tiny House Society - Made with <i class="icon-heart-fa"></i> for you
+                    &copy; 2019 Tiny House Society - Made with <i class="icon-heart-fa"></i> for you
                 </div>
                 <div class="terms">
                     <a href='{{ $.Scratch.Get "termsPage" }}'>Terms and Conditions</a> |

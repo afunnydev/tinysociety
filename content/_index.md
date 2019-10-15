@@ -35,7 +35,7 @@ section4:
     description1: >-
       **Living small is a new trend, and we think it is one that needs to last. It is hard not to realize what kind of impact human beings have had on our planet and its ecosystems in the last decades. Our influence is growing more every year and it’s not on the positive side of the spectrum. We think that living tiny is not just a trend; it is a mindset.**
     description2: >-
-      Building a house is the single biggest investment of a lifetime for most of us. It is a big project that can last months, even years in some cases. But ultimately it is the place that will become our everyday peaceful nest. We are dedicated to offer the best advices to fit your lifestyle and help you optimize your house. 
+      Building a house is the single biggest investment of a lifetime for most of us. It is a big project that can last months, even years in some cases. But ultimately it is the place that will become our everyday peaceful nest. We are dedicated to offer the best advices to fit your lifestyle and help you optimize your house with the best [tiny house plans](https://www.tinysociety.co/tiny-house-plans/). 
   col2:
     title: Authors
   col3:

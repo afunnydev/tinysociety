@@ -1,10 +1,10 @@
 ---
 title: How Much Does a Tiny House Cost?
 description: >-
-  One of the reasons that the Tiny lifestyle is attractive to so many people is that a Tiny House
-  carries a tinier price tag than a conventional house. But how tiny is that
-  price tag, really? Let’s take a look at the bottom line and options for
-  getting a Tiny House of your own.
+  One of the reasons that the Tiny lifestyle is attractive to so many people is
+  that a Tiny House carries a tinier price tag than a conventional house. But
+  how tiny is that price tag, really? Let’s take a look at the bottom line and
+  options for getting a Tiny House of your own.
 slug: how-much-money-does-a-tiny-house-cost
 author: michelleg
 image: /img/how-much-money-tiny-house-14.jpg
@@ -130,6 +130,12 @@ The fastest and easiest option for acquiring a Tiny House is to buy one ready-ma
 * Buying a ready-made Tiny House will save you time. Many Tiny House companies carry in-stock models ready to go. You can walk right up and purchase one like you would a new car. Even if there's a lead time involved, a Tiny House company have a relatively short construction schedule for its standard models.
 * Some Tiny House companies offer their own payment plans, eliminating the need to find financing through a traditional financial institution.
 * Tiny House companies offer "tried and true" designs. You may be able to talk to prior customers or read reviews to find out what models and features are the most popular.
+
+
+
+### A Little About Financing Your Tiny Home
+
+Traditional institutions don't allow for typical mortgage financing in most cases. Once you have decided if you want to build your own tiny home or simply purchase it from another tiny house owner, you can start thinking about financing. Read the following article If you want to know more about [tiny house financing](https://www.tinysociety.co/articles/tiny-house-financing-in-the-us/). It's a great read to see the different options for tiny home funding.
 
 ## The Cost of a Pre-Owned Tiny House
 

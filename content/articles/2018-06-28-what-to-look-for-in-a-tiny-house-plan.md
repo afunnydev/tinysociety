@@ -129,6 +129,7 @@ Here are a few examples showing the range of possibilities:
 
 ![Micro Tiny House](/img/what-to-look-for-tiny-house-plan-28.jpg)
 
+<span class="scrollshowpoint"></span>
 ## Tiny House Plans Checklist
 
 ### What basic plans should be included in your set of tiny home plans:
@@ -239,7 +240,7 @@ If you're planning on using salvaged or recycled materials, you may want to leav
 
 ### Why Should I Choose Ready-Made Tiny House Plans?
 
-If you're not interested in designing and drafting your own set of Tiny House building plans, you can always choose from a wide selection of ready-made Tiny House plans. This removes the learning curves of teaching yourself how to use drafting software (or the old-school hand drafting methods). It also eliminates the need to come up with all of the ideas yourself. And it may eliminate the risk of trying a out design that's never been built before.
+If you're not interested in designing and drafting your own set of Tiny House building plans, you can always choose from a wide selection of [ready-made Tiny House plans](https://tinysociety.co/tiny-house-plans). This removes the learning curves of teaching yourself how to use drafting software (or the old-school hand drafting methods). It also eliminates the need to come up with all of the ideas yourself. And it may eliminate the risk of trying a out design that's never been built before.
 
 ### Are the Tiny House Plans DIY-friendly?
 
@@ -568,3 +569,21 @@ There are many factors to consider when choosing a Tiny House design and its ass
 * Are all of the recommended drawings included in the drawing set?
 * Are the plans and instructions detailed enough for the intended builder to follow?
 * Will the Tiny House be subject to rules and regulations that will work for your particular needs and situation?
+
+
+
+## What's Next?
+
+Once you have found what you are looking for, you should probably start thinking about tiny house regulation and tiny home loans, if you need them of course. 
+
+
+
+<h3> Tiny House Laws</h3>
+
+This is a pretty complex subject, given that each country, state and city has a unique take on the laws that govern building. You can read our article on [tiny house laws in the US ](https://www.tinysociety.co/articles/tiny-house-laws-united-states/)to know more about this subject.
+
+
+
+<h3> Tiny House Financing and Funding </h3>
+
+There are many solutions out there, but in most cases, you won't be able to find a typical mortgage usually offered for typical houses. You can read our article of different [tiny house loans](https://www.tinysociety.co/articles/tiny-house-financing-in-the-us/) to know about this subject.

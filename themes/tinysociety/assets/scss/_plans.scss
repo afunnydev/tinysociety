@@ -219,6 +219,10 @@ body.no-content-padding:not(.with_aside).plan-page {
 					// }
 					.plans-slider-item {
 						margin: 0 6px 0 5px;
+						min-height: 100px;
+						background-size: cover;
+						background-repeat: no-repeat;
+						background-position: center;
 					}
 				}
 				.slider-left-column {
@@ -766,6 +770,8 @@ body.no-content-padding:not(.with_aside).plan-page {
 		background-color:#fff;
 		.plan-item {
 			width: 49.8%;
+			cursor: pointer;
+			position: relative;
 			&:nth-of-type(2n+1) {
 				padding-right: 0.2%;
 			}
@@ -875,7 +881,34 @@ body.no-content-padding:not(.with_aside).plan-page {
 					}
 				}
 			}
+			.on-sale {
+				display: none !important;
+			}
+			&.featured .on-sale {
+				display: block !important;
+				position: absolute;
+				top: 20px;
+				left: 20px;
+				height: 30px;
+				background-color: $brown;
+				padding: 3px 15px 5px;
+				-webkit-border-radius: 2px;
+				-moz-border-radius: 2px;
+				border-radius: 2px;
+				p {
+					color: $gray;
+					line-height: 30px;
+					font-size: 20px;
+					font-family: $hfont;
+				}
+			}
 		}
+	}
+	.why-our-plans-description {
+		margin: 0px auto 50px; 
+		color: black; 
+		max-width: 800px; 
+		text-align: center;
 	}
 	.why-us {
 		text-align: center;
@@ -893,6 +926,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 		color: black;
 		h5 {
 			font-size: 26px;
+			line-height: 30px;
 		}
 		.middle-text {
 			margin-bottom: 30px;
@@ -904,6 +938,53 @@ body.no-content-padding:not(.with_aside).plan-page {
 			font-size: 1.3em;
 		}
 	}
+}
+
+ul#accordion {
+    list-style: none;
+    padding: 0;
+    max-width: 800px;
+    margin: auto;
+    .inner {
+        padding: 15px 1em;
+        overflow: hidden;
+        display: none;
+        color: black;
+        text-align: left !important;
+      
+        &.show {
+          display: block;
+        }
+        ul {
+        	margin-bottom: 15px;
+        	margin-left: 20px;
+        	li {
+        		text-align: left;
+        		list-style-type: disc;
+        	}
+        }
+    }
+  
+    li {
+        margin: .5em 0;
+      	text-align: center;
+        a.toggle {
+            max-width: 100%;
+            display: block;
+            background: white;
+            color: black;
+            padding: .75em;
+            border-radius: 0.15em;
+            transition: background .3s ease;
+            border: 1px solid #EBEBEB;
+            font-family: $hfont;
+            font-size: 16px;
+
+            // &:hover {
+            //     background: rgba(0, 0, 0, 0.9);
+            // }
+        }
+    }
 }
 
 /******** RESPONSIVE ********/
@@ -1111,6 +1192,11 @@ body.no-content-padding:not(.with_aside).plan-page {
 							height: 300px !important;
 						}
 					}
+					.plans-slider-navigation {
+						.plans-slider-item {
+							min-height: 80px;
+						}
+					}
 				}
 			}
 		}
@@ -1145,6 +1231,11 @@ body.no-content-padding:not(.with_aside).plan-page {
 							height: 250px !important;
 						}
 					}
+					.plans-slider-navigation {
+						.plans-slider-item {
+							min-height: 70px;
+						}
+					}
 				}
 			}
 		}
@@ -1175,7 +1266,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 						.title-holder {
 							h1 {
 								font-size: 30px;
-								line-height: 45px;
+								line-height: 38px;
 							}
 							div.profile {
 								margin-bottom: 20px;

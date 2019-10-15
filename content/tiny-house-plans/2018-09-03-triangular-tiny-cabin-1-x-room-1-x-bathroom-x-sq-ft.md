@@ -1,5 +1,5 @@
 ---
-title: Triangular Tiny Cabin | 1 x Room | 1 x Bathroom | 545 sq/ft
+title: Triangular Tiny Cabin | 1 Room | 1 Bathroom | 545 sq/ft
 description: >-
   This triangular shaped tiny cabin has 1 room, 1 bathroom and terraces, for a total of 624 sq/ft, with 545 habitable sq/ft. It is built on wooden poles with a diameter of 8".
 slug: 545-sq-ft-1-bathroom-1-bedroom-foundation
@@ -12,11 +12,8 @@ listing:
     Not only does this tiny house look awesome thanks to its triangular design,
     it is also extremely comfortable, cozy and well organized. With its one
     bedroom and one bathroom, this triangular house covers your basic needs and
-    much more. 
-
-
-    And it looks awesome, far from the container style we've been accustomed to
-    from tiny houses!
+    much more. And it looks awesome, far from the container style we've been 
+    accustomed to from tiny houses!
   image: /img/triangular-tiny-house-list.jpg
   foundation: true
 titre: Triangular Tiny House | Living The Triangular Lifestyle

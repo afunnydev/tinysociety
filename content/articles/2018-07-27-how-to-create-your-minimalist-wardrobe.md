@@ -80,7 +80,7 @@ Still not sure where to begin? Here is a great list of basics to get your minima
 
 Hopefully now you feel inspired to let go of some of the pieces that clutter your tiny home and your closet space. Understanding your style, dividing your clothes into piles, sticking to the essentials, and buying quality pieces are all great steps to take in creating a minimalist wardrobe. 
 
-Keep in mind that there are many other factors that can affect the clothing you choose. For instance, if you like to exercise a lot, adding more athletic clothes might be the staple in your wardrobe. Also, remember that climate and seasons play a big role in the types of clothes you own. Above all, it’s important to own clothes that you like; otherwise you may not wear them at all! 
+Keep in mind that there are many other factors that can affect the clothing you choose. For instance, if you like to exercise a lot, adding more athletic clothes might be the staple in your wardrobe. Also, remember that climate and seasons play a big role in the types of clothes you own. Above all, it’s important to own clothes that you like; otherwise you may not wear them at all! Downsizing your wardrobe is just the beginning. You can learn how to live with only what you need by incorporating more [minimalism into your lifestyle](https://www.sparefoot.com/self-storage/blog/12084-how-to-become-a-minimalist/).
 
 Hopefully, these tips will help you cut down on unnecessary items that take up too much of your precious storage space. In reality, there are far more interesting things to do when living in a tiny house than to worry about what to wear every day!
 

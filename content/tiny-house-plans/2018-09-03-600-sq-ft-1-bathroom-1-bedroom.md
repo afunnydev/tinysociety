@@ -12,10 +12,7 @@ listing:
     This tiny house is ideal for anyone who want their home to be a shelter.
     Modern, tidy and comfortable, this California style tiny cabin has a hammock
     and a room on its second floor, as well as a kitchen, a bathroom, a living
-    room and a laundry space. 
-
-
-    Perfect for relaxing, perfect for living tiny.
+    room and a laundry space. Perfect for relaxing, perfect for living tiny.
   image: /img/california-style-list.jpg
   foundation: true
 titre: California Style Tiny Cabin for Two

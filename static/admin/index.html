@@ -12,12 +12,12 @@
 	<meta name="theme-color" content="#ffffff">
   <meta name="robots" content="noindex,nofollow">
   <title>Gestionnaire de contenu</title>
-  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^2.0.0/dist/cms.css" />
+  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^2.2.1/dist/cms.css" />
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link rel="stylesheet" href="/admin/admin.css" />
 </head>
 <body>
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script src="https://unpkg.com/netlify-cms@^2.2.1/dist/netlify-cms.js"></script>
   <script>
     // Register Preview CSS
     CMS.registerPreviewStyle("/css/admin.min.css");
@@ -34,20 +34,6 @@
       }
     });
     CMS.registerPreviewTemplate("articles", PostPreview);
-
-    // Register the new widget for categories
-    var CategoriesControl = createClass({
-      handleChange: function(e) {
-        this.props.onChange(e.target.value.split(',').map((e) => e.trim()));
-      },
-
-      render: function() {
-        var value = this.props.value;
-        return h('input', { type: 'text', "className": "nc-controlPane-widget", value: value ? value.join(', ') : '', onChange: this.handleChange });
-      }
-    });
-
-    CMS.registerWidget('categories', CategoriesControl);
   </script>
 </body>
 </html>

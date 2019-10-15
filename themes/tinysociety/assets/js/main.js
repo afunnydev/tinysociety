@@ -47,53 +47,10 @@ jQuery( document ).ready(function($) {
   // });
   // Custom ScrollSpy
   // Cache selectors
-  if ($("#toc").length) {
-    var lastId,
-        topMenu = $("#Content .toc-h2"),
-        // All list items
-        menuItems = topMenu.find("a"),
-        // Anchors corresponding to menu items
-        scrollItems = menuItems.map(function(){
-          var item = $($(this).attr("href"));
-          if (item.length) { return item; }
-        });
-    function progressBar() {
-      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      var scrolled = (winScroll / height) * 100;
-      document.getElementById("myBar").style.width = scrolled + "%";
-    }
-
-    // Bind to scroll
-    $(window).scroll(function(){
-      // Update the progress bar
-      progressBar();
-
-       // Get container scroll position
-       var fromTop = $(this).scrollTop()+100;
-       
-       // Get id of current scroll item
-       var cur = scrollItems.map(function(){
-         if ($(this).offset().top < fromTop)
-           return this;
-       });
-       // Get the id of the current element
-       cur = cur[cur.length-1];
-       var id = cur && cur.length ? cur[0].id : "";
-       
-       if (lastId !== id) {
-           lastId = id;
-           // Set/remove active class
-           menuItems
-             .parent().removeClass("active")
-             .end().filter("[href='#"+id+"']").parent().addClass("active");
-       }                   
-    });
-  }
   var userFeed = new Instafeed({
       get: 'user',
       userId: '7328857212',
-      accessToken: '7328857212.4cf9aed.f0350c126116412c978dd2f3346ba315',
+      accessToken: '7328857212.13bdb1e.f527c3d9544e425795d29599645fc181',
       limit: '8',
       resolution: "thumbnail",
       error: {
@@ -137,7 +94,8 @@ jQuery( document ).ready(function($) {
             vertical: false,
             verticalSwiping: false,
             slidesToShow: 4,
-            slidesToScroll: 1
+            slidesToScroll: 1,
+            arrows: false
           }
         },
         {
@@ -147,7 +105,7 @@ jQuery( document ).ready(function($) {
             verticalSwiping: false,
             slidesToShow: 3,
             slidesToScroll: 1,
-            arrows: false,
+            arrows: false
           }
         },
       ]
@@ -187,6 +145,147 @@ jQuery( document ).ready(function($) {
     $('#Overlay #give-what-you-want').css('margin-top', '-' + menuH + 'px');
   });
 
+  $('.form-caboose, .close-overlay-article').click(function(e) {
+    e.preventDefault();
+    $('#typeform-overlay').fadeToggle(500);
+    $('.__typeform-embed-mobile-modal-open').removeClass('__typeform-embed-mobile-modal-open');
+  });
+
+    //GTM Customization - Making sure Snipcart is ready
+  document.addEventListener('snipcart.ready', function() {
+
+    //Subscribing to different events
+    Snipcart.subscribe('item.added', function(item) {
+      itemAdded(item);
+    });
+
+    Snipcart.subscribe('item.removed', function(item) {
+      itemRemoved(item);
+    });
+
+    Snipcart.subscribe('order.completed', function(order) {
+      orderCompleted(order);
+    });
+
+    Snipcart.subscribe('cart.opened', function() {
+      cartOpened();
+    });
+
+    Snipcart.subscribe('cart.closed', function() {
+      cartClosed();
+    });
+
+    Snipcart.subscribe('page.change', function(page) {
+      pageChanged(page);
+    });
+  });
+
+  function createProductsFromItems (items) {
+    return items.map(function (item) {
+      return {
+        name: item.name,
+        description: item.description,
+        id: item.id,
+        price: item.price,
+        quantity: item.quantity
+      };
+    });
+  }
+
+  function itemAdded(item){
+    dataLayer.push({
+      event: 'snipcartEvent',
+      eventCategory: 'Cart Update',
+      eventAction: 'New Item Added To Cart',
+      eventLabel: item.name,
+      eventValue: item.price,
+      ecommerce: {
+        currencyCode: 'CAD',
+        add: {
+          products: createProductsFromItems([item])
+        }
+      }
+    });
+  }
+
+  function itemRemoved(item){
+    dataLayer.push({
+      event: 'snipcartEvent',
+      eventCategory: 'Cart Update',
+      eventAction: 'Item Removed From Cart',
+      eventLabel: item.name,
+      eventValue: item.price,
+      ecommerce: {
+        currencyCode: 'CAD',
+        remove: {
+          products: createProductsFromItems([item])
+        }
+      }
+    });
+  }
+
+  function orderCompleted(order){
+    dataLayer.push({
+      event: 'snipcartEvent',
+      eventCategory: 'Order Update',
+      eventAction: 'New Order Completed',
+      ecommerce: {
+        currencyCode: order.currency,
+        purchase: {
+          actionField: {
+            id: order.token,
+            affiliation: 'Website',
+            revenue: order.total,
+            tax: order.taxesTotal,
+            shipping: order.shippingInformation.fees,
+            invoiceNumber: order.invoiceNumber
+          },
+          products: createProductsFromItems(order.items),
+          userId: order.user.id
+          }
+      }
+    });
+  }
+
+  function cartOpened(){
+    dataLayer.push({
+      event: 'snipcartEvent',
+      eventCategory: 'Cart Action',
+      eventAction: 'Cart Opened',
+      ecommerce: {
+        cartclose: {
+          products: createProductsFromItems(Snipcart.api.items.all())
+        }
+      }
+    });
+  }
+
+  function cartClosed(){
+    dataLayer.push({
+      event: 'snipcartEvent',
+      eventCategory: 'Cart Action',
+      eventAction: 'Cart Closed',
+      ecommerce: {
+        cartopen: {
+          products: createProductsFromItems(Snipcart.api.items.all())
+        }
+      }
+    });
+  }
+
+  function pageChanged(page){
+    dataLayer.push({
+      event: 'snipcartEvent',
+      eventCategory: 'Page Change',
+      eventAction: page,
+      ecommerce: {
+        checkout: {
+          products: createProductsFromItems(Snipcart.api.items.all())
+        }
+      }
+    });
+  }
+
   $( window ).load(function() {
     // Activate the sidebar
     $('#sidebar').stickySidebar({
@@ -201,6 +300,23 @@ jQuery( document ).ready(function($) {
         containerSelector: ".plan-main-section",
         innerWrapperSelector: '.sidebar__inner'
     });
+    if ($( "#accordion" ).length) {
+      $('#accordion .toggle').click(function(e) {
+        e.preventDefault();
+      
+        var $this = $(this);
+      
+        if ($this.next().hasClass('show')) {
+            $this.next().removeClass('show');
+            $this.next().slideUp(350);
+        } else {
+            $this.parent().parent().find('li .inner.show').slideUp(350);
+            $this.parent().parent().find('li .inner').removeClass('show');
+            $this.next().slideToggle(350);
+            $this.next().toggleClass('show');
+        }
+      });
+    }
     // Plans Give Us What You Want
     // taken from apps.timwhitlock.info <3
     var emoji = [ "👊", "👍", "👌", "🙏","😉", "😋", "😃", "😎", "😘", "😍", "😳", "😇", "🔥", "🚀", "🏠" ],
@@ -339,5 +455,61 @@ jQuery( document ).ready(function($) {
       $this.siblings().removeClass("active");
       $this.addClass("active");
     });
+    if ($("#toc").length || $('div.iframe-container iframe').length) {
+      var lastId,
+          topMenu = $("#Content .toc-h2"),
+          // All list items
+          menuItems = topMenu.find("a"),
+          // Anchors corresponding to menu items
+          scrollItems = menuItems.map(function(){
+            var item = $($(this).attr("href"));
+            if (item.length) { return item; }
+          });
+      function progressBar() {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("myBar").style.width = scrolled + "%";
+      }
+
+      var addThisBar = $('.addthis-smartlayers');
+      var progressBarContainer = $('.progress-container');
+      var documentHeight = $(document).height();
+
+      addThisBar.hide();
+      progressBarContainer.hide();
+      
+      $(window).scroll(function(){
+        // Update the progress bar
+        progressBar();
+
+        // Get container scroll position
+        var fromTop = $(this).scrollTop()+100;
+
+        // Get id of current scroll item
+        var cur = scrollItems.map(function(){
+         if ($(this).offset().top < fromTop)
+           return this;
+        });
+        // Get the id of the current element
+        cur = cur[cur.length-1];
+        var id = cur && cur.length ? cur[0].id : "";
+
+        if (lastId !== id) {
+           lastId = id;
+           // Set/remove active class
+           menuItems
+             .parent().removeClass("active")
+             .end().filter("[href='#"+id+"']").parent().addClass("active");
+        }
+        if (fromTop > 700 && fromTop < documentHeight - 1000) {
+          addThisBar.show();
+          progressBarContainer.show();
+        } else {
+          addThisBar.hide();
+          progressBarContainer.hide();
+        }                   
+      });
+    }
   });
 });

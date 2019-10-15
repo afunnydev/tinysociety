@@ -1,7 +1,7 @@
 {
-  "name": "hugo-base-theme",
+  "name": "tiny-society",
   "version": "1.0.0",
-  "description": "Basic gulp file to process images in hugo",
+  "description": "Blog about tiny houses",
   "main": "no",
   "scripts": {
     "test": "none"
@@ -11,33 +11,25 @@
     "url": "none"
   },
   "keywords": [
-    "hugo",
-    "images"
+    "tiny house"
   ],
   "author": "Akia Marketing",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.24.6",
+    "browser-sync": "^2.26.7",
     "concurrent-transform": "^1.0.0",
-    "create-react-class": "^15.6.3",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
-    "gulp-image-resize": "^0.13.0",
-    "gulp-imagemin": "^4.1.0",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-imagemin": "^6.1.1",
     "gulp-newer": "^1.4.0",
     "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-uglify": "^3.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
     "gulp-uglify-es": "^1.0.4",
-    "netlify-cms": "^1.9.3",
-    "netlify-cms-widget-native-color": "^2.2.1",
-    "netlify-lambda": "^0.4.0",
-    "prop-types": "^15.6.2",
-    "react-immutable-proptypes": "^2.1.0",
-    "run-sequence": "^2.2.1",
-    "slate": "^0.33.8"
+    "netlify-lambda": "^0.4.0"
   }
 }

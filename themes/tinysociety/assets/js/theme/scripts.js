@@ -121,7 +121,18 @@ function mfn_sticky() {
 		}
 	}
 }
-
+/* ---------------------------------------------------------------------------
+ * Back to top magic
+ * --------------------------------------------------------------------------- */
+var backToTop = jQuery('#back_to_top');
+function hideBackToTop() {
+	var window_y = jQuery(window).scrollTop();
+	if (window_y > 4500) {
+		backToTop.show();
+	} else {
+		backToTop.hide();
+	}
+}
 /* ---------------------------------------------------------------------------
  * Sidebar height
  * --------------------------------------------------------------------------- */
@@ -1378,10 +1389,14 @@ jQuery(document).ready(function() {
 	/* ---------------------------------------------------------------------------
 	 * Go to top
 	 * --------------------------------------------------------------------------- */
-	jQuery('#back_to_top').click(function() {
-		jQuery('body,html').animate({
-			scrollTop: 0
-		}, 500);
+	backToTop.hide();
+	backToTop.click(function() {
+		var titlePosition = jQuery('#tiny-house-laws-by-states').position();
+		if (titlePosition) {
+			jQuery('body,html').animate({
+				scrollTop: titlePosition.top + 450
+			}, 500);
+		}
 		return false;
 	});
 	
@@ -1515,6 +1530,7 @@ jQuery(window).scroll(function() {
 	mfn_stickyH();
 	mfn_sticky();
 	onePageActive();
+	hideBackToTop();
 });
 
 /* --------------------------------------------------------------------------------------------------------------------------

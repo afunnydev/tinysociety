@@ -16,7 +16,7 @@ notloaded:
 listing:
   title: 'Roof Ventilation For A Tiny House '
   description: >+
-    Consider the the normal things you do everyday that create moisture.
+    Consider the normal things you do everyday that create moisture.
     Cooking, bathing, breathing--all of these activities can create unwanted
     moisture in a tiny house. Here are some of the reasons why proper
     ventilation is so important, as well as some options for finding the best
@@ -36,7 +36,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-Consider the the normal things you do everyday that create moisture. Cooking, bathing, breathing--all of these activities can create unwanted moisture in a tiny house. The square footage of a tiny house is also a lot smaller than a standard home. Without proper ventilation, your health as well as the structural integrity of your tiny house can be compromised.
+Consider the normal things you do everyday that create moisture. Cooking, bathing, breathing--all of these activities can create unwanted moisture in a tiny house. The square footage of a tiny house is also a lot smaller than a standard home. Without proper ventilation, your health as well as the structural integrity of your tiny house can be compromised.
 
 ## Why Is Roof Ventilation So Important?
 
