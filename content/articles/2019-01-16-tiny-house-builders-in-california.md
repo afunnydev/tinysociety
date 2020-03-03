@@ -132,11 +132,11 @@ This small, family-run business offers custom-built tiny homes that are NOAH cer
 
 Contact the builder [here](http://www.kjetinyhomes.com/contact-us.html) for more information.
 
-## Liberty Cabins
+## Forever Tiny Homes
 
 ![](/img/liberty-cabins.jpeg)
 
-<span class="figcaption">Image source: [Liberty Cabins](http://www.libertycabins.com/gallery--video-tour.html)</span>
+<span class="figcaption">Image source: [Forever Tiny Homes](www.forevertinyhomes.com)</span>
 
 This tiny house builder specializes in just one customizable model in order to put the best quality product on the market. Their affordable prices and quality materials make them a leader in the RV (recreational vehicle) industry.
 
@@ -148,7 +148,7 @@ This tiny house builder specializes in just one customizable model in order to p
 * **Tiny house financing partners:** Learn more [here](http://www.libertycabins.com/financing.html).
 * **Price:** starting at approx. $50,000
 
-Contact the builder [here](http://www.libertycabins.com/contact.html) for more information.
+Contact the builder [here](www.forevertinyhomes.com) for more information.
 
 ## Sunwest Tiny Homes
 
