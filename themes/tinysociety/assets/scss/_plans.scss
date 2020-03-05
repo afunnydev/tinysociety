@@ -364,6 +364,12 @@ body.no-content-padding:not(.with_aside).plan-page {
 				li {
 					padding: 10px;
 					border: 1px solid $gray;
+					cursor: pointer;
+					background-color: white !important;
+					&.not-available {
+						background-color: #f2f2f2 !important;
+						cursor: not-allowed;
+					}
 					span.recommanded {
 						display: block;
 						font-weight: 700;

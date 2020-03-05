@@ -47,18 +47,18 @@ jQuery( document ).ready(function($) {
   // });
   // Custom ScrollSpy
   // Cache selectors
-  var userFeed = new Instafeed({
-      get: 'user',
-      userId: '7328857212',
-      accessToken: '7328857212.13bdb1e.f527c3d9544e425795d29599645fc181',
-      limit: '8',
-      resolution: "thumbnail",
-      error: {
-          template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
-      },
-      template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
-  });
-  userFeed.run();
+  // var userFeed = new Instafeed({
+  //     get: 'user',
+  //     userId: '7328857212',
+  //     accessToken: '7328857212.13bdb1e.f527c3d9544e425795d29599645fc181',
+  //     limit: '8',
+  //     resolution: "thumbnail",
+  //     error: {
+  //         template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
+  //     },
+  //     template: '<div class="column one-fourth insta-div"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /></a></div>'
+  // });
+  // userFeed.run();
   // var myLazyLoad = new LazyLoad({
   //     elements_selector: "#article #Content .post #content img"
   // });
@@ -138,12 +138,12 @@ jQuery( document ).ready(function($) {
   });
   var selectemVal = document.querySelector('input[name="selectemVal"]');
 
-  $('.toggle-give-us, .close-overlay, .snipcart-add-item').click(function(e) {
-    e.preventDefault();
-    $('#give-overlay').stop(true, true).fadeToggle(500);
-    var menuH = $('#Overlay #give-what-you-want').height() / 2;
-    $('#Overlay #give-what-you-want').css('margin-top', '-' + menuH + 'px');
-  });
+  // $('.toggle-give-us, .close-overlay, .snipcart-add-item').click(function(e) {
+  //   e.preventDefault();
+  //   $('#give-overlay').stop(true, true).fadeToggle(500);
+  //   var menuH = $('#Overlay #give-what-you-want').height() / 2;
+  //   $('#Overlay #give-what-you-want').css('margin-top', '-' + menuH + 'px');
+  // });
 
   $('.form-caboose, .close-overlay-article').click(function(e) {
     e.preventDefault();

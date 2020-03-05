@@ -133,12 +133,32 @@
                     </div>
                 </aside>
             </div>
-            <div class="column one-fourth hidden-xs">
+            <div class="column one-fourth">
+                <aside class="widget widget_mfn_recent_posts">
+                    <h4 style="visibility: hidden;" class="hidden-xs">Recent Posts</h4>
+                    <div class="Recent_posts">
+                        <ul>
+                            {{ range $i, $e := first 2 (after 4 (where $.Site.RegularPages "Type" "articles")) }}
+                            <li class="post ">
+                                <a href="{{ .Permalink }}">
+                                    <div class="photo"><img src="/thumb{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><!-- <span class="c">{{ .Params.likes }}</span> -->
+                                    </div>
+                                    <div class="desc">
+                                        <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
+                                    </div>
+                                </a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </aside>
+            </div>
+            <!-- <div class="column one-fourth hidden-xs">
                 <aside class="widget widget_tag_cloud">
                     <h4>Follow Us On Instagram</h4>
                     <div id="instafeed"></div>
                 </aside>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="footer_copy">
@@ -146,7 +166,7 @@
             <div class="column one">
                 <a id="back_to_top" class="button button_left button_js" href="#"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
                 <div class="copyright">
-                    &copy; 2019 Tiny House Society - Made with <i class="icon-heart-fa"></i> for you
+                    &copy; {{ dateFormat "2006" now }} Tiny House Society - Made with <i class="icon-heart-fa"></i> for you
                 </div>
                 <div class="terms">
                     <a href='{{ $.Scratch.Get "termsPage" }}'>Terms and Conditions</a> |

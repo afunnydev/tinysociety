@@ -1,12 +1,6 @@
 {{ define "main" }}
 {{ $mymonths := $.Site.Data.mois.mois }}
 {{ $mydays := $.Site.Data.jour.jour }}
-<div id="give-overlay">
-    {{- partial "site/give-what-you-want.html" . -}}
-    <a href="#" class="close-overlay">
-        <i class="close icon-cancel-fine"></i>
-    </a>
-</div>
 <div id="plan">
     <div id="Intro">
         <div class="container section">

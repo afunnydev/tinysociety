@@ -3,3 +3,4 @@ nodes_modules
 public
 /public
 .DS_Store
+.vscode

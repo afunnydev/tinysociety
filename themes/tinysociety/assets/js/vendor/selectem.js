@@ -30,6 +30,9 @@ Element.prototype.tc = function(a) {
             c = this.querySelector(".item-label");
             h = $(".instant-download");
         g.value = b;
+        if (b === "copy-set" || b === "cad-set") {
+            return
+        }
         e.innerHTML = c.innerHTML;
         a.className =
             a.className.replace(/(?:^|\s)is-active(?!\S)/g, "");
