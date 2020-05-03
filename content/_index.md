@@ -13,21 +13,17 @@ notloaded:
 section1:
   title: Quote of the week
   description: >-
-    Own less stuff. Enjoy more freedom. It really is that simple.
-  author: Joshua Becker
+    The ability to simplify means to eliminate the unnecessary so that the necessary may speak.
+  author: Hans Hofmann
   overlay: true
   image: "/img/tiny-house-4.jpg"
-section2:
-  title: "Sustainable Building and Living"
-  category: "Sustainable building and living"
-  class: "category-people"
 section3:
   cols:
     - title: Architecture and design
-      category: Architecture and design
+      categoryslug: architecture-and-design
       class: "category-places"
     - title: DIY
-      category: DIY
+      categoryslug: diy
       class: "category-stories"
 section4:
   col1:

@@ -15,9 +15,8 @@
                                     <h1 class="home-title">{{ .Params.titre }}</h1>
                                     <div class="categories-choices">
                                         <a href='{{ $.Scratch.Get "articlesPage" }}#category-articles' class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">All articles</span></a>
-                                    	{{ $tags := $.Site.Taxonomies.categories.Alphabetical }}
-                                    	{{ range $tags }}
-                                    	<a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}#category-articles" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ .Term }}</span></a>
+                                        {{ range $.Site.Taxonomies.categories.Alphabetical }}
+                                    	<a href="{{ $.Site.BaseURL }}categories/{{ .Term | urlize }}#category-articles" class="button button_theme button_js action_button new_theme_cta categories_cta"><span class="button_label">{{ title (replace .Term "-" " ") }}</span></a>
 									    {{ end }} 
                                     </div>
                                 </div>
@@ -39,7 +38,7 @@
                     <div class="column one column_blog">
                         <div class="blog_wrapper isotope_wrapper" >
                             <div class="posts_group lm_wrapper classic col-3">
-                            	{{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
+                            	{{ range .Pages.ByLastmod.Reverse  }}
                                 <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles">
                                     {{- partial "site/articles-listing.html" . -}}
                                 </div>

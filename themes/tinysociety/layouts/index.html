@@ -61,7 +61,6 @@
                 </div>
             </div>
             {{ end }}
-            {{ with .Params.section2 }}
             <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:#dcdfe1">
                 <div class="section_wrapper mcb-section-inner">
                     <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
@@ -71,7 +70,7 @@
                                     <div class="hover_color_bg" style="background:#f0f1f2;">
                                         <a href="{{ $.Site.BaseURL }}categories/sustainable-building-and-living/">
                                             <div class="hover_color_wrapper" style="padding:30px 20px;">
-                                                <h4 style="margin: 0;">{{ .title }}</h4>
+                                                <h4 style="margin: 0;">Sustainable Building and Living</h4>
                                             </div>
                                         </a>
                                     </div>
@@ -81,8 +80,7 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-3 masonry tiles isotope" style="background: #f0f1f2">
-                                            {{ $mytag := .category }}
-                                            {{ range first 3 (index $.Site.Taxonomies.categories $mytag).Pages }}
+                                            {{ range first 3 (index $.Site.Taxonomies.categories "sustainable-building-and-living") }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people" onclick="location.href='{{- .Permalink -}}';">
                                               {{- partial "site/articles-post.html" . $ -}}
                                             </div>
@@ -95,7 +93,6 @@
                     </div>
                 </div>
             </div>
-            {{ end }}
             {{ with .Params.section3 }}
             <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:#dcdfe1">
                 <div class="section_wrapper mcb-section-inner">
@@ -105,7 +102,7 @@
                             <div class="column mcb-column one column_hover_color ">
                                 <div class="hover_color" style="background:#fff" ontouchstart="this.classList.toggle('hover');">
                                     <div class="hover_color_bg" style="background:#f0f1f2;">
-                                        <a href="{{ $.Site.BaseURL }}categories/architecture-and-design/">
+                                        <a href="{{ $.Site.BaseURL }}categories/{{ .categoryslug }}">
                                             <div class="hover_color_wrapper" style="padding:30px 20px;">
                                                 <h4 style="margin: 0;">{{ .title }}</h4>
                                             </div>
@@ -117,9 +114,8 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-2 masonry tiles isotope" style="background: #f0f1f2">
-                                            {{ $mytag := (.category) }}
                                             {{ $class := .class}}
-                                            {{ range first 2 (index $.Site.Taxonomies.categories $mytag).Pages }}
+                                            {{ range first 2 (index $.Site.Taxonomies.categories .categoryslug).Pages }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail {{ $class }}" onclick="location.href='{{- .Permalink -}}';">
                                               {{ partial "site/articles-post.html" . $}}
                                             </div>
@@ -153,7 +149,7 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-3 masonry tiles isotope" style="background: #f0f1f2">
-                                            {{ range first 3 (where .Pages ".Params.tosale" true) }}
+                                            {{ range first 3 (where .Site.RegularPages "Type" "tiny-house-plans") }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people" onclick="location.href='{{- .Permalink -}}';">
                                                 <div class="post-photo-wrapper scale-with-grid"><img src="/quart{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" itemprop="image" />
                                                 </div>
