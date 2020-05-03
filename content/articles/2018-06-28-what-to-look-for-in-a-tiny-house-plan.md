@@ -1,24 +1,22 @@
 ---
-title: 'What to Look for in a Tiny House Plan? '
-description: >-
-  So you’re ready to build your Tiny House, or to have someone build it for you.
-  Where to start? As the saying goes, you need a vision before you can create
-  the reality. This is where your Tiny House plan comes in. 
+title: "What to Look for in a Tiny House Plan? "
+description: "So you’re ready to build your Tiny House, or to have someone build
+  it for you. Where to start? As the saying goes, you need a vision before you
+  can create the reality. This is where your Tiny House plan comes in. "
 slug: what-to-look-for-in-a-tiny-house-plan
 author: michelleg
 image: /img/what-to-look-for-tiny-house-plan-41.jpg
 overlay: true
-date: '2018-06-28'
+date: 2018-06-28
+lastmod: 2020-05-03
 notloaded:
   need: true
 listing:
-  title: 'What to Look for in a Tiny House Plan? '
-  description: >-
-    So you’re ready to build your Tiny House, or to have someone build it for
-    you. Where to start? As the saying goes, you need a vision before you can
-    create the reality. This is where your Tiny House plan comes in. 
+  title: "What to Look for in a Tiny House Plan? "
+  description: "So you’re ready to build your Tiny House, or to have someone build
+    it for you. Where to start? As the saying goes, you need a vision before you
+    can create the reality. This is where your Tiny House plan comes in. "
   image: /img/what-to-look-for-in-a-tiny-house-plan-square.jpg
-likes: '64'
 categories:
   - Tiny houses
   - Tiny cabins
@@ -28,6 +26,7 @@ menuid: articles
 ordre: 0
 draft: false
 noindex: false
+likes: "64"
 ---
 So you're ready to build your Tiny House, or to have someone build it for you. Where to start? As the good ol' Benjamin Franklin use to say, "If you fail to plan, you are planning to fail"! This is where your Tiny House plan comes in. The easiest way to plan is to ask the right questions.
 
