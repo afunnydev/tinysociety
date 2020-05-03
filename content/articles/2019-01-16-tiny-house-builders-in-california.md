@@ -1,35 +1,34 @@
 ---
 title: Tiny House Builders in California
-description: >-
-  California is an excellent place to live in a tiny house. Known worldwide for
-  its van-life culture, California is no stranger to the idea of living in small
-  spaces. Let's take a look at some of the best tiny house builders in
-  California. 
+description: "California is an excellent place to live in a tiny house. Known
+  worldwide for its van-life culture, California is no stranger to the idea of
+  living in small spaces. Let's take a look at some of the best tiny house
+  builders in California. "
 slug: tiny-house-builders-in-california
 author: molli
 image: /img/tiny-house-builders-cali-banner.jpg
 overlay: true
-date: '2019-01-16'
+date: 2019-01-16
+lastmod: 2020-05-03
 notloaded:
   need: true
 listing:
   title: Tiny House Builders in California
-  description: >-
-    California is an excellent place to live in a tiny house. Known worldwide
-    for its van-life culture, California is no stranger to the idea of living in
-    small spaces. Let's take a look at some of the best tiny house builders in
-    the state of California.
+  description: California is an excellent place to live in a tiny house. Known
+    worldwide for its van-life culture, California is no stranger to the idea of
+    living in small spaces. Let's take a look at some of the best tiny house
+    builders in the state of California.
   image: /img/tiny-house-builder-cali-square.jpg
-likes: '44'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
+ordre: "0"
 infographic: false
 draft: false
 noindex: false
 hincluded: false
+likes: "44"
 ---
 As mentioned in our previous article, [How to Find a Tiny House Builder](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), it's important to take the time to research exactly what you want. There are a number of key points to consider before choosing the right builder for your project. Here's a quick review of the questions you want to ask when deciding on the company that will build your dream tiny home:
 
@@ -167,6 +166,28 @@ Sunwest Tiny Homes offers beautifully constructed tiny homes either as a standar
 * **Price:** starting at approx. $45,000
 
 Contact the builder [here](http://www.sunwesttinyhomes.com/contact-us.html) for more information.
+
+## Molecule Tiny Homes
+
+![Molecule tiny homes](/img/molecule-exterior-1.jpg "Molecule-tiny-homes-1")
+
+<span class="figcaption">Image source: Molecule tiny homes</span>
+
+![Molecule tiny homes](/img/molecule-exterior-2.jpg "Molecule-tiny-homes-1")
+
+<span class="figcaption">Image source: Molecule tiny homes</span>
+
+Custom tiny houses specialized company. 
+
+* **Locations:** Santa Cruz, CA - Garden valley,CA
+* **Tiny houses on wheels:** yes
+* **Tiny houses on foundations:** yes
+* **Custom builds:** yes
+* **Certifications:** N/A
+* **Tiny house financing partners:** N/A
+* **Price:** Prices between 50 000$ to 90 000$ depending on the project.
+
+Contact the builder [here ](https://moleculetinyhomes.blogspot.com/)for more information.
 
 ## Seabreeze Tiny Homes
 
