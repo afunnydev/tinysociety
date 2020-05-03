@@ -1,25 +1,24 @@
 ---
 title: Tiny House Builders in Texas
-description: >-
-  Everything's bigger in Texas...except for tiny houses. With a number of
-  excellent tiny house builders and a booming tiny house community, Texas is a
-  top stop for anyone interested in tiny living. 
+description: Everything's bigger in Texas...except for tiny houses. With a
+  number of excellent tiny house builders and a booming tiny house community,
+  Texas is a top stop for anyone interested in tiny living. Here is a list of
+  builders in this state.
 slug: tiny-house-builders-in-texas
 author: molli
 image: /img/texas_builders_banner.jpg
 overlay: true
-date: '2019-04-03'
+date: 2019-04-03
 notloaded:
   need: true
 listing:
   title: Tiny House Builders in Texas
-  description: >-
-    Everything's bigger in Texas...except for tiny houses. With fairly relaxed
-    tiny house laws, this state is a true destination for anyone interested in
-    tiny living. Without further ado, let's take a look at some of the top tiny
-    house builders in Texas. 
+  description: "Everything's bigger in Texas...except for tiny houses. With fairly
+    relaxed tiny house laws, this state is a true destination for anyone
+    interested in tiny living. Without further ado, let's take a look at some of
+    the top tiny house builders in Texas. "
   image: /img/texas_builders_square.jpg
-likes: '22'
+likes: "22"
 categories:
   - Tiny houses
 i18nlanguage: en
