@@ -1,5 +1,5 @@
 ---
-title: 6 Prefab Tiny House You Want to Live In
+title: 6 Prefab Tiny Houses You Want to Live In
 description: >
   Yes, you have guessed it right. ‘Prefab’ homes are prefabricated homes. These
   are directly delivered to you after manufacturing at the site. The benefit is
@@ -8,7 +8,7 @@ slug: prefab-tiny-houses
 author: jubaer
 image: /img/prefab-tiny-houses.jpg
 overlay: true
-date: '2018-09-02'
+date: 2018-09-02
 notloaded:
   need: true
 listing:
@@ -18,12 +18,12 @@ listing:
     These are directly delivered to you after manufacturing at the site. The
     benefit is you worry about the furniture the rest is already there.
   image: /img/prefab-tiny-houses-square.jpg
-likes: '13'
+likes: "13"
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '2'
+ordre: "2"
 infographic: false
 draft: false
 noindex: false
