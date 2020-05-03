@@ -12,7 +12,7 @@
             <h1 class="intro-title">{{ .Params.listing.title }}</h1>
             <div class="intro-meta">
                 <div class="date">
-                    <i class="icon-calendar"></i><span>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>
+                    <i class="icon-calendar"></i><span>{{.Lastmod.Month}} {{ index $mydays .Lastmod.Day }}, {{.Lastmod.Year}}</span>
                 </div>
                 {{ if isset .Params "author" }}
                     {{ $author := index .Site.Data.authors .Params.author }}

@@ -44,9 +44,9 @@ It’s also important to know that a kit only constitutes for about 25 to 35 per
 
 There are ways to [get around these additional costs](https://www.tinysociety.co/articles/how-to-save-money-when-building-your-tiny-house/), but it’s important that you understand the cost of these kits won’t be the final cost of your tiny house. If you’re still eager to become part of the tiny house community, here are some of the best kits on the market today:
 
-## Jamaica Cottage Shop Vermont Cottage
+## Jamaica Cottage Shop - Vermont Cottage
 
-![Jamaica Cottage Shop](/img/jamaica-cottage-shop.jpg)
+![Jamaica Cottage Shop](/img/tiny-house-kit-jamaican.jpg)
 
 <span class="figcaption">Image source: [Jamaica Cottage Shop](https://jamaicacottageshop.com/shop/vermont-cottage-a/)</span>
 
@@ -56,11 +56,12 @@ This one-room cabin features high ceilings, an open floor plan, a loft, and a sm
 
 The Jamaica Cottage Shop makes tiny house living a breeze with the various DIY kits they have available. Here are the details on their Vermont Cottage A package:
 
-### Pricing Without Extras:
+### Pricing (Complete Pre-Cut Kit):
 
-* 16’ x 20’ - $10,080
-* 16 ’x 24’ - $12,097
-* 16’ x 30’ - $15,121
+* 16’ x 20’ - $13,464
+* 16 ’x 24’ - $16,155
+* 16’ x 30’ - $20,194
+* Please check the website for lower Frame Only prices
 
 ### Includes:
 
@@ -71,7 +72,7 @@ The Jamaica Cottage Shop makes tiny house living a breeze with the various DIY k
 * Doors and windows
 * Free shipping to the United States and Canada
 
-### Possible Additions/Upgrades:
+### Possible Customizations:
 
 * Extra windows
 * Flooring
@@ -88,48 +89,45 @@ The Jamaica Cottage Shop makes tiny house living a breeze with the various DIY k
 * Laveo toilet
 * Natures Head composting toilet
 
-## Tiny Heirloom’s DIY Tiny House Shell
+## B&B - Wedge
 
-![Tiny Heirloom](/img/tiny-heirlome.jpg)
+![Wedge](/img/wedge.jpg)
 
-<span class="figcaption">Image source: [Tiny Heirloom](https://www.tinyheirloom.com/galleries/archway-tiny-house)</span>
+<span class="figcaption">Image source: [B&B](https://bbtinyhouses.com/shop/tiny-house-frame-kits/wedge/)</span>
 
-While some tiny house kits come in a standard design, [Tiny Heirloom ](https://www.tinyheirloom.com/diy-tiny-home-shells)offers you the chance to select from several of their models for your new home. Pricing is given by trailer size and starts at $15,000 for an 18ft tiny house on wheels. They offer several blueprint options for you to choose from, all which include roofing, a trailer, and a loft. 
+B&B Tiny House Builders offer ranges from full custom tiny houses to frame kits. You can see their multple frame kits [here](https://bbtinyhouses.com/services/diy-tiny-house-frames/). All their kits are offered with or without the trailer and the roof, depending on your skillset and on the flexiblity you want to have. **Bonus**: They all come with a 25-year warranty, meaning you can rest assured that your frame will be solid.
 
-Tiny Heirloom also offers an alternative affordable and simple exterior package that includes windows, doors, and a primed or stained siding. It costs more than the basic shell package does, but it gives you all of the materials you need to build a finished tiny house shell if that’s what you’re looking for. 
-
-While it’s great to have options, their DIY frame is known as one of the most affordable tiny house kits on the market today. Here are the specs for a basic frame kit from Tiny Heirloom:
+The [Wedge](https://bbtinyhouses.com/shop/tiny-house-frame-kits/wedge/) is a simple but elegant tiny house on wheels. Here are the specs for the Complete Package:
 
 ### Pricing:
 
-1. 18’ - $15,000
-2. 22’ - $17,000
-3. 26’ - $19,500
-4. 30’ - $23,000
+1. 20’ - $14.460
+2. 24’ - $15,980
+3. 28’ - $19,140
 
 ### Includes:
 
-* DIY timber framed tiny home shell 
-* Wall and roof framing and sheathing
-* Hardware
-* Steel tiny home trailer 
-* 8’ interior loft 
-* Weatherproofing on exterior walls and roof
-* Windows and doors cut out 
-* Plywood subfloor
+*Panelized Steel Framing
+*25 Year Warranty
+*ICC Certification
+*Framing Hardware Package
+*Lightweight Structural Wall R-Sheathing
+*Zip System Roof Sheathing
+*3/4″ Advantech Subfloor
+*Sheathing Installation Kit
+*Everything from the Standard & Plus Kits
+*Tiny House Foundation Trailer (Trailer prices fluctuate: please contact us for an accurate quote)
+*Foundation Anchoring Hardware
 
 ### Possible Additions/Upgrades:
 
-* Windows 
-* Skylights
-* Front door  
-* Standing seam metal roof
-* Pre-stained or pre-primed siding
-* Plumbing
-* Electricity
-* Painting
+*Trailer Axle Upgrade
+*Zip System Wall R-Sheathing
+*CNC Pre-Cut Sheathing
+*Sketchup Model
+*Tiny House Plans
 
-## Arched Cabins’ Kits
+## Arched Cabins
 
 ![Arched Cabins](/img/arched-cabins-2.jpg)
 
@@ -137,12 +135,12 @@ While it’s great to have options, their DIY frame is known as one of the most 
 
 If you’re looking to build a tiny house quickly, [Arched Cabins](http://archedcabins.com/sizes-and-prices.html) might have just what you need. Their kits are said to be so easy to construct that two people can put these homes together in only a few days. With a variety of sizes available, the liveable cabins that include room for a bathroom and kitchen range they offer range in size from 120 to 1200 square feet. 
 
-Without the option to build these tiny houses on wheels, it’s necessary to either create your own foundation or order a concrete block foundation with your kit. It’s important to note that Arched Cabins doesn’t offer plumbing and electricity upgrades. If this is something you can’t do yourself, then you’ll have to hire a professional and should account for that in the price of your tiny home. Here’s a look at the details for these models:
+Without the option to build these tiny houses on wheels, it’s necessary to either create your own foundation or order a concrete block foundation with your kit. It’s important to note that Arched Cabins doesn’t offer plumbing and electricity upgrades. If this is something you can’t do yourself, then you’ll have to hire a professional and should account for that in the price of your tiny home. Here’s a look at the details for their 12ft wide arched cabin, without upgrades:
 
-### Pricing Depending On Size:
+### Pricing (excluding delivery):
 
-* Basic DIY Kit - $2,200 to $15,000 
-* DIY Kit With All Upgrades - $2,850 to $18,450
+* 12' x 10' - $2,650
+* 12' x 24' - $6,360
 
 ### Includes:
 
@@ -160,13 +158,13 @@ Without the option to build these tiny houses on wheels, it’s necessary to eit
 * Insulation upgrade
 * Fireplace thimble installation
 
-## Shelter-Kit Custom Tiny Homes
+## Shelter-Kit
 
 ![shelter kit](/img/shelter-kit.jpg)
 
 <span class="figcaption">Image source: [Shelter-Kit](https://shelter-kit.com/our-buildings/houses/) </span>
 
-If you have specific tiny house needs, then you might want to consider a [Shelter-Kit](https://shelter-kit.com/our-buildings/houses/). Each kit is custom made based on the size you want and can be designed to be a 1-story, 1 ½-story, or 2-story model. One of the benefits of choosing to buy your kit from Shelter-Kit is that they claim no power tools are needed to assemble them. It might be wise to have a hammer or two on hand though.
+If you have specific tiny house needs, then you might want to consider a [Shelter-Kit](https://www.shelter-kit.com/our-most-popular-house-and-garage-kits.html). Each kit is custom made based on the size you want and can be designed to be a 1-story, 1 ½-story, or 2-story model. One of the benefits of choosing to buy your kit from Shelter-Kit is that they claim no power tools are needed to assemble them. It might be wise to have a hammer or two on hand though.
 
 Options start at 875 square feet, and can either be completely custom made from your own designs or alterations can be made to one of their existing blueprints. All of their models allow for simple additions, so if you want to add an extension at a later time, you’ll be able to. This allows you to start with a smaller, more affordable structure knowing you will always have the opportunity to add rooms to your home. At $28 to $49 per square foot, here’s what you can expect with a package from Starter-Kit:
 
@@ -197,7 +195,7 @@ Options start at 875 square feet, and can either be completely custom made from 
 * Skylights
 * Lofts
 
-## Artisan Tiny House Curved House Kit
+## Artisan Tiny House - Curved House
 
 ![Curved House](/img/artisan-tiny-house.jpg)
 
@@ -209,9 +207,9 @@ Artisan Tiny Houses uses Structural Insulated Panels (SIPs) in their kits, which
 
 ### Price:
 
-* 133 Square Feet - $12,000
-* 166 Square Feet - $13,000
-* 200 Square Feet - $14,000
+* 8' x 16' - $12,000
+* 8' x 20' - $13,000
+* 8' x 24' - $14,000
 
 ### Includes:
 

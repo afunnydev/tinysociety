@@ -13,8 +13,6 @@ slug:
   clean_accents: true
   sanitize_replacement: "-"
 
-publish_mode: editorial_workflow
-
 collections:
 ### ARTICLES
   - name: "articles" # Used in routes, e.g. /admin/collections/blog
