@@ -8,7 +8,7 @@ description = ""
 config = "config.toml"
 contentdir = "content"
 # Create an array of files you don't want hugo to build
-ignoreFiles = []
+ignoreFiles = [".+/assets/scss/.+"]
 # Enable Logging
 log = false
 preserveTaxonomyNames = true
@@ -40,6 +40,9 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
   angledQuotes = false
   latexDashes = true
+
+[markup.goldmark.renderer]
+  unsafe= true
 
 [permalinks]
   singles = "/:slug/"

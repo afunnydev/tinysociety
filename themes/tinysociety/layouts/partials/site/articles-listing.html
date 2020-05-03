@@ -19,7 +19,7 @@
         <div class="post-head">
             <div class="post-meta clearfix">
                 <div class="author-date">
-                    <span class="date"><i class="icon-calendar"></i> <span class="post-date updated">{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span></span><span class="categories-icon"><i class="moon-category"></i> <span class="post-date updated">{{ range first 1 (.Params.categories) }}<a href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}">{{ . }}</a>{{ end }}</span></span>
+                    <span class="date"><i class="icon-calendar"></i> <span class="post-date updated">{{.Lastmod.Month}} {{ index $mydays .Lastmod.Day }}, {{.Lastmod.Year}}</span></span><span class="categories-icon"><i class="moon-category"></i> <span class="post-date updated">{{ range first 1 (.Params.categories) }}<a href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}">{{ . }}</a>{{ end }}</span></span>
                 </div>
                 <div class="category">
                     <span class="date"><i class="moon-timer"></i> <span class="post-date updated">Read time: {{.ReadingTime}} min</span></span>

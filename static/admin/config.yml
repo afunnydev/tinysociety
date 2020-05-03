@@ -45,6 +45,7 @@ collections:
       - {label: "Banner and share image (rectangle - 2700px by 1800px)", name: "image", widget: "image" , required: false}
       - {label: "Add a black overlay?", name: "overlay", widget: "boolean", required: false, default: true}
       - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "Update date", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD"}
       - name: notloaded
         label: "Loading effect"
         widget: object
@@ -57,7 +58,6 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Summary", name: "description", widget: "text"}
           - {label: "Square Image (square - 800px by 800px)", name: "image", widget: "image", required: false}
-      - {label: "Likes", name: "likes", widget: "string"}
       - label: "Categories" 
         name: "categories"
         widget: "select"

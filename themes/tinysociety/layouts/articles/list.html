@@ -38,7 +38,7 @@
                     <div class="column one column_blog">
                         <div class="blog_wrapper isotope_wrapper" >
                             <div class="posts_group lm_wrapper classic col-3">
-                            	{{ range $i, $e := (where $.Site.RegularPages "Type" "articles") }}
+                            	{{ range $i, $e := (where $.Site.RegularPages.ByLastmod.Reverse "Type" "articles") }}
                                 <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles">
                                     {{- partial "site/articles-listing.html" . -}}
                                 </div>

@@ -1,8 +1,7 @@
-# Redirect with a 200
-
 /plans /tiny-house-plans 301
 /plans/* /tiny-house-plans/:splat 301
 /articles/tiny-house-laws-in-the-us /articles/tiny-house-laws-united-states 301
+/articles/the-best-tiny-house-kits-on-the-market-in-2018 /articles/the-best-tiny-house-kits-on-the-market 301
 
 
 

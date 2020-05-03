@@ -30,7 +30,7 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-4 masonry tiles isotope">
-                                            {{ range $i, $e := (first 4 (where $.Site.RegularPages "Type" "articles")) }}
+                                            {{ range $i, $e := (first 4 (where $.Site.RegularPages.ByLastmod.Reverse "Type" "articles")) }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-hot-articles" onclick="location.href='{{- .Permalink -}}';">
                                                 {{- partial "site/articles-post.html" . $ -}}
                                             </div>
@@ -49,26 +49,13 @@
                     <div class="wrap mcb-wrap one  column-margin-30px valign-top clearfix">
                         <div class="mcb-wrap-inner">
                             <div class="column mcb-column one column_column">
-                                <div class="column_attr align_center{{ if .overlay }} overlayed{{ end }}" style=" background-color:#f0f1f2; background-image:url({{ .image }}); background-repeat:no-repeat; background-position:center center; padding:70px 7% 55px; background-size: cover;">
+                                <div class="column_attr align_center{{ if .overlay }} overlayed{{ end }}" style="background-color:#f0f1f2; background-image:url({{ .image }}); background-repeat:no-repeat; background-position:center center; padding:70px 7% 55px; background-size: cover;">
                                     {{ if .overlay }}<div class="black-overlay"></div>{{ end }}
                                     <h4 style="color: white">{{ .title }}</h4>
                                     <p class="description">{{ .description }}</p>
                                     <p class="author">- {{ .author }}</p>
                                 </div>
                             </div>
-                            <!-- <div class="column mcb-column one-third column_column">
-                                <div class="column_attr align_center" style=" background-color:#f0f1f2; padding:40px 7% 25px;">
-                                    <div class="image_frame image_item no_link scale-with-grid alignnone no_border">
-                                        <div class="image_wrapper"><img class="scale-with-grid" src="/images/home_lifestyle_featured_author.png" alt="" width="143" height="143" /> </div>
-                                    </div>
-                                    <hr class="no_line" style="margin: 0 auto 20px;" />
-                                    <h5 class="themecolor" style="margin-bottom: 7px;">Featured Author</h5>
-                                    <h2><a href="#">Mark Spencer</a></h2>
-                                    <p class="big">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit do eiusmod
-                                    </p>
-                                </div>
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -94,7 +81,7 @@
                                 <div class="column_filters">
                                     <div class="blog_wrapper isotope_wrapper clearfix">
                                         <div class="posts_group lm_wrapper col-3 masonry tiles isotope" style="background: #f0f1f2">
-                                            {{ $mytag := (.category) }}
+                                            {{ $mytag := .category }}
                                             {{ range first 3 (index $.Site.Taxonomies.categories $mytag).Pages }}
                                             <div class="post-item isotope-item clearfix post format-standard has-post-thumbnail category-people" onclick="location.href='{{- .Permalink -}}';">
                                               {{- partial "site/articles-post.html" . $ -}}

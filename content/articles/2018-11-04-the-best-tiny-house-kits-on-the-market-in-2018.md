@@ -1,18 +1,19 @@
 ---
-title: The Best Tiny House Kits on the Market in 2018
+title: The Best Tiny House Kits on the Market in 2020
 description: >-
   If you're thinking about joining the tiny house community but don't know a
   thing about construction, tiny house kits just might be the solution you've
   been waiting for.
-slug: the-best-tiny-house-kits-on-the-market-in-2018
+slug: the-best-tiny-house-kits-on-the-market
 author: kristen
 image: /img/tiny-house-kits-rec-edited.jpg
 overlay: true
+lastmod: '2020-05-03'
 date: '2018-11-04'
 notloaded:
   need: true
 listing:
-  title: The Best Tiny House Kits on the Market in 2018
+  title: The Best Tiny House Kits on the Market in 2020
   description: >-
     Building a tiny house from scratch takes time and patience. Unless you’re a
     professional contractor, the planning process alone can quickly become
