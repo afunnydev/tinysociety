@@ -7,7 +7,7 @@ description: List of tiny house builders in Mississippi. pictures and
 slug: tiny-house-builders-in-mississippi
 author: alexis
 overlay: true
-date: 2020-05-03
+date: 2020-05-03T00:00:00.000Z
 notloaded:
   need: true
 listing:
@@ -56,23 +56,23 @@ Mississippi is a state where laws regarding tiny houses vary a lot between citie
 
 <span class="figcaption">Image source: The Home Galery - Collins Model</span>
 
-The Home Gallery, LLC is a local dealer in Mississippi. They offer a wide selection of manufactured and modular homes, including a selection of tiny homes. They offer models from well known manufacturers like Cavalier, Clayton Savannah, Southern Energy, and TRUmh. If you are looking for a high quality tiny house made with quality materials, this is a great option for you. You can check out different models they offer on their website or on Instagram.
+The Home Gallery, is a local dealer in Mississippi. They offer a wide selection of manufactured and modular homes, including a selection of tiny homes. They offer models from well known manufacturers like Cavalier, Clayton Savannah, Southern Energy, and TRUmh. You can check out different models they offer on their website or on Instagram. You can also visit their design center to check out the models they have in inventory.
 
-**Location:** Bellingham, Washington
+**Location:** Saltillo, MS
 
-**Tiny houses on wheel**
+**Tiny houses on wheel :** No
 
-**Tiny houses on foundations:** No
+**Tiny houses on foundations:** Yes
 
 **Custom builds:** Yes
 
 **Certifications:** N/A
 
-**Tiny house financing partners:** N/A
+**Tiny house financing partners:** They offer multiple financing options
 
-**Price:**  Around 70 000$ US. Contact the builder for more details.
+**Price:**  Not specified. You need to contact them in order to get a quote.
 
-Contact [Big Freedom Tiny Homes](https://www.bigfreedomtinyhomes.com/) for more information!
+Contact [The Home Gallery](https://www.the-home-gallery.com/) for more information!
 
 ## Seattle Tiny Homes
 
