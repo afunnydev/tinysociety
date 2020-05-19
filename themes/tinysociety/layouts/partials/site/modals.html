@@ -93,18 +93,24 @@
                 <button type="button" class="close close-light" data-dismiss="modal"></button>
             </div>
             <div class="modal-body">
-                <div class="popup-title text-white mb-2">Get Inspired Monthly</div>  
-                <p class="popup-text text-white">Subscribe to get tiny house ideas, our latest news and awesome tips ✌</p>
-                <form class="form-subscribe form-inline justify-content-center" action="https://tinysociety.us7.list-manage.com/subscribe/post" method="POST">
-                    <input type="hidden" name="u" value="5dc026c37e348098dcbb9995f">
-                    <input type="hidden" name="id" value="9250b0de0e">
-                    <!-- <div class="form-group">
-                        <input type="text" name="MERGE1" class="b-radius-30" placeholder="First name (optionnal)" />
-                    </div> -->
+                <div class="popup-title text-white mb-2">Get Inspired</div>  
+                <p class="popup-text text-white">Download our COMPLETE Guide to Living in a Tiny House ✌</p>
+                <form class="form-subscribe form-inline justify-content-center" action="https://sendy.tinysociety.co/subscribe" method="POST">
                     <div class="form-group">
-                        <input type="text" name="MERGE0" class="form-control b-radius-30 email-address" placeholder="Enter your email" />
+                        <input type="text" name="name" class="b-radius-30 form-control" placeholder="First name (optionnal)" style="margin-bottom: 15px"/>
+                        <div style="display:none !important;">
+                            <label for="hp">HP</label><br/>
+                            <input type="text" name="hp" id="hp"/>
+                        </div>
                     </div>
-                    <button type="submit" class="btn bg-white position-absolute"><i class="moon-newsletter-subscribe" aria-hidden="true"></i></button>
+                    <div class="form-group">
+                        <input type="text" name="email" class="form-control b-radius-30 email-address" placeholder="Email" />
+                        <input type="hidden" name="list" value="BBVYKsDQpI5YVnFh3f3L3w"/>
+                        <input type="hidden" name="subform" value="yes"/>
+                    </div>
+                    <button type="submit" class="btn bg-white position-absolute" style="bottom: 7px; top: inherit;">
+                        <i class="moon-newsletter-subscribe" aria-hidden="true"></i>
+                    </button>
                 </form>
             </div>
         </div>
