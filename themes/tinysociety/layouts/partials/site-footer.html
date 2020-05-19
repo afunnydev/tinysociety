@@ -101,7 +101,7 @@
                             {{ range $i, $e := first 2 (where $.Site.RegularPages "Type" "articles") }}
                             <li class="post ">
                                 <a href="{{ .Permalink }}">
-                                    <div class="photo"><img src="/thumb{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" /><!-- <span class="c">{{ .Params.likes }}</span> -->
+                                    <div class="photo"><img src="/thumb{{ .Params.listing.image }}" class="scale-with-grid wp-post-image" alt="{{ .Params.listing.title }}" />
                                     </div>
                                     <div class="desc">
                                         <h6>{{ .Params.listing.title }}</h6><span class="date"><i class="icon-calendar"></i>{{.Date.Month}} {{ index $mydays .Date.Day }}, {{.Date.Year}}</span>

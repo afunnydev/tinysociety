@@ -27,7 +27,6 @@ categories:
   - Sustainable building and living
 i18nlanguage: en
 menuid: articles
-ordre: '1'
 infographic: false
 draft: false
 noindex: false
