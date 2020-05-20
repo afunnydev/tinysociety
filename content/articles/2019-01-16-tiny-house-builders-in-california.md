@@ -8,8 +8,8 @@ slug: tiny-house-builders-in-california
 author: molli
 image: /img/tiny-house-builders-cali-banner.jpg
 overlay: true
-date: 2019-01-16
-lastmod: 2020-05-03
+date: 2019-01-16T00:00:00.000Z
+lastmod: 2020-05-03T00:00:00.000Z
 notloaded:
   need: true
 listing:
@@ -70,7 +70,7 @@ Another family-owned business, this tiny house builder understands the power of 
 * **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** yes
 * **Custom builds:** yes
-* **Certifications:** RVIA (Recreational Vehicle Industry Association)
+* **Certifications:**  RV certified through Pacific West
 * **Tiny house financing partners:** no
 * **Price:** starting at $40,000 
 
