@@ -1,4 +1,4 @@
-{{- $.Scratch.Add "isNewsletter" true -}}
+{{- $.Scratch.Set "isNewsletter" "true" -}}
 {{- range $.Site.Data.cta.typeform -}}
 {{- if eq $.Params.slug .slug -}}
 {{- $.Scratch.Set "isNewsletter" false -}}

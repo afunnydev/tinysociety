@@ -14,37 +14,6 @@
 <!-- <script type="text/javascript">(function(o){var b="https://api.autopilothq.com/anywhere/",t="5819cc7568044eff84c61d8d91a9f5110dc7d04941a0488a9ce425b08a3406da",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script> -->
 <!-- ManyChat -->
 <script src="//widget.manychat.com/355919574911799.js" async="async"></script>
-
-{{ if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
-<!-- Start of Async Drift Code -->
-<script>
-"use strict";
-
-!function() {
-  var t = window.driftt = window.drift = window.driftt || [];
-  if (!t.init) {
-    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
-    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
-    t.factory = function(e) {
-      return function() {
-        var n = Array.prototype.slice.call(arguments);
-        return n.unshift(e), t.push(n), t;
-      };
-    }, t.methods.forEach(function(e) {
-      t[e] = t.factory(e);
-    }), t.load = function(t) {
-      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
-      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
-      var i = document.getElementsByTagName("script")[0];
-      i.parentNode.insertBefore(o, i);
-    };
-  }
-}();
-drift.SNIPPET_VERSION = '0.3.1';
-drift.load('csmgfmmvryez');
-</script>
-<!-- End of Async Drift Code -->
-{{ end }}
 {{ `<!--[if lt IE 9]>
 		<script src="/js/vendor/html5shiv.js"></script>
 		<script src="/js/vendor/jquery-1.12.0.min.js"></script>

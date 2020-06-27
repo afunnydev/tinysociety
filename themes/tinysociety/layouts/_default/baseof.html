@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{$.Lang}}">
-	{{- $.Scratch.Add "homePage" ("/" | absLangURL) -}}
-	{{- $.Scratch.Add "articlesPage" ("articles/" | absLangURL) -}}
-	{{- $.Scratch.Add "servicesPage" ("services/" | absLangURL) -}}
-	{{- $.Scratch.Add "faqPage" ("faq/" | absLangURL) -}}
-	{{- $.Scratch.Add "plansPage" ("tiny-house-plans/" | absLangURL) -}}
-	{{- $.Scratch.Add "includedPage" ("tiny-house-plans/whats-included/" | absLangURL) -}}
-	{{- $.Scratch.Add "termsPage" ("tiny-house-plans/terms-and-conditions/" | absLangURL) -}}
-	{{- $.Scratch.Add "privacyPage" ("tiny-house-plans/privacy-policy/" | absLangURL) -}}
+	{{- $.Scratch.Set "homePage" $.Site.BaseURL -}}
+	{{- $.Scratch.Set "articlesPage" ("articles" | absLangURL) -}}
+	{{- $.Scratch.Set "servicesPage" ("services" | absLangURL) -}}
+	{{- $.Scratch.Set "faqPage" ("faq" | absLangURL) -}}
+	{{- $.Scratch.Set "plansPage" ("tiny-house-plans" | absLangURL) -}}
+	{{- $.Scratch.Set "includedPage" ("tiny-house-plans/whats-included" | absLangURL) -}}
+	{{- $.Scratch.Set "termsPage" ("tiny-house-plans/terms-and-conditions" | absLangURL) -}}
+	{{- $.Scratch.Set "privacyPage" ("tiny-house-plans/privacy-policy" | absLangURL) -}}
 	{{- if eq .Lang "fr" -}}
-	{{- $.Scratch.Add "contactPage" ("contact/" | absLangURL) -}}
-	{{- $.Scratch.Add "aboutPage" ("a-propos/" | absLangURL) -}}
+	{{- $.Scratch.Set "contactPage" ("contact" | absLangURL) -}}
+	{{- $.Scratch.Set "aboutPage" ("a-propos" | absLangURL) -}}
 	{{- else if eq .Lang "en" -}}
-	{{- $.Scratch.Add "contactPage" ("contact-us/" | absLangURL) -}}
-	{{- $.Scratch.Add "writePage" ("write-for-us/" | absLangURL) -}}
-	{{- $.Scratch.Add "aboutPage" ("about-us/" | absLangURL) -}}
+	{{- $.Scratch.Set "contactPage" ("contact-us" | absLangURL) -}}
+	{{- $.Scratch.Set "writePage" ("write-for-us" | absLangURL) -}}
+	{{- $.Scratch.Set "aboutPage" ("about-us" | absLangURL) -}}
 	{{- end -}}
 	{{ partial "site-head.html" . }}
 	<body class="{{ if .IsHome }}template-slider {{ end }}{{ if (eq .Type "articles") }}single single-post single-format-standard {{ else if (eq .Kind "taxonomy") }}single single-post single-format-standard {{ end }}{{ if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}plan-page {{ end }}color-custom style-simple button-stroke layout-full-width if-border-hide no-content-padding header-center single-template-builder header-overlay header-transparent minimalist-header-no ab-hide subheader-both-center menu-link-color menuo-no-borders menuo-right mobile-tb-center mobile-mini-mr-ll be-reg-2062 {{ if .Params.mapsjs }}maps-body {{ end }}">
