@@ -48,7 +48,7 @@ Michigan is an excellent [place to live in a tiny house](https://www.tinysociety
 
 <span class="figcaption">Image source: [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/) <br>Model: Barto 2.0</span>  
 
-![Interior Michigan tiny homes](/img/interior-1.jpg "nterior Michigan tiny homesI")
+![Interior Michigan tiny homes](/img/interior-1-michigan-builders.jpg "nterior Michigan tiny homesI")
 
 <span class="figcaption">Image source: [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/)
 
