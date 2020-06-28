@@ -7,8 +7,8 @@ description: "Michigan is a tiny house friendly state when compared to others in
 slug: tiny-house-builders-in-michigan
 author: alexis
 overlay: true
-date: 2020-06-27
-lastmod: 2020-06-27
+date: 2020-06-27T00:00:00.000Z
+lastmod: 2020-06-27T00:00:00.000Z
 notloaded:
   need: true
 listing:
@@ -70,6 +70,5 @@ A family-run business accumulating over 20 years of experience with architecture
 
 Contact the builder [here](https://www.greatlakestinyhome.com/) for more information.
 
-## The Takeaway
-
-Finding the right tiny house builder for you isn’t an easy task. This is one of the most important steps of the tiny house process because ultimately, it’s a choice that decides whether your dream home becomes a reality or not. The number of qualified tiny house builders out there is steadily growing. Be sure to do your research, and even schedule a chat with several of the builders before committing to one. Our biggest advice? Don’t rush the process. Enjoy it. Having your own tiny home built to your exact specifications is a moment that you’ll want to remember for the rest of your life.
+## Did we forget your favorite builder?
+Did you have a pleasant experience with a tiny house builder in Mississippi? Or do you think we forgot one builder that should make the list? We would love to know about them! You can write to us here to tell us about it!
