@@ -46,19 +46,19 @@ Michigan is an excellent [place to live in a tiny house](https://www.tinysociety
 
 ![The barto 2.0  model picture](/img/the-barto-2.0-ext-1.jpg "The barto 2.0 ext-2")
 
-<span class="figcaption">Image source: [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/) <br>Model: Barto 2.0</span>  
+<span class="figcaption">Image source: Great Lakes Tiny Homes <br>Model: Barto 2.0</span>  
 
 ![Interior Michigan tiny homes](/img/interior-1-michigan-builders.jpg "nterior Michigan tiny homesI")
 
-<span class="figcaption">Image source: [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/)
+<span class="figcaption">Image source: Great Lakes Tiny Homes
 
 ![The Huron model picture](/img/the-huron-ext-1.jpg "The huron exterior picture")
 
-<span class="figcaption">Image source: [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/) <br>Model: The Huron</span>  
+<span class="figcaption">Image source: Great Lakes Tiny Homes <br>Model: The Huron</span>  
 
 ![The Brooklyn model picture](/img/the-brooklyn-ext-1.jpg "The Brooklyn model picture exterior-1")
 
-<span class="figcaption">Image source: [Great Lakes Tiny Homes](https://www.greatlakestinyhome.com/) <br>Model: The Brooklyn</span>  
+<span class="figcaption">Image source: Great Lakes Tiny Homes <br>Model: The Brooklyn</span>  
 
 A family-run business accumulating over 20 years of experience with architecture, design, construction and carpentry. They offer different models of tiny houses inspired by the great outdoors of Michigan and surrounding regions. The beautiful rustic contemporary designed tiny homes are also designed for colder weather! 
 
@@ -72,9 +72,41 @@ A family-run business accumulating over 20 years of experience with architecture
 
 Contact the builder [here](https://www.greatlakestinyhome.com/) for more information.
 
-## Dickson Homes
+## Dickinson Homes
 
-![The barto 2.0  model picture](/img/the-barto-2.0-ext-2.jpg "The barto 2.0 ext-1")
+![Dickinson homes-exterior 1](/img/tiny-cabin-1-1-.jpg "Dickinson homes-exterior 1")
+
+<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)[Dickinson Homes](https://dickinsonhomes.com/)
+
+![Interior Dickinson Homes -1](/img/interior-dickinson-homes.jpg "Interior Dickinson Homes -1")
+
+<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+
+![Interior Dickinson Homes -2](/img/living-room-dickinson-homes.jpg "Interior Dickinson Homes -2")
+
+<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+
+![Exterior-Dickinson-homes-2](/img/exterior-dickinson-homes.jpg "Exterior-Dickinson-homes-2")
+
+<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+
+![Bathroom-Dickinson-homes-1](/img/bathroom-dickinson-homes.jpg "Bathroom-Dickinson-homes-1")
+
+<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+
+Dickinson Homes is focused on building modular homes since 1970. Since 2013, they offer tiny homes with two customizable models: the modern tiny house and the rustic tiny house. With 45 years of experience, and more than 5000 projects completed, they are a leader in modular construction in Michigan. They also deliver to Minnesota, Wisconsin & Michigan.
+
+* **Location:** Iron Mountain, Michigan
+* **Tiny houses on wheels:** no
+* **Tiny houses on foundations:** yes
+* **Custom builds:** yes
+* **Certifications and warranty:** 15 year structural warranty on the home
+* **Tiny house financing partners:** N/A
+* **Price:** Depends on the model. You need to contact them in order to get the price for your build.
+
+Contact the builder [here ](https://dickinsonhomes.com/tiny-homes/)for more information.
+
+
 
 ## Did we forget your favorite builder?
 
