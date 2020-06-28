@@ -6,6 +6,7 @@ description: "Michigan is a tiny house friendly state when compared to others in
   their projects in this article! "
 slug: tiny-house-builders-in-michigan
 author: alexis
+image: /img/tiny-society-featured-image-2700x1800.png
 overlay: true
 date: 2020-06-27T00:00:00.000Z
 lastmod: 2020-06-27T00:00:00.000Z
@@ -17,6 +18,7 @@ listing:
     the USA. Lots of tiny house builders offer quality construction either on
     wheels or on fixed foundations. Learn more about them and browse pictures of
     their projects in this article! "
+  image: /img/tiny-society-square-image-800x800.png
 categories:
   - Tiny houses
 i18nlanguage: en
@@ -70,5 +72,10 @@ A family-run business accumulating over 20 years of experience with architecture
 
 Contact the builder [here](https://www.greatlakestinyhome.com/) for more information.
 
+## Dickson Homes
+
+![The barto 2.0  model picture](/img/the-barto-2.0-ext-2.jpg "The barto 2.0 ext-1")
+
 ## Did we forget your favorite builder?
+
 Did you have a pleasant experience with a tiny house builder in Mississippi? Or do you think we forgot one builder that should make the list? We would love to know about them! You can write to us here to tell us about it!
