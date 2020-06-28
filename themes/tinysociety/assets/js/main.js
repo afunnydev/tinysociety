@@ -145,7 +145,7 @@ jQuery( document ).ready(function($) {
   //   $('#Overlay #give-what-you-want').css('margin-top', '-' + menuH + 'px');
   // });
 
-  $('.form-caboose, .close-overlay-article').click(function(e) {
+  $('.form-caboose, .close-overlay-article, .form-builder').click(function(e) {
     e.preventDefault();
     $('#typeform-overlay').fadeToggle(500);
     $('.__typeform-embed-mobile-modal-open').removeClass('__typeform-embed-mobile-modal-open');

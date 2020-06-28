@@ -101,13 +101,14 @@ jQuery(window).load(function() {
 <script src="/js/main.min.js"></script>
 {{ end }}
 <script id="mfn-dnmc-retina-js">
+  {{- $alternate := (or (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) (eq .Type "builders")) -}}
     jQuery(window).load(function() {
         var retina = window.devicePixelRatio > 1 ? true : false;
         if (retina) {
             var retinaEl = jQuery("#logo img.logo-main");
             var retinaLogoW = retinaEl.width();
             var retinaLogoH = retinaEl.height();
-            {{ if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
+            {{ if $alternate }}
             retinaEl.attr("src", "/img/logo-tiny-house.png").width(retinaLogoW).height(retinaLogoH);
             {{ else }}
             retinaEl.attr("src", "/img/logo-white-tiny-house.png").width(retinaLogoW).height(retinaLogoH);
@@ -115,7 +116,7 @@ jQuery(window).load(function() {
             var stickyEl = jQuery("#logo img.logo-sticky");
             var stickyLogoW = stickyEl.width();
             var stickyLogoH = stickyEl.height();
-            {{ if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
+            {{ if $alternate }}
             stickyEl.attr("src", "/img/logo-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
             {{ else }}
             stickyEl.attr("src", "/img/logo-white-tiny-house.png").width(stickyLogoW).height(stickyLogoH);
@@ -123,7 +124,7 @@ jQuery(window).load(function() {
             var mobileEl = jQuery("#logo img.logo-mobile");
             var mobileLogoW = mobileEl.width();
             var mobileLogoH = mobileEl.height();
-            {{ if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
+            {{ if $alternate }}
             mobileEl.attr("src", "/img/logo-tiny-house.png").width(mobileLogoW).height(mobileLogoH);
             {{ else }}
             mobileEl.attr("src", "/img/logo-white-tiny-house.png").width(mobileLogoW).height(mobileLogoH);

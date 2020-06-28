@@ -49,7 +49,8 @@
                             <p class="popup-text mb-0">Discover our selection of plans from builders all around the world.</p>
                         </div>
                         <div class="col align-self-center">
-                            <button class="btn ml-5 text-white" id="to-plan-button" onclick="location.href='{{ $.Scratch.Get "plansPage" }}'">Our Plans</button>
+                            {{- $plansPage := $.Scratch.Get "plansPage" }}
+                            <button class="btn ml-5 text-white" id="to-plan-button" onclick="location.href='{{ $plansPage }}'">Our Plans</button>
                         </div>
                     </div>
                 </div>       

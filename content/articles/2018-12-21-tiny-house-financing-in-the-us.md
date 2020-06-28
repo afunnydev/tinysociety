@@ -34,7 +34,7 @@ draft: false
 noindex: false
 hincluded: true
 ---
-## So, you’ve found the perfect tiny house to call home. What happens next?
+So, you’ve found the perfect tiny house to call home. What happens next?
 
 ## Tiny home financing
 

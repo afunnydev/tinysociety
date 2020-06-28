@@ -1,0 +1,145 @@
+{{ define "main" }}
+<div class="content_wrapper clearfix" id="plan-list">
+    <div class="sections_group">
+        <div class="entry-content">
+            {{ with .Params.section1 }}
+            <div class="section mcb-section" style="padding-top:40px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color">
+                                <div class="hover_color_bg" style="background:white; text-align: center; padding-bottom: 25px; border-bottom: 1px solid #d8d8d8;">
+                                    <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                        <h4 style="margin: 0; text-align: center; font-size: 30px; line-height: 34px">{{ .title }}</h4>
+                                    </div>
+                                    <p class="why-our-plans-description">
+                                        {{- .description -}}
+                                    </p>
+                                    <a class="button button_theme button_js form-builder" href="#3-quotes">
+                                        <span class="button_label">Get 3 quotes</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .Params.section2 }}
+            <div class="section mcb-section" style="padding-top:40px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_bg" style="background:white;">
+                                    <div class="hover_color_wrapper" style="padding: 0 20px 30px;">
+                                        <h4 style="margin: 0; text-align: center; font-size: 30px; line-height: 34px">{{ .title }}</h4>
+                                    </div>
+                                    <p class="why-our-plans-description">
+                                        {{- .description -}}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one" style="padding-bottom: 35px; border-bottom: 1px solid #d8d8d8;">
+                                <div class="column_filters">
+                                    <div class="mcb-wrap-inner">
+                                        {{ range .hiw }}
+                                        <div class="column mcb-column one-third column_column why-us">
+                           					<div class="column_attr">
+                           						<h5>{{- .title -}}</h5>
+                           						<p class="description">{{ .description }}</p>
+                                          	</div>
+                                        </div>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one" style="padding-top: 40px;">
+                                <div class="column_filters">
+                                    <div class="mcb-wrap-inner">
+                                        {{ range .icons }}
+                                        <div class="column mcb-column one-third column_column why-us">
+                           					<div class="column_attr">
+                           						<div style="width: 50px; margin: 10px auto;">
+                                                    {{- partial (printf "icons/%s.html" .icon) -}}	
+                                                </div>
+                           						<h5>{{- .title -}}</h5>
+                           						<p class="description">{{ .description }}</p>
+                                          	</div>
+                                        </div>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one column_hover_color">
+                                <div class="hover_color_bg" style="background:white; text-align: center; padding-top: 50px; padding-bottom: 25px; border-bottom: 1px solid #d8d8d8;">
+                                    <a class="button button_theme button_js form-builder" href="#3-quotes">
+                                        <span class="button_label">Get 3 quotes</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .Params.sectionfaq }}
+            <div class="section mcb-section" style="padding-top:40px; padding-bottom:70px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_bg" style="background:white;">
+                                    <div class="hover_color_wrapper" style="padding:30px 20px;">
+                                        <h4 style="margin: 0; text-align: center; font-size: 30px; line-height: 34px">{{ .title }}</h4>
+                                    </div>
+                                    <p class="why-our-plans-description">
+                                        {{- .description | markdownify -}}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column mcb-column one">
+                                <div class="column_filters">
+                                    <div class="mcb-wrap-inner">
+                                        <ul id="accordion">
+                                            {{ range $i, $e := .faq }}
+                                            <li>
+                                                <a class="toggle" href="javascript:void(0);">{{ $e.question }}</a>
+                                                <div class="inner">
+                                                  {{ $e.answer | markdownify }}
+                                                </div>
+                                            </li>
+                                            {{ end }}
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .Params.section3 }}
+            <div class="section mcb-section" style="padding-top:0px; padding-bottom:30px; background-color:white">
+                <div class="section_wrapper mcb-section-inner">
+                    <div class="wrap mcb-wrap one column-margin-0px valign-top clearfix" style="border: 1px solid #EBEBEB; text-align: center;">
+                        <div class="mcb-wrap-inner">
+                            <div class="column mcb-column one column_hover_color ">
+                                <div class="hover_color_wrapper plan-list-support" style="padding:30px 20px;">
+                                    <h5 style="margin: 0 0 30px;">{{ .title }}</h5>
+                                    <div class="middle-text">
+                                    	{{ .description | markdownify }}
+                                    </div>
+                                    <span>{{ .ctaline | markdownify }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+		</div>
+    </div>
+</div>
+{{- partial "site/typeform-overlay.html" (dict "context" . "typeformeid" "tRPuNe") -}}	
+{{ end }}

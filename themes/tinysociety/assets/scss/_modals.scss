@@ -200,7 +200,7 @@
     }
     .typeform-widget {
         margin-top: 50px;
-        height: 500px;
+        height: 100%;
         [data-qa="close-button-mobile"] {
             display: none !important;
         }
@@ -223,7 +223,7 @@
 @media only screen and (max-width: 767px) {
     #typeform-overlay {
         .typeform-widget {
-            height: 350px;
+            height: calc(100% - 60px);
         }
     }
 }

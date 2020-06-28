@@ -1,5 +1,5 @@
 /******** SHOP *********/
-body.no-content-padding:not(.with_aside).plan-page {
+body.no-content-padding:not(.with_aside).plan-page, body.no-content-padding:not(.with_aside).builders-page {
 	// #plan, #shop {
 	// 	padding-top: 150px !important;
 	// }
@@ -15,7 +15,7 @@ body.no-content-padding:not(.with_aside).plan-page {
 }
 
 /******** PLAN *********/
-.plan-page {
+.plan-page, .builders-page {
 	&.header-overlay .overlay-menu-toggle {
 		left: inherit;
 		right: 30px;
@@ -1025,7 +1025,7 @@ ul#accordion {
 }
 
 @media only screen and (max-width: 767px) {
-	body.no-content-padding:not(.with_aside).plan-page {
+	body.no-content-padding:not(.with_aside).plan-page, body.no-content-padding:not(.with_aside).builders-page {
 		// #plan, #shop {
 		// 	padding-top: 100px !important;
 		// }
@@ -1033,7 +1033,7 @@ ul#accordion {
 			color: $brown !important;
 		}
 	}
-	.plan-page {
+	.plan-page, .builders-page {
 		&.header-overlay .overlay-menu-toggle {
 			display: block !important;
 		}

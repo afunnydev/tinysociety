@@ -29,7 +29,7 @@ infographic: false
 draft: false
 noindex: false
 ---
-**I lived in a shed in South Africa for three years. **
+**I lived in a shed in South Africa for three years.**
 
 You may be wondering how on earth this living situation came about--let me fill you in. For two years I worked for a non-profit organization just outside of beautiful Cape Town, South Africa. For two years, I lived with my fellow colleagues in a house with volunteers from all over the world. While it was certainly an incredible experience; the moment one of the sheds on the property became available I immediately moved in and never looked back. Based on my personal experience, check out these 13 reasons why you should be living in a shed.
 
@@ -64,7 +64,9 @@ While similar to not having roommates; having independence is a whole different 
 
 ## It’s Easier to Live Legally
 
-There are a wide variety of prefabricated sheds on the market, meaning finding one that fits your exact specifications shouldn’t be difficult. Building codes in most locations make it difficult to build your own tiny home to live in legally. By purchasing one of the many available tiny sheds, you’ll find there are far less restrictions. 
+There are a wide variety of prefabricated sheds on the market, meaning finding one that fits your exact specifications shouldn’t be difficult. Building codes in most locations make it difficult to build your own tiny home to live in legally. By purchasing one of the many available tiny sheds, you’ll find there are far less restrictions.
+
+Just remember that depending on the state or city you live in, you may need to get a building permit first. Check out [this awesome list](https://shedplans.org/shed-permit/) to learn more about getting a building permit in your state or city.
 
 ## You Leave a Tinier Footprint
 
