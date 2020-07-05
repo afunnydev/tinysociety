@@ -15,7 +15,7 @@ notloaded:
   need: true
 listing:
   title: How to Live a Minimalist Lifestyle
-  description: ' Minimalism is a way of living that assists people in placing value on the things in their life. It helps people to decide what’s important and what isn’t. By removing the things that add clutter to our lives we are able to refocus on things like self improvement, relationships, and passions. You could say that minimalism acts as a clean slate for creating a full, and meaningful life. A minimalist lifestyle focuses on the idea of freedom in owning less. Let’s take a look at some of the pros and cons to this way of living.'
+  description: 'Minimalism is a way of living that assists people in placing value on the things in their life. It helps people to decide what’s important and what isn’t. By removing the things that add clutter to our lives we are able to refocus on things like self improvement, relationships, and passions. You could say that minimalism acts as a clean slate for creating a full, and meaningful life. A minimalist lifestyle focuses on the idea of freedom in owning less. Let’s take a look at some of the pros and cons to this way of living.'
   image: /img/how-to-live-minimalist-lifestyle-3.jpg
 likes: '50'
 categories:
@@ -30,7 +30,7 @@ noindex: false
 ---
 What do you think about when you think of minimalism? Do you think about stark rooms with nothing in them? Or do you picture cold, sterile spaces void of color? 
 
-While it’s true that a minimalist space lacks an abundance of objects in a room--it doesn’t mean the room needs to feel cold or unfriendly. You may be asking yourself, _what is minimalism? _Minimalism is a way of living that assists people in placing value on the things in their life. It helps people to decide what’s important and what isn’t. By removing the things that add clutter to our lives we are able to refocus on things like self improvement, relationships, and passions. You could say that minimalism acts as a clean slate for creating a full, and meaningful life.
+While it’s true that a minimalist space lacks an abundance of objects in a room--it doesn’t mean the room needs to feel cold or unfriendly. You may be asking yourself, _what is minimalism?_ Minimalism is a way of living that assists people in placing value on the things in their life. It helps people to decide what’s important and what isn’t. By removing the things that add clutter to our lives we are able to refocus on things like self improvement, relationships, and passions. You could say that minimalism acts as a clean slate for creating a full, and meaningful life.
 
 ![null](/img/how-to-live-minimalist-lifestyle-4.jpg)
 
@@ -40,8 +40,8 @@ A minimalist lifestyle focuses on the idea of freedom in owning less. Let’s ta
 
 **Pros:**
 
-* **Less clutter. **While it may seem like the obvious pro, it definitely is an important one. Owning less stuff is a fundamental part of minimalism, and will greatly improve your outlook on life.
-* **Save money. **When you decrease clutter, you’ll spend less money on stuff!
+* **Less clutter.** While it may seem like the obvious pro, it definitely is an important one. Owning less stuff is a fundamental part of minimalism, and will greatly improve your outlook on life.
+* **Save money.** When you decrease clutter, you’ll spend less money on stuff!
 * **You’re in control.** You get to decide what minimalism means to you. You also are more aware of your personal belongings and their value to your life.
 
 **Cons:**
@@ -52,31 +52,31 @@ A minimalist lifestyle focuses on the idea of freedom in owning less. Let’s ta
 
 So why live this way? Freedom is a good reason. Freedom is also why minimalism is so compatible when it comes to tiny living. Tiny living lacks the square footage to accommodate an overabundance of personal belongings. Clutter makes tiny living uncomfortable, and nearly impossible. Living a minimalist lifestyle in a tiny house gives you the freedom to focus on the important things in life. _To make living a priority_, rather than material things.
 
-## **How do I start living a minimalist lifestyle?**
+## How do I start living a minimalist lifestyle?
 
 The first step to living a minimalist lifestyle is to get rid of unnecessary stuff. For instance, most people own duplicates of things like books, pictures, movies...the list goes on. Get rid of those extras. Make keep, give away, and toss piles. Go through all of your stuff and decide on the things you use daily. A good rule of thumb when it comes to clothes is if you haven’t worn it in the last two months (excluding seasonal wear) then you should give it away. 
 
-## **Keep time to do what you really love.**
+## Keep time to do what you really love.
 
 Minimalism isn’t all about decluttering. It’s more about finding a way to refocus or re-prioritize what’s important in your life. By living a minimalist lifestyle, you will gain knowledge in living mindfully and meaningfully. By doing the things you enjoy, you’ll find this also counts as meaningful living. It all goes hand-in-hand. Minimalism is living a meaningful life, and in return, you’ll be able to make meaningful choices about your time. 
 
-## **Make yourself a minimalist bedroom.**
+## Make yourself a minimalist bedroom.
 
 ![null](/img/how-to-live-minimalist-lifestyle-1.jpg)
 
 Your bedroom should be your personal oasis. However, in a tiny house, you’re likely working with a loft or other small space. This is where minimalism really comes in handy. Let’s start by looking at some useful tips for incorporating minimalism in your tiny house bedroom.
 
-* **Don’t add too much color. **Use a neutral color palette of white or cream to give your tiny bedroom a clean, open look.
+* **Don’t add too much color.** Use a neutral color palette of white or cream to give your tiny bedroom a clean, open look.
 * **Don't put a lamp on the bedside table.** There wouldn’t be room for one anyway! Instead, hang string lights for some simple ambiance. 
 * **Expose your clothes.** A [minimalist wardrobe](< https://www.tinysociety.co/articles/how-to-create-your-minimalist-wardrobe/>) is important here. Consider the metal bar from a rolling clothes rack or some narrow, exposed shelving for storing your staple clothing options. 
-* **Use multi-purpose furniture. **A tiny house bedroom doesn’t have space for much; but a short, all white footstool can make the perfect bedside table.
+* **Use multi-purpose furniture.** A tiny house bedroom doesn’t have space for much; but a short, all white footstool can make the perfect bedside table.
 * **Books for reading, books for art.** Old books can make a minimalist space look visually appealing, or be used as a low table.
 
 ## Build your own Swiss-Army knife kitchen.
 
 A tiny house doesn’t offer enough space for all of the appliances you would have in the kitchen of a residential home. Particularly in a tiny house on wheels, you’ll want to go as light as possible. Just like a Swiss Army knife, this kitchen folds up and can contain everything you need to cook a meal. We wrote an article about this folding kitchen, as well as some other [great furniture tips](https://www.tinysociety.co/articles/6-pieces-of-furniture-you-need-in-your-tiny-house/) for a tiny!
 
-**_The minimalist lifestyle is largely up to interpretation. _**
+**The minimalist lifestyle is largely up to interpretation.**
 
 Minimalism can also be extended into the space of the food we eat and the power we consume. Tiny house enthusiasts who are interested in wasting as little as possible, can continue reading to learn more about how minimalism can affect the way we look at food and power. 
 
