@@ -40,6 +40,9 @@
                     <li class="{{ if eq .Params.menuid "plans" }}current-menu-item{{ end }}">
                         <a href='{{ $.Scratch.Get "plansPage" }}'>Tiny House Plans.</a>
                     </li>
+                    <li class="{{ if eq .Params.menuid "builders" }}current-menu-item{{ end }}">
+                        <a href='{{ $.Scratch.Get "buildersPage" }}'>Tiny House Builders.</a>
+                    </li>
                     {{ end }}
                     <!-- <li class="buy-now-btn">
                         <a target="_blank" href="#">Tiny House Plans</a>
