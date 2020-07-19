@@ -66,9 +66,9 @@ A family-run business accumulating over 20 years of experience with architecture
 * **Tiny houses on wheels:** yes
 * **Tiny houses on foundations:** yes
 * **Custom builds:** yes
-* **Certifications:** Members of [Home Builders Association of Central Michigan ](http://hbacm.com/)
+* **Certifications:** Members of [Home Builders Association of Central Michigan](http://hbacm.com/)
 * **Tiny house financing partners:** N/A
-* **Price:** Full tiny house models form 42 000$ to 74 000$. Everything is well documented on their website. 
+* **Price:** Full tiny house models from 42 000$ to 74 000$. Everything is well documented on their website. 
 
 Contact the builder [here](https://www.greatlakestinyhome.com/) for more information.
 
@@ -76,23 +76,23 @@ Contact the builder [here](https://www.greatlakestinyhome.com/) for more informa
 
 ![Dickinson homes-exterior 1](/img/tiny-cabin-1-1-.jpg "Dickinson homes-exterior 1")
 
-<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)[Dickinson Homes](https://dickinsonhomes.com/)
+<span class="figcaption">Image source: [Dickinson Homes](https://dickinsonhomes.com/)
 
 ![Interior Dickinson Homes -1](/img/interior-dickinson-homes.jpg "Interior Dickinson Homes -1")
 
-<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+<span class="figcaption">Image source: [Dickinson Homes](https://dickinsonhomes.com/)
 
 ![Interior Dickinson Homes -2](/img/living-room-dickinson-homes.jpg "Interior Dickinson Homes -2")
 
-<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+<span class="figcaption">Image source: [Dickinson Homes](https://dickinsonhomes.com/)
 
 ![Exterior-Dickinson-homes-2](/img/exterior-dickinson-homes.jpg "Exterior-Dickinson-homes-2")
 
-<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+<span class="figcaption">Image source: [Dickinson Homes](https://dickinsonhomes.com/)
 
 ![Bathroom-Dickinson-homes-1](/img/bathroom-dickinson-homes.jpg "Bathroom-Dickinson-homes-1")
 
-<span class="figcaption">Image source: [](https://www.greatlakestinyhome.com/)Dickinson Homes
+<span class="figcaption">Image source: [Dickinson Homes](https://dickinsonhomes.com/)
 
 Dickinson Homes is focused on building modular homes since 1970. Since 2013, they offer tiny homes with two customizable models: the modern tiny house and the rustic tiny house. With 45 years of experience, and more than 5000 projects completed, they are a leader in modular construction in Michigan. They also deliver to Minnesota, Wisconsin & Michigan.
 
