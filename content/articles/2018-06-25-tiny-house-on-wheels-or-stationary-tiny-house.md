@@ -1,32 +1,31 @@
 ---
 title: Tiny House on Wheels or Stationary Tiny House?
-description: >-
-  Whether it is mobility, size or materials, discover the key points to consider
-  when you need to decide between the flexibility of a tiny house on wheels and
-  the stability of a stationary tiny house.
+description: Whether it is mobility, size or materials, discover the key points
+  to consider when you need to decide between the flexibility of a tiny house on
+  wheels and the stability of a stationary tiny house.
 slug: tiny-house-on-wheels-or-stationary-tiny-house
 author: michelleg
 image: /img/tiny-house-9.jpg
 overlay: true
-date: '2018-06-19'
+date: 2018-06-19
+lastmod: 2022-11-25
 notloaded:
   need: true
 listing:
   title: Tiny House on Wheels or Stationary Tiny House?
-  description: >-
-    Whether it is mobility, size or materials, discover the key points to
-    consider when you need to decide between the flexibility of a tiny house on
-    wheels and the stability of a stationary tiny house.
+  description: Whether it is mobility, size or materials, discover the key points
+    to consider when you need to decide between the flexibility of a tiny house
+    on wheels and the stability of a stationary tiny house.
   image: /img/tiny-house-9-square.jpg
-likes: '97'
 categories:
   - Sustainable building and living
   - Energy efficiency
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 draft: false
 noindex: false
+ordre: "0"
+likes: "97"
 ---
 Ah, the eternal question. It's right up there with "To be or not to be," or "Should I stay or should I go?" Okay, maybe not, but it IS one of the first decisions to make when embarking upon the Tiny House life.
 
@@ -219,12 +218,13 @@ Although considered somewhat controversial, the concept of earthing (or groundin
 There are several ways to ground yourself naturally:
 
 * Walking barefoot on the ground, in places such as:
+
   * Sandy beaches
   * Grass
   * Dirt trails
   * Rocky shores
   * Concrete (but not asphalt)
-* Wearing conductive footwear (leather soles or special 'earthing' shoes)
+* Wearing conductive footwear ([leather soles](https://leatherial.com/why-do-expensive-mens-shoes-have-leather-soles/) or special 'earthing' shoes)
 * Sitting or lying on the bare ground (preferably with some skin in contact with the earth)
 
 ### How do I implement it in my Tiny House?
