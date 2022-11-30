@@ -9,27 +9,28 @@ slug: eesentials-things-to-have-in-a-tiny-house-kitchen
 author: michelleg
 image: /img/kitchen-cover-image.jpg
 overlay: true
-date: '2018-07-31'
+date: 2018-07-31
+lastmod: 2022-11-30
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: Essential Things to Have in a Tiny House Kitchen
-  description: >-
-    What to include in a Tiny House kitchen is a highly personal decision. For
-    those of us who find joy and satisfaction in creating a good home-cooked
-    meal, my aim here is to show that it’s possible to include almost everything
-    but —or rather, including— the kitchen sink in a Tiny House kitchen. 
+  description: "What to include in a Tiny House kitchen is a highly personal
+    decision. For those of us who find joy and satisfaction in creating a good
+    home-cooked meal, my aim here is to show that it’s possible to include
+    almost everything but —or rather, including— the kitchen sink in a Tiny
+    House kitchen. "
   image: /img/kitchen-square-image.jpg
-likes: '32'
 categories:
   - Tiny houses
   - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "32"
 ---
 For those of us who carry a deep passion for cooking, consider ourselves diehard foodies, can name fifteen different food blogs that we religiously follow, and lit a candle at the passing of Anthony Bourdain, the idea of downsizing to a Tiny House kitchen can be rather traumatic. 
 
@@ -61,7 +62,7 @@ Here’s a list of items to think about when planning a Tiny House kitchen. Not 
 * Dishwasher or dish drying rack
 * Storage for cooking utensils
 * Storage for pots and pans
-* Storage for cleaning supplies- dish soap, kitchen towels, etc.
+* Storage for [cleaning supplies](https://www.thecrownchoice.com/cleaning-supplies/)- dish soap, kitchen towels, etc.
 * Kitchen small appliances
 * Mini bar? (come on, some of you were thinking about this one from the very start- how will you manage without your martini shaker, shot glass collection, and that bottle of Tanqueray?)
 
