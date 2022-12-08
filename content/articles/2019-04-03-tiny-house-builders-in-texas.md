@@ -1,35 +1,34 @@
 ---
 title: Tiny House Builders in Texas
-description: >-
-  Everything's bigger in Texas...except for tiny houses. With a number of
-  excellent tiny house builders and a booming tiny house community, Texas is a
-  top stop for anyone interested in tiny living. 
+description: "Everything's bigger in Texas...except for tiny houses. With a
+  number of excellent tiny house builders and a booming tiny house community,
+  Texas is a top stop for anyone interested in tiny living. "
 slug: tiny-house-builders-in-texas
 author: molli
 image: /img/texas_builders_banner.jpg
 overlay: true
-date: '2019-04-03'
+date: 2019-04-03
+lastmod: 2022-12-08
 notloaded:
   need: true
 listing:
   title: Tiny House Builders in Texas
-  description: >-
-    Everything's bigger in Texas...except for tiny houses. With fairly relaxed
-    tiny house laws, this state is a true destination for anyone interested in
-    tiny living. Without further ado, let's take a look at some of the top tiny
-    house builders in Texas. 
+  description: "Everything's bigger in Texas...except for tiny houses. With fairly
+    relaxed tiny house laws, this state is a true destination for anyone
+    interested in tiny living. Without further ado, let's take a look at some of
+    the top tiny house builders in Texas. "
   image: /img/texas_builders_square.jpg
-likes: '22'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: 0
 infographic: false
 draft: false
 noindex: false
 hincluded: false
 mapsjs: false
+ordre: 0
+likes: "22"
 ---
 As mentioned in our previous article, [How to Find a Tiny House Builder](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), not all tiny houses are created equal. And by that, we mean that there are some key points to consider before choosing the right builder for your project. Here’s a refresher on the most important points to consider:
 
@@ -38,9 +37,9 @@ As mentioned in our previous article, [How to Find a Tiny House Builder](https:/
 * **What kinds of material do they use?** Take a look at some of the tiny houses they built in the past. Make sure they use quality materials that will make your tiny house last!
 * **Have they built a lot of tiny houses?** Tiny house builders often come from other types of building backgrounds, and may not know what’s what (even if they claim to). Make sure they’ve built other tiny houses before.
 
-Everything's bigger in Texas...except for tiny houses. This larger than life state has a number of experienced tiny house builders, and fairly [relaxed tiny house laws](https://www.tinysociety.co/articles/tiny-house-laws-united-states/). And there’s more than just cowboy boots and tumbleweeds in this state! As the second largest state in the U.S., Texas boasts lively cities, spectacular water activities, and plenty of country roads for road tripping. Without further ado, here are some of the top tiny house builders in the great state of Texas.
+Everything's bigger in Texas...except for tiny houses. This larger than life state has a number of experienced tiny house builders, and fairly [relaxed tiny house laws](https://www.tinysociety.co/articles/tiny-house-laws-united-states/). And there’s more than just cowboy boots and tumbleweeds in this state! As the second largest state in the U.S., Texas boasts lively cities, spectacular water activities, and plenty of country roads for [road tripping](https://www.discovercars.com/blog/us-road-trips-2022). Without further ado, here are some of the top tiny house builders in the great state of Texas.
 
-## TexZen Tiny Home Co. 
+## TexZen Tiny Home Co.
 
 ![](/img/texzen.jpeg)
 
@@ -58,7 +57,7 @@ Located in the heart of Texas, this tiny house builder offers the highest qualit
 
 Contact the builder [here](http://texzentinyhomes.com/contact/) for more information.
 
-## Small Dwelling Co. 
+## Small Dwelling Co.
 
 ![](/img/smalldwelling.jpg)
 
