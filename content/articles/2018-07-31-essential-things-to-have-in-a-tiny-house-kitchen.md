@@ -32,7 +32,7 @@ noindex: false
 ordre: "0"
 likes: "32"
 ---
-For those of us who carry a deep passion for cooking, consider ourselves diehard foodies, can name fifteen different food blogs that we religiously follow, and lit a candle at the passing of Anthony Bourdain, the idea of downsizing to a Tiny House kitchen can be rather traumatic. 
+For those of us who carry a deep passion for cooking, consider ourselves diehard foodies, can name fifteen different [food blogs](https://mealfan.com/blog/) that we religiously follow, and lit a candle at the passing of Anthony Bourdain, the idea of downsizing to a Tiny House kitchen can be rather traumatic. 
 
 But I’m here to tell you that I’ve gone through that process and emerged on the other side, unscathed, to share that a fairly normal kitchen existence CAN happen in a Tiny House.
 
