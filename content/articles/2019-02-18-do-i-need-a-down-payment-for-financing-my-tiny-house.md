@@ -1,43 +1,42 @@
 ---
 title: Do I Need A Down Payment for Financing My Tiny House?
-description: >-
-  Tiny homes differ in many ways from your average residential home, and that
-  includes in the way they can be financed. Typically, you use a mortgage from a
-  bank to finance a home purchase. While this can be an option for some tiny
-  home buyers, it usually isn’t for one essential reason: tiny homes are mobile
-  and lack foundations, which are required by traditional lenders and the
-  government.
+description: "Tiny homes differ in many ways from your average residential home,
+  and that includes in the way they can be financed. Typically, you use a
+  mortgage from a bank to finance a home purchase. While this can be an option
+  for some tiny home buyers, it usually isn’t for one essential reason: tiny
+  homes are mobile and lack foundations, which are required by traditional
+  lenders and the government."
 slug: down-payment-for-financing-my-tiny-house
 author: davidm
 image: /img/banner-image-2700-1800-tiny-house-guest-post-feb-2019.jpg
 overlay: true
-date: '2019-02-18'
+date: 2019-02-18
+lastmod: 2022-12-20
 notloaded:
   need: true
 listing:
   title: Do I Need A Down Payment for Financing My Tiny House?
-  description: >-
-    If you’re thinking about purchasing a tiny home, a down payment may not be
-    the first thing on your mind. Whether you’re contemplating purchasing or
-    building a tiny home to downsize your living situation, save money, or get
-    off the grid, you may not think you need to save a 20% down payment like in
-    a traditional mortgage.
+  description: If you’re thinking about purchasing a tiny home, a down payment may
+    not be the first thing on your mind. Whether you’re contemplating purchasing
+    or building a tiny home to downsize your living situation, save money, or
+    get off the grid, you may not think you need to save a 20% down payment like
+    in a traditional mortgage.
   image: /img/square-image-guest-post-febuary-2019.jpg
-likes: '0'
 categories:
   - Tiny house financing
 i18nlanguage: en
 menuid: articles
-ordre: 1
 infographic: false
 draft: false
 noindex: false
 hincluded: false
 mapsjs: false
+ordre: 1
+likes: "0"
 ---
 If you’re thinking about purchasing a tiny home, a down payment may not be the first thing on your mind. Whether you’re contemplating purchasing or building a tiny home to downsize your living situation, save money, or get off the grid, you may not think you need to save a 20% down payment like in a traditional mortgage.
 
-Tiny homes differ in many ways from your average residential home, and that includes in the way they can be financed. Typically, you use a mortgage from a bank to finance a home purchase. While this can be an option for some tiny home buyers, it usually isn’t for one essential reason: tiny homes are mobile and lack foundations, which are required by traditional lenders and [the government.](http://www.homebuyinginstitute.com/mortgage/fha-property-requirements-476/)  
+Tiny homes differ in many ways from your average residential home, and that includes in the way they can be financed. Typically, you [use a mortgage](https://www.sofi.com/home-loans/mortgage/) from a bank to finance a home purchase. While this can be an option for some tiny home buyers, it usually isn’t for one essential reason: tiny homes are mobile and lack foundations, which are required by traditional lenders and [the government.](http://www.homebuyinginstitute.com/mortgage/fha-property-requirements-476/)  
 
 ## How Can I Finance A Tiny Home?
 
