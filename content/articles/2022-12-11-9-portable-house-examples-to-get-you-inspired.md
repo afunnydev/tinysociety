@@ -13,7 +13,7 @@ listing:
   title: 9 Portable House Examples to Get you Inspired
   description: Looking for inspiration for your next portable house? Here are some
     great examples from all over the world that you can learn and copy from.
-  image: /img/loftcube.jpeg
+  image: /img/aysegul-unsplash.jpeg
 categories:
   - Tiny houses
   - Tiny lifestyle
