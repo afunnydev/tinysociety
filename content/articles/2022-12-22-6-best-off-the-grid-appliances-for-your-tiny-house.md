@@ -5,6 +5,7 @@ description: Looking to go off grid with your tiny house? These off the grid
   same time.
 slug: off-the-grid-appliances-for-tiny-house
 author: davidm
+image: /img/ryanlaw_unsplash.jpeg
 overlay: true
 date: 2022-12-22
 lastmod: 2022-12-22
