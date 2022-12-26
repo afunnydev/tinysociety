@@ -1,41 +1,43 @@
 ---
-title: 'Caboose for Sale: Yes You Can Live in a Refurbished Train Wagon!'
-description: >-
-  Vintage train cars have inspired some truly unique tiny houses as people take
-  to refurbishing them to design their ideal homes.  
+title: "Caboose for Sale: Yes You Can Live in a Refurbished Train Wagon!"
+description: "Vintage train cars have inspired some truly unique tiny houses as
+  people take to refurbishing them to design their ideal homes.  "
 slug: caboose-for-sale
 author: kristen
 image: /img/caboose-rec.jpg
 overlay: true
-date: '2018-09-21'
+date: 2018-09-21
+lastmod: 2022-12-26
 notloaded:
   need: true
 listing:
-  title: 'Caboose for Sale: Yes You Can Live in a Refurbished Train Wagon!'
-  description: >-
-    High costs of living have inspired some truly unique living situations over
-    the years. There’s the old school bus turned RV, the tiny homes made of
-    storage containers, and now introducing refurbished train wagons. 
+  title: "Caboose for Sale: Yes You Can Live in a Refurbished Train Wagon!"
+  description: "High costs of living have inspired some truly unique living
+    situations over the years. There’s the old school bus turned RV, the tiny
+    homes made of storage containers, and now introducing refurbished train
+    wagons. "
   image: /img/caboose-sq.jpg
-likes: '22'
 categories:
   - Tiny houses
   - DIY
   - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "22"
 ---
-High costs of living have inspired some truly unique living situations over the years. There’s the old school bus turned RV, the tiny homes made of storage containers, and now introducing refurbished train wagons. If you’ve ever seen a vintage rail car, you have to admit that they’re quite captivating. They offer a quaint quality that few structures can provide for your home. They transport you back in time and can become quite the cozy living space. 
+High costs of living have inspired some truly unique living situations over the years. There’s the old school bus turned RV, the tiny homes made of storage containers, and now introducing refurbished train wagons. 
 
-Finding a caboose for sale might sound like it would be a challenge, but it just might be the easiest part of the process. As a form of [tiny living](https://www.tinysociety.co/articles/tiny-house-communities-you-want-to-join-in-2018/), you might prefer refurbishing in a rail car over building a tiny house from scratch. Learn how you can turn a deserted train caboose into your dream home!
+If you’ve ever seen a vintage rail car, you have to admit that they’re quite captivating. They offer a quaint quality that few structures can provide for your home. They transport you back in time and can become quite the cozy living space. 
+
+Finding a caboose for sale might sound like it would be a challenge, but it just might be the easiest part of the process. As a form of [tiny living](https://www.tinysociety.co/articles/tiny-house-communities-you-want-to-join-in-2018/), you might prefer refurbishing in a rail car over building a tiny house from scratch. Learn how you can turn a deserted train caboose into your dream home and embrace the lifestyle of caboose owners!
 
 ## Living in a Train Wagon
 
-There are a number of ways you can transform a train car into your new home. Here are some fine examples to help you find inspiration for your tiny house.
+There are a number of ways you can transform a train car into your new home. Here are some fine examples to help you find inspiration for your tiny house. We'll also show you the best ways to find cabooses for sale.
 
 #### A Modern Rail Car
 
@@ -67,7 +69,7 @@ The train car you select doesn’t have to be vintage. If you come across a ster
 
 <span class="figcaption">Image source: [Goods Home Design](http://www.goodshomedesign.com/railroad-boxcar-converted-tiny-home/) </span>
 
-Larger than the caboose and smaller than the sterling rail is the boxcar rail. Their high ceilings offer the illusion of open space, and could even be built with a lofted bedroom. Since boxcars are used for shipping, there’s no need to gut them during the restoration process. That tends to be a huge draw for those looking into the tiny house community.
+Larger than the caboose and smaller than the sterling rail is the boxcar rail. Their high ceilings offer the illusion of open space, and could even be built with a lofted bedroom. Since boxcars are used for shipping, there’s no need to gut them during the restoration process and change much from what the current owners have done to it.. That tends to be a huge draw for those looking into the tiny house community.
 
 ## Different Available Dimensions For a Caboose
 
@@ -93,7 +95,7 @@ Websites like eBay and Craigslist are great for finding hidden gems like this. I
 
 #### Caboose and Rail Car Sales Websites
 
-There are many websites to choose from that are dedicated to selling train cars and related materials. You can buy a caboose, a boxcar, or even a sterling rail. Some of these websites have full refurbished rail cars listed as well. The prices are a little higher, but you won’t have to wait for something to pop up on Craigslist. Here are a few websites to check out: 
+There are many websites to choose from that are dedicated to selling train cars and related materials. You can buy a caboose, a boxcar, or even a sterling rail. Some of these websites have full refurbished railroad cars listed as well. The prices are a little higher, but you won’t have to wait for something to pop up on Craigslist. Here are a few websites to check out: 
 
 * [Ozark Mountain Rail Car](https://ozarkmountainrailcar.com/index.php)
 * [Sterling Rail Inc.](http://www.sterlingrail.com/classifieds/index.php)
