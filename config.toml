@@ -51,6 +51,9 @@ defaultContentLanguageInSubdir = false
   category = "categories"
   collection = "collections"
 
+[security.funcs]
+  getenv = ["IS_PROD"]
+
 # [Languages.fr]
 # [Languages.fr.Taxonomies]
 # category = "categories"
