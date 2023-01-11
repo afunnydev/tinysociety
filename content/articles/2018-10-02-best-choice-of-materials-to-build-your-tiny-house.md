@@ -1,34 +1,33 @@
 ---
 title: Best Choice of Materials to Build your Tiny House
-description: >-
-  These lists of tiny house materials will help you build on a budget, stick to
-  eco-friendly guidelines, or meet any weight requirements. 
+description: "These lists of tiny house materials will help you build on a
+  budget, stick to eco-friendly guidelines, or meet any weight requirements. "
 slug: best-choice-of-materials-to-build-your-tiny-house
 author: kristen
 image: /img/tiny-house-rectangle.jpg
 overlay: true
-date: '2018-10-02'
+date: 2018-10-02
+lastmod: 2023-01-11
 notloaded:
   need: true
 listing:
   title: Best Choice of Materials to Build your Tiny House
-  description: >-
-    When it comes to choosing the right tiny house materials to use for your new
-    home, it’s best to prioritize your needs. Ask yourself if the price is the
-    most important aspect to you or if you will spend a little more to ensure
-    your new home is eco-friendly.
+  description: When it comes to choosing the right tiny house materials to use for
+    your new home, it’s best to prioritize your needs. Ask yourself if the price
+    is the most important aspect to you or if you will spend a little more to
+    ensure your new home is eco-friendly.
   image: /img/tiny-house-square.jpg
-likes: '22'
 categories:
   - Architecture and design
   - Tiny lifestyle
   - DIY
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "22"
 ---
 When it comes to choosing the right tiny house materials to use for your new home, it’s best to prioritize your needs. Ask yourself if the price is the most important aspect to you or if you will spend a little more to ensure your new home is eco-friendly. If you are building a tiny house on wheels, then you’ll likely prefer using lightweight materials to make it easier to tow. Take a look at these material lists based on different priorities to help you better decide what kind of tiny house you want to build.
 
@@ -179,7 +178,7 @@ Even though you should design your tiny house so that it allows in a ton of natu
 
 ### Cabinets and Countertops
 
-Even the smallest houses need cabinets to store pots and pans in and a countertop to cook on. The price will depend on your design plans and needs, but at the very least you can expect to need two kitchen cabinets and one countertop. Keep your eye out for garage sales and Craigslist freebies, and you’ll be able to snag these items for practically nothing.
+Even the smallest houses [need cabinets](https://www.bestonlinecabinets.com/kitchen-cabinets) to store pots and pans in and a countertop to cook on. The price will depend on your design plans and needs, but at the very least you can expect to need two kitchen cabinets and one countertop. Keep your eye out for garage sales and Craigslist freebies, and you’ll be able to snag these items for practically nothing.
 
 **Average Cost: $50-$150**
 
