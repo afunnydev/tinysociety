@@ -3,7 +3,7 @@ title: Boxabl Homes - Everything You Need to Know Before Purchasing
 description: If you've been wondering if a Boxabl home is good enough for your
   next tiny house project, here's everything you wanted to know about these
   houses.
-slug: this-is-an-example
+slug: boxabl-homes
 author: davidm
 overlay: true
 date: 2023-01-21
