@@ -8,7 +8,7 @@ slug: how-to-heat-tiny-house-complete-guide
 author: molli
 image: /img/michael-shannon-474807-unsplash-2-.jpg
 overlay: true
-date: 2018-07-20
+date: 2023-02-19
 lastmod: 2023-02-19
 notloaded:
   need: "true"
