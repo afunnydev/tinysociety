@@ -1,37 +1,39 @@
 ---
-title: 'Trend Alert: Tiny Houses On Foundations'
-description: >-
-  If a home on wheels doesn't sound appealing, a tiny house built on a
-  foundation might be more suitable. Not only is it cost effective, but it
-  allows you to have a more permanent residence. 
+title: "Tiny Houses On Foundations: The Ultimate Guide for 2023"
+description: "If a home on wheels doesn't sound appealing, a tiny house built on
+  a foundation might be more suitable. Not only is it cost effective, but it
+  allows you to have a more permanent residence. "
 slug: tiny-houses-on-foundations
 author: kristen
 image: /img/foundation-rec.jpg
 overlay: true
-date: '2018-10-23'
+date: 2023-02-19
+lastmod: 2023-02-19
 notloaded:
   need: true
 listing:
-  title: 'Trend Alert: Tiny Houses On Foundations'
-  description: >-
-    When you picture a tiny house, most likely you imagine one that has been
-    built on a trailer. While wheels are an ideal solution for those who enjoy
-    traveling, they’re not for everyone. Many people can’t live in a home
-    without a backyard they can garden in or where their dogs can run around. 
+  title: "Trend Alert: Tiny Houses On Foundations"
+  description: "When you picture a tiny house, most likely you imagine one that
+    has been built on a trailer. While wheels are an ideal solution for those
+    who enjoy traveling, they’re not for everyone. Many people can’t live in a
+    home without a backyard they can garden in or where their dogs can run
+    around. "
   image: /img/foundation-sq.jpg
-likes: '22'
 categories:
   - Architecture and design
   - Tiny houses
   - Tiny lifestyle
 i18nlanguage: en
 menuid: articles
-ordre: '2'
 infographic: false
 draft: false
 noindex: false
+ordre: "2"
+likes: "22"
 ---
-When you picture a tiny house, most likely you imagine one that has been built on a trailer. While wheels are an ideal solution for those who enjoy traveling, they’re not for everyone. Many people can’t live in a home without a backyard they can garden in or where their dogs can run around. This had led to a new tiny house trend that has attracted those who enjoy a traditional home as well as the tiny lifestyle. Here’s why tiny houses on foundations are growing in popularity.
+When you picture a tiny house, most likely you imagine one that has been built on a trailer. While wheels are an ideal solution for those who enjoy traveling, they’re not for everyone. Many people can’t live in a home without a backyard they can garden in or where their dogs can run around. 
+
+This had led to a new tiny house trend that has attracted those who enjoy a traditional home as well as the tiny lifestyle. Here’s why tiny houses on foundations are growing in popularity.
 
 ## The Benefits of Tiny Houses on Foundations
 
@@ -39,11 +41,13 @@ Unless you plan to take your house on the road, there’s really no reason to bu
 
 ### Owning Your Land
 
-When you plan to build tiny houses on foundations, you will need to [buy a piece of land](https://www.tinysociety.co/articles/tips-for-buying-land-for-your-tiny-house/). Renting land might be an option for you, but it’s considered a risky one. If at some point down the line the landowner decides to sell or that they need to use the land, you can lose your tiny house. So, in these kinds of situations, it’s usually better to buy. Depending on how big or small the land is, you can get a great deal. Some cities will sell small vacant lots for under $1,000. 
+When you plan to build tiny houses on foundations, you will need to [buy a piece of land](https://www.tinysociety.co/articles/tips-for-buying-land-for-your-tiny-house/). Renting land might be an option for you, but it’s considered a risky one. If at some point down the line the landowner decides to sell or that they need to use the land, you can lose your tiny house. So, in these kinds of situations, it’s usually better to buy. Depending on how big or small the land is, you can get a great deal. Some cities will sell small vacant lots for the average cost of under $1,000. 
 
 ### Property Will Appreciate In Value
 
-By owning a piece of land and building a structure on it, the property will likely appreciate in value. This is especially important if you are building a temporary home. Unlike a tiny house on wheels, which depreciates over the years, a home built on a foundation is considered an investment. If selling it is in your plan for the future, even a rundown house will hold some value because of the land. As long as the foundation is in good standing, people will want to buy the property.  
+By owning a piece of land and building a structure on it, the property will likely appreciate in value. This is especially important if you are building a temporary home. Unlike a tiny house on wheels, which depreciates over the years, a home built on a foundation is considered an investment, much like a traditional house. 
+
+If selling it is in your plan for the future, even a rundown house on permanent land will hold some value because of the land below it. As long as the foundation is in good standing, people will want to buy the property.  
 
 ### Easier to Get a Loan
 
@@ -51,11 +55,15 @@ Most banks won’t consider lending someone money to build a tiny house on wheel
 
 ### Less Maintenance
 
-Since people who build tiny homes on trailers are traveling frequently, the house will experience a lot of wear and tear. More than any tiny houses on foundations. The wheels and trailer alone will require regular attention. Not to mention the home’s siding, which will require maintenance after having to withstand all of the rocks and gravel that kick up while you’re on the road. None of this is an issue when you build a home on a foundation. Instead, your areas of maintenance revolve more around taking care of your property such as mowing your lawn and trimming your bushes.
+Since people who build tiny homes on trailers are traveling frequently, these houses on wheels will experience a lot of wear and tear. More than any tiny houses on foundations. The wheels and trailer alone will require regular attention. Not to mention the home’s siding, which will require maintenance after having to withstand all of the rocks and gravel that kick up while you’re on the road. 
+
+None of this is an issue when you build a home on a foundation. Instead, your areas of maintenance revolve more around taking care of your property such as mowing your lawn and trimming your bushes.
 
 ### Use Traditional Utility Hookups
 
-When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power,](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) and water tanks. Building a tiny house on a foundation gives you the option to hook up to the grid so that you can have traditional plumbing, electricity, and the most important utility, WiFi. 
+When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power,](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) and water tanks. 
+
+Building a tiny house on a foundation gives you the option to hook up to the grid so that you can have traditional plumbing, electricity, and the most important utility, WiFi. 
 
 ## Different Types of Tiny Houses on Foundations
 
@@ -81,7 +89,9 @@ When a tiny house is built on a concrete slab foundation, it often resembles a b
 
 <span class="figcaption">Image source: [Unsplash](https://unsplash.com/photos/YqeK4k36F4U) </span>
 
-If you purchase land where the soil is more clay-like, you may need to design a tiny house with a crawlspace foundation. This style raises the house slightly, leaving a gap between the ground and the structure. While the space isn’t large enough to stand up in, it’s ideal for stashing large seasonal items that you would typically keep in a shed or garage. For example, you could store surfboards, kayaks, bicycles, small boats, patio furniture, and anything else that is either placed in containers or weather resistant.
+If you purchase land where the soil is more clay-like, you may need to design a tiny house with a crawlspace foundation. This style raises the house slightly, leaving a gap between the ground and the structure. 
+
+While the space isn’t large enough to stand up in, it’s ideal for stashing large seasonal items that you would typically keep in a shed or garage. For example, you could store surfboards, kayaks, bicycles, small boats, patio furniture, and anything else that is either placed in containers or weather resistant.
 
 ![tiny house with crawlspace](/img/raised-tiny-house.jpg)
 
@@ -121,7 +131,9 @@ This foundation style is also an excellent choice for those who plan to build th
 
 After you’ve settled on living in a tiny house on a foundation, your next step is to determine the best way to have it built. Typically, you’ll have three options to choose from. You can either build the foundation yourself, hire professionals, or buy a tiny house that's already established on the foundation you prefer. 
 
-If you already own some property, then you’re likely considering building your tiny house from scratch. Digging or pouring the foundation on your own will save you money on your overall cost, but it can be more work than you’re qualified for. Start with your[ tiny house building plans](https://www.tinysociety.co/tiny-house-plans/). If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process. 
+If you already own some property, then you’re likely considering building your tiny house from scratch. Digging or pouring the foundation on your own will save you money on your overall cost, but it can be more work than you’re qualified for. Start with your[ tiny house building plans](https://www.tinysociety.co/tiny-house-plans/). 
+
+If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process. 
 
 Certainly, hiring a builder will utilize a significant chunk of your budget, but it will save you the stress of trying to figure it out on your own. However, if you’re determined to stick to your budget, here are a few more options:
 
@@ -130,7 +142,9 @@ Certainly, hiring a builder will utilize a significant chunk of your budget, but
 * Take photos of your process and share them with the tiny house community for feedback. 
 * Do all the proper research. 
 
-If you don’t own any property, then you might want to consider buying a tiny house that’s already built on a foundation. It would cost more, but then you have the option to move right in rather than having to worry about building. You can also search for land that has a foundation already built. Sometimes there might still be a rundown structure on the property, but tearing it down should be relatively easy. As long as the foundation is in good condition, you’ll be able to build your tiny house on it. 
+If you don’t own any property, then you might want to consider buying a tiny house that’s already built on a foundation. It would cost more, but then you have the option to move right in rather than having to worry about building. 
+
+You can also search for land that has a foundation already built. Sometimes there might still be a rundown structure on the property, but tearing it down should be relatively easy. As long as the foundation is in good condition, you’ll be able to build your tiny house on it. 
 
 ## Laws and Regulations For Tiny Houses on Foundations
 
