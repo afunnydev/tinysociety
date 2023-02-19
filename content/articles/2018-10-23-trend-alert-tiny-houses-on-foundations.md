@@ -37,7 +37,7 @@ This had led to a new tiny house trend that has attracted those who enjoy a trad
 
 ## The Benefits of Tiny Houses on Foundations
 
-Unless you plan to take your house on the road, there’s really no reason to build your tiny house on wheels. Choosing to build on a foundation is not only a preference for some people, but it comes with a number of benefits as well. If you’re interested in constructing a tiny house on a foundation, here are some things you can look forward to. 
+Unless you plan to take your house on the road, there’s really no reason to build your tiny house on wheels. Choosing to build on a foundation is not only a preference for some people, but it comes with a number of benefits as well. If you’re interested in constructing a tiny house on a foundation, here are some things you can look forward to - you don't need to be a house builder to get one of these homes. 
 
 ### Owning Your Land
 
@@ -47,7 +47,7 @@ When you plan to build tiny houses on foundations, you will need to [buy a piece
 
 By owning a piece of land and building a structure on it, the property will likely appreciate in value. This is especially important if you are building a temporary home. Unlike a tiny house on wheels, which depreciates over the years, a home built on a foundation is considered an investment, much like a traditional house. 
 
-If selling it is in your plan for the future, even a rundown house on permanent land will hold some value because of the land below it. As long as the foundation is in good standing, people will want to buy the property.  
+If selling your house project is in your plan for the future, even a rundown house on permanent land will hold some value because of the land below it. As long as the house foundation is in good standing, people will want to buy the property.  
 
 ### Easier to Get a Loan
 
@@ -61,11 +61,11 @@ None of this is an issue when you build a home on a foundation. Instead, your ar
 
 ### Use Traditional Utility Hookups
 
-When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power,](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) and water tanks. 
+When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) in the form of solar panels, and water tanks. 
 
 Building a tiny house on a foundation gives you the option to hook up to the grid so that you can have traditional plumbing, electricity, and the most important utility, WiFi. 
 
-## Different Types of Tiny Houses on Foundations
+## Different Types of Tiny Homes on Foundations
 
 When you decide to build your tiny house on a foundation, you have several options to choose from including slab, crawlspace, basement, or on piers. While other building foundations exist, these are the few most suitable for a smaller construction like a tiny house. 
 
@@ -119,7 +119,7 @@ More than just a hole in the ground, a basement foundation requires precision. I
 
 <span class="figcaption">Image source: [Pixabay](https://pixabay.com/en/hut-pile-construction-wood-261332/) </span>
 
-As a semi-permanent foundation, building a tiny house on piers gives you the best of both worlds. You’re able to move your home when needed, so it gives you the freedom to rent land rather than buy any. A piers foundation offers the flexibility of a tiny house on wheels without the weight and size restrictions of building a house on a trailer.
+As a semi-permanent foundation, building a tiny house on piers gives you the best of both worlds. You’re able to move your home when needed, so it gives you the freedom to rent land rather than buy something from the real estate market. A piers foundation offers the flexibility of a tiny house on wheels without the weight and size restrictions of building a house on a trailer.
 
 ![tiny house on piers foundation](/img/tiny-house-on-piers.jpg)
 
@@ -162,8 +162,14 @@ Building codes refer to the required dimensions of any structure designed to be 
 
 Zoning codes are laws pertaining to where your tiny house is going to be built. Like building codes, these can also refer to the size of your structure as well. Instead of a minimum size though, zoning codes prevent structures from blocking views or being a nuisance to neighbors. 
 
-If the city you live in doesn’t have anything on the books in regards to tiny house zoning and building codes, the easiest thing you can do is make some phone calls. It may take some back and forth, but at least you’ll be sure of exactly what you can build, where you can build it, and what permits you’ll need. There are always ways to get around these codes, and before long tiny houses will have their very own laws and regulations.
+If the city you live in doesn’t have anything on the books in regards to tiny house zoning and building codes, the easiest thing you can do is make some phone calls. It may take some back and forth, but at least you’ll be sure of exactly what you can build, where you can build it, and what permits you’ll need. 
+
+There are always ways to get around these codes, and before long, tiny houses will have their very own laws and regulations.
 
 ## Summary
 
-The tiny house movement is taking over, and now this option no longer leaves you without running water and city quality electricity. Codes and zoning laws are catching up, making tiny houses on foundations the next big housing trend. Living in a trailer might sound like fun for a while, but it’s far from the ideal situation for everyone. Building a permanent foundation sheds a new light on the tiny lifestyle, ultimately attracting more people who are looking for affordable housing. Get started now by contacting your city officials and [drawing up your DIY plans.](https://www.tinysociety.co/articles/how-to-create-your-own-tiny-house-plan/) A tiny house on a foundation can make building your dream house possible.
+The tiny house movement is taking over, and now this option no longer leaves you without running water and city quality electricity. Codes and zoning laws are catching up, making tiny houses on foundations the next big housing trend. 
+
+Living in a trailer might sound like fun for a while, but it’s far from the ideal situation for everyone. Building a permanent foundation sheds a new light on the tiny lifestyle, ultimately attracting more people who are looking for affordable housing. 
+
+Get started now by contacting your city officials and [drawing up your DIY plans.](https://www.tinysociety.co/articles/how-to-create-your-own-tiny-house-plan/) A tiny house on a foundation can make building your dream house possible.
