@@ -1,14 +1,15 @@
 ---
 title: Tiny Home on Wheels or Van? Here's How to Decide
-description: You want the flexiblity of moving with your home but can't settle
-  on the best way to do it? We've been there. In this article, we explore the
-  ups and downs of both alternatives depending on what's most important for you.
+description: Do you want the flexibility of moving with your home but can't
+  settle on the best way to do it? We've been there. In this article, we explore
+  the ups and downs of both alternatives depending on what's most important for
+  you.
 slug: tiny-house-on-wheels-or-van
 author: felix
 image: /img/tiny-house-on-wheels-or-van-2600-1632.jpg
 overlay: true
-date: 2020-07-19T00:00:00.000Z
-lastmod: 2020-07-19T00:00:00.000Z
+date: 2023-02-18
+lastmod: 2023-02-19
 notloaded:
   need: true
 listing:
@@ -61,13 +62,13 @@ Choosing van life over a THoW probably means a small kitchen, no showers, and ma
 
 ## Daily Lifestyle and Activities
 
-Owning a movable home literally means that everywhere can now be your home. However, it comes with some challenges that are important to consider.
+Owning a movable home literally means that everywhere can now be your home. However, this alternative lifestyle comes with some challenges that are important to consider.
 
 #### Tiny House on Wheels
 
 Even if you can bring your home on the road, moving your THoW is not a piece of cake. Most people with a THoW will place it somewhere and settle for a little while. It's pretty common to add a fixed deck, a garden, etc.
 
-You can expect a lifestyle similar to having a tiny house on a foundation, except that it will be easy to move to a new neighborhood, city, or country whenever you feel like it.
+You can expect an active lifestyle, similar to having a tiny house on a foundation, except that it will be easy to move to a new neighborhood, city, or country whenever you feel like it.
 
 Most likely, you'll be moving around with your car, living your normal everyday life. As simple as that.
 
@@ -95,7 +96,7 @@ The first thing to consider is your vehicle. It goes without saying that you'll 
 
 The budget for your towing vehicle can vary from $5,000 to as much as $60,000. Let's round this up to approximately $20,000. With that budget, you can get a pretty good second-hand vehicle, or trade in your vehicle and buy something newer. In any case, please be careful when choosing your vehicle, and remember to consider its fuel consumption if you plan on moving a lot. It can get pretty pricey.
 
-On top of your towing vehicle, you'll also need to build or purchase your Tiny House on Wheels. Most people will go for a 20' x 8.5' x 10' THoW. The cost will also vary a lot, but a good and simple DIY tiny house build will [cost you around $30,000](/articles/how-much-money-does-a-tiny-house-cost/). From that, a significative part is related to your trailer.
+On top of your towing vehicle, you'll also need to build or purchase your Tiny House on Wheels. Most people will go for a 20' x 8.5' x 10' THoW. The cost will also vary a lot, but a good and simple DIY tiny house build will [cost you around $30,000](/articles/how-much-money-does-a-tiny-house-cost/). From that, a significant part is related to your trailer.
 
 I'll not factor in the cost of labor, since we are talking about something DIY here. However, it is worth noticing that the build will most probably take you 2-3 months. 
 
@@ -159,4 +160,4 @@ Read on the most common problems for your van and be prepared to fix these yours
 
 So, should you choose a THoW or a van? Well, it all comes down to what you're looking for.
 
-If you're into traveling or moving frequently, a van is the logical choice. If you need more space, you should probably settle for a THoW. In any case, make sure to budget well, and don't be shy to try one out before deciding what's best for you.
+If you're into traveling or moving frequently, a van is a logical choice. If you need more space, you should probably settle for a THoW. In any case, make sure to budget well, and don't be shy to try one out before deciding what's best for you.
