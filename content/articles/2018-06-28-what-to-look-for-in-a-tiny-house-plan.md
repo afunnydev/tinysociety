@@ -1,33 +1,32 @@
 ---
-title: 'What to Look for in a Tiny House Plan? '
-description: >-
-  So you’re ready to build your Tiny House, or to have someone build it for you.
-  Where to start? As the saying goes, you need a vision before you can create
-  the reality. This is where your Tiny House plan comes in. 
+title: "What to Look for in a Tiny House Plan? "
+description: "So you’re ready to build your Tiny House, or to have someone build
+  it for you. Where to start? As the saying goes, you need a vision before you
+  can create the reality. This is where your Tiny House plan comes in. "
 slug: what-to-look-for-in-a-tiny-house-plan
 author: michelleg
 image: /img/what-to-look-for-tiny-house-plan-41.jpg
 overlay: true
-date: '2018-06-28'
+date: 2018-06-28
+lastmod: 2023-02-20
 notloaded:
   need: true
 listing:
-  title: 'What to Look for in a Tiny House Plan? '
-  description: >-
-    So you’re ready to build your Tiny House, or to have someone build it for
-    you. Where to start? As the saying goes, you need a vision before you can
-    create the reality. This is where your Tiny House plan comes in. 
+  title: "What to Look for in a Tiny House Plan? "
+  description: "So you’re ready to build your Tiny House, or to have someone build
+    it for you. Where to start? As the saying goes, you need a vision before you
+    can create the reality. This is where your Tiny House plan comes in. "
   image: /img/what-to-look-for-in-a-tiny-house-plan-square.jpg
-likes: '64'
 categories:
   - Tiny houses
   - Tiny cabins
   - Architecture and design
 i18nlanguage: en
 menuid: articles
-ordre: 0
 draft: false
 noindex: false
+ordre: 0
+likes: "64"
 ---
 So you're ready to build your Tiny House, or to have someone build it for you. Where to start? As the good ol' Benjamin Franklin use to say, "If you fail to plan, you are planning to fail"! This is where your Tiny House plan comes in. The easiest way to plan is to ask the right questions.
 
@@ -130,11 +129,13 @@ Here are a few examples showing the range of possibilities:
 ![Micro Tiny House](/img/what-to-look-for-tiny-house-plan-28.jpg)
 
 <span class="scrollshowpoint"></span>
+
 ## Tiny House Plans Checklist
 
 ### What basic plans should be included in your set of tiny home plans:
 
 * Floor plans:
+
   * Main level floor plan
   * Floor plans for any lofts
 * Structural/framing drawings
@@ -151,6 +152,7 @@ Here are a few examples showing the range of possibilities:
 * Details/instructions for properly attaching to trailer (for Tiny Houses on wheels)
 * R-values of building envelope
 * Construction price
+
   * If the plans don't include this information, here's a **[free online construction cost calculator that you can use](http://www.building-cost.net/Valuation/Start)**.
 
 **Depending on your situation, you might need some extra information:**
@@ -159,9 +161,11 @@ Here are a few examples showing the range of possibilities:
 * Tools needed
 * Materials list
 * House weight and towing capacity (for Tiny House on wheels)
+
   * If you plan to move often, you may want to choose a lighter house.
   * Shorter Tiny Houses are easier to tow than longer ones.
 * House dimensions:
+
   * Overall width, including roof overhangs, not to exceed 8'-6" for Tiny House on wheels, to avoid travel permits in most areas
   * Overall height not to exceed 13'-6" for Tiny House on wheels, to avoid travel permits in most areas
 * House square footage
@@ -172,10 +176,12 @@ Here are a few examples showing the range of possibilities:
 **When using an architectural plan, some basics are essential:**
 
 * All drawings should be drawn to scale.
+
   * The drawings should all be to the same scale (with the exception of a Site Plan for a stationary Tiny House)
   * ¼" = 1'-0" is a good workable scale, though this may vary according to personal preference
 * All drawings should be fully dimensioned.
 * Format:
+
   * Are the plans available as customizable digital files (e.g. for SketchUp or Autocad)
   * Is a 3D SketchUp model provided? (This will allow you to interactively view the model from any angle in SketchUp)
   * Are printed copies provided? If not, will you need to employ print shop services for larger format prints (e.g. 24"x36")?
@@ -431,6 +437,7 @@ The construction documents should provide schematics for electrical wiring and p
 * Electrical outlets in lofts as needed
 * Any specialty electrical outlets needed for major appliances
 * Lighting-- it's a good idea to plan on a combination of:
+
   * general fixed overhead lighting (ceiling fixtures); and
   * flexible task lighting to be provided by plug-in floor lamps, desk lamps, or work lamps
 * Ceiling fans if using
@@ -470,6 +477,7 @@ Although some of these items are better viewed in the Interior Elevations (see b
 * Sleeping areas to accommodate all residents
 * Permanent or temporary/convertible sleeping area for guests if desired
 * Kitchen:
+
   * Sink
   * Cooktop
   * fridge/freezer
@@ -480,6 +488,7 @@ Although some of these items are better viewed in the Interior Elevations (see b
   * adequate countertop workspace
   * storage for dining ware
 * Bathroom:
+
   * tub or shower
   * optional sink (some Tiny dwellers make do with one sink for the house, located in the kitchen)
   * toilet (composting or otherwise)
@@ -553,6 +562,8 @@ There's an additional consideration if hiring an architect for a Tiny House that
 
 Another route to consider is engaging the help of a university architectural student. Your Tiny House could become someone's quarter final project, or the start of her portfolio. And the fact that the project would be overseen by the student's professor reduces much of the risk of working with an inexperienced designer. 
 
+Before you make all your plans final, create an online visual of your tiny house so you can really [experience design](https://www.designrush.com/agency/ui-ux-design) and decide wether or not you like it.
+
 ## Summary
 
 Choosing a Tiny House design is one of the first big steps on the road to acquiring your own Tiny House. It's also one of the most fun and exciting steps. This is your chance to envision your future home and all of its possibilities before it takes form in the real world.
@@ -570,19 +581,13 @@ There are many factors to consider when choosing a Tiny House design and its ass
 * Are the plans and instructions detailed enough for the intended builder to follow?
 * Will the Tiny House be subject to rules and regulations that will work for your particular needs and situation?
 
-
-
 ## What's Next?
 
 Once you have found what you are looking for, you should probably start thinking about tiny house regulation and tiny home loans, if you need them of course. 
 
-
-
 <h3> Tiny House Laws</h3>
 
 This is a pretty complex subject, given that each country, state and city has a unique take on the laws that govern building. You can read our article on [tiny house laws in the US ](https://www.tinysociety.co/articles/tiny-house-laws-united-states/)to know more about this subject.
-
-
 
 <h3> Tiny House Financing and Funding </h3>
 
