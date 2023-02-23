@@ -152,7 +152,7 @@ I’m tempted to call this section ‘Why I Love My Instant Pot.’ Seriously. I
 
 ![null](/img/kitchen-2094707_1280.jpg)
 
-The limited size of a Tiny House kitchen has an upside as well. In kitchen design, there’s the concept of the ‘magic triangle.’ To create the work triangle, lines are drawn on the floor plan between the sink, the refrigerator, and the cooktop. The concept is that, to maximize efficiency, no leg of the triangle should be more than nine feet long. That’s highly unlikely to happen in a Tiny House kitchen. Granted, the magic triangle principle argues for a minimum distance for these elements too, but my experience says that this isn’t as important. I love that I can stand in the center of my kitchen and turn three hundred and sixty degrees on the spot, and be almost within reach (or within an extra step or two) of everything. It’s very efficient to cook there.
+The limited size of a Tiny House kitchen has an upside as well. In [kitchen design](https://www.bestonlinecabinets.com/free-kitchen-design), there’s the concept of the ‘magic triangle.’ To create the work triangle, lines are drawn on the floor plan between the sink, the refrigerator, and the cooktop. The concept is that, to maximize efficiency, no leg of the triangle should be more than nine feet long. That’s highly unlikely to happen in a Tiny House kitchen. Granted, the magic triangle principle argues for a minimum distance for these elements too, but my experience says that this isn’t as important. I love that I can stand in the center of my kitchen and turn three hundred and sixty degrees on the spot, and be almost within reach (or within an extra step or two) of everything. It’s very efficient to cook there.
 
 **Turn Up the Volume**
 
