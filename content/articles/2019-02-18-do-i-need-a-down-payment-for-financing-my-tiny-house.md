@@ -38,6 +38,8 @@ If you’re thinking about purchasing a tiny home, a down payment may not be the
 
 Tiny homes differ in many ways from your average residential home, and that includes in the way they can be financed. Typically, you [use a mortgage](https://www.sofi.com/home-loans/mortgage/) from a bank to finance a home purchase. While this can be an option for some tiny home buyers, it usually isn’t for one essential reason: tiny homes are mobile and lack foundations, which are required by traditional lenders and [the government.](http://www.homebuyinginstitute.com/mortgage/fha-property-requirements-476/)  
 
+If you want to find out more about different options to purchase a home, you'll want to consult a [home buyers guide](https://www.sofi.com/home-buyers-guide/).
+
 ## How Can I Finance A Tiny Home?
 
 Well, if mortgages aren’t going to work for tiny homes, do you have to pay the whole amount at once (which can be up to $100k)? Thankfully, the answer is no. There are several different options of spreading out the payment for a tiny home, which usually require a down payment of some kind. Expect to have a down payment of at least 10%, if not 20%. 
