@@ -12,6 +12,7 @@ listing:
   title: Best Tiny House Stoves to Buy in 2023
   description: Find out the best tiny house stove models to consider in 2023 and
     beyond. Features, pricing, certifications - we cover it all.
+  image: /img/pexels-gonul-atasayar-10900909_800x800.jpg
 categories:
   - Energy efficiency
   - Sustainable building and living
