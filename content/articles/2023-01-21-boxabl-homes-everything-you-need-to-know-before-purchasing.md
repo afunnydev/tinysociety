@@ -5,6 +5,7 @@ description: If you've been wondering if a Boxabl home is good enough for your
   houses.
 slug: boxabl-homes
 author: davidm
+image: /img/boxabl_homes_2700x1800.jpeg
 overlay: true
 date: 2023-01-21
 lastmod: 2023-01-21
@@ -15,7 +16,7 @@ listing:
     next tiny house project, here's everything you wanted to know about these
     houses.
   title: Boxabl Homes - Everything You Need to Know Before Purchasing
-  image: /img/boxabl-homes.jpeg
+  image: /img/pexels-graphicgumcom-1115804_800x800.jpg
 categories:
   - Tiny houses
 i18nlanguage: en
