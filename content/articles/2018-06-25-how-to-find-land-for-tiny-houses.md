@@ -1,30 +1,29 @@
 ---
 title: How to Find Land for Tiny Houses?
-description: >-
-  Discover more details about various options involving buying land, renting
-  land, or buying a Tiny House already situated in place.
+description: Discover more details about various options involving buying land,
+  renting land, or buying a Tiny House already situated in place.
 slug: how-to-find-land-for-tiny-houses
 author: michelleg
 image: /img/tiny-house-7.jpg
 overlay: true
-date: '2018-06-08'
+date: 2018-06-08
+lastmod: 2023-03-06
 notloaded:
   need: true
 listing:
   title: How to Find Land for Tiny Houses?
-  description: >-
-    Discover more details about various options involving buying land, renting
-    land, or buying a Tiny House already situated in place.
+  description: Discover more details about various options involving buying land,
+    renting land, or buying a Tiny House already situated in place.
   image: /img/tiny-house-7-square.jpg
-likes: '95'
 categories:
   - Tiny houses
   - Sustainable building and living
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 draft: false
 noindex: false
+ordre: "0"
+likes: "95"
 ---
 ## How to Find Land for Tiny Houses?
 
@@ -389,7 +388,7 @@ Now that you have a better idea of what you want in a piece of property, how to 
 
 ### Assessing the Property
 
-**Survey.** Before purchasing property, you’ll want to have it professionally surveyed to determine the legal boundaries. Don’t get caught on the wrong side of a future dispute with your neighbors over whether they have the right to chop down your favorite shade tree or erect a fence through the middle of your herb garden.
+**[Survey](https://www.leadquizzes.com/survey-maker/).** Before purchasing property, you’ll want to have it professionally surveyed to determine the legal boundaries. Don’t get caught on the wrong side of a future dispute with your neighbors over whether they have the right to chop down your favorite shade tree or erect a fence through the middle of your herb garden.
 
 ![null](/img/find-land-for-a-tiny-house-15.jpg)
 
@@ -397,6 +396,7 @@ Now that you have a better idea of what you want in a piece of property, how to 
 
 * **Environmental restrictions:** Wetlands and waterfronts are particularly prone to regulations of what you can and cannot do on them. 
 * **Easements:** Find out if there are any easements on the property under consideration.
+
   * You’ll want to know ahead of time whether anyone is going to be rightfully driving across your property.
   * An easement remains with a property indefinitely unless both parties choose to remove it.
   * Be aware that you may be legally responsible for the physical maintenance of certain easements, such as keeping a right-of-way free of snow or debris, or keeping a fence in good repair.
