@@ -133,7 +133,7 @@ After you’ve settled on living in a tiny house on a foundation, your next step
 
 If you already own some property, then you’re likely considering building your tiny house from scratch. Digging or pouring the foundation on your own will save you money on your overall cost, but it can be more work than you’re qualified for. Start with your[ tiny house building plans](https://www.tinysociety.co/tiny-house-plans/). 
 
-If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process. 
+If you’ve already started them, you’ll need to add the foundation. Having a professional create your DIY house plans can help significantly, especially if you don’t plan on hiring a contractor to help with the construction process or [construction schedule](https://buildertrend.com/blog/construction-scheduling-guide/).
 
 Certainly, hiring a builder will utilize a significant chunk of your budget, but it will save you the stress of trying to figure it out on your own. However, if you’re determined to stick to your budget, here are a few more options:
 
