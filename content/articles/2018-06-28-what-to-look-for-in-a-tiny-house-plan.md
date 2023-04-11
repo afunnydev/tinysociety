@@ -401,7 +401,7 @@ Chris and Malissa Tack offer plans for the 140 square foot, 20-foot long Tiny Ta
 
 The answer to this question is up to personal discernment. If you find a design that you really like, it's up to you to decide whether the price is worth it. If it's not, keep looking until you find something that's in your price range.
 
-The cost of a set of plans is one item in a long list that makes up the total budget for your Tiny House project. It makes sense to take a look at whether the price tag works with your overall budgeting bottom line. A purchasable set of construction plans should provide information about the estimated construction cost of the entire project. This bottom line number can help you determine whether the cost of the plans fits into your overall budget.
+The cost of a set of plans is one item in a long list that makes up the total budget for your Tiny House project. It makes sense to take a look at whether the price tag works with your overall budgeting bottom line. A purchasable set of construction plans should provide information about the estimated [construction cost of the entire project](https://www.clockshark.com/blog/construction-project-checklist). This bottom line number can help you determine whether the cost of the plans fits into your overall budget.
 
 ## Have the Plans Been Used to Construct a Real World Tiny House?
 
