@@ -1,34 +1,34 @@
 ---
 title: How To Save Money When Building Your Tiny House
-description: >-
-  Building an affordable tiny home doesn't mean it has to look cheap. Learn how
-  you can cut a few corners and still end up with money in your pocket and the
-  house of your dreams.
+description: Building an affordable tiny home doesn't mean it has to look cheap.
+  Learn how you can cut a few corners and still end up with money in your pocket
+  and the house of your dreams.
 slug: how-to-save-money-when-building-your-tiny-house
 author: kristen
 image: /img/tiny_house_cottage.jpg
 overlay: true
-date: '2018-09-17'
+date: 2018-09-17
+lastmod: 2023-04-11
 notloaded:
   need: true
 listing:
   title: How To Save Money When Building Your Tiny House
-  description: >-
-    Building your ideal tiny house doesn’t have to cost you an arm and a leg. On
-    the other hand, you shouldn’t have to skimp out on any of the design
-    features you want either. If you budget your project properly, then you just
-    might be able to save money as well as end up with your dream home. 
+  description: "Building your ideal tiny house doesn’t have to cost you an arm and
+    a leg. On the other hand, you shouldn’t have to skimp out on any of the
+    design features you want either. If you budget your project properly, then
+    you just might be able to save money as well as end up with your dream home.
+    "
   image: /img/tiny_house_cottage-square.jpg
-likes: '22'
 categories:
   - Tiny houses
   - DIY
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "22"
 ---
 Building your ideal tiny house doesn’t have to cost you an arm and a leg. On the other hand, you shouldn’t have to skimp out on any of the design features you want either. If you budget your project properly, then you can both save money as well as end up with your dream home. Even the cheapest tiny house doesn’t have to look cheap. Discover where you can cut costs throughout the building process and save your cash for your travels or to add a collapsible enclosed porch. 
 
@@ -80,7 +80,7 @@ If you live near a [Habitat Restore](http://www.habitat.org/restores) location, 
 
 **Pre-Demolition Sales**
 
-When a building is in the planning stages of demolition, there will often be a sale scheduled for anything that can be restored. Salvaged materials can include bricks, bathtubs, doors, tiles, sinks, toilets, windows, flooring, and a whole lot more. Prices are usually next to nothing. The hardest part is finding these sales before the building is demolished. 
+When a building is in the planning [stages of demolition](https://www.majorprojects.net/demolition-process/), there will often be a sale scheduled for anything that can be restored. Salvaged materials can include bricks, bathtubs, doors, tiles, sinks, toilets, windows, flooring, and a whole lot more. Prices are usually next to nothing. The hardest part is finding these sales before the building is demolished. 
 
 ## Purchase A Discounted Tiny House Kit
 
