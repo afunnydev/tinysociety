@@ -57,7 +57,7 @@ These units are highly energy-efficient, mainly thanks to the custom insulation 
 
 ## What are Boxabl Homes made of?
 
-Boxabl Homes are made out of quality construction materials, including steel, concrete, and EPS foam which are non-degradable and have a long life. This makes them just as safe and durable as traditional homes. 
+Boxabl Homes are made out of quality [construction materials](https://primefabrication.com.au/articles/what-is-the-difference-between-welding-and-fabrication/), including steel, concrete, and EPS foam which are non-degradable and have a long life. This makes them just as safe and durable as traditional homes. 
 
 What is more, the building process for a Boxabl unit creates much less construction waste than you'd find on a typical construction site. This makes Boxabl homes more acceptable to homeowners concerned with reducing their environmental footprint from the building phase to the removal or demolition.
 
