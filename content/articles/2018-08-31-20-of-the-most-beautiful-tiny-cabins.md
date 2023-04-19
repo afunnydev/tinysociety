@@ -7,7 +7,8 @@ slug: 20-beautiful-tiny-cabins
 author: jubaer
 image: /img/tiny-cabin-cover.jpg
 overlay: true
-date: '2018-08-30'
+date: 2018-08-30
+lastmod: 2023-04-19
 notloaded:
   need: true
 listing:
@@ -17,17 +18,17 @@ listing:
     cute and cozy tiny cabins. Look at our selection of the most beautiful tiny
     cabins! Enjoy the scenery.
   image: /img/tiny-cabin-1.jpg
-likes: '13'
 categories:
   - Tiny houses
   - Tiny cabins
   - Architecture and design
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "13"
 ---
 Stressed? Living in city life can be stressful. The best thing I can do is take a break and have some time in a beautiful tiny cabin.
 
@@ -190,7 +191,7 @@ Can’t get enough. Let’s get to the next!
 
 When working from home becomes tedious, the best way is to build a tiny office cabin hanging on a cliff.
 
-That’s what Peter Frazier did in Washington. His beautiful office home is inspiring and is a great idea to implement.
+That’s what Peter Frazier did in Washington. His beautiful [office home](https://raiseandrelevel.com/home-office-design/) is inspiring and is a great idea to implement.
 
 ## Modern Lake Cabin
 
