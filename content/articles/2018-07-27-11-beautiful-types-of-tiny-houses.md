@@ -1,34 +1,34 @@
 ---
 title: 11 Beautiful Types of Tiny Houses
-description: >-
-  There is something so enchanting about a tiny home. Whether you’re interested
-  in a tiny house on wheels or just to downsize, The idea of a simpler life is
-  incredibly appealing. Not yet sold on the tiny house lifestyle? You will be
-  after checking out the different types of tiny houses that exist.
+description: There is something so enchanting about a tiny home. Whether you’re
+  interested in a tiny house on wheels or just to downsize, The idea of a
+  simpler life is incredibly appealing. Not yet sold on the tiny house
+  lifestyle? You will be after checking out the different types of tiny houses
+  that exist.
 slug: 11-beautiful-types-of-tiny-houses
 author: molli
 image: /img/cover_pexel.png
 overlay: true
-date: '2018-07-24'
+date: 2018-07-24
+lastmod: 2023-04-19
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: 11 Beautiful Types of Tiny Houses
-  description: >-
-    What is it about tiny houses that captures our hearts and minds? Why are
-    these little guys so appealing? The answer is simple, really. It is the
-    desire that we have for the simple pleasures of life; to live simply and big
-    at the same time.
+  description: What is it about tiny houses that captures our hearts and minds?
+    Why are these little guys so appealing? The answer is simple, really. It is
+    the desire that we have for the simple pleasures of life; to live simply and
+    big at the same time.
   image: /img/agriculture-alone-barn-259618-2-.jpg
-likes: '31'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "31"
 ---
 Picture this. You wake up in the morning and walk down a short flight of stairs from the cosy loft to the kitchen. A light rain begins to fall as you perch yourself at the breakfast bar overlooking a quiet lake. You smile to yourself--maybe tomorrow I’ll wake up by the sea.
 
@@ -38,11 +38,11 @@ There is something so enchanting about a tiny home. Whether you’re interested 
 
 When you picture a tiny house, you often think of a structure built on a trailer. Inhabiting a trailer can be fairly tricky; there are different laws for different areas you may be parked in, as well as limited building space. Fortunately enough, there are a few popular options if you’re looking to build on a piece of land. 
 
-_Building on a foundation_
+*Building on a foundation*
 
 Like a “typical” house, you could choose to build your tiny home on a concrete foundation. With this option, you get quite a bit of design freedom. 
 
-_Building on skids or runners_
+*Building on skids or runners*
 
 If you don’t own a piece of land, building a semi-permanent foundation is an option if you are planning on having to move your tiny house at some point. 
 
@@ -86,7 +86,7 @@ Also known as trailers or manufactured housing, these tiny homes are known for t
 
 ## Small Motorhomes
 
-Originally designed for luxury camping or recreation, the popularity of the motorhome becoming the primary home has been increasing with the growing desire to live off grid. Remember your grandparents’ long, beast of a motorhome? Today, motorhomes can be just like tiny houses; compact and simple without sacrificing on comfort or design.
+Originally designed for luxury camping or recreation, the popularity of the motorhome becoming the primary home has been increasing with the growing desire to live off grid. Remember your grandparents’ long, beast of a [motorhome](https://www.camplify.co.uk/blog/how-to-get-wifi-in-my-motorhome)? Today, motorhomes can be just like tiny houses; compact and simple without sacrificing on comfort or design.
 
 ![motorhome](/img/capture-d-ecran-2018-07-27-a-12.42.16.png)
 
