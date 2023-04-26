@@ -71,7 +71,7 @@ Before searching for land, place a call to the local zoning office or the munici
 
 Finally, when making contact about rural land potentially for sale, the owner of a tiny home should always keep in mind the seller’s perspective. Sellers focus on their own concerns: sales price, timeframe for selling, and other favorable terms. 
 
-When negotiating, it’s up to the owner of the tiny home to point out all the potential benefits of a proposal to the seller rather than the virtues of the tiny house itself. The same applies when talking to a real estate agent, whether you're talking about city or rural properties.
+When negotiating, it’s up to the owner of the tiny home to point out all the potential [benefits of a proposal](https://betterproposals.io/proposal-templates/real-estate-proposal-template) to the seller rather than the virtues of the tiny house itself. The same applies when talking to a real estate agent, whether you're talking about city or rural properties.
 
 Knowledge of local laws and creative negotiating will go a long way in helping you buy the raw land for your tiny house all the while respecting the safety standards for tiny house living. Some of the biggest costs will be on preparing the land for the building. Once the upfront costs are done, it's smooth sailing.
 
