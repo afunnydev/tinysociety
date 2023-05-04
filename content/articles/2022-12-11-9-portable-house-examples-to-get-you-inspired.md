@@ -12,8 +12,7 @@ notloaded:
   need: true
 listing:
   title: 9 Portable House Examples to Get you Inspired
-  description:
-    Looking for inspiration for your next portable house? Here are some
+  description: Looking for inspiration for your next portable house? Here are some
     great examples from all over the world that you can learn and copy from.
   image: /img/aysegul-unsplash-square.jpeg
 categories:
@@ -27,7 +26,6 @@ noindex: false
 hincluded: false
 mapsjs: false
 ---
-
 “Buy land, AJ, ‘cuz God ain’t making it any more of it.
 
 A piece of wise-guy advice that Tony Soprano gives to his estranged son has been resonating in my head since I heard it.
@@ -146,7 +144,7 @@ And if the looks become too inquisitive, just pull up the walls and enjoy the pr
 
 [Source](https://www.loveproperty.com/gallerylist/71214/these-ingenious-movable-homes-could-set-you-free)
 
-In my opinion, this is what the future of luxury travel is going to look like.
+The future of luxury travel won't be [booking train travel](https://www.splitmyfare.co.uk/cheap-train-tickets) or airplane tickets at the last moment. It will be visiting any city you like with the ease of your portable house.
 
 ## Fincube
 
