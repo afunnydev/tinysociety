@@ -104,7 +104,7 @@ As expected, Foremost mobile home insurance policies include protection from a l
 
 Foremost tiny home insurance is available in all 50 states, but certain coverage is not available everywhere. 
 
-You can request an online quote from Foremost, but to reach their customer support, you’ll need to call or email an insurance agent.
+You can request an online quote from Foremost, but to reach their customer support, you’ll need to call or [find an email address](https://www.findymail.com/) for an insurance agent.
 
 Before you purchase coverage, make sure to contact the company to find out if your tiny house needs to be certified to get coverage and whether you qualify for any policy bundling deals.
 
