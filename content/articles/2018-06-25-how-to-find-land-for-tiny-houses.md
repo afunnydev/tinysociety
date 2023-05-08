@@ -355,7 +355,7 @@ Beyond that, it’s up to you how much land you wish to steward. Perhaps you’d
 
 #### Resale Value
 
-You may or may not want to consider your Tiny House property as an investment. If you do, take into consideration real estate trends when choosing a location, and look for areas where property values are on the rise.
+You may or may not want to consider your Tiny House property as a kind of a [non-stock investment](https://youngandtheinvested.com/best-non-stock-investments/). If you do, take into consideration real estate trends when choosing a location, and look for areas where property values are on the rise.
 
 If your Tiny House is on wheels, you can vacate the property and sell the vacant land, keeping your house with you.
 
