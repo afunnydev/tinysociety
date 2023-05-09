@@ -86,7 +86,7 @@ Cons:
 * Unknown certification policy
 * Not available in every state
 
-Why should you consider it: American Family also offers savings for bundling your policies, installing smart home devices, paying the premium in full, sending [reminder emails](https://www.tinysociety.co/articles/tiny-house-insurance-companies/), etc.
+Why should you consider it: American Family also offers savings for bundling your policies, installing smart home devices, paying the premium in full, sending [reminder emails](https://instantly.ai/blog/reminder-email), etc.
 
 ## Foremost Insurance Group: best for mobile tiny houses
 
