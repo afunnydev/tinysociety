@@ -1,31 +1,31 @@
 ---
 title: 26' Split-Pitch Roof Tiny House
-description: >-
-  This 26' tiny house on wheels is the perfect size for towing. At 265 square
-  feet, the space can be completely customized to your liking. 
+description: "This 26' tiny house on wheels is the perfect size for towing. At
+  265 square feet, the space can be completely customized to your liking. "
 slug: 26-foot-split-pitch-roof-tiny-house
 author: molli
 image: /img/napa_banner.jpg
 overlay: true
-date: '2018-11-25'
+date: 2018-11-25
+lastmod: 2023-05-17
 notloaded:
   need: true
 listing:
   title: 26' Split-Pitch Roof Tiny House
-  description: >-
-    If you're looking for the perfect tiny home, look no further. At 265 square
-    feet, this cozy yet spacious tiny house on wheels ticks off all the boxes. 
+  description: "If you're looking for the perfect tiny home, look no further. At
+    265 square feet, this cozy yet spacious tiny house on wheels ticks off all
+    the boxes. "
   image: /img/napa_square.jpg
-likes: '55'
 categories:
   - Tiny houses
   - Tiny house review
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "55"
 ---
 If you're looking for the perfect tiny home, look no further. At 265 square feet, this cozy yet spacious tiny house on wheels ticks off all the boxes. 
 
@@ -33,7 +33,7 @@ If you're looking for the perfect tiny home, look no further. At 265 square feet
 
 ## Kitchen
 
-The space is extremely functional, and can fit full-size appliances. You'll notice the kitchen has beautiful dark brown counter tops to contrast against the white cabinets. Keep in mind; this tiny is completely customizable so you can go with any color scheme that suits your taste. 
+The space is extremely functional, and can fit full-size appliances. You'll notice the kitchen has beautiful dark brown counter tops to [contrast against the white cabinets](https://www.impressiveinteriordesign.com/white-cabinets-and-brown-countertops/). Keep in mind; this tiny is completely customizable so you can go with any color scheme that suits your taste. 
 
 ![](/img/napa_1.jpeg)
 
