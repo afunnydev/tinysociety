@@ -10,9 +10,10 @@ slug: top-10-beautiful-arched-cabins
 author: jubaer
 image: /img/niv-rozenberg-356666-unsplash-1-.jpg
 overlay: true
-date: '2018-07-08'
+date: 2018-07-08
+lastmod: 2023-05-29
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: Top 10 Most Beautiful Arched Cabins
   description: >
@@ -22,17 +23,17 @@ listing:
     take you on a quick tour to our top 10 to get you dreaming about those as
     much as we do! 
   image: /img/arched-cabin.jpg
-likes: '23'
 categories:
   - Tiny houses
   - Architecture and design
   - Tiny cabins
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "23"
 ---
 If Tiny houses is all you want to live happily ever after then you might also have come across arched cabins now and then.
 
@@ -58,7 +59,7 @@ You can enjoy the scenery lying on the bed or you might also enjoy your tea sitt
 
 <span class="figcaption">Source: [archedcabins](http://archedcabins.com/gallery.html)</span>
 
-Can you imagine to build a **duplex** within this arched cabin? The reality is beautiful. 
+Can you imagine to [build a **duplex**](https://www.provincialhomes.com.au/duplex/) within this arched cabin? The reality is beautiful. 
 
 The upper portion might be a bit narrow but the design is near perfect to make you feel like you live in a regular size house!
 
