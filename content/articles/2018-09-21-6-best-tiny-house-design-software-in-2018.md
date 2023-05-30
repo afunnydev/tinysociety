@@ -65,7 +65,7 @@ This software allows you to design a variety of custom plans with an impressive 
 
 ## 6. [Dream Plan Home Design Software](https://www.nchsoftware.com/design/index.html?ref=blog;%20https://nchsoftware.blogspot.com/2017/04/tiny-home-design-software.html)
 
-This user-friendly software is highly intuitive and simple to use. The tip bar is a useful tool that has answers for nearly every roadblock you run into. The 2D and 3D views are both easy to navigate, and take only a simple click and drag to make additions or changes. The free version they offer for non-commercial use comes packed with extras like outdoor swimming pool design, as well as the ability to import existing floor plans. On the downside, there’s only one sample house plan available to get ideas from. Another negative is that there are only a limited number of objects you can choose from for your design. 
+This user-friendly software is highly intuitive and simple to use. The tip bar is a useful tool that has answers for nearly every roadblock you run into. The 2D and 3D views are both easy to navigate, and take only a simple click and drag to make additions or changes. The free version they offer for non-commercial use comes packed with extras like outdoor [swimming pool design](https://www.tinysociety.co/articles/the-best-tiny-house-design-software-in-2018/), as well as the ability to import existing floor plans. On the downside, there’s only one sample house plan available to get ideas from. Another negative is that there are only a limited number of objects you can choose from for your design. 
 
 ***Free Version:*** Yes (for non-commercial use only)
 
