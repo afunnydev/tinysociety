@@ -29,6 +29,8 @@ mapsjs: false
 ---
 Boxabl homes are portable buildings that are stackable and highly modular. They can be unpacked on-site in an hour. Boxabl homes come with all essential utilities and amenities, so you don't have to bother with additional setup costs. 
 
+They are usually not available, so you'll need to [do a pre-order at this link.](https://www.boxabl.com/reserve?ref=nzgwntg)
+
 ## What are Boxabl homes?
 
 Boxabl homes are a new modular housing system on the market that provides an ultra-modern alternative to traditional homes. These box houses use cutting-edge materials and the latest technologies. 
@@ -95,25 +97,27 @@ The 20 by 8.5-foot box still has about 5 feet of uncompressed space, which is en
 
 When delivered to your plot, it takes less than two hours to unfold. This literally means you can leave the empty lot for lunch and return to a fully assembled home. 
 
+And once again, you can [purchase one by pre-ordering it from here.](https://www.boxabl.com/reserve?ref=nzgwntg)
+
 ## FAQ
 
-Are Boxabl Homes hurricane-proof?
+**Are Boxabl Homes hurricane-proof?**
 
 Yes, Boxabl Homes are rated for hurricane-speed winds. This means they can handle the worst wind conditions in North America. 
 
-Can Boxabl homes withstand heavy snow loads?
+**Can Boxabl homes withstand heavy snow loads?**
 
 Yes, Boxabl homes can withstand heavy snow loads. The basic roof system is flat and rated for specific snow loadings. However, if you live in an area with lots of snow, your installer can request plans for a pitched roof. 
 
-Are Boxabl designs fireproof?
+**Are Boxabl designs fireproof?**
 
 No, Boxabl designs are not completely fireproof. However, the entire building exterior and interior are made of non-combustible materials, which significantly lowers the chance of a fire. 
 
-Are Boxabl homes resistant to moisture and mold?
+**Are Boxabl homes resistant to moisture and mold?**
 
 Yes, Boxabl homes are resistant to moisture and mold. In the event of flooding, Boxabl structures sustain much less water damage as they don't contain standard lumber or sheetrock. The choice of material also allows them to be mold-resistant.
 
-Are Boxabl homes stackable?
+**Are Boxabl homes stackable?**
 
 Yes, Boxabl homes are stackable, on top of or next to each other. This way, you can get additional space, such as a dedicated dining space, additional bedrooms for kids, etc. 
 
