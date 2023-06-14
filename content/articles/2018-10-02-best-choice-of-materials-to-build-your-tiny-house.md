@@ -29,7 +29,11 @@ noindex: false
 ordre: "0"
 likes: "22"
 ---
-When it comes to choosing the right tiny house materials to use for your new home, it’s best to prioritize your needs. Ask yourself if the price is the most important aspect to you or if you will spend a little more to ensure your new home is eco-friendly. If you are building a tiny house on wheels, then you’ll likely prefer using lightweight materials to make it easier to tow. Take a look at these material lists based on different priorities to help you better decide what kind of tiny house you want to build.
+When it comes to choosing the right tiny house materials to use for your new home, it’s best to prioritize your needs. Ask yourself if the price is the most important aspect to you or if you will spend a little more to ensure your new home is eco-friendly. 
+
+If you are building a tiny house on wheels, then you’ll likely prefer using lightweight materials to make it easier to tow. Take a look at these material lists based on different priorities to help you better decide what kind of tiny house you want to build.
+
+And if you want to learn how to build a tiny house yourself, you can check out this [tiny house workshop](https://getdpd.com/cart/hoplink/18727?referrer=yagl2k51z2sogsko&p=81689).
 
 ## You Want to Build the Most Affordable Tiny House
 
@@ -48,7 +52,7 @@ When you’re looking to build your tiny house at the [lowest cost possible](htt
 * Take advantage of local garage sales.
 * Borrow tools and buy materials off of friends. 
 * Keep track of demolition sites nearby.
-* Shop at nonprofit stores like the[ Habitat Restore](http://www.habitat.org/restores). 
+* Shop at nonprofit stores like the [Habitat Restore](http://www.habitat.org/restores). 
 
 ## Frame Building Materials List
 
