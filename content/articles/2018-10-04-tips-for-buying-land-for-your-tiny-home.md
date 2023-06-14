@@ -59,7 +59,7 @@ Many social media users merely perform searches only for people’s names becaus
 * Nextdoor.com
 * Other Social Media websites
 
-Experts also suggest posting a “land wanted” flyer in spots like supermarkets or the local library. A professionally [edited photo](https://www.adobe.com/express/feature/image/editor) of the tiny house project will attract the attention of property owners. The flyer should contain specifics such as the size of the house, the lot size sought, required utilities such as city water and power, and the date needed.
+Experts also suggest posting a “land wanted” flyer in spots like supermarkets or the local library. A professionally [edited photo](https://www.adobe.com/express/feature/image/editor) of the tiny house project will attract the attention of property owners (for example, [remove background](https://www.pixelcut.ai/tools/background-remover) objects that are unsightly). The flyer should contain specifics such as the size of the house, the lot size sought, required utilities such as city water and power, and the date needed.
 
 ## Special Considerations
 
