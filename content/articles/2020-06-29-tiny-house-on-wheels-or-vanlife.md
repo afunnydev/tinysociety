@@ -44,7 +44,7 @@ Let's face it: living on the road probably means downsizing. The restricted livi
 
 Most Tiny houses on Wheels are built on a 20' x 8.5' trailer, and go as high as 13.5'. Roughly, once you remove the walls and insulation, you can expect a living space between 120 and 140 square feet. It also gives you a lot of head space, high ceilings, or even a loft. That's pretty incredible. With a great choice of colors and a lot of windows, the THoW **will feel really spacious**.
 
-With that much space, you can expect to have a kitchen, a full-fledged bathroom, a loft, a spacious bed, and a lot of storage. If you're already careful with the quantity of stuff you own, you probably won't need to throw away anything. No compromise.
+With that much space, you can expect to have a kitchen, a full-fledged bathroom, a loft, a spacious bed, and [a lot of storage](https://www.elecbrakes.com/blog/top-10-caravan-storage-ideas/). If you're already careful with the quantity of stuff you own, you probably won't need to throw away anything. No compromise.
 
 #### Van
 
