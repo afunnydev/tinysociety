@@ -27,7 +27,7 @@ noindex: false
 hincluded: false
 mapsjs: false
 ---
-Tiny houses are not novelties and haven't been for some time. Faced with increasing real-estate prices, new generations of landowners are more than ready to embrace and explore the benefits of tiny living.
+<https://www.dealdrop.com/research/home-office-design-guide-tips-and-trends-for-your-workspace>Tiny houses are not novelties and haven't been for some time. Faced with increasing real-estate prices, new generations of landowners are more than ready to embrace and explore the benefits of tiny living.
 
 However, living in a tiny house is so much more than mere downsizing. You need to think smart and shop smart. Here are some of the best ideas for tiny house furniture to get you inspired in your search.
 
@@ -127,7 +127,7 @@ This is not an exercise. This is a police control…
 
 [Source](https://www.artstation.com/artwork/rRDRPm)
 
-I visited a house on wheels that was custom designed with office space on a raised platform, which provided space for roll-out trundle beds underneath. 
+I visited a house on wheels that was custom [designed with office space](https://www.dealdrop.com/research/home-office-design-guide-tips-and-trends-for-your-workspace) on a raised platform, which provided space for roll-out trundle beds underneath. 
 
 ## Futon sofa
 
@@ -194,8 +194,6 @@ Made from Wisconsin Maple, it has a timeless look to it that fits just as great 
 Another way to steal a TV space in your tiny home is to use a thin TV lift cabinet. Click a button, and your TV slides away when you don't need to. 
 
 This way, your living spaces look less cluttered, and you can use the top of the cabinet to display art or collectibles.
-
-
 
 ![](https://lh6.googleusercontent.com/BCXp30RIIgYhM9BcdkeBxB74DwTV4M_FaO1zKSKAIS4Q1mGRjQM26z9QljuMBt1jvwHOPtKDzwFyGhL3xw35GYvEcnrFf_2Bq3ZVA3QlafhfUaVbU2jP9sC7uUVMwKNDA6qlXSE4zUuKxIXKajWTzRg)
 
