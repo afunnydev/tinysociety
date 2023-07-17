@@ -1,35 +1,34 @@
 ---
 title: How to Find a Tiny House Builder?
-description: >-
-  Maybe you don’t have the time, skills, or desire to build a Tiny House
-  yourself. And maybe you want a bit more flexibility or involvement than comes
-  from purchasing a ready-made Tiny House. In that case, the middle route of
-  hiring a Tiny House builder may be for you.
+description: Maybe you don’t have the time, skills, or desire to build a Tiny
+  House yourself. And maybe you want a bit more flexibility or involvement than
+  comes from purchasing a ready-made Tiny House. In that case, the middle route
+  of hiring a Tiny House builder may be for you.
 slug: how-to-find-a-tiny-house-builder
 author: michelleg
 image: /img/tiny-house-builder.jpg
 overlay: true
-date: '2018-06-19'
-listing:
-  title: How to Find a Tiny House Builder?
-  description: >-
-    Maybe you don’t have the time, skills, or desire to build a Tiny House
-    yourself. And maybe you want a bit more flexibility or involvement than
-    comes from purchasing a ready-made Tiny House. In that case, the middle
-    route of hiring a Tiny House builder may be for you.
-  image: /img/tiny-house-builder-square.jpg
+date: 2018-06-19
+lastmod: 2023-07-17
 notloaded:
   need: true
-likes: '97'
+listing:
+  title: How to Find a Tiny House Builder?
+  description: Maybe you don’t have the time, skills, or desire to build a Tiny
+    House yourself. And maybe you want a bit more flexibility or involvement
+    than comes from purchasing a ready-made Tiny House. In that case, the middle
+    route of hiring a Tiny House builder may be for you.
+  image: /img/tiny-house-builder-square.jpg
 categories:
   - Sustainable building and living
   - Energy efficiency
   - Architecture and design
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 draft: false
 noindex: false
+ordre: "0"
+likes: "97"
 ---
 ## Why Hire a Tiny House Builder?
 
@@ -224,7 +223,7 @@ To be a reputable Tiny House builder, you'll want to meet the criteria listed th
 
 * Document your work well- take plenty of photos of the interiors and exteriors of your completed projects.
 * Treat your clients well—word of mouth and testimonials are of utmost importance.
-* Create an online presence. Unless you have a steady stream of local word-of-mouth business to keep you busy, you'll need to attract new customers. You're not likely to be taken seriously without a decent website. Get the word out about your work in Tiny House online forums and social media.
+* Create an online presence. Unless you have a steady stream of local word-of-mouth business to keep you busy, you'll need to attract new customers. You're not likely to be taken seriously without a decent website. Get the word out about your work in Tiny House online forums and social media as well as [guest posting packages](https://linkhouse.net/guest-posting-packages/).
 
 ## Summary
 
