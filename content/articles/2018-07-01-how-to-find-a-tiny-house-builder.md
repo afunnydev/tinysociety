@@ -185,7 +185,7 @@ To learn more about Cascade Tiny Houses, visit [their website](http://www.cascad
 
 #### Rocky Mountain Tiny Houses
 
-Rocky Mountain Tiny Houses in Durango, CO enlists a "made from scratch" philosophy with an emphasis on custom homes. They offer ready-to-purchase models, custom builds, and shell builds, as well as custom design and consulting. They have been featured in Tiny House Magazine.
+Rocky Mountain Tiny Houses in Durango, CO enlists a "made from scratch" philosophy with an emphasis on custom homes. They offer ready-to-purchase models, custom builds, and shell builds, as well as custom design and [consulting](https://boultwoodassociates.com/). They have been featured in Tiny House Magazine.
 
 ![Rocky Mountain Tiny Houses](/img/tiny-house-builder-4.jpg)
 
