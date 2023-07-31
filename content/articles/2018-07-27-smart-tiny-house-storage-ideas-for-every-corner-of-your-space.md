@@ -1,17 +1,18 @@
 ---
 title: Smart Tiny House storage ideas for every corner of your space
-description: >-
-  As much as the satisfaction of living in a tiny home, a lot of open room
-  should be available to make it breathable inside the rooms. People have come
-  up with all sorts of ideas from moveable walls, doors and windows to furniture
-  and vertical construction. The ideas are endless but the goal is same. 
+description: "As much as the satisfaction of living in a tiny home, a lot of
+  open room should be available to make it breathable inside the rooms. People
+  have come up with all sorts of ideas from moveable walls, doors and windows to
+  furniture and vertical construction. The ideas are endless but the goal is
+  same. "
 slug: smart-tiny-house-storage-ideas
 author: jubaer
 image: /img/siniz-kim-626146-unsplash.jpg
 overlay: true
-date: '2018-07-27'
+date: 2018-07-27
+lastmod: 2023-07-31
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: Smart Tiny House storage ideas for every corner of your space
   description: >+
@@ -20,16 +21,16 @@ listing:
     a tiny space? 
 
   image: /img/siniz-kim-626146-unsplash-2-.jpg
-likes: '16'
 categories:
   - Tiny houses
   - Architecture and design
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "16"
 ---
 ## Smart Tiny House storage ideas for every corner of your space
 
@@ -105,7 +106,7 @@ If you have a room where you want to set up office, this is the perfect way to d
 
 The corners of the walls are always wasted. 
 
-A useful way to utilize the space in tiny offices is to wrap a shelf around these corners. And you can use this work station to work standing if your bum aches!
+A useful way to utilize the space in tiny offices is to install a [top electric standing desk](https://arielle.com.au/best-standing-desk-australia/) that can be adjusted or wrap a shelf around these corners. And you can use this work station to work standing if your bum aches!
 
  It’s [DIY corner workstation](https://abeautifulmess.com/2014/02/building-a-standing-desk.html) developed by [A Beautiful mess.](https://abeautifulmess.com/)
 
@@ -425,7 +426,7 @@ Many furniture manufacturers who sells online have some collection of furniture 
 
 Let’s get down to it.
 
-[**1. Expand furniture**](https://expandfurniture.com/)
+**[1. Expand furniture](https://expandfurniture.com/)**
 
 Expand furniture specializes in multifunctional furniture that can be best buy for your tiny house.
 
@@ -435,7 +436,7 @@ Let me tell you that it is pricey but well worth buying as it can **save a ton o
 
 For a quick review, I recommend have a glance at their wall bed sofas.
 
-[**2. Home reserve**](https://www.homereserve.com/index.cfm)
+**[2. Home reserve](https://www.homereserve.com/index.cfm)**
 
 Searching for websites selling furniture for tiny living, I found home reserve to be very useful. 
 
@@ -443,7 +444,7 @@ Their furniture is built for extremely small space and small stairs. \
 
 The assembling and handling becomes easier as the sizes and functionalities are close to perfect for your tiny house. 
 
-[**3. Resourcefulness**](https://resourcefurniture.com/product-category/product-collections/storage-solutions/)
+**[3. Resourcefulness](https://resourcefurniture.com/product-category/product-collections/storage-solutions/)**
 
 For even more maximizing your storage space, check out resourcefulness. I love their innovative and stylish outlook on furniture. 
 
@@ -457,7 +458,7 @@ I have covered storage ideas for **bedroom**, **bathroom**, **living room** and 
 
 I have even specifically compiled ideas for storing **clothes** and **toys** for your cute kids. 
 
-The** furniture ideas** will give you a head start to make your own or order online.
+The **furniture ideas** will give you a head start to make your own or order online.
 
 Enjoy your stay in your **tiny house** and remember to make yourself open to new ideas.
 
