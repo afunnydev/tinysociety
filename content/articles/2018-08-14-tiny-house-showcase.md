@@ -7,25 +7,26 @@ slug: tiny-house-showcase
 author: jubaer
 image: /img/millertinyhouse-048-edit1-2700px.jpg
 overlay: true
-date: '2018-08-04'
+date: 2018-08-04
+lastmod: 2023-08-07
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: Superb Tiny House Showcase
   description: >
     A Tiny house is the best way to live a mortgage and a rent-free life. A home
     closer to nature and soothing air.
   image: /img/millertinyhouse-048-edit1-800x800.jpg
-likes: '17'
 categories:
   - Tiny houses
   - Architecture and design
 i18nlanguage: en
 menuid: articles
-ordre: '-2'
 infographic: false
 draft: false
 noindex: false
+ordre: "-2"
+likes: "17"
 ---
 A tiny house is the best way to live a mortgage and a rent-free life. A home closer to nature and soothing air.
 
@@ -63,8 +64,8 @@ The home was straight away built on a flatbed trailer.
 
 ## Cost
 
-Why do I think it’s the best tiny house out there? The house was built only for **$11,416.16. 
-**
+Why do I think it’s the best tiny house out there? The house was built only for **$11,416.16.** 
+
 
 The only thing that cost more than the house was that Macy broke her back during its building.
 
@@ -83,7 +84,7 @@ She used materials that were tagged as wastes in the construction industry. She 
 
 She got supplies for as less as $300, just because a construction company over ordered them. This saved her more money.
 
-She did the electrical works, and her father did the job for plumbing. Saved more and more money. 
+She did the electrical works, and her father did the job for plumbing, as he used to [work as a plumber](https://jooble.org/jobs-sponsorship-plumbers). 
 
 So, what interests me is that its equally important to manage your work, rather than just spending your money.
 
