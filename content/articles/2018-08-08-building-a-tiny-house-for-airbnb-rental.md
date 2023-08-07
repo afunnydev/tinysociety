@@ -97,6 +97,7 @@ Your Airbnb guests will already be impressed with your tiny house! Here are some
 * *Toiletries*: No need to buy the expensive stuff, but a bar of soap or shampoo is always exciting to see in an Airbnb. Toilet paper should be a given. 
 * *Wood:* If you have a wood stove, supplying a few logs of firewood is super handy for guests who didn’t bring their own axe.
 * *Entertainment:* A tiny house doesn’t have space for too many extra things, so you’ll want to provide compact fun in the form of books and playing cards.
+* **Personal Touches:** Lay out a [photo album for guests](https://www.mixbook.com/photo-books) that shows some stunning photography of the area, or provide a custom thank you note. It will make visitors feel glad they chose your rental!
 
 ## How to Market Your Tiny House Airbnb
 
