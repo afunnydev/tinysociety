@@ -96,7 +96,7 @@ Tiny House living means not having an extensive wine cellar at your fingertips. 
 
 **Small appliances.** 
 
-I won’t quite say that ‘I can’t live without’ my Vitamix high-speed blender… I mean, if some apocalyptic scenario separated me from it, I’d figure out a way to manage, but it wouldn’t be willingly. Back to that story of getting rid of, and then re-acquiring, most of my kitchen gadgets? Here’s a list of what’s currently included in my Tiny House kitchen space:
+I won’t quite say that ‘I can’t live without’ my [refurbished citrus juicer](https://www.hurom.com/products/refurbished-citrus-juicer)… I mean, if some apocalyptic scenario separated me from it, I’d figure out a way to manage, but it wouldn’t be willingly. Back to that story of getting rid of, and then re-acquiring, most of my kitchen gadgets? Here’s a list of what’s currently included in my Tiny House kitchen space:
 
 * electric kettle
 * immersion blender
