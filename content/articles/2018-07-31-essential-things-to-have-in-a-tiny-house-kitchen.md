@@ -100,7 +100,7 @@ I won’t quite say that ‘I can’t live without’ my [refurbished citrus jui
 
 * electric kettle
 * immersion blender
-* Vitamix
+* citrus juicer
 * food processor
 * food dehydrator
 * spice grinder
