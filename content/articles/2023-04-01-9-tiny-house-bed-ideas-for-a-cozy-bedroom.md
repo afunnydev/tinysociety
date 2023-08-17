@@ -77,7 +77,7 @@ However, as the vertical set-up needs too much room for a tiny house, murphy bed
 
 If you settle for a murphy bed, you can eliminate the loft sleeping space entirely, which leaves you ample storage space in the vertical niche. This also means that your main floor converts into a sleeping area, allowing you to even squeeze in a king mattress. 
 
-Some queen-size murphy beds are built with a couch in front, with the bed folding over the couch sitting area when needed. 
+Some queen-size murphy beds are built with a couch in front, with the bed folding over the couch sitting area when needed. You can find well-made [hardwood bedroom furniture](https://penndutchfurniturestore.com/product-category/bedroom/), like wall beds made by specialty craftsmen, online. This guarantees that your furniture will stay structurally sound throughout your life.
 
 2. ### Loft bedroom
 
