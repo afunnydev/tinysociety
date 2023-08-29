@@ -31,7 +31,7 @@ Buying a tiny house is a great way to reduce your environmental footprint withou
 
 ## Can you get a tiny house mortgage?
 
-When you're buying a home, you usually need to get a mortgage. A mortgage is a type of secured loan that allows you to pay for a house that might cost hundreds of thousands of dollars slowly over a period of time that can go up to 30 years. 
+When you're [buying a home](https://www.wmrealtypros.com/how-to-buy-a-house-in-michigan/), you usually need to get a mortgage. A mortgage is a type of secured loan that allows you to pay for a house that might cost hundreds of thousands of dollars slowly over a period of time that can go up to 30 years. 
 
 The problem is that traditional mortgage loans are often not available for tiny houses. 
 
