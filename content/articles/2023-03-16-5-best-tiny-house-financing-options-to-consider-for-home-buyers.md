@@ -99,7 +99,7 @@ Technically you can charge the cost of your tiny home to a credit card, but this
 
 First of all, you'd need to have a high enough balance to cover the cost of your tiny home, which is difficult unless you settle for the most inexpensive one. 
 
-Second, the interest rates for credit cards are among the highest of all other forms of financing
+Second, the interest rates for credit cards are among the highest of all [other forms of financing](https://www.learn2franchise.com/blog-posts/franchise-financing-options). 
 
 And in the end, you'll pay much more than the house is worth. 
 
