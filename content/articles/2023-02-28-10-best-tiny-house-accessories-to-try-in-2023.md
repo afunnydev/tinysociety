@@ -148,7 +148,7 @@ Whether you have a deck or just some trees to tie it to, a comfortable hammock c
 
 Spruce up your outdoor living space with [this macrame hammock](https://www.amazon.com/SXSEAGLE-Hammock-Hanging-Macrame-Outdoor/dp/B09J27ZHVG/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.17640126-9148-4700-a727-578cd66ffa9f%3Aamzn1.sym.17640126-9148-4700-a727-578cd66ffa9f&crid=36VP9HIVYGPVD&cv_ct_cx=hammock&keywords=hammock&pd_rd_i=B09J27ZHVG&pd_rd_r=5f7f5347-a852-43b4-940a-05b46ac492fc&pd_rd_w=y4OP4&pd_rd_wg=Pfj1H&pf_rd_p=17640126-9148-4700-a727-578cd66ffa9f&pf_rd_r=2V7WD4SRA4993T5772XV&qid=1677512219&sprefix=hammock%2Caps%2C190&sr=1-3-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjYxUjZPWTlLVTNLJmVuY3J5cHRlZElkPUEwMzM1MTM4MTNCNzhaMDdHNDIzUyZlbmNyeXB0ZWRBZElkPUEwOTg4NDE1TlNISVRIVkVUU1g4JndpZGdldE5hbWU9c3Bfc2VhcmNoX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) made of strong cotton and soft linen rope. 
 
-It's strong enough to hold two people, while the crocheted tassels hanging from both sides will add elegance to your camper decor. 
+It’s strong enough to hold two people, while the crocheted tassels hanging from both sides will add elegance and a [coastal decor](https://holidaytree.com/collections/shell) vibe to your outdoor space.
 
 ### Air purifier
 
