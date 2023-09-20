@@ -27,12 +27,11 @@ noindex: false
 hincluded: false
 mapsjs: false
 ---
-
 When I had to choose appliances for my off-grid tiny home, I was looking for three things:
 
-- performance
-- convenience
-- energy-efficiency
+* performance
+* convenience
+* energy-efficiency
 
 The good news is that modern appliances are designed to be as energy-efficient as they come.
 
@@ -82,6 +81,8 @@ For this reason, I always prefer electrical appliances to those that run on foss
 Propane refrigerators might be cheaper, but there are definitely more things to go wrong.
 
 The same goes for propane tankless water heaters.
+
+If something does go awry, accept that you might need to call in the pros to fix it, unless you want to take even more tools with you. Experts using [appliance repair software](https://www.servicefusion.com/appliance-repair-software) should be able to sort off-grid setups in a flash.
 
 ### Available space
 
