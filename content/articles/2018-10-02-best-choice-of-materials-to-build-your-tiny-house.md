@@ -132,7 +132,7 @@ To get your water to flow from your fresh water tank to your faucets and out of 
 
 ### Grey Water Tank
 
-When you live in a tiny house, you have to create a place for all of your used water to go. This includes the water used to wash your dishes and shower water. Some people choose to collect this water in a [grey water tank](https://www.amazon.com/gp/product/B000P66C7Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000P66C7Y&linkCode=as2&tag=mywebsitekb04-20&linkId=29dea4e321cf3c19dcde48c538932408) and dump it. Others collect it and use it to water their plants or flowers. Depending on where your house is, you might be able to get away with it running a hose outside into the ground. 
+When you live in a tiny house, you have to create a place for all of your used water to go. This includes the water used to wash your dishes and shower water. Some people choose to collect this water in a [grey water tank](https://www.amazon.com/gp/product/B000P66C7Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000P66C7Y&linkCode=as2&tag=mywebsitekb04-20&linkId=29dea4e321cf3c19dcde48c538932408) and dump it. Others collect it and use it to water their [plants or flowers](https://labellefleurdesign.ca/blogs/flower-blog/elevating-your-indoor-space-with-beautiful-plants-and-flowers). Depending on where your house is, you might be able to get away with it running a hose outside into the ground. 
 
 **Average Cost: $50-$175**
 
