@@ -127,6 +127,8 @@ One of the reasons why lenders may refuse to finance tiny houses is because they
 
 Many tiny houses are built on wheels and they depreciate in a similar way to cars and RVs. Besides that, wear and tear as well as maintenance is another thing that adds up costs related to buying a tiny house. 
 
+Regardless of where you get a loan or not, make sure you get a [seller's property disclosure](https://www.squarefoothomes.com/blog/home-buying/what-is-a-sellers-property-disclosure/) before you make your purchase to ensure all damages are accounted for. If there’s damage, you may be able to get the home for cheaper.
+
 ### You need something to move it with
 
 If your tiny house isn't built on a permanent foundation and you want to relocate it, you'll need a larger vehicle like a truck to tow it to your next destination. 
