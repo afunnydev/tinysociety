@@ -165,6 +165,8 @@ A great solution for people who work from their tiny homes. 
 
 This [Bestier Rustic Brown Lift Top Coffee Table](https://www.amazon.com/Bestier-Coffee-Storage-Industrial-Center/dp/B09R8YHT4Q?th=1) has a heavy-duty mechanism allowing you to adjust the tabletop from 18” to 23” easily and quietly. The hidden compartment underneath is perfect for keeping your laptop, remotes, and game controllers. 
 
+In fact as remote working is now ubiquitous, taking [home office ergonomics](https://www.ifr-furniture.com/rent/home-office-ergonomics-be-comfortable-on-the-job/) into account when choosing tiny house furniture is a must. It’s not just about the pieces you choose, but how they are arranged within the space that’s available to keep you comfortable and productive throughout the working day.
+
 ## Floating corner TV stand
 
 It's challenging to use a corner of your tiny home for something other than a houseplant, but a floating corner TV stand is a perfect solution that leaves the prime wall space for other amenities. 
