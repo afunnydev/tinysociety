@@ -82,7 +82,9 @@ In my opinion, there’s no need for a dishwasher in a Tiny House. Doing dishes 
 
 **Oven.**
 
- If your cooking practices tend towards full Thanksgiving turkey meals and generous pot roasts, a full oven-- even if it’s compact or apartment-sized-- is essential. As a pescatarian who generally cooks for one or two people, these large meaty main entrees aren’t part of my repertoire, so a convection toaster oven does a perfectly adequate job of meeting my needs. And it sits above counter height on its own wall shelf rather than taking up valuable countertop space or below-counter storage space.
+ If your cooking practices tend towards full Thanksgiving turkey meals and generous pot roasts, a full oven-- even if it’s compact or apartment-sized-- is essential. As a pescatarian who generally cooks for one or two people, these large meaty main entrees aren’t part of my repertoire, so a convection toaster oven does a perfectly adequate job of meeting my needs.
+
+ In fact, I often find myself browsing online for quick, easy, and healthy [veggie recipes ](https://www.hellofresh.com/recipes/vegetarian-recipes)that are simple enough for one person to prepare and consume. With the popularity and convenience of online food delivery services, I can order the necessary fresh ingredients directly to my doorstep when needed. And it sits above counter height on its own wall shelf rather than taking up valuable countertop space or below-counter storage space.
 
 **Cooktop.**
 
