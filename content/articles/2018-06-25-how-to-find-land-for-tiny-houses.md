@@ -505,6 +505,8 @@ If your Tiny House is on wheels, it will need a path of access from the road to 
 * Where will your Tiny House be located in relation to any gardens you plan to plant? Make sure they’re located with adequate sun access and water.
 * Where will the chicken coops/rabbit hutches/dog runs/goat pens be located?
 
+These are questions you could answer with the help of a landscaping professional, and if you don’t have experience in this area then it’s definitely worth getting a second opinion from an expert. The good news is that [figuring out how to price landscaping jobs](https://www.dynascape.com/blog/the-ultimate-guide-to-pricing-landscaping-jobs/) is straightforward, so you can get a sense of the potential costs before you commit.
+
 **Land features**
 
 Take a look at the property’s land features when determining the ideal spot for your Tiny House:
