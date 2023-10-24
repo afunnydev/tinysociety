@@ -148,7 +148,7 @@ Now that you've narrowed it down to a number of possibilities, how do you pick w
 
 ### Interview
 
-Conduct an interview by phone or, preferably, in person. In addition to asking the following questions, get a sense for whether this is a person (or team) that you want to work with.
+Conduct an interview by phone or, preferably, in person and send a [follow up email](https://instantly.ai/blog/how-to-write-a-follow-up-email). In addition to asking the following questions, get a sense for whether this is a person (or team) that you want to work with.
 
 #### Checklist of questions to ask a prospective Tiny House Builder:
 
