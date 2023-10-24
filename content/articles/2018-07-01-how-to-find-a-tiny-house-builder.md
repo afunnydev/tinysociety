@@ -114,7 +114,7 @@ Does the builder offer certification for the Tiny House? Is there an extra fee f
 
 #### Delivery
 
-Does the builder offer delivery of the Tiny House to the location of your choice? Is the fee for doing so competitive with independent delivery services?
+Does the builder offer delivery of the Tiny House to the location and with [time slot booking](https://www.goramp.com/solutions/warehouse-dock-scheduling-software) of your choice? Is the fee for doing so competitive with independent delivery services?
 
 Note that your builder is likely to take pride in your project, having spent the number of requisite hours in its creation, and will handle and deliver it with care. An experienced builder will also be familiar with the unique procedures involved with towing a Tiny House.
 
