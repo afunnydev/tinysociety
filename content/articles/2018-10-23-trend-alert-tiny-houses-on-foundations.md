@@ -51,7 +51,7 @@ If selling your house project is in your plan for the future, even a rundown hou
 
 ### Easier to Get a Loan
 
-Most banks won’t consider lending someone money to build a tiny house on wheels. This is because they tend to depreciate in value and deteriorate after years of use. Banks want to invest in the construction of homes that they can resell if the loan isn’t paid back. It’s also harder to foreclose on a house when it’s always on the move.
+Most banks won’t consider lending someone money to build a tiny house on wheels. This is because they tend to depreciate in value and deteriorate after years of use. Banks want to [invest in the construction of homes](https://youngandtheinvested.com/investing-in-apartment-buildings/) that they can resell if the loan isn’t paid back. It’s also harder to foreclose on a house when it’s always on the move.
 
 ### Less Maintenance
 
