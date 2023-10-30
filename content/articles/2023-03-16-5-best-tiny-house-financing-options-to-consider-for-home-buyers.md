@@ -143,6 +143,8 @@ Many campsites and trailer parks allow you to park on their grounds for an exten
 
 On the other hand, some campsites will turn tiny homes away, so you better do research on where you're allowed to stay. Also, staying at campgrounds and parks involves daily, weekly, or monthly payments, which is often more expensive than renting an apartment - depending on your location and length of stay.  
 
+If you're thinking about renting your tiny house, you can also consider [a business loan](https://minikredite.org/en/business-loans/) which might come with different conditions. Popular banks usually don’t advertise tiny house loans, but you still may be able to get one, especially if you have an excellent credit score. 
+
 ## FAQ
 
 ### Is it possible to get tiny home financing with bad credit?
