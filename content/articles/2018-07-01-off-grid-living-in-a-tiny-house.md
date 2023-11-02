@@ -1,26 +1,24 @@
 ---
 title: Off Grid Living in a Tiny House
-description: >-
-  Living off grid is an attractive idea to many Tiny House dwellers. It
-  represents yet another layer of freedom. Living Tiny grants freedom from heavy
-  30-year-plus mortgages. Living Tiny off the grid grants additional freedom of
-  location. 
+description: "Living off grid is an attractive idea to many Tiny House dwellers.
+  It represents yet another layer of freedom. Living Tiny grants freedom from
+  heavy 30-year-plus mortgages. Living Tiny off the grid grants additional
+  freedom of location. "
 slug: off-grid-living-in-a-tiny-house
 author: michelleg
 image: /img/off-grid-tiny-house-living-banner.jpg
 overlay: true
-date: '2018-06-19'
+date: 2018-06-19
+lastmod: 2023-11-02
 notloaded:
   need: true
 listing:
   title: Off Grid Living in a Tiny House
-  description: >-
-    To some people, “off the grid” also means off the radar in terms of urban
-    zoning issues. And living off grid is a self-reliable lifestyle. It enables
-    us to potentially provide for all of our basic needs from the land we live
-    on. That’s an empowering place to be.
+  description: To some people, “off the grid” also means off the radar in terms of
+    urban zoning issues. And living off grid is a self-reliable lifestyle. It
+    enables us to potentially provide for all of our basic needs from the land
+    we live on. That’s an empowering place to be.
   image: /img/off-grid-tiny-house-living-square.jpg
-likes: '97'
 categories:
   - Sustainable building and living
   - Energy efficiency
@@ -28,11 +26,12 @@ categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 draft: false
 noindex: false
+ordre: "0"
+likes: "97"
 ---
-Living off grid is an attractive idea to many Tiny House dwellers. It represents yet another layer of freedom. Living Tiny grants freedom from heavy 30-year-plus mortgages. Living Tiny _off the grid_ grants additional freedom of location. It's no longer necessary to be within reach of municipal utilities. It also grants additional financial freedom. No more paying for utilities. Yes, there's an initial cost investment involved, but it pays off in time. To some people, "off the grid" also means off the radar in terms of urban zoning issues. And living off grid is a self-reliable lifestyle. It enables us to potentially provide for all of our basic needs from the land we live on. That's an empowering place to be.
+Living off grid is an attractive idea to many Tiny House dwellers. It represents yet another layer of freedom. Living Tiny grants freedom from heavy 30-year-plus mortgages. Living Tiny *off the grid* grants additional freedom of location. It's no longer necessary to be within reach of municipal utilities. It also grants additional financial freedom. No more paying for utilities. Yes, there's an initial cost investment involved, but it pays off in time. To some people, "off the grid" also means off the radar in terms of urban zoning issues. And living off grid is a self-reliable lifestyle. It enables us to potentially provide for all of our basic needs from the land we live on. That's an empowering place to be.
 
 ### Other reasons for living off the grid
 
@@ -121,7 +120,6 @@ Some appliances are better than others for living off the grid. Choose low watta
 * **SunDanzer** offers DC-powered refrigerators, freezers, and combos that run off of solar, wind, fuel cells, or batteries. Their products can be found [here](https://sundanzer.com/product-category/household/).
 * Camp stoves in general are a great off-grid option for those who don't mind cooking outdoors. The **BioLite CampStove 2** is fueled by wood (or pellets, pine cones, or other small biomass) rather than fuel canisters. And it generates enough power during use to charge a mobile phone. Find out more [here](https://www.bioliteenergy.com/products/campstove-2-bundle?variant=180489322510&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=EAIaIQobChMIkPKS3Zbh2wIVEY5-Ch2fCQvYEAQYAyABEgJKYfD_BwE). 
 
-
 ![Biolite](/img/off-grid-tiny-house-living-5.jpg)
 
 * A number of clothes washers are available for doing laundry without electricity. The **Laundry Alternative Wonder Wash** is one of the most popular. It's both portable and affordable, and it takes up very little space. Find it [here](http://www.laundry-alternative.com/our-products/the-wonderwash/). 
@@ -198,7 +196,7 @@ Start by researching the rules and regulations concerning greywater in the local
 * If there's space on your property, consider building an in-ground root cellar for storing produce.
 * Try drying or canning your food instead of freezing it.
 * Choose an energy-efficient refrigerator/freezer. A few ideas are listed in the Off Grid Appliances section above.
-* In some situations, keeping a 7-day cooler stocked with ice might be sufficient.
+* In some situations, keeping a 7-day cooler stocked with ice might be sufficient. There might come a time, however, that you want more variety or are unable to restock your cooler frequently. In these scenarios, having the flexibility to order food online can be a lifesaver. Many companies offer a broad range of [delicious prepared meals](https://www.factor75.com/eat/prepared-low-calorie-meal-delivery) that don’t require refrigeration until they’re ready to be cooked. It's a convenient way to ensure you have diverse and tasty meals while living off the grid.
 * When planning your garden, choose vegetables that store well, such as onions, potatoes, sweet potatoes, carrots, and squash. 
 
 ![Food conservation](/img/off-grid-tiny-house-living-2.jpg)
