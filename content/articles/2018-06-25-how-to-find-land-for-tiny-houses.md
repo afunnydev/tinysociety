@@ -301,7 +301,7 @@ Any location has its pros and cons. It’s up to you to decide what you’re wil
 
 ![null](/img/find-land-for-a-tiny-house-26.jpg)
 
-**If this involves using an easement** across someone else’s property, ensure that it won’t be a problem to exercise that right. It’s a good idea to involve a real estate attorney in this situation. Be aware that easements sometimes restrict the size of the vehicles allowed to use them, which could become an issue for a Tiny House on wheels or a construction materials delivery truck.
+**If this involves using an easement** across someone else’s property, ensure that it won’t be a problem to exercise that right. It’s a good idea to involve a [real estate attorney](https://perkinslawoffices.com/real-estate-law/) in this situation. Be aware that easements sometimes restrict the size of the vehicles allowed to use them, which could become an issue for a Tiny House on wheels or a construction materials delivery truck.
 
 **Natural features for alternative energy**
 
