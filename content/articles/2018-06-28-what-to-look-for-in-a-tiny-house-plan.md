@@ -438,7 +438,7 @@ The construction documents should provide schematics for electrical wiring and p
 * Any specialty electrical outlets needed for major appliances
 * Lighting-- it's a good idea to plan on a combination of:
 
-  * general fixed overhead lighting (ceiling fixtures); and
+  * general fixed overhead lighting ([ceiling lights](https://inlinelighting.com/landing/ceilinglights)); and
   * flexible task lighting to be provided by plug-in floor lamps, desk lamps, or work lamps
 * Ceiling fans if using
 * Exhaust fans in kitchen and bathroom are recommended; condensation can be a big issue in a Tiny House
