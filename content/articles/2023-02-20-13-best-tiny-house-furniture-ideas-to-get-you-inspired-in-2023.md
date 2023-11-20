@@ -189,6 +189,10 @@ Chairs that fold flat can be easily stored virtually anywhere. They are a perfec
 
 There are many stylish and comfortable chairs to choose from, like this [Maple Wood Padded Folding Chair](https://www.wayfair.com/school-furniture-and-supplies/pdp/kestell-furniture-maple-wood-padded-folding-chair-w000352080.html) that we choose. 
 
+Alternatively, for those seeking a more modern aesthetic, consider options from [Chairforce New Zealand](https://chairforce.co.nz/plastic-chairs/). They offer a beautiful and durable range of high-quality plastic chairs that are UV-resistant, making them suitable for both indoor and outdoor use. 
+
+With an extensive collection available online, Chairforce caters to a variety of styles and preferences. Whether you're in Auckland or anywhere in New Zealand, you can conveniently order your choice of furniture for delivery, or visit their showroom to appreciate the quality firsthand.
+
 Made from Wisconsin Maple, it has a timeless look to it that fits just as great in rustic and modern interiors. You can choose between five different wood finishes and nine upholstery options.
 
 ## TV lift cabinet
