@@ -12,8 +12,7 @@ lastmod: 2022-12-27
 notloaded:
   need: true
 listing:
-  description:
-    Solar panels are a great way to cut costs, but should you get them
+  description: Solar panels are a great way to cut costs, but should you get them
     for your tiny house? We'll show you why it's a good idea and how you can do
     it.
   title: Should You Get Solar Panels for a Tiny House? All Questions Answered
@@ -29,7 +28,6 @@ noindex: false
 hincluded: false
 mapsjs: false
 ---
-
 In short - **yes**, but you need to determine what kind of solar system works for you.
 
 To find perfect solar panels for a small house, you need to know your energy needs or power usage, the amount of sunlight in your location, and the size of your roof.
@@ -42,11 +40,11 @@ The spec sheet on each device and appliance gives its wattage in watts of power 
 
 Let's take a look at a couple of examples:
 
-- Mini Split for heating and cooling: 3,000 W
-- Fridge: 780 W
-- LED lights: 100 W
-- Cell phone: 30 W
-- Laptop 240 W
+* Mini Split for heating and cooling: 3,000 W
+* Fridge: 780 W
+* LED lights: 100 W
+* Cell phone: 30 W
+* Laptop 240 W
 
 This totals about 4,150 watts per day. This means that you can cover the power usage of an average tiny house with a 5kW solar panel system.
 
@@ -94,7 +92,7 @@ If your roof is too small, you may need to go with high-efficiency solar panels 
 
 If your tiny house doesn't have the right shape or enough roof space for panels, you can still prop your panels on ground mounts.
 
-Ground solar mounts have many benefits.
+[Ground solar mounts](https://www.renewableenergyhub.co.uk/main/solar-panels/ground-mounted-solar-panels) have many benefits.
 
 You can easily wipe away dust, snow, bird poop, and other debris that reduces the effectiveness of your panels.
 
@@ -106,10 +104,10 @@ Here's a 5th-grade science question:
 
 There are four roofs:
 
-- roof A faces north;
-- roof B faces south;
-- roof C faces east;
-- roof D faces west.
+* roof A faces north;
+* roof B faces south;
+* roof C faces east;
+* roof D faces west.
 
 Which two roofs get the most sunshine hours throughout the day?
 
