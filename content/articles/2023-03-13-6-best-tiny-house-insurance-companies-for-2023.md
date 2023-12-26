@@ -212,7 +212,7 @@ Cons:
 * Your tiny home may need to be certified and meet zoning laws
 * No information online about coverage limits
 
-Why should you consider it: When you purchase a policy, you can use the online customer portal or mobile app to make changes to your insurance programs.
+Why should you consider it: When you purchase a policy, you can use the online customer portal or [mobile app](https://ein-des-ein.com/service/mobile-app-development/) to make changes to your insurance programs.
 
 ## FAQs
 
