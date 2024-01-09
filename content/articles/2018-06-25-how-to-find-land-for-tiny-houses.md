@@ -460,7 +460,7 @@ Testing tap water is a relatively simple process accomplished with a home water 
 
 **Liens.** Find out whether there are any liens filed on the property you’re interested in purchasing.
 
-* You can search public records for the property of interest either online or in person.
+* You can search public records for the [property management baltimore](https://ppmillc.com/) of interest either online or in person.
 * Property records can be found either at the county courthouse, city hall, county recorder, or other city or county department. Ask for help from the staff in order to find property deeds and encumbrances.
 * You can do an internet search for Property Tax Records to access sites pertaining to your area of interest to find out whether there are any outstanding unpaid taxes on the property.
 * If you’re working with a real estate agent, he will likely be of great assistance with this process.
