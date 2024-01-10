@@ -183,6 +183,8 @@ A heat pump is one of the most popular options for people who live on the grid, 
 
 A huge bonus of heat pumps is that they provide both heating and cooling for your tiny house. If you get a mini split, you can mount the air handling unit on the wall so it doesn't take up any additional space. The [Goodman 2.5 Ton 14 SEER](https://www.amazon.com/Goodman-2-5-SEER-Heat-Pump/dp/B0120UPP70/ref=sr_1_6?crid=1NT68YOGJBFAB&keywords=heat+pump&qid=1680875886&sprefix=heat+pump%2Caps%2C265&sr=8-6) heat pump comes with a thermostat and an excellent humidity control feature. 
 
+However, it's crucial to ensure the efficient operation of your heat pump by performing regular maintenance. This includes tasks such as cleaning filters and coils, checking for signs of wear and tear, and scheduling [professional heat pump maintenance](https://dynamicheatandcool.ca/services/heat-pump/heat-pump-maintenance/) when needed. Proper maintenance not only enhances the longevity, but also ensures optimal performance throughout its lifespan.
+
 ### Heat pump pros and cons
 
 Pros:
