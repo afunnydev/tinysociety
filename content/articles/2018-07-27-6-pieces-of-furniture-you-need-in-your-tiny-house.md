@@ -1,17 +1,17 @@
 ---
 title: 6 Pieces Of Furniture You Need In Your Tiny House
-description: >-
-  The key to choosing tiny house furniture is more than just making sure it fits
-  inside your new home. Downsizing will mean you’ll have less space than you’re
-  used to. This means it’s essential that each piece of furniture serves more
-  than one purpose as well.
+description: The key to choosing tiny house furniture is more than just making
+  sure it fits inside your new home. Downsizing will mean you’ll have less space
+  than you’re used to. This means it’s essential that each piece of furniture
+  serves more than one purpose as well.
 slug: 6-pieces-of-furniture-you-need-in-your-tiny-house
 author: kristen
 image: /img/architecture-bed-bedroom-banner.jpg
 overlay: true
-date: '2018-07-17'
+date: 2018-07-17
+lastmod: 2024-01-10
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: 6 Pieces Of Furniture You Need In Your Tiny House
   description: >
@@ -20,18 +20,18 @@ listing:
     day. Minimalist living can provide you with the same comforts as a
     full-sized house, as long as it's done right.  
   image: /img/architecture-bed-bedroom-271743-1-1-.jpg
-likes: '21'
 categories:
   - Tiny houses
   - Architecture and design
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "21"
 ---
-Going tiny? Then keep reading! The key to choosing tiny house furniture is more than just making sure it fits inside your new home. Downsizing will mean you’ll have less space than you’re used to. This means it’s essential that each piece of furniture serves more than one purpose as well. Either that or it should be able to tuck away neatly in a closet or corner when it's not being used. Living in a small space doesn't mean you have to give up having a coffee table to put your feet up on each night or a desk to sit at throughout the day. Minimalist living can provide you with the same comforts as a full-sized house, as long as it's done right.  
+Going tiny? Then keep reading! The key to choosing tiny house furniture is more than just making sure it fits inside your new home. Downsizing will mean you’ll have less space than you’re used to. This means it’s essential that each piece of furniture serves more than one purpose as well. Either that or it should be able to tuck away neatly in a closet or corner when it's not being used. Living in a small space doesn't mean you have to give up having a [coffee table](https://tlbespoke.ca/collections/coffee-tables) to put your feet up on each night or a desk to sit at throughout the day. Minimalist living can provide you with the same comforts as a full-sized house, as long as it's done right.  
 
 ![null](/img/impressed.gif)
 
@@ -74,7 +74,7 @@ Even if you don’t sit at the kitchen table to eat every night, having some kin
 
 ![coffee-table](/img/apartment-architecture-carpet-584399.jpg)
 
-Depending on the size and shape of your tiny house design, you might be able to fit both a coffee table and a kitchen table inside. Don’t forget that just like most of your other pieces of furniture, you’ll want your coffee table to be multi-purpose. Ideally, the best kind of coffee table will hold storage and has a reversible lid that can provide you with the option of either a soft top or a hard table top. This allows you to have a hard tabletop to do your work or put a cup of tea on but also gives you a cushioned side that can act as an extra seat for when you have guests. Tiny living doesn’t mean you’ll no longer get to entertain! Denise Bryant from [My Thrifty House](http://www.mythriftyhouse.com/) suggests, _“You could use an ottoman to store blankets and add a tray to the top to create a table while still using it to prop up your feet and watch a movie.”_ Ottomans are a great example of something that can be used as a multi-purpose coffee table. 
+Depending on the size and shape of your tiny house design, you might be able to fit both a coffee table and a kitchen table inside. Don’t forget that just like most of your other pieces of furniture, you’ll want your coffee table to be multi-purpose. Ideally, the best kind of coffee table will hold storage and has a reversible lid that can provide you with the option of either a soft top or a hard table top. This allows you to have a hard tabletop to do your work or put a cup of tea on but also gives you a cushioned side that can act as an extra seat for when you have guests. Tiny living doesn’t mean you’ll no longer get to entertain! Denise Bryant from [My Thrifty House](http://www.mythriftyhouse.com/) suggests, *“You could use an ottoman to store blankets and add a tray to the top to create a table while still using it to prop up your feet and watch a movie.”* Ottomans are a great example of something that can be used as a multi-purpose coffee table. 
 
 ## Swiss Army Knife Kitchen
 
