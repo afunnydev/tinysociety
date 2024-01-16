@@ -1,34 +1,33 @@
 ---
 title: 34' Tiny House with Double French Doors
-description: >-
-  This 34' foot tiny house on wheels is the perfect small space for a family or
-  vacation rental. With double lofts and a ground floor master bedroom, this
-  home is ideal for tiny living.
+description: This 34' foot tiny house on wheels is the perfect small space for a
+  family or vacation rental. With double lofts and a ground floor master
+  bedroom, this home is ideal for tiny living.
 slug: 34-foot-tiny-house-with-double-french-doors
 author: molli
 image: /img/autumn_banner.jpg
 overlay: true
-date: '2018-11-27'
+date: 2018-11-27
+lastmod: 2024-01-16
 notloaded:
   need: true
 listing:
   title: 34' Tiny House with Double French Doors
-  description: >-
-    This elegant, 343 square foot tiny house on wheels boasts beautiful wood
-    accents and double french doors. The separate spaces in this
-    uniquely-designed tiny make it perfect for families or for vacation
-    rentals. 
+  description: "This elegant, 343 square foot tiny house on wheels boasts
+    beautiful wood accents and double french doors. The separate spaces in this
+    uniquely-designed tiny make it perfect for families or for vacation rentals.
+    "
   image: /img/autumn_square.jpg
-likes: '88'
 categories:
   - Tiny houses
   - Tiny house review
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "88"
 ---
 This elegant, 343 square foot tiny house on wheels boasts beautiful wood accents and double french doors. The separate spaces in this uniquely-designed tiny make it perfect for families or for vacation rentals. 
 
@@ -48,7 +47,7 @@ The kitchen space is perfectly refined. It's not a large cooking space, but has 
 
 ## Living Room
 
-The living room is the perfect place to hang out and keep the chef company. The wide French doors also provide a great view to the outdoors!
+The living room is the perfect place to hang out and keep the chef company. The wide [French doors](https://doorsdirect2u.co.uk/french-doors/how-much-does-french-doors-cost/) also provide a great view to the outdoors!
 
 ![](/img/autumn_5.jpeg)
 
