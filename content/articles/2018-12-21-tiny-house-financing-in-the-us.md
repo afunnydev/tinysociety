@@ -1,38 +1,37 @@
 ---
 title: Tiny House Financing in the US
-description: >-
-  Tiny house financing is a solution that's emerging in response to the tiny
-  house movement. It's ideal for potential homeowners who want their own small
-  space but can't pay up-front. The two most popular options are an RV loan
-  through a tiny house builder, or a personal loan directly through an
-  accredited loan service. 
+description: "Tiny house financing is a solution that's emerging in response to
+  the tiny house movement. It's ideal for potential homeowners who want their
+  own small space but can't pay up-front. The two most popular options are an RV
+  loan through a tiny house builder, or a personal loan directly through an
+  accredited loan service. "
 slug: tiny-house-financing-in-the-us
 author: molli
 image: /img/tiny-house-financing-2700x1800-1-.jpg
 overlay: true
-date: '2018-12-21'
+date: 2018-12-21
+lastmod: 2024-01-17
 notloaded:
   need: true
 listing:
   title: Tiny House Financing in the US
-  description: >-
-    Typically less than 500 square feet, tiny houses cost far less than the
-    average residential home. Despite the tinier price tag, it still may not be
-    possible to pay the total cost all at once. This is where tiny house
-    financing comes in. Let's take a look at some options for financing your own
-    small space. 
+  description: "Typically less than 500 square feet, tiny houses cost far less
+    than the average residential home. Despite the tinier price tag, it still
+    may not be possible to pay the total cost all at once. This is where tiny
+    house financing comes in. Let's take a look at some options for financing
+    your own small space. "
   image: /img/tiny-house-financing-800px-square-1-.jpg
-likes: '58'
 categories:
   - Tiny houses
   - Tiny house financing
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
 hincluded: true
+ordre: "0"
+likes: "58"
 ---
 So, you’ve found the perfect tiny house to call home. What happens next?
 
@@ -71,7 +70,7 @@ The most popular way of financing a tiny house is through a loan provider; wheth
 
 Tiny homes on wheels are often classified similarly to RVs (recreational vehicles) or campervans. If a tiny house on wheels is your ideal type of tiny, then an RV loan through a tiny house builder could be exactly what you’re looking for. In order to qualify for this type of loan, your tiny house must be certified by the Recreational Vehicle Industry Association (RVIA). RVIA ensures that your tiny house on wheels meets specific safety requirements for life on the road. After doing some research on different[ tiny house builders](https://www.tinysociety.co/articles/how-to-find-a-tiny-house-builder/), you’ll find that some are RVIA certified and some are not. Tiny house builders that are RVIA certified will often have a partnership agreement with a loan company to provide customers with a great option. 
 
-**_Please note:_** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
+***Please note:*** the following loan companies are **partnered** with tiny house builders to offer RV loans. They also offer **personal loans**, which can be applied for independently and without going through the builder. 
 
 ### Lightstream
 
@@ -149,7 +148,7 @@ Check to see if you qualify [here.](https://www.lendingclub.com/)
 
 ### Citizens Bank
 
-A well-established bank that can help you secure a personal loan for your dream tiny house. With customizable repayment options and no additional fees, this loan service is able to tailor a financial plan to suit your needs. 
+A well-established bank that can help you secure a personal loan for your dream tiny house. With customizable repayment options and no additional fees, this [Financial CRM-backed](https://www.techimply.com/software/financial-crm-software-india) loan service is able to tailor a financial plan to suit your needs. 
 
 **To Qualify:** approved credit score of 680 or better
 
@@ -194,7 +193,6 @@ Check to see if you qualify [here.](http://sofi.com)
 </script>
 
 <div id="compareNinjaTable_2015807edc89cc269f460cfe43d0d5d5"></div>
-
 
 ## How to Find the Right Financing Option
 
