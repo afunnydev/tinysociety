@@ -119,7 +119,7 @@ More than just a hole in the ground, a basement foundation requires precision. I
 
 <span class="figcaption">Image source: [Pixabay](https://pixabay.com/en/hut-pile-construction-wood-261332/) </span>
 
-As a semi-permanent foundation, building a tiny house on piers gives you the best of both worlds. You’re able to move your home when needed, so it gives you the freedom to rent land rather than buy something from the real estate market. A piers foundation offers the flexibility of a tiny house on wheels without the weight and size restrictions of building a house on a trailer.
+As a semi-permanent foundation, building a tiny house on piers gives you the best of both worlds. You’re able to move your home when needed, so it gives you the freedom to rent land rather than buy something on the market from a [real estate lead](https://instantly.ai/blog/real-estate-sales-leads). A piers foundation offers the flexibility of a tiny house on wheels without the weight and size restrictions of building a house on a trailer.
 
 ![tiny house on piers foundation](/img/tiny-house-on-piers.jpg)
 
