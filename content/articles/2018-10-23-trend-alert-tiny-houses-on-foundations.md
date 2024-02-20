@@ -57,9 +57,7 @@ Most banks won’t consider lending someone money to build a tiny house on wheel
 
 Since people who build tiny homes on trailers are traveling frequently, these houses on wheels will experience a lot of wear and tear. More than any tiny houses on foundations. The wheels and trailer alone will require regular attention. Not to mention the home’s siding, which will require maintenance after having to withstand all of the rocks and gravel that kick up while you’re on the road. 
 
-None of this is an issue when you build a home on a foundation. Instead, your areas of maintenance revolve more around taking care of your property such as mowing your lawn and trimming your bushes.
-
-### Use Traditional Utility Hookups
+None of this is an issue when you build a home on a foundation. Instead, your areas of maintenance revolve more around taking care of your property such as mowing your lawn and trimming your bushes. Furthermore, introducing [synthetic grass](https://grasspros.com/) can significantly reduce the maintenance requirements for your property.
 
 When you live in a tiny house on wheels, things like plumbing and electricity have to be taken into consideration. Rather than being able to hook up to the city grid, you’ll need to come up with alternatives if you want your home to be mobile. This means using compost toilets, [solar power](https://www.tinysociety.co/articles/how-to-power-tiny-house-with-solar-energy/) in the form of solar panels, and water tanks. 
 
