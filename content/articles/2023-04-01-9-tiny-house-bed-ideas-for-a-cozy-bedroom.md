@@ -73,7 +73,7 @@ There are tons of creative bedroom ideas for tiny houses, some of which include 
 
 Murphy bed has become a go-to solution for many [tiny house designers](https://www.tinysociety.co/articles/tiny-house-builders-in-north-carolina/). It's a type of bed that folds up vertically into the wall. The 20th-century filmography doesn't lack comedy skits where unassuming sleepers find themselves folded up into the wall with the bed. 
 
-However, as the vertical set-up needs too much room for a tiny house, murphy beds in tiny homes usually fold up from the side. 
+However, as the vertical set-up needs too much room for a tiny house, [murphy beds](https://www.closetworld.com/murphy-beds/) in tiny homes usually fold up from the side. 
 
 If you settle for a murphy bed, you can eliminate the loft sleeping space entirely, which leaves you ample storage space in the vertical niche. This also means that your main floor converts into a sleeping area, allowing you to even squeeze in a king mattress. 
 
