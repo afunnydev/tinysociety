@@ -75,7 +75,7 @@ When negotiating, it’s up to the owner of the tiny home to point out all the p
 
 Knowledge of local laws and creative negotiating will go a long way in helping you buy the raw land for your tiny house all the while respecting the safety standards for tiny house living. Some of the biggest costs will be on preparing the land for the building. Once the upfront costs are done, it's smooth sailing.
 
-Perplexed by red tape when it comes to local building standards and zoning regulations? Ask for assistance from a local real estate professional who can help you find affordable land for your tiny house and save hundreds of hours on search.
+Perplexed by red tape when it comes to local building standards and zoning regulations? Ask for assistance from a local [real estate professional](https://www.creprofessionals.ca/services) who can help you find affordable land for your tiny house and save hundreds of hours on search.
 
 **Written by: Anthony Gilbert**
 
