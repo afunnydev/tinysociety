@@ -47,7 +47,7 @@ This is another design software option that offers a great experience and finish
 
 ## 3. [Sketchup](http://www.sketchup.com/download)
 
-This popular software is fairly easy to use once you understand the basic functions. Sketchup offers users the freedom to build whatever they choose; with the ability to manipulate just about anything to one’s liking. You can even collaborate with others by inviting them to view or edit your model. The software also allows you to draw to more precise dimensions than its competitors, making it easier to predict the final product. Sketchup proves they really understand the power of simplicity--their free version is versionless and needs no updating. Unfortunately the free version doesn’t allow the import or export of files. 
+This popular software is fairly easy to use once you understand the basic functions. Sketchup offers users the freedom to build whatever they choose; with the ability to manipulate just about anything to one’s liking. You can even collaborate with others by inviting them to view or edit your model, which can be generated as [embedded dashboards](https://www.luzmo.com/product/embedded-dashboard-editor) in Microsoft Power BI using an extension. The software also allows you to draw to more precise dimensions than its competitors, making it easier to predict the final product. Sketchup proves they really understand the power of simplicity--their free version is versionless and needs no updating. Unfortunately the free version doesn’t allow the import or export of files. 
 
 ***Free Version:*** Yes 
 
