@@ -43,7 +43,7 @@ This insulation type is made from a combination of sand and glass that's heated 
 
 *Pros:* Easy to source, lightweight, fairly inexpensive, and easy to install, uses partly recycled materials.
 
-*Cons:* Can grow mold quickly if exposed to moisture in cold climates, highly flammable, creates air pollution, vapor barriers required, can easily irritate the skin and eyes if protective gear such as goggles and gloves are not used.
+*Cons:* Can grow mold quickly if exposed to moisture in cold climates, highly flammable, creates air pollution, vapor barriers required, can easily irritate the skin and eyes if protective gear such as goggles like [Bolle Safety goggles](https://droppe.com/supplier/bolle) and gloves are not used.
 
 **Cost:** approx. $0.64 - $1.19 per square foot
 
@@ -157,8 +157,6 @@ While there are a variety of different insulation options for your tiny house ro
 * Allergens: Am I allergic to any of the insulation materials?
 * Eco-factor: Do I want to use insulation materials that cause the least harm to the environment? In other words, do I want a natural material or not? 
 * Cost: How much am I willing to spend on insulation? Do I want to do some cost savings and save on my energy bills?
-
- 
 
 Hopefully, this breakdown of the many different types of tiny house insulation has helped you on your tiny house adventure so you can choose the proper insulation type that works for you!
 
