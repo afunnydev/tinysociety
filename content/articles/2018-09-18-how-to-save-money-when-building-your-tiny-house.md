@@ -185,6 +185,8 @@ There are a number of [must-have pieces of furniture](https://www.tinysociety.co
 
 The key is to save any space saving and storage pieces that could be useful down the line. Tiny homes often require unique mini appliances that you will likely have to pay full price for. By repurposing some old furniture, you’ll be able to use that part of the budget for a composting toilet or a dishwasher. Having the cheapest tiny house on wheels doesn’t mean it needs to look cheap. You just need to know where to cut corners. 
 
+Incorporating an [adjustable height desk](https://agileofficefurniture.co.nz/collections/standing-desks) into your tiny home is more than a mere nod to ergonomic design—it's a versatile solution that brings a wealth of benefits. From promoting better posture and increasing comfort to enhancing space efficiency and encouraging a dynamic work environment, these innovative desks are a game-changer.
+
 ## Find A Free Space To Build
 
 ![tiny house building](/img/building_tiny_house.jpg)
