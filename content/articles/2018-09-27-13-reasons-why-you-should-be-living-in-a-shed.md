@@ -39,14 +39,10 @@ For two years, I lived with my fellow colleagues in a guest house with volunteer
 
 For me, this was the biggest and most important reason to move into a shed. While each has reasons that are unique to their needs; mine was because I was tired of sharing a room with other people–simple as that. I lived with friends for four years in university and felt ready to brave the world on my own (in a shed across the garden). A shed is not just for tool storage anymore. Here are some of the wonderful perks of #shedlife and not having to live with anyone:
 
- 
-
 * You don't need to worry about waking anyone up.
 * You don't need to worry about anyone waking you up.
 * You can play music whenever you want.
 * You can choose when you want to be social and when you want alone time.
-
- 
 
 ## Live in Nature
 
@@ -54,7 +50,7 @@ More often than not, a tiny house shed is a secondary dwelling nearby a primary 
 
 ## They're Cheaper
 
-It goes without saying that calling a garden shed home is far less expensive than a three-bedroom residential–or even a small apartment in a major city. With housing costs on the rise, tiny living appears to be the perfect solution for affordable housing with super short construction time. It's no surprise that the tiny house movement is taking off around the world, with houses on wheels, pool houses, dome kit houses and many other types of houses.
+It goes without saying that calling a [garden shed home](https://easyshed.com.au/blogs/resources/whats-the-best-shed-for-my-backyard) is far less expensive than a three-bedroom residential–or even a small apartment in a major city. With housing costs on the rise, tiny living appears to be the perfect solution for affordable housing with super short construction time. It's no surprise that the tiny house movement is taking off around the world, with houses on wheels, pool houses, dome kit houses and many other types of houses.
 
 ## They're Customizable
 
