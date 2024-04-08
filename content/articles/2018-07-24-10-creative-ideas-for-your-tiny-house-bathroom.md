@@ -109,7 +109,7 @@ In addition to the 10 creative ideas for your tiny house bathroom, another optio
 
 While these may seem unconventional for a small space, they offer unique benefits that can enhance your bathroom experience. One of the main benefits of a sauna is its ability to promote relaxation and relieve stress, not to mention its healing power. 
 
-Incorporating a compact sauna into your tiny house bathroom can create a mini oasis for self-care and wellness.
+For an extra touch of luxury in tiny house bathrooms, consider a [Jacuzzi walk-in tub costing between $4,800 - $10,000](https://www.walkintub.org/average-cost-of-jacuzzi-walk-in-tub/), it blends indulgence with accessibility, offering a spa-like experience in the comfort of your small space.Incorporating a compact sauna into your tiny house bathroom can create a mini oasis for self-care and wellness.
 
 On the other hand, a cold tub, also known as a cold plunge or ice bath, offers a contrasting experience with numerous advantages. Adding a small cold tub to your bathroom provides a refreshing and invigorating option for those who enjoy the benefits of cold therapy.
 
