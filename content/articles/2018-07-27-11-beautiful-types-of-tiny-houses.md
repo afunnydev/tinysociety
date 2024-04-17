@@ -40,7 +40,7 @@ When you picture a tiny house, you often think of a structure built on a trailer
 
 *Building on a foundation*
 
-Like a “typical” house, you could choose to build your tiny home on a concrete foundation. With this option, you get quite a bit of design freedom. May be adding your own visuals, branding, and [create a logo](https://apps.apple.com/us/app/logo-maker-logo-designer/id1332661961) from a [logo maker](https://www.brandcrowd.com/logo-maker).
+Like a “typical” house, you could choose to build your tiny home on a concrete foundation. With this option, you get quite a bit of design freedom. May be adding your own visuals, branding, and [create a logo](https://apps.apple.com/us/app/logo-maker-logo-designer/id1332661961) from a [logo maker](https://www.brandcrowd.com/logo-maker). You could further enhance the uniqueness of your tiny home by incorporating personalized elements like a [logo generator](https://play.google.com/store/apps/details?id=com.bg.logomaker).
 
 *Building on skids or runners*
 
