@@ -144,7 +144,7 @@ Japanese company MUJI with its large fan following has well gone past their bran
 
 The Muji Hut is extremely cute and minimalistic. Put it on a trailer, and your vacation will never be the same again.
 
-The home is very expensive at $28000!!! But I recommend building it yourself! 
+The home is very expensive at $28000!!! But I recommend building it yourself! [Virtual staging](https://fixthephoto.com/virtual-staging) can help you visualize how it might look before committing to construction.
 
 ## Best Remote Home in Norway
 
