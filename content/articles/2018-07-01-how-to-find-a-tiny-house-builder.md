@@ -225,7 +225,7 @@ To be a reputable Tiny House builder, you'll want to meet the criteria listed th
 
 * Document your work well- take plenty of photos of the interiors and exteriors of your completed projects.
 * Treat your clients well—word of mouth and testimonials are of utmost importance.
-* Create an online presence. Unless you have a steady stream of local word-of-mouth business to keep you busy, you'll need to attract new customers. You're not likely to be taken seriously without a decent website. Get the word out about your work in Tiny House online forums and social media as well as [guest posting packages](https://linkhouse.net/guest-posting-packages/).
+* [Create an online presence](https://www.marketingmedian.com/how-to-build-a-successful-brand/). Unless you have a steady stream of local word-of-mouth business to keep you busy, you'll need to attract new customers. You're not likely to be taken seriously without a decent website. Get the word out about your work in Tiny House online forums and social media as well as [guest posting packages](https://linkhouse.net/guest-posting-packages/).
 * Deliver accurate estimates - Take advantage of the best [software to use for residential construction estimating](https://www.joist.com/trades/residential-construction-estimating-and-invoicing-app/) so that you can give clients an accurate idea of what their desired project will cost. That way you can keep them up to speed and satisfied from day one, rather than hitting them with unexpected expenses when the final invoice arrives.
 
 ## Summary
