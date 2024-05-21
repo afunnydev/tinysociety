@@ -87,9 +87,7 @@ A default version comes with one side hutch with shelves for storage, while door
 
 As an alternative, you can also consider fold-down bunk beds that fold down flat against the wall when not in use.
 
-This is a great way to add extra beds to your tiny house, especially if you can't get a good deal on one of those couches that elevate and convert into adult bunk beds.
-
-## Bathroom cabinet and storage
+This is a great way to add extra beds to your tiny house, especially if you can’t get a quality couch like a [castlery couch](https://couch.com/castlery-ultimate-brand-review-and-rating/) that elevate and convert into adult bunk beds.
 
 Ok, here's the deal. The wall above your toilet is the most unused space in the house. Until you prove me wrong, consider mounting a cabinet, a few adjustable shelves, or an all-in-one shelving unit directly over the toilet. Just make sure to close the doors before you, you know, get up. 
 
