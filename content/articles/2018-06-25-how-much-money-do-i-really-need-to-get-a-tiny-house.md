@@ -1,34 +1,33 @@
 ---
 title: How Much Does a Tiny House Cost?
-description: >-
-  One of the reasons that the Tiny lifestyle is attractive to so many people is
-  that a Tiny House carries a tinier price tag than a conventional house. But
-  how tiny is that price tag, really? Let’s take a look at the bottom line and
-  options for getting a Tiny House of your own.
+description: One of the reasons that the Tiny lifestyle is attractive to so many
+  people is that a Tiny House carries a tinier price tag than a conventional
+  house. But how tiny is that price tag, really? Let’s take a look at the bottom
+  line and options for getting a Tiny House of your own.
 slug: how-much-money-does-a-tiny-house-cost
 author: michelleg
 image: /img/how-much-money-tiny-house-14.jpg
 overlay: true
-date: '2018-06-25'
+date: 2018-06-25
+lastmod: 2024-06-07
 notloaded:
   need: true
 listing:
   title: How Much Does a Tiny House Cost?
-  description: >-
-    One of the reasons that the Tiny lifestyle is attractive to so many people
-    is that a Tiny House carries a tinier price tag than a conventional house.
-    But how tiny is that price tag, really? Let’s take a look at the bottom line
-    and options for getting a Tiny House of your own.
+  description: One of the reasons that the Tiny lifestyle is attractive to so many
+    people is that a Tiny House carries a tinier price tag than a conventional
+    house. But how tiny is that price tag, really? Let’s take a look at the
+    bottom line and options for getting a Tiny House of your own.
   image: /img/how-much-money-tiny-house-square.jpg
-likes: '28'
 categories:
   - DIY
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 draft: false
 noindex: false
+ordre: "0"
+likes: "28"
 ---
 ## How Much Does a Tiny House Cost?
 
@@ -58,7 +57,7 @@ The following list is a sample of what a typical Tiny House might involve.
 * Windows: $320 each
 * Skylight: $400
 * Exterior door: $400
-* Interior paneling: $2000
+* [Interior paneling](https://acousticpanels.co.uk/product-category/acoustic-wall-panels/): $2000
 * Flooring: $350
 * Cabinetry & countertops: $800
 * Hardware: $250
@@ -86,6 +85,7 @@ The following list is a sample of what a typical Tiny House might involve.
 * **Volunteer labor!** 
   Are friends and relatives willing to grab a hammer and help out? Do they have applicable skills? If you have an electrician buddy or a friend who knows her way around a welding torch, this can save you some big bucks in hiring the expertise or dealing with the learning curve yourself.
 * **Are you willing to use recycled or scavenged materials?**
+
   * Habitat for Humanity stores are a great place to find recycled materials.
   * Join your local Buy Nothing Group via Facebook- this is a great resource for finding free labor and skilled help as well as construction materials. No money is exchanged when using Buy Nothing.
   * Craigslist is also still a viable resource for finding hired help and budget—or free-- materials.
@@ -130,8 +130,6 @@ The fastest and easiest option for acquiring a Tiny House is to buy one ready-ma
 * Buying a ready-made Tiny House will save you time. Many Tiny House companies carry in-stock models ready to go. You can walk right up and purchase one like you would a new car. Even if there's a lead time involved, a Tiny House company have a relatively short construction schedule for its standard models.
 * Some Tiny House companies offer their own payment plans, eliminating the need to find financing through a traditional financial institution.
 * Tiny House companies offer "tried and true" designs. You may be able to talk to prior customers or read reviews to find out what models and features are the most popular.
-
-
 
 ### A Little About Financing Your Tiny Home
 
