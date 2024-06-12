@@ -310,7 +310,7 @@ While the tiny house movement is really catching on in metro areas with high hou
   * The smallest single-dwelling residential district you can build in is RS3 and has a 3,000 square foot minimum lot size.  
   * ADUs are permitted in RS7, RS10, RS20, and RS40 single-dwelling residential districts. They are not permitted in RS5 or RS3 districts.
   * The use of solar power is allowed. Small wind devices are also permitted within setbacks and 35 foot height limit. Propane is regulated by the IFC. A [portable power station](https://outbax.com.au/blogs/post/15-camping-hacks-to-improve-your-outdoor-adventure) provides a reliable and convenient power source for outdoor activities, emergencies, and remote work locations.
-  * Composting toilets are not permitted
+  * Composting toilets are not permitted.
 * Tiny houses on wheels:
 
   * Camping in a tiny house is only allowed on an approved campground.
