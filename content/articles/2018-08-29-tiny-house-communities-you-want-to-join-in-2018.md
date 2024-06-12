@@ -1,36 +1,35 @@
 ---
 title: Tiny House Communities You Want To Join In 2018
-description: >-
-  Tiny house communities are popping up all over the country with the growing
-  popularity of the tiny house movement. With communities available from Florida
-  to California; the options are endless. Let's take a look at ten tiny house
-  communities you'll want to move into this year. 
+description: "Tiny house communities are popping up all over the country with
+  the growing popularity of the tiny house movement. With communities available
+  from Florida to California; the options are endless. Let's take a look at ten
+  tiny house communities you'll want to move into this year. "
 slug: tiny-house-communities-you-want-to-join-in-2018
 author: molli
 image: /img/d0f5e821-3d14-4034-9166-e72dc74272fc.jpg
 overlay: true
-date: '2018-08-29'
+date: 2018-08-29
+lastmod: 2024-06-12
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: Tiny House Communities You Want To Join In 2018
-  description: >-
-    As the tiny house movement gains momentum, we see an increasing demand for
-    tiny house communities. Finding a home for you tiny home can be difficult;
-    zoning laws and building codes make finding a place to build a tiny home
-    quite tricky. With tiny house communities popping up all over the country,
-    the only thing to decide is which one is right for you. Check out these 10
-    tiny house communities that you’ll want to move into this year.
+  description: As the tiny house movement gains momentum, we see an increasing
+    demand for tiny house communities. Finding a home for you tiny home can be
+    difficult; zoning laws and building codes make finding a place to build a
+    tiny home quite tricky. With tiny house communities popping up all over the
+    country, the only thing to decide is which one is right for you. Check out
+    these 10 tiny house communities that you’ll want to move into this year.
   image: /img/c97c0f84-eac5-4d3d-8620-d7c7cd50b4d0.jpg
-likes: '48'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "48"
 ---
 The idea is simple, but finding the right one can be hard. A tiny house community is a place where people coexist in tiny houses. Together, they share things like land, support, and ideas regarding all things tiny. As the tiny house movement gains momentum, we see an increasing demand for tiny house communities. [Finding a land for you tiny home](https://www.tinysociety.co/articles/how-to-find-land-for-tiny-houses/) can be difficult; zoning laws and building codes make finding a place to build a tiny home quite tricky. With tiny house communities popping up all over the country, the only thing to decide is which one is right for you. Check out these 10 tiny house communities that you’ll want to move into this year.
 
@@ -96,7 +95,7 @@ This organic farm surrounded by trees is the perfect spot for a tiny home. You c
 
 <span class="figcaption">Source: [Facebook](https://www.google.co.za/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjE-P_8t5LdAhVHyoUKHTRxBkcQjhx6BAgBEAM&url=https%3A%2F%2Fwww.facebook.com%2Ftinyhouselemoncove%2F&psig=AOvVaw1fj25iG0SiXpl8d6tVJa6P&ust=1535638072892046)</span>
 
-Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly spaces for tiny homes. At $400-$600 per month (including utilities), residents also get access to the dog park, community park, and laundromat. There are also a number of tiny houses that are available for purchase. With plenty of outdoor activities in the area, nature-lovers will not be disappointed. 
+Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly spaces for tiny homes. At $400-$600 per month (including utilities), residents also get access to the dog park, community park, and laundromat. There are also a number of tiny houses that are available for purchase. With plenty of [outdoor activities](https://outbax.com.au/blogs/post/15-camping-hacks-to-improve-your-outdoor-adventure) in the area, nature-lovers will not be disappointed. 
 
 ## Community #9: Green Anchors, Portland, Oregon
 
