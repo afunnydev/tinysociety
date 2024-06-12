@@ -215,7 +215,7 @@ Even if you live in a state or country that has low electricity rates, things mi
 
 ### Live Sustainably
 
-The whole idea of tiny homes is sustainable living. Tiny homes are made of recyclable or recycled materials and are also eco-friendly due to their small carbon footprint. Their emissions, waste, and impact on the local environment are several times smaller than with traditional homes. Solar panels can reduce the impact of these homes even more.
+The whole idea of tiny homes is sustainable living. Tiny homes are made of recyclable or recycled materials and are also eco-friendly due to their small [carbon footprint](https://industrialsustainabilitysolutions.com/solutions/emissions-reduction/). Their emissions, waste, and impact on the local environment are several times smaller than with traditional homes. Solar panels can reduce the impact of these homes even more.
 
 ### Earn extra money
 
