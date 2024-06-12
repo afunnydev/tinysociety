@@ -1,32 +1,32 @@
 ---
-title: Tiny House Laws in the United States; 
-description: >-
-  Go to guide for understanding how tiny house-friendly is any particular state
-  in the USA. We update this guide frequently with new regulations and codes.
+title: Tiny House Laws in the United States;
+description: Go to guide for understanding how tiny house-friendly is any
+  particular state in the USA. We update this guide frequently with new
+  regulations and codes.
 slug: tiny-house-laws-united-states
 author: molli
 image: /img/tiny-house-laws-maps.jpg
 overlay: true
-date: '2018-12-13'
+date: 2018-12-13
+lastmod: 2024-06-12
 notloaded:
   need: true
 listing:
   title: Tiny House Laws in the United States; States That Allow Tiny Houses
-  description: >-
-    The following information on tiny house laws in the United States should be
-    perceived as guidelines for understanding how tiny house-friendly a
-    particular state is, as regulations and codes are actively changing.
+  description: The following information on tiny house laws in the United States
+    should be perceived as guidelines for understanding how tiny house-friendly
+    a particular state is, as regulations and codes are actively changing.
   image: /img/tiny-house-laws-by-state-square.jpg
-likes: '50'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: 0
 infographic: false
 draft: false
 noindex: false
 mapsjs: true
+ordre: 0
+likes: "50"
 ---
 ## A Breakdown of States That Allow Tiny Houses
 
@@ -36,11 +36,11 @@ Looking for the next step in joining the Tiny House Movement? You came to the ri
 
 When it comes to deciding where to build your tiny house, there are a few things you need to consider first:
 
-_Laws_
+*Laws*
 
 Depending on the type of tiny home you’re looking for and what state you’re looking to build in, these can vary greatly. Certain states are more friendly toward the idea of tiny houses and tiny house communities, so it’s a good idea to figure out the laws specific to your location. Two important factors to consider are your locations building codes and zoning regulations.
 
-_Building Codes_
+*Building Codes*
 
 * It’s exactly what it sounds like. Building codes dictate how your tiny house is built. Here are some of the essentials that your tiny house needs to have to be approved:
 * Minimum ceiling height: The common spaces must have a minimum ceiling height of 6 feet 8 inches, while bathrooms can be a minimum of 6 feet 4 inches. 
@@ -48,11 +48,11 @@ _Building Codes_
 * Plumbing: At least one separate bathroom is required (and we totally understand why!)
 * Stairs: Tiny houses need to have stairs or ladders in order to reach loft areas.
 
-_International Building Code (IBC) vs International Residential Code (IRC)_
+*International Building Code (IBC) vs International Residential Code (IRC)*
 
 The IBC refers to the regulations for commercial construction, whereas the IRC refers to the rules for residential construction. You can check with your local building department for the specific requirements for either.
 
-_Zoning Regulations_
+*Zoning Regulations*
 
 Unfortunately, you can’t park or build your tiny house just anywhere. You will need to check with your local zoning department to find out more about the area where you’re thinking of building. 
 
@@ -74,7 +74,7 @@ Keep in mind that while there are federal laws and local zoning regulations in p
 
 ## Tiny House laws by states
 
-Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is **_the need to find a home for your tiny home._**
+Whether you’re a tiny house owner or you’re interested in becoming one, a common scenario that is bound to arise is ***the need to find a home for your tiny home.***
 
 Finding a place to live in a tiny house isn’t as easy as one might think. There are currently a number of regulations that tiny house enthusiasts must abide by if their tiny home is to be considered legal in the eyes of the law. 
 
@@ -105,6 +105,7 @@ According to Alabama Tiny Homes, tiny houses are still in the process of becomin
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Anchorage:
+
   * Tiny houses on wheels are treated as RVs and restricted to R-5 zones. 	
   * Tiny houses on foundations or manufactured homes, face fewer location restrictions. They will require a conditional use permit and building codes will need to be met. 
   * Tiny homes on municipal property must be connected to water and sewage.
@@ -117,6 +118,7 @@ Interest in tiny houses appear strong state-wide, however, there are currently f
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Pima County
+
   * Tiny houses built on foundations are legal in any zones that allow detached single family dwellings.
   * Tiny houses built on a chassis where the suspension/axle components have been removed and the chassis permanently attached on a permanent foundation will be treated as factory-built buildings allowable only in certain zones.
   * Minimum dwelling/room/ceiling height/windows/door/fixture/accessibility dimensions do not apply.
@@ -164,6 +166,7 @@ A tiny house friendly state, California is also one of the most popular states f
 * Tiny house regulations and codes may vary by city, town, or county.
 * Walsenburg, Colorado has made it easier to build a tiny house. They waived minimum square footage, stairway regulations, and reduced the requirement for exit door width. 
 * Park County, a popular destination for tiny house enthusiasts, has more specific allowances for tiny houses:**\***
+
   * Living room of not less than 220 square feet with an additional 100 square feet for every occupant in excess of two people.
   * Separate closet.
   * Kitchen sink, cooking appliance and a refrigeration unit, each having a clear working space of not less than 30 inches.
@@ -171,7 +174,7 @@ A tiny house friendly state, California is also one of the most popular states f
   * All light, ventilation and life safety requirements must be met regardless of dwelling size.
   * In cases where the efficiency dwelling unit is not a component of a multi-unit structure, provisions for mechanical equipment (heat, hot water, pressure tank, etc) will be required as well.
 
-**\*_Please Note:_** This only applies to stick-built dwellings. Modular and Manufactured dwelling still require a 600 sq. foot footprint at grade level per the Park County Land Use Regulations.
+**\**Please Note:*** This only applies to stick-built dwellings. Modular and Manufactured dwelling still require a 600 sq. foot footprint at grade level per the Park County Land Use Regulations.
 
 While not recognized on a statewide level, many counties have begun to modify their laws to be tiny house friendly--particularly in the case of accessory dwelling units (ADUs).
 
@@ -274,9 +277,10 @@ As is the case with most major cities, tiny houses are not allowed in Chicago. H
 
 * The state of Indiana allows counties to establish specific building codes.
 * Tiny house regulations and codes may vary by city, town, or county.
-* _Important to note:_ They specifically exclude codes that apply to private homes built by the individuals and used for their own occupancy--also known as the Log Cabin Rule. 
+* *Important to note:* They specifically exclude codes that apply to private homes built by the individuals and used for their own occupancy--also known as the Log Cabin Rule. 
 * Log Cabin Rule does not protect tiny houses on wheels.
 * Locations to consider asking local zoning offices about tiny houses:
+
   * Indianapolis 
   * Fort Wayne
   * Bloomington
@@ -301,12 +305,14 @@ While the tiny house movement is really catching on in metro areas with high hou
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny houses built on foundations:
+
   * Unless stated otherwise, some areas state that at least one room must be 120 square feet and other rooms--except for the kitchen and bathroom--must be at least 50 square feet (according to IRC 2012).
   * The smallest single-dwelling residential district you can build in is RS3 and has a 3,000 square foot minimum lot size.  
   * ADUs are permitted in RS7, RS10, RS20, and RS40 single-dwelling residential districts. They are not permitted in RS5 or RS3 districts.
-  * The use of solar power is allowed. Small wind devices are also permitted within setbacks and 35 foot height limit. Propane is regulated by the IFC.
-  * Composting toilets are not permitted.
+  * The use of solar power is allowed. Small wind devices are also permitted within setbacks and 35 foot height limit. Propane is regulated by the IFC. A [portable power station](https://outbax.com.au/blogs/post/15-camping-hacks-to-improve-your-outdoor-adventure) provides a reliable and convenient power source for outdoor activities, emergencies, and remote work locations.
+  * Composting toilets are not permitted
 * Tiny houses on wheels:
+
   * Camping in a tiny house is only allowed on an approved campground.
   * No codes currently allow you to park on private land or backyard.
 
@@ -318,6 +324,7 @@ While this state does allow for tiny houses built on foundations, tiny houses on
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Tiny homes are allowed in Louisville Metro provided they apply with the following codes:
+
   * Permanent/site-built: These tiny homes built on a foundation are reviewed and processed the same as any new home.
   * Prefabricated/modular: Tiny house kits can fall under this category. They are typically fabricated off-site, assembled on-site, and then placed on foundations. Additional documentation and review may be required with this option. If the structure is assembled completely off-site then it would be classified as “pre-manufactured,” and would require prior approval by the state.
   * Portable: Tiny houses on wheels would fall under this category, and would not be intended for permanent placement on a site. Tiny houses on wheels are still subject to zoning requirements.
@@ -345,6 +352,7 @@ By following the 2012 IRC, building a tiny house with all of the mentioned speci
 * It’s important to note that towns are still able to approve or deny the construction of tiny houses. 
 * In most cases, your tiny house built on a permanent foundation needs to comply with Maine Uniform Building and Energy Code.
 * Camping in a tiny house on wheels is allowed in North Yarmouth, Maine as long as:
+
   * When placed on a site for more than 120 days per year, all requirements for residential structures are met. 
   * You do not build on a permanent foundation.
   * It is on the lot existing before the date of the ordinance or larger than 30,000 square feet. 
@@ -393,6 +401,7 @@ While it’s more difficult to own a tiny house on wheels in Massachusetts, owni
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Briley Township in Northern Michigan has defined a new type of dwelling, and refers to it as an ‘Economy Efficient Dwelling.’
+
   * Economy Efficient Dwelling is a dwelling that is more than 240 square feet and less than 500 square feet with a minimum side elevation of no less than 12 feet and no more than 20 feet, minimum length of 20 feet and a maximum length of 30 feet built to all Michigan building and sanitary codes and qualifies for a certificate of occupancy.
   * An economy efficient dwelling must be placed on a permanent approved foundation.
   * These homes are allowed in residential 2, forest rec, and agriculture areas.
@@ -420,6 +429,7 @@ While tiny houses are more in demand than ever, finding a place to park or build
 * There are currently no laws in place that govern tiny houses. 
 * Tiny house builders in Mississippi can construct any size tiny, but they usually range between 100 and 900 square feet.
 * Some locations to inquire about tiny houses:
+
   * Jackson
   * Biloxi
   * Hattiesburg
@@ -443,6 +453,7 @@ Tiny houses were used as emergency shelters after Hurricane Katrina. Since then,
 * It is unlawful to park on a street or anywhere public.
 * Tiny homes are allowed in the case of a disaster.
 * Consider asking local zoning offices about installing tiny homes in cities across Missouri such as:
+
   * St. Louis
   * Kansas City
   * Springfield
@@ -503,6 +514,7 @@ It is possible to live in a tiny home, dependent on local ordinances. In Clark C
 * New Hampshire communities do not require ADUs to be occupied by the owner.
 * They do require the owner to live on site.
 * Outside of Coos County in the North Country, there are thirteen towns that do not have zoning laws:
+
   * Alexandria
   * Canaan
   * Ellsworth
@@ -566,9 +578,11 @@ While you can register a tiny house on wheels in New York, it doesn’t mean you
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Wilmington, North Carolina:
+
   * Requires at least 150 square feet for first occupant, and at least 100 square feet per additional occupant.
   * A tiny house must abide by additional [housing ordinances.](https://library.municode.com/nc/wilmington/codes/code_of_ordinances?nodeId=PTIIITECO_CH16BUBURE_ARTVMIHOCO_DIV4MISTEQFA_S16-269EXINSTGE)
 * Winston-Salem:
+
   * Accessory dwelling units (ADUs) are allowed on single-family lots as long as they are occupied by relatives, caretakers, etc.
   * Antique and custom-built vehicles presented for first-time titling and registration in North Carolina must be examined and photographed by a local NC Division of Motor Vehicles inspector.
 
@@ -584,6 +598,7 @@ The people of North Carolina are divided over tiny houses. Some are worried they
 
 * Tiny house regulations and codes may vary by city, town, or county.
 * Burleigh County regulations:
+
   * The minimum size requirement is 965 square feet, therefore, the size of a tiny house would keep it from being placed on single-family residential lots.
   * Tiny homes can be placed on agricultural lots.
   * The North Dakota Century Code and the [Burleigh County Ordinance](https://burleighco.com/uploads%5Cresources%5C1473%5Cmay-2016-newsletter.pdf) do not prohibit tiny homes that are placed on a lot of 40 acres or more.
@@ -852,7 +867,7 @@ Tiny houses in Wyoming are rapidly growing in popularity. Tiny house rentals are
 
 Trying to figure out where to live in your tiny house can be confusing when there are so many different rules and regulations. Hopefully, we’ve made it easier for you to see what your options are when it comes to deciding where to build and how to build. 
 
-_Things to remember:_
+*Things to remember:*
 
 * If you have a tiny house on wheels/RV you need to do your research about camp 
 * sites or RV parks.
