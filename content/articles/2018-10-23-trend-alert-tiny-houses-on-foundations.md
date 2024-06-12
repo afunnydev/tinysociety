@@ -47,9 +47,9 @@ When you plan to build tiny houses on foundations, you will need to [buy a piece
 
 By owning a piece of land and building a structure on it, the property will likely appreciate in value. This is especially important if you are building a temporary home. Unlike a tiny house on wheels, which depreciates over the years, a home built on a foundation is considered an investment, much like a traditional house. 
 
-If selling your house project is in your plan for the future, even a rundown house on permanent land will hold some value because of the land below it. As long as the house foundation is in good standing, people will want to buy the property.  
+If selling your house project is in your plan for the future, even a rundown house on permanent land will hold some value because of the land below it. As long as the house foundation is in good standing, people will want to buy the property.  A [property lawyer](https://rslawgroup.au/property-law-sydney/) specializes in real estate transactions, ensuring all legal aspects of buying, selling, or leasing property are properly handled.
 
-### Easier to Get a Loan
+### **Easier to Get a Loan**
 
 Most banks won’t consider lending someone money to build a tiny house on wheels. This is because they tend to depreciate in value and deteriorate after years of use. Banks want to [invest in the construction of homes](https://youngandtheinvested.com/investing-in-apartment-buildings/) that they can resell if the loan isn’t paid back. It’s also harder to foreclose on a house when it’s always on the move.
 
