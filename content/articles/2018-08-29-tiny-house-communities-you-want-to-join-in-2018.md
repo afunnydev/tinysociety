@@ -95,7 +95,7 @@ This organic farm surrounded by trees is the perfect spot for a tiny home. You c
 
 <span class="figcaption">Source: [Facebook](https://www.google.co.za/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjE-P_8t5LdAhVHyoUKHTRxBkcQjhx6BAgBEAM&url=https%3A%2F%2Fwww.facebook.com%2Ftinyhouselemoncove%2F&psig=AOvVaw1fj25iG0SiXpl8d6tVJa6P&ust=1535638072892046)</span>
 
-Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly spaces for tiny homes. At $400-$600 per month (including utilities), residents also get access to the dog park, community park, and laundromat. There are also a number of tiny houses that are available for purchase. With plenty of [outdoor activities](https://outbax.com.au/blogs/post/15-camping-hacks-to-improve-your-outdoor-adventure) in the area, nature-lovers will not be disappointed. 
+Nestled in the foothills of the Sierra Nevada, this RV park now offers monthly spaces for tiny homes. At $400-$600 per month (including utilities), residents also get access to the dog park, community park, and laundromat. There are also a number of tiny houses that are available for purchase. With plenty of outdoor activities in the area, nature-lovers will not be disappointed. 
 
 ## Community #9: Green Anchors, Portland, Oregon
 
