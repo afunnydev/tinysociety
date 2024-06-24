@@ -1,32 +1,31 @@
 ---
 title: What Are the Challenges of Living in a Tiny House with a Family?
-description: >-
-  A Tiny House can feel quite spacious for a single occupant, but what is it
-  like when you’re sharing 200 square feet with three or four other people… plus
-  maybe a few furry, four-legged family members? 
+description: "A Tiny House can feel quite spacious for a single occupant, but
+  what is it like when you’re sharing 200 square feet with three or four other
+  people… plus maybe a few furry, four-legged family members? "
 slug: what-are-the-challenges-of-living-in-a-tiny-house-with-a-family
 author: michelleg
 image: /img/challenges-living-in-tiny-house-with-family-2.jpg
 overlay: true
-date: '2018-06-23'
-listing:
-  title: What Are the Challenges of Living in a Tiny House with a Family?
-  description: >-
-    A Tiny House can feel quite spacious for a single occupant, but what is it
-    like when you’re sharing 200 square feet with three or four other people…
-    plus maybe a few furry, four-legged family members? 
-  image: /img/challenges-living-in-tiny-house-with-family.jpg
+date: 2018-06-23
+lastmod: 2024-06-24
 notloaded:
   need: true
-likes: '104'
+listing:
+  title: What Are the Challenges of Living in a Tiny House with a Family?
+  description: "A Tiny House can feel quite spacious for a single occupant, but
+    what is it like when you’re sharing 200 square feet with three or four other
+    people… plus maybe a few furry, four-legged family members? "
+  image: /img/challenges-living-in-tiny-house-with-family.jpg
 categories:
   - Tiny houses
   - Tiny cabins
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 draft: false
 noindex: false
+ordre: "0"
+likes: "104"
 ---
 ## What Are the Challenges of Living in a Tiny House with a Family?
 
