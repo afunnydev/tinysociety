@@ -147,7 +147,7 @@ Living in a Tiny House also teaches environmentalism. Not only does the house it
 
 #### Homeschooling
 
-Homeschooling becomes a more viable option with the Tiny lifestyle. The adults potentially have more time available with fewer work hours required to support a mortgage-free lifestyle. And if the Tiny House is located in a homesteading situation, there's a wealth of valuable learning experiences available right on site. In an urban setting, incorporate museum visits and other cultural opportunities into your curriculum.
+[Homeschooling](https://www.tutero.com.au/blog/6-ways-to-teach-your-kids-at-home) becomes a more viable option with the Tiny lifestyle. The adults potentially have more time available with fewer work hours required to support a mortgage-free lifestyle. And if the Tiny House is located in a homesteading situation, there's a wealth of valuable learning experiences available right on site. In an urban setting, incorporate museum visits and other cultural opportunities into your curriculum.
 
 #### Tiny Love for Tiny Houses
 
@@ -170,7 +170,7 @@ Tiny House considerations for your furry, scaled, or feathered family members:
 * food and water dishes
 * pet food and supplies
 * perhaps a pet door?
-* pets in Tiny Houses may mean _very_ frequent vacuuming, but they're worth it, arent' they?
+* pets in Tiny Houses may mean *very* frequent vacuuming, but they're worth it, arent' they?
 
 ## Guests and Entertaining
 
