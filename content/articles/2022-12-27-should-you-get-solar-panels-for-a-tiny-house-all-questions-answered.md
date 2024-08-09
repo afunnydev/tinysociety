@@ -50,7 +50,7 @@ This totals about 4,150 watts per day. This means that you can cover the power u
 
 Alternatively, you can use a [solar calculator](https://unboundsolar.com/solar-information/offgrid-calculator) to determine the size of our solar off-grid system.
 
-You only need to enter your ZIP code and fill in the list of appliances and their power loads.
+You only need to enter your [ZIP code](https://www.postgrid.com/what-is-zip-code/) and fill in the list of appliances and their power loads.
 
 The calculator will combine the available sun hours at your location and the power usage and recommend the most optimal solar option.
 
