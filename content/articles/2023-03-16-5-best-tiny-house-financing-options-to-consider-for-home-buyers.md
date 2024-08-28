@@ -35,7 +35,7 @@ When you're [buying a home](https://www.wmrealtypros.com/how-to-buy-a-house-in-m
 
 The problem is that traditional mortgage loans are often not available for tiny houses. 
 
-Many lenders set up minimum loan amounts that are higher than the cost of building or buying a tiny house ($30,000-$60,000), which disqualifies tiny homes from getting this type of loan.
+As Realtor [Darren Robertson](https://www.northernvirginiahomepro.com/) states, Many lenders set up minimum loan amounts that are higher than the cost of building or buying a tiny house ($30,000-$60,000), which disqualifies tiny homes from getting this type of loan.
 
 ![](https://lh6.googleusercontent.com/J9COhMbMH5OXATr4V8mYhdI7PRU0mVfddIQS14nfJWJI6GDdk5YhJGAQVUmT6A1XHtzL_zj4NoFlo-n-G7j8gg5ykJZVUI8gtUkZXNlvuN8UzwdpJHDZ6XeVdtN9tOhkShDxU21S_tPUUsO5f4El6MY)
 
