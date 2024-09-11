@@ -37,7 +37,7 @@ As mentioned in our previous article, [How to Find a Tiny House Builder](https:/
 * **What kinds of material do they use?** Take a look at some of the tiny houses they built in the past. Make sure they use quality materials that will make your tiny house last!
 * **Have they built a lot of tiny houses?** Tiny house builders often come from other types of building backgrounds, and may not know what’s what (even if they claim to). Make sure they’ve built other tiny houses before, such as homes on wheels - if that's what you're looking for.
 
-Florida is an excellent [place to live in a tiny house](https://www.tinysociety.co/articles/tiny-house-laws-united-states/). Known as the Sunshine State, Florida offers more than just beaches and Disney--it offers some of the best RV parks and tiny house hotels in the country. Florida’s growing reputation as a tiny house-friendly location has also lead to the increased number of acclaimed tiny house builders in the state. Land use regulation and the zoning code in Florida make it a great state to build a tiny home in.
+Florida is an excellent [place to live in a tiny house](https://www.tinysociety.co/articles/tiny-house-laws-united-states/). Known as the Sunshine State, Florida offers more than just beaches and Disney--it offers some of the best RV parks and tiny house hotels in the country. Florida’s growing reputation as a tiny house-friendly location has also lead to the increased number of acclaimed tiny house builders in the state. Land use regulation and the zoning code in Florida make it a [great state](https://www.squarefoothomes.com/real-estate/new-construction-homes-in-florida/) to build a tiny home in.
 
 ## Cornerstone Tiny Homes
 
