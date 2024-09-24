@@ -50,7 +50,7 @@ Renting allows for flexibility if your Tiny House is on wheels rather than on a 
 A few of the reasons to purchase land include:
 
 * Buying offers more security. There are no landlords involved to suddenly decide they would prefer not to continue their arrangement with you.
-* It also allows more freedom to shape and use the land according to your personal needs.
+* It also allows more freedom to shape and use the land according to your personal needs. You can enhance the design around your home with the help of [professional landscapers](https://estateskyline.co/top-landscape-design-services/) tailored to your taste, without needing approval from landlords.
 * Buying land provides the option of building a Tiny House on a fixed foundation.
 
 ### Can I choose both?
