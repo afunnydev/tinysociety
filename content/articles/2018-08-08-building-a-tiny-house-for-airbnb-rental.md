@@ -43,7 +43,7 @@ Starting with a clear plan is always a smart idea. Whether or not you want to cr
 
 ## Cost
 
-You want to look at how much money you are able to put in up front versus how much you want to charge each night. Some of the fees include:
+[Rental property management software](https://www.landlordstudio.com/blog/best-rental-property-management-software) makes it easy for first-time landlords to keep track of income and expenses. If you want to look at how much money you are able to put in up front versus how much you want to charge each night. Some of the fees include:
 
 * *Renter service fee*: Each time the tiny house is rented, Airbnb will take 3% off the total.
 * *Guest reservation fee:* Guests are charged a service fee of 6%-12% when they reserve the tiny house.
