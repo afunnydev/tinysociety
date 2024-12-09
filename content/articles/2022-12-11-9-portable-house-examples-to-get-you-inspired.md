@@ -54,7 +54,7 @@ Designed to explore the possibilities of abandoned spaces, this modular portable
 
 I don’t know about you, but I have a thing for tiny houses that are raised from the ground.
 
-LoftCube offers 360-degree windows which guarantee plenty of daylight and natural ventilation. It’s incredibly stylish and versatile — you can use it as a beachside hotel lounge, home office, or even a small shop.
+LoftCube offers 360-degree windows which guarantee plenty of daylight and natural ventilation. To keep those expansive windows spotless and maintain their charm, you might consider [window cleaning services in Montreal](https://123entretien.com/en/) or any other city where you’ve set up your LoftCube. It’s incredibly stylish and versatile — you can use it as a beachside hotel lounge, home office, or even a small shop.
 
 ![](https://lh4.googleusercontent.com/9ovGbrXvCZrkIJUjfUD-VQgzXibHKX-q6JddQjFRWao7kclyp8ocsF94qyQAIkBuJRVL6pjyUHMR3ZjqsrZDpC0qM7siv5nxEqsNNhCPU-ZoELnwY3GC9ryUC7z78GwFp0eQ7TxFczYpXM7kS34gvZ2BXoza3gb0coigeXGPLvZXIBIJF1mbV_OimZA2xg)
 
