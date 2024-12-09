@@ -78,7 +78,7 @@ This is an essential yet frequently overlooked question. Your answer will determ
 * Would you benefit from a skylight? 
 * Will your colour choice determine how bright or dimly lit your home appears to be? 
 * The stairs, do you want them to provide in-built storage, or are you looking for thin/deep steps to take up less floor space?
-* If you are thinking of having lots of windows? Have you considered that your home will take longer to heat and may release heat more quickly if you do? Especially if you don't have triple glazing. Additionally, large windows require regular maintenance to keep them clean and maximize natural light. Hiring [window cleaning services in Ottawa](https://123windowsottawa.ca/)or any other city can help ensure your windows remain spotless and functional while enhancing your tiny home’s overall appeal.
+* If you are thinking of having lots of windows? Have you considered that your home will take longer to heat and may release heat more quickly if you do? Especially if you don't have triple glazing. Additionally, large windows require regular maintenance to keep them clean and maximize natural light. Hiring [window cleaning services in Ottawa ](https://123windowsottawa.ca/)or any other city can help ensure your windows remain spotless and functional while enhancing your tiny home’s overall appeal.
 * Do you have a lot of belongings that you'll want to take with you? If yes, have you worked out where all your belongings will fit, including bicycles, shoes, sports equipment, etc.?
 * How will you handle dirty laundry?
 
