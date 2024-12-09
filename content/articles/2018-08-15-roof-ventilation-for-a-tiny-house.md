@@ -1,40 +1,39 @@
 ---
-title: 'Roof Ventilation For A Tiny House '
-description: >-
-  The shape of your roof, the square footage, and the climate where you live all
-  contribute to the type of roof ventilation system needed for your tiny home.
-  Unwanted moisture can damage the walls and compromise the infrastructure of a
-  tiny house. Let's take a look at the types of systems and ventilation products
-  that are available.
+title: "Roof Ventilation For A Tiny House "
+description: The shape of your roof, the square footage, and the climate where
+  you live all contribute to the type of roof ventilation system needed for your
+  tiny home. Unwanted moisture can damage the walls and compromise the
+  infrastructure of a tiny house. Let's take a look at the types of systems and
+  ventilation products that are available.
 slug: roof-ventilation-for-a-tiny-house
 author: molli
 image: /img/roof-ventilation.jpg
 overlay: false
-date: '2018-08-11'
+date: 2018-08-11
+lastmod: 2024-12-09
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
-  title: 'Roof Ventilation For A Tiny House '
+  title: "Roof Ventilation For A Tiny House "
   description: >+
-    Consider the normal things you do everyday that create moisture.
-    Cooking, bathing, breathing--all of these activities can create unwanted
-    moisture in a tiny house. Here are some of the reasons why proper
-    ventilation is so important, as well as some options for finding the best
-    system. 
+    Consider the normal things you do everyday that create moisture. Cooking,
+    bathing, breathing--all of these activities can create unwanted moisture in
+    a tiny house. Here are some of the reasons why proper ventilation is so
+    important, as well as some options for finding the best system. 
 
 
   image: /img/ed28a9d2-68a5-4bc2-bd43-9197ea56159d.jpg
-likes: '10'
 categories:
   - Tiny houses
   - Energy efficiency
   - Sustainable building and living
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "10"
 ---
 Consider the normal things you do everyday that create moisture. Cooking, bathing, breathing--all of these activities can create unwanted moisture in a tiny house. The square footage of a tiny house is also a lot smaller than a standard home. Without proper ventilation, your health as well as the structural integrity of your tiny house can be compromised.
 
@@ -52,7 +51,7 @@ For starters, taking a shower in a tiny house can create steam that travels into
 
 ## How To Be Sure Your Ventilation Is Efficient
 
-Not all roofs are created equal, and factors such as roof shape, square footage and climate all play key roles in energy efficiency and energy costs. The pitch of the roof, or the way it slopes downward, can contribute to how sun or heat affects a structure. It also influences the way air travels around your tiny home. How big a tiny house is also directly related to the amount of energy that is needed to regulate air temperature and humidity in any given climate.
+Not all roofs are created equal, and factors such as roof shape, square footage and climate all play key roles in energy efficiency and energy costs. The pitch of the roof, or the way it slopes downward, can contribute to how sun or heat affects a structure. It also influences the way air travels around your tiny home. How big a tiny house is also directly related to the amount of energy that is needed to regulate air temperature and humidity in any given climate. To ensure optimal performance and address any hidden issues, consider scheduling professional [roof inspection services in Ottawa](https://specialroofingottawa.ca/)or any other city you live in.
 
 ## Things To Remember When Building Your Own Ventilation System
 
