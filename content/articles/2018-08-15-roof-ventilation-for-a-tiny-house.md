@@ -51,7 +51,7 @@ For starters, taking a shower in a tiny house can create steam that travels into
 
 ## How To Be Sure Your Ventilation Is Efficient
 
-Not all roofs are created equal, and factors such as roof shape, square footage and climate all play key roles in energy efficiency and energy costs. The pitch of the roof, or the way it slopes downward, can contribute to how sun or heat affects a structure. It also influences the way air travels around your tiny home. How big a tiny house is also directly related to the amount of energy that is needed to regulate air temperature and humidity in any given climate. To ensure optimal performance and address any hidden issues, consider scheduling professional [roof inspection services in Ottawa](https://specialroofingottawa.ca/)or any other city you live in.
+Not all roofs are created equal, and factors such as roof shape, square footage and climate all play key roles in energy efficiency and energy costs. The pitch of the roof, or the way it slopes downward, can contribute to how sun or heat affects a structure. It also influences the way air travels around your tiny home. How big a tiny house is also directly related to the amount of energy that is needed to regulate air temperature and humidity in any given climate. To ensure optimal performance and address any hidden issues, consider scheduling professional [roof inspection services in Ottawa ](https://specialroofingottawa.ca/)or any other city you live in.
 
 ## Things To Remember When Building Your Own Ventilation System
 
