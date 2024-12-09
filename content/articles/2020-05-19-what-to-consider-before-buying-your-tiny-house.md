@@ -1,19 +1,20 @@
 ---
 title: What to Consider Before Buying Your Tiny Home
-description: >-
-    The Tiny Housing Co put up a list of questions to help you consider the practicalities of your
-    design. Which room do you currently spend the most time in? Are you considering an environmentally
-    friendly toilet? How much natural light do you need in your kitchen?
+description: The Tiny Housing Co put up a list of questions to help you consider
+  the practicalities of your design. Which room do you currently spend the most
+  time in? Are you considering an environmentally friendly toilet? How much
+  natural light do you need in your kitchen?
 slug: what-to-consider-before-buying-your-tiny-house
 author: the-tiny-housing-co
 image: /img/what-to-consider-before-buying-your-tiny-house-banner.jpg
 overlay: true
 date: 2020-05-19T00:00:00.000Z
+lastmod: 2024-12-09
 notloaded:
   need: true
 listing:
   title: What to Consider Before Buying Your Tiny Home
-  description: "A list of questions to help you consider the practicalities of your design"
+  description: A list of questions to help you consider the practicalities of your design
   image: /img/what-to-consider-before-buying-your-tiny-house-square.jpg
 categories:
   - Tiny houses
@@ -25,7 +26,6 @@ noindex: false
 hincluded: false
 mapsjs: false
 ---
-
 Living a full life in a tiny home is becoming more and more popular across the globe. However, before you commit to a plan, you'll need to consider the practicalities of your design. A sketch on paper and a detailed interior plan are two very different things!
 
 To help you, our friends at [The Tiny Housing Co](https://www.thetinyhousing.co) created a list of questions that you should be asking yourself to ensure that your end design will be everything you want it to be. 
@@ -43,65 +43,43 @@ This is an essential yet frequently overlooked question. Your answer will determ
 #### Bathroom
 
 * Can you live without a bath? Would it mean the world to you to have a long soak on the weekend? If you choose a tub (i.e. bigger bathroom), have you considered how it will affect your living/kitchen space? If you are short on space, could you make it a wet room and save the shower space?
-
 * Are you considering an environmentally friendly toilet? If so, have you researched toilet options? Do you understand well what is requested of you to maintain an eco-toilet?
 
 #### Kitchen
 
 * How many people are you cooking for, i.e. how much chopping space, storage space and rings on the hob will you need? 
-
 * Do you like to entertain? If yes, will you have enough space to store extra plates, cups and glasses? 
-
 * Could your counter top double up as a work space and area for eating?
-
 * Have you considered all layout designs? From long or thin kitchens to wrap around kitchens which are usually placed at the end of the tiny home, there are a lot of options.
-
 * How much natural light do you need in your kitchen? Will you need natural light for a herb box or small, inside home garden?
 
 #### Bedroom/s
 
 * How many do you need? Do you enjoy having guests stay over? 
-
 * What is your level of claustrophobia? 
-
 * Do you need a second level or could you arrange everything onto one floor? If you are claustrophobic, have you considered placing your living space upstairs and your bedroom on the bottom floor for a taller, more open space? 
-
 * If you don't need a second bedroom but would like an additional bed, could you build it into your current furnishings?
 
 #### Living Space
 
 * Do you need multi-functional space? 
-
 * Do you want furniture that moves? 
-
 * Do you need a TV? 
-
 * How much light do you need in this room? 
-
 * Will you be working in your living space? 
-
 * Will you dine in your living space? 
-
 * Can you build storage into your living space? 
-
 * Can you raise your living space to add underfloor storage? 
-
 * Think of the style of sofa you require, do you like to stretch out or are you fine sitting up most of the time? 
 
 #### Other Important Questions About Your Layout
 
 * How much light do you need in each room? 
-
 * Would you benefit from a skylight? 
-
 * Will your colour choice determine how bright or dimly lit your home appears to be? 
-
 * The stairs, do you want them to provide in-built storage, or are you looking for thin/deep steps to take up less floor space?
-
-* If you are thinking of having lots of windows? Have you considered that your home will take longer to heat and may release heat more quickly if you do? Especially if you don't have triple glazing.
-
+* If you are thinking of having lots of windows? Have you considered that your home will take longer to heat and may release heat more quickly if you do? Especially if you don't have triple glazing. Additionally, large windows require regular maintenance to keep them clean and maximize natural light. Hiring [window cleaning services in Ottawa](https://123windowsottawa.ca/)or any other city can help ensure your windows remain spotless and functional while enhancing your tiny home’s overall appeal.
 * Do you have a lot of belongings that you'll want to take with you? If yes, have you worked out where all your belongings will fit, including bicycles, shoes, sports equipment, etc.?
-
 * How will you handle dirty laundry?
 
 ## Our Top Tips for a Successful Build
