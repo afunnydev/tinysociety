@@ -144,7 +144,7 @@ This is mandatory for a safe experience on the road, but also to make sure that 
 
 While a van comes with its own solid structure, the limited space comes with its share of trouble.
 
-During the build, you need to be extra careful (and probably creative) with space optimization. Most sections need to be thoughtfully planned out as multifunctional. There are a lot of build series out there and I recommend that you have a look at 5-6 of them before planning out your van.
+During the build, you need to be extra careful (and probably creative) with space optimization. Most sections need to be thoughtfully planned out as multifunctional. There are a lot of build series out there and I recommend that you have a look at 5-6 of them before planning out your van. Additionally, don’t forget to protect your van's exterior; applying [ceramic coating Roseville](https://www.rosevilleautotint.com/roseville-ceramic-coating/) offers excellent durability and a sleek finish that can withstand the rigors of travel.
 
 ![Eamon & Bec Bed and Bench](/img/bed-and-bench-eamon-and-bec.png)
 
