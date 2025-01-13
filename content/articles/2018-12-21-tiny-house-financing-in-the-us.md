@@ -148,7 +148,7 @@ Check to see if you qualify [here.](https://www.lendingclub.com/)
 
 ### Citizens Bank
 
-A well-established bank that can help you secure a personal loan for your dream tiny house. With customizable repayment options and no additional fees, this [Financial CRM](https://www.techimply.com/software/financial-crm-software-india)-backed loan service is able to tailor a financial plan to suit your needs. 
+A well-established bank that can help you secure a personal loan for your dream tiny house. With customizable repayment options and no additional fees, this [Financial CRM](https://www.techimply.com/software/financial-crm-software-india)-([customer relationship management software](https://instantly.ai/blog/crm-software-examples/)) backed loan service is able to tailor a financial plan to suit your needs. 
 
 **To Qualify:** approved credit score of 680 or better
 
