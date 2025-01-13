@@ -58,7 +58,7 @@ Take a look at these commonly used financial terms to better understand your opt
 
 **Apply for a traditional mortgage.** If you’re looking to building an accessory dwelling unit (ADU) next to your house, then this might be the best option for you. Your ADU will likely need to be on foundations, as well as meet your local building codes and zoning requirements. 
 
-**Start an online fundraiser.** Before you roll your eyes at this one, keep in mind that financing a chunk of your tiny house is possible through fundraising. It’s not uncommon that people who live in tiny homes work from home. And if you don’t work from home, consider any crafts or skills you could offer. Just asking for money won’t do the trick. The key is to offer your services or crafts for various levels of donations. People will be more inclined to help out if they know it’s not just a handout!
+**Start an online fundraiser.** Before you roll your eyes at this one, keep in mind that financing a chunk of your tiny house is possible through [fundraising](https://donorbox.org/nonprofit-blog/online-fundraising-campaign). It’s not uncommon that people who live in tiny homes work from home. And if you don’t work from home, consider any crafts or skills you could offer. Just asking for money won’t do the trick. The key is to offer your services or crafts for various levels of donations. People will be more inclined to help out if they know it’s not just a handout!
 
 **Get a low Interest credit card.** Although not the most recommended method of financing, an individual with good credit history might find success with the right terms.
 
