@@ -53,6 +53,10 @@ So, what options have you left?
 
 If you can't qualify for a mortgage on a tiny house, there are other loan types that can help you land a dream tiny home.
 
+For those interested in securing a tiny home, understanding various loan interest rates is crucial. 
+
+An [SBA checklist](https://www.lendio.com/blog/sba-loan-interest-rates/) can provide insights into the best options available, especially if your circumstances allow for different types of loans suitable for small business administration benefits.
+
 1. ### Personal loan
 
 For many people, a personal loan is a go-to option for securing financing for a tiny home. These loans are usually unsecured, which means they don't hold anything as collateral. 
