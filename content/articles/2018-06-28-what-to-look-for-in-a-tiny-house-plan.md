@@ -544,7 +544,7 @@ There are a number of rules and regulations to be considered when choosing a Tin
 
 #### Professional Expertise
 
-If you would like a completely customized project and don't feel you have the time or skills to do the design and drafting work yourself, consider the option of hiring an architect. This will be your least budget-oriented option. If you choose to work with a professional designer, it's a good idea to engage in some of the bubble diagram or initial sketching exercises mentioned earlier before your first meeting. You'll want to have a good idea of what you want before enlisting the help of an architect who charges an hourly rate after [tracking time](https://unrubble.com/products/time-tracking) spent on the project.
+If you would like a completely customized project and don't feel you have the time or skills to do the design and drafting work yourself, consider the option of hiring an architect. This will be your least budget-oriented option. If you choose to work with a professional designer, it's a good idea to engage in some of the bubble diagram or initial sketching exercises mentioned earlier before your first [sales meeting](https://capsulecrm.com/blog/sales-meeting-ideas/). You'll want to have a good idea of what you want before enlisting the help of an architect who charges an hourly rate after [tracking time](https://unrubble.com/products/time-tracking) spent on the project.
 
 #### Design Style
 
