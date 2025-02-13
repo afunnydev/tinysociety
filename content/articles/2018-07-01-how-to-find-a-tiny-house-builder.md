@@ -48,7 +48,11 @@ There are a number of considerations to take into account when looking for a Tin
 
 #### Referrals from past clients
 
-If it’s possible to contact former clients, ask about their experience with the builder, what their [construction workflow](https://buildertrend.com/blog/improve-construction-processes/) is like, and whether or not they would recommend that person or team. As you look at the builder's work, take note of how similar those projects are (or are not) to the project you have in mind.
+If it’s possible to contact former clients, ask about their experience with the builder, what their [construction workflow](https://buildertrend.com/blog/improve-construction-processes/) is like, and whether or not they would recommend that person or team. 
+
+Positive [referrals from customers](https://referralrock.com/blog/customer-referrals/) can significantly impact a builder’s reputation, helping future clients make informed decisions based on trusted experiences. 
+
+As you look at the builder's work, take note of how similar those projects are (or are not) to the project you have in mind.
 
 If your project significantly differs from the builder's current portfolio of work, you'll want to communicate clearly what you have in mind during the interview process and find out if your project is within the builder's abilities. 
 
