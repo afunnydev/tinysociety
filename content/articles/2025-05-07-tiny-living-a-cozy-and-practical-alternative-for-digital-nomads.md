@@ -14,6 +14,7 @@ listing:
     minimalist lifestyle, enhances productivity, and fosters a sense of
     community — all while aligning with the values of freedom and
     sustainability.
+  image: /img/03c02977-1fc6-4cc9-a0a8-98f860ac2ab7.jpg
 categories:
   - Sustainable building and living
 i18nlanguage: en
