@@ -2,6 +2,7 @@
 title: "Tiny Living: A Cozy and Practical Alternative for Digital Nomads"
 slug: tiny-living-for-digital-nomads
 author: guest
+image: /img/03c02977-1fc6-4cc9-a0a8-98f860ac2ab7.jpg
 overlay: true
 date: 2025-05-07
 lastmod: 2025-05-07
@@ -14,7 +15,7 @@ listing:
     minimalist lifestyle, enhances productivity, and fosters a sense of
     community — all while aligning with the values of freedom and
     sustainability.
-  image: /img/03c02977-1fc6-4cc9-a0a8-98f860ac2ab7.jpg
+  image: ""
 categories:
   - Sustainable building and living
 i18nlanguage: en
