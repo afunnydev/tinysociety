@@ -1,6 +1,6 @@
 ---
 title: "Tiny Living: A Cozy and Practical Alternative for Digital Nomads"
-slug: this-is-an-example
+slug: tiny-living-for-digital-nomads
 author: guest
 overlay: true
 date: 2025-05-07
