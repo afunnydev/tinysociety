@@ -52,7 +52,7 @@ Whether you’re saving for your next adventure or looking for financial freedom
 
 That means more budget for what really matters to nomads: experiences, travel, and personal growth.
 
-For example, if you want to visit Spain as a digital nomad, you can [rent accommodation in Málaga](https://www.flatio.com/malaga), even in the form of a tiny house.
+For example, if you want to visit Spain as a digital nomad, you can [rent accommodation in Málaga](https://www.flatio.com/s/Malaga), even in the form of a tiny house.
 
 ## 4. Work-From-Home Ready
 
