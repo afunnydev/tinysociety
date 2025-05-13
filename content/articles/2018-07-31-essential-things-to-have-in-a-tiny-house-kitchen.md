@@ -44,7 +44,7 @@ Granted, my personal experience comes from the parameters of living solo (and co
 
 A limited amount of space to work with means precise use of every square inch of work surface and storage space opportunity. That said, I would caution against thinking that this means throwing out all but your favorite one or two kitchen gadgets.
 
-Back when I was down-sizing in preparation to embark upon the Tiny Life, I thought I’d have to give up most of my kitchen gadgets and cooking tools. I carefully scrutinized each one. Many of them ended up in the donation, sell, and give-away piles. In the more than four years since then, replacements for most of those discarded items have eventually made their way back into my Tiny House kitchen scenario.
+Back when I was down-sizing in preparation to embark upon the Tiny Life, I thought I’d have to give up most of my kitchen gadgets and cooking tools. I carefully scrutinized each one. Many of them ended up in the donation, sell, and give-away piles. If you’re looking to do something similar or wondering [how to organize a donation drive](https://donorbox.org/nonprofit-blog/donation-drive) for your downsized items, this guide offers helpful steps and creative ideas to ensure your efforts make a meaningful impact. In the more than four years since then, replacements for most of those discarded items have eventually made their way back into my Tiny House kitchen scenario.
 
 ## What Are the Essential Components of a Tiny House Kitchen?
 
