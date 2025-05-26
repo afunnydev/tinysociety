@@ -159,7 +159,7 @@ Not all Tiny Houses are built on trailers. There are additional expenses involve
 
 Another cost involved with Tiny House dwelling is purchasing or renting the land on which the Tiny House will sit.
 
-In a work-trade rental situation, or parking on a friend or relative's land, this cost could be negligible. Or it could be $600 per month or more to [rent a parking spot](https://www.parkhound.com.au/blog/10-parking-tips-for-melbourne-drivers/) for your Tiny House. $300 per month seems to be about average, depending largely on your location.
+In a work-trade rental situation, or parking on a friend or relative's land, this cost could be negligible. Or it could be $600 per month or more to rent a parking spot for your Tiny House. $300 per month seems to be about average, depending largely on your location.
 
 If you're traveling from campground to campground, your monthly rates may be higher.
 
