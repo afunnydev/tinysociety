@@ -43,7 +43,7 @@ Think you’re ready to dive into building your tiny house? Check out this list 
 
 ![sofa-bed](/img/stocksnap_ytlt81rvse.jpg)
 
-Since having both a couch and a bed in your tiny house would take up too much room, combining the two can save you a significant amount of space. It's the perfect multipurpose piece of furniture as you wouldn't likely need to use your bed and couch at the same time. [Sofas](https://earlysettler.com.au/collections/sofas) these days not only transform quickly and easily into comfortable beds, but they often also provide a significant amount of storage for you to keep your blankets, pillows, and other items. Consider buying a slightly raised couch so you can utilize the space underneath it as well. If a sofa bed isn’t your thing, here are some other furniture options to consider:
+Since having both a couch and a bed in your tiny house would take up too much room, combining the two can save you a significant amount of space. It's the perfect multipurpose piece of furniture as you wouldn't likely need to use your bed and couch at the same time. Sofas these days not only transform quickly and easily into comfortable beds, but they often also provide a significant amount of storage for you to keep your blankets, pillows, and other items. Consider buying a slightly raised couch so you can utilize the space underneath it as well. If a sofa bed isn’t your thing, here are some other furniture options to consider:
 
 * Futon
 * Trundle Bed
