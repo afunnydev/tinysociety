@@ -46,7 +46,7 @@ Even though Craigslist isn’t the most reliable source, it can help you find th
 
 **Your Parent’s Basement**
 
-If your parents own a home nearby, then their basement and garage are probably filled with a whole lot of junk. They’d likely be more than happy for you to take some of it off their hands. Look for things that can no only be repurposed for the structure, but look for tools that you will need as well. Even if your parents aren’t ready to give these up, you can probably borrow a few. Other things you might consider are furniture or fabric that you can use when designing the interior. Here are some things to keep an eye out for:
+If your parents own a home nearby, then their basement and garage are probably filled with a whole lot of junk. They’d likely be more than happy for you to take some of it off their hands. Look for things that can no only be repurposed for the structure, but look for tools that you will need as well. Even if your parents aren’t ready to give these up, you can probably borrow a few. Another key way to cut costs when building your tiny home is to minimize clutter and maximize usable space. Before construction even begins, take time to sort through what you truly need and clear out unnecessary belongings—especially if you’re downsizing from a larger home. Tackling a [basement cleanout](https://www.bintheredumpthat.com/basement-cleanout-tips-and-tricks-to-a-cleaner-basement/) can be a game-changer, helping you declutter efficiently and even uncover materials or furniture that can be repurposed in your tiny house build. Other things you might consider are furniture or fabric that you can use when designing the interior. Here are some things to keep an eye out for:
 
 * Paint
 * Wood Stainer
