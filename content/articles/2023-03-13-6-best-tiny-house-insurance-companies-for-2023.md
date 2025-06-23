@@ -42,6 +42,8 @@ While it isn't the most well-known provider, Strategic Insurance Agency speciali
 
 The tiny house insurance policies include dwelling coverage up to $250,000, personal property coverage up to $25,000, contents theft coverage up to $3,000, liability coverage up to $1m, and medical payments coverage up to $1,000.
 
+Integrating expert [software development medical devices](https://intellias.com/medical-device-software-development/) solutions can help ensure that any built-in health and safety systems comply with the highest industry standards.
+
 You can customize your homeowner’s policy with endorsements like detached structures coverage, contents replacements cost, trip coverage, dwelling theft coverage, and personal articles coverage for valuables. 
 
 You can also get coverage for primary and secondary tiny homes, short- and long-term rentals, and tiny vacation homes. 
