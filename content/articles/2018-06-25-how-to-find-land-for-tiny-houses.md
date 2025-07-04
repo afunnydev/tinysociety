@@ -369,7 +369,7 @@ Now that you have a better idea of what you want in a piece of property, how to 
 
 **Finding Property**
 
-**Real estate agent.** Working with a good real estate agent is the standard traditional route.
+**Real estate agent.** If you decide to [hire real estate agents](https://estateskyline.co/), the search and selection of property will become much easier. Working with a good real estate agent is the standard traditional route.
 
 * A buyer’s agent is generally paid by the seller, yet has a fiduciary responsibility to represent the buyer’s interests.
 * A real estate agent should have good knowledge of the local zoning, and be able to advise you on what options you have for a Tiny House. In order to serve customers like you, [real estate agents must get a license](https://www.agentadvice.com/real-estate-license/) that will cover all of this top-level knowledge. However, it’s also worth looking for a realtor who has a good reputation for well-implemented [customer relationship management strategies](https://instantly.ai/blog/crm-strategy/) and service, as this is just as important as raw expertise in the technical side of buying and selling land.
