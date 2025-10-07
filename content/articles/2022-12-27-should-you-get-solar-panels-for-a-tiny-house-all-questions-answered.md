@@ -36,7 +36,7 @@ To find perfect solar panels for a small house, you need to know your energy nee
 
 You can calculate your current power consumption by checking the power rating on each of your devices, including the lighting and air conditioning.
 
-The spec sheet on each device and appliance gives its wattage in watts of power (W). Multiply that value by the number of hours you expect to run or charge the appliance each day, and you get the daily energy usage.
+The [spec sheet](https://visme.co/blog/what-is-a-spec-sheet/) on each device and appliance gives its wattage in watts of power (W). Multiply that value by the number of hours you expect to run or charge the appliance each day, and you get the daily energy usage.
 
 Let's take a look at a couple of examples:
 
