@@ -128,7 +128,7 @@ The fastest and easiest option for acquiring a Tiny House is to buy one ready-ma
 ### Reasons to Buy a Finished Tiny House
 
 * Buying a ready-made Tiny House will save you time. Many Tiny House companies carry in-stock models ready to go. You can walk right up and purchase one like you would a new car. Even if there's a lead time involved, a Tiny House company have a relatively short construction schedule for its standard models.
-* Some Tiny House companies offer their own payment plans, eliminating the need to find financing through a traditional financial institution.
+* Some Tiny House companies offer their own payment plans, eliminating the need to find financing through a traditional financial institution. Tiny house manufacturers that need reliable payment partners are using [high risk merchant accounts](https://tailoredpay.com/) to get paid instead of traditional but risky choices such as Stripe.
 * Tiny House companies offer "tried and true" designs. You may be able to talk to prior customers or read reviews to find out what models and features are the most popular.
 
 ### A Little About Financing Your Tiny Home
