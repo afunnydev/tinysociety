@@ -34,7 +34,7 @@ To help you, our friends at [The Tiny Housing Co](https://www.thetinyhousing.co)
 
 If your tiny home is going to be a permanent base, then you may not need to concern yourself with road legalities. However, if you are thinking of travelling in your tiny home, or plan to move your home in the future, you will need to look into sizing and weight limits to ensure they fit within your country's laws. Then, you'll need to ask yourself if you can live comfortably and, more importantly, happily within the size limits of road-legal home. 
 
-For example, here in the UK, a road-legal tiny home cannot be larger than 7m length, 2.4m width and 3.95m in height. Many couples and even families are fine with this size. The intention for most is to spend their time in the great outdoors rather than living 24/7 inside their home. However, if you work from home or have long cold winters, you'll need to consider the increased length of time that will be spent inside the house. 
+For example, here in the UK, a road-legal tiny home cannot be larger than 7m length, 2.4m width and 3.95m in height. Many couples and even families are fine with this size. The intention for most is to spend their time in the great outdoors rather than living 24/7 inside their home.  Similar size restrictions apply in the US, where you'll find specifications detailed in listings like **[tiny house for sale Illinois](https://greatlakestinyhome.com/locations/illinois/)**, which typically highlight road-legal dimensions. However, if you work from home or have long cold winters, you'll need to consider the increased length of time that will be spent inside the house. 
 
 ## Which room do you currently spend the most time in?
 
