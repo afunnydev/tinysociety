@@ -47,7 +47,7 @@ So how does one protect their tiny house? Let’s take a look at some security t
 
 <span class="figcaption">Source: [Mega Hitch Lock](https://megahitchlock.com/product/one-size-fits-2-2-516-trailer-hitch-lock/)</span>
 
-Exactly how it sounds, a hitch lock covers your trailer hitch and locks it with a key or combination lock. This device not only prevents potential thieves from driving away with your tiny home, but it also discourages them from trying. Be sure to speak to an expert when sizing your hitch lock. The better the fit, the more secure it will be.  In combination with other security systems, this method does wonders.
+Exactly how it sounds, a hitch lock covers your trailer hitch and locks it with a key or combination lock. This device not only prevents potential thieves from driving away with your tiny home, but it also discourages them from trying. Be sure to speak to an expert when sizing your hitch lock. The better the fit, the more secure it will be.  In combination with other [security systems](https://www.fieldpromax.com/blog/operate-in-the-fire-alarm-and-security-systems-industry), this method does wonders.
 
 ## Wheel Lock
 
