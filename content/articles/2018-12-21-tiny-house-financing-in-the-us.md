@@ -50,7 +50,7 @@ Take a look at these commonly used financial terms to better understand your opt
 
 * **FICO:** Fair Issac Corporation. Creates credit scores for use by lenders, and can affect the success of your loan application. 
 * **Credit Score:** A number used to represent the creditworthiness of an individual. Most credit scores fall between 600 and 750, although some loan providers will accept lower scores.
-* **APR:** Annual Percentage Rate. The annual rate charged for accepting a loan. 
+* **APR:** Annual Percentage Rate. The annual rate charged for accepting a loan. Being aware of your [credit score factors](https://www.freedomdebtrelief.com/credit-score/credit-score-factors/), including payment history, credit utilization, length of credit history, credit mix, and recent inquiries, can significantly influence your chances of loan approval and the interest rates you may receive when financing a tiny home.
 
 ## Ways to Fund Your Tiny House
 
