@@ -8,28 +8,29 @@ slug: how-to-power-tiny-house-with-solar-energy
 author: molli
 image: /img/solar-power-banner.jpg
 overlay: true
-date: '2018-07-13'
+date: 2018-07-13
+lastmod: 2025-12-08
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
-  title: ' How to Power your Tiny House With Solar Energy'
+  title: " How to Power your Tiny House With Solar Energy"
   description: >
     If you’re like many other tiny home enthusiasts, you likely value
     sustainability, cost efficiency and a reduced footprint. Despite the many
     advantages of going solar, there are also some disadvantages to consider
     before getting started on your first project. 
   image: /img/solar_power_square.jpg
-likes: '26'
 categories:
   - Tiny houses
   - Energy efficiency
   - Sustainable building and living
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "26"
 ---
 So you’ve probably heard the [Tiny House Movement](https://thetinylife.com/what-is-the-tiny-house-movement/) is taking the world by storm (yes we wish we could have a storm-powered house too). But how does  a tiny home become energy efficient and self-sufficient? Let’s take a closer look at tiny house solar energy and the effect it has on an off-grid home.
 
@@ -48,7 +49,7 @@ If you’re like many other tiny home enthusiasts, you likely value sustainabili
 <span class="figcaption">Source: [Lazard Levelized Cost of Energy Analysis](https://www.lazard.com/media/438038/levelized-cost-of-energy-v100.pdf)</span>
 
 * Solar is [good for the environmen](https://news.energysage.com/health-environmental-benefits-of-solar-energy/)t. With the tiny house movement comes a demographic of people who are interested in lowering their carbon footprint. By installing solar panels, tiny house owners use clean, renewable energy from the sun!
-* Solar is [energy independence.](https://impactgreensolutions.com/solar/) Imagine the day comes when the world has run out of oil. Imagine moving your tiny home to a remote area with no access to power. What then? With solar panels, your house on wheels isn’t bound to one place and neither are you.
+* Solar is [energy independence.](https://impactgreensolutions.com/solar/) Imagine the day comes when the world has run out of oil. Imagine moving your tiny home to a remote area with no access to power. What then? With solar panels, your house on wheels isn’t bound to one place and neither are you. Some tiny-home owners add small custom monitoring systems to track battery health and energy usage, and they often source the required circuit boards from manufacturers like [WellPCB](https://www.wellpcb.com/) to ensure long-term reliability in off-grid conditions.
 
 ## Disadvantages to solar power
 
