@@ -49,7 +49,7 @@ If you’re like many other tiny home enthusiasts, you likely value sustainabili
 <span class="figcaption">Source: [Lazard Levelized Cost of Energy Analysis](https://www.lazard.com/media/438038/levelized-cost-of-energy-v100.pdf)</span>
 
 * Solar is [good for the environmen](https://news.energysage.com/health-environmental-benefits-of-solar-energy/)t. With the tiny house movement comes a demographic of people who are interested in lowering their carbon footprint. By installing solar panels, tiny house owners use clean, renewable energy from the sun!
-* Solar is [energy independence.](https://impactgreensolutions.com/solar/) Imagine the day comes when the world has run out of oil. Imagine moving your tiny home to a remote area with no access to power. What then? With solar panels, your house on wheels isn’t bound to one place and neither are you. Some tiny-home owners add small custom monitoring systems to track battery health and energy usage, and they often source the required circuit boards from manufacturers like [WellPCB](https://www.wellpcb.com/) to ensure long-term reliability in off-grid conditions.
+* Solar is [energy independence.](https://impactgreensolutions.com/solar/) Imagine the day comes when the world has run out of oil. Imagine moving your tiny home to a remote area with no access to power. What then? With solar panels, your house on wheels isn’t bound to one place and neither are you. Some tiny-home owners add small custom monitoring systems to track battery health and energy usage, and they often source the required circuit boards from manufacturers like [WellPCB](https://www.wellpcb.com/pcb-manufacturer/hdi/) to ensure long-term reliability in off-grid conditions.
 
 ## Disadvantages to solar power
 
