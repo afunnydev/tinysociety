@@ -250,6 +250,8 @@ Robin Falck built a 96 square foot tiny cabin and that too in just two weeks. I 
 
 The best part is there are two stories and from both the water view is incredible.
 
+If you’re planning a trip up north, [Finland Lapland](https://scandi.travel/) tours are a great way to experience more of the region beyond cabin stays—think Arctic landscapes, local culture, and winter activities.
+
 ## Futuristic Cabin in Austria
 
 ![Futuristic Cabin](/img/futuristic-cabin.jpg)
