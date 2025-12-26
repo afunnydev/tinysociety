@@ -197,6 +197,7 @@ If you are on a very tight budget and have a lot of time to spare,  you can desi
 * It can be fun and rewarding. 
 * It allows you to fully customize your home to your personal needs.
 * This is your chance to have a completely unique Tiny House-- perfect if you're one of those people who cringes at the idea of showing up to the party wearing the same sweater as five other people in the room. 
+* It's a great break from whatever you're working on, such as an [online nursing school](https://academicpartnerships.uta.edu/healthcare-nursing-online-programs/bachelor-of-science-public-health/). 
 
 ### How Do I Design My Own Tiny House?
 
