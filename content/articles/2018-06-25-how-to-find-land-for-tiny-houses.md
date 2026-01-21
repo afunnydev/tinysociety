@@ -67,6 +67,12 @@ A benefit to purchasing the land first is that you won’t have to look for a se
 
 If you’re building a fixed structure, you can customize it to conform to the specific location on the Earth where it sits—a precept of many a talented designer.
 
+If you decide to buy land instead of renting, it’s important to think about the future. Owning land gives you control, stability, and the chance to create a long-term setup that works for both your Tiny House and your lifestyle. 
+
+For some buyers, this means looking at options overseas where land is more affordable and flexible for small-home living. 
+
+One popular choice is to [invest in St Lucia real estate](https://ntltrust.com/citizenship-by-investment/st-lucia/), offering a mix of affordable property ownership, lifestyle benefits, and long-term value in a growing market.
+
 ![Tiny Cabin in the mountains](/img/well-architeted-tiny-house.jpg)
 
 <span class="figcaption">Image source: [inhabitat.com](https://inhabitat.com/sublime-tiny-cabins-in-british-columbia-that-can-be-installed-within-mere-hours/)</span>
