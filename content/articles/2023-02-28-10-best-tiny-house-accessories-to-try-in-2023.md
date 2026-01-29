@@ -166,6 +166,10 @@ This [air purifier from Xiaomi](https://www.amazon.com/Purifier-3-Layer-Integrat
 
 It connects to your home via Wi-Fi and allows you to monitor the air quality on the mobile app. 
 
+Clean air is especially important in small spaces where every square foot matters. An [air purifier for homes](https://www.sleepsolutions.com.au/air-quality/air-purifier) can help you reduce dust, allergens, and urban pollution, especially when opening windows isn’t an option. 
+
+In a compact home, it’s not just a luxury, it’s a practical tool to keep your space comfortable and healthy every day.
+
 ## Wrapping up
 
 When I was moving into a tiny house, culling my belongings was the most exciting part. Always remember that with every bag of clutter that you leave behind, you get something much more valuable in return:
