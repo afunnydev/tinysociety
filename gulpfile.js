@@ -1,13 +1,18 @@
 const gulp = require('gulp');
 const imagemin = require("gulp-imagemin");
-const imageresize = require('gulp-image-resize');
-var exec = require('child_process').exec;
-var newer = require('gulp-newer');
-var sass = require('gulp-sass');
-var sourcemaps = require('gulp-sourcemaps');
-var concat = require('gulp-concat');
-var rename = require('gulp-rename');
-var uglify = require('gulp-uglify-es').default;
+const sharp = require('sharp');
+const through2 = require('through2');
+const path = require('path');
+const fs = require('fs');
+const { exec } = require('child_process');
+const { promisify } = require('util');
+const execAsync = promisify(exec);
+const newer = require('gulp-newer');
+const sass = require('gulp-sass')(require('sass'));
+const sourcemaps = require('gulp-sourcemaps');
+const concat = require('gulp-concat');
+const rename = require('gulp-rename');
+const terser = require('gulp-terser');
 // var browserSync = require('browser-sync').create();
 
 // image resizing variables
@@ -93,37 +98,84 @@ const jsFilesUI = [
                 ];
 const jsDest = 'themes/tinysociety/static/js';
 
+// Helper function for resizing images with sharp to multiple sizes
+function resizeMultiple(sizes) {
+  return through2.obj(function(file, enc, cb) {
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+    if (file.isStream()) {
+      return cb(new Error('Streaming not supported'));
+    }
+    
+    const ext = path.extname(file.path).toLowerCase();
+    
+    // Skip if not an image we can process
+    if (!['.jpg', '.jpeg', '.png', '.gif'].includes(ext)) {
+      return cb(null, file);
+    }
+    
+    const basename = path.basename(file.path);
+    const sourceStats = fs.statSync(file.path);
+    
+    // Check if all output files exist and are newer than source
+    const allExist = sizes.every(({ dest }) => {
+      const outputPath = path.join(dest, basename);
+      if (!fs.existsSync(outputPath)) return false;
+      const destStats = fs.statSync(outputPath);
+      return destStats.mtime >= sourceStats.mtime;
+    });
+    
+    if (allExist) {
+      return cb(null, file);
+    }
+    
+    // Process all sizes for this image
+    const promises = sizes.map(({ width, dest }) => {
+      const outputPath = path.join(dest, basename);
+      return sharp(file.path)
+        .resize(width, null, { fit: 'inside', withoutEnlargement: true })
+        .toFile(outputPath);
+    });
+    
+    Promise.all(promises)
+      .then(() => {
+        console.log(`Processed: ${basename}`);
+        cb(null, file);
+      })
+      .catch(err => {
+        console.error(`Error processing ${file.path}:`, err.message);
+        cb(null, file);
+      });
+  });
+}
+
  
 // resize and optimize images
 gulp.task("image-resize", () => {
+  const sizes = [
+    { width: imagexl, dest: "themes/tinysociety/static/xl/img" },
+    { width: imagefull, dest: "themes/tinysociety/static/img" },
+    { width: imagehalf, dest: "themes/tinysociety/static/half/img" },
+    { width: imagequart, dest: "themes/tinysociety/static/quart/img" },
+    { width: imagethumb, dest: "themes/tinysociety/static/thumb/img" },
+    { width: imageload, dest: "themes/tinysociety/static/load/img" }
+  ];
+
   return gulp.src("themes/tinysociety/source-images/*.{jpg,png,jpeg,JPG,gif}")
-    .pipe(newer("themes/tinysociety/static/img"))
-    .pipe(imagemin([
-        imagemin.gifsicle({interlaced: true}),
-        imagemin.jpegtran({progressive: true}),
-        imagemin.optipng({optimizationLevel: 5})
-      ]))
-    .pipe(imageresize({ width: imagexl}))
-    .pipe(gulp.dest("themes/tinysociety/static/xl/img"))
-    .pipe(imageresize({ width: imagefull }))
-    .pipe(gulp.dest("themes/tinysociety/static/img"))
-    .pipe(imageresize({ width: imagehalf }))
-    .pipe(gulp.dest("themes/tinysociety/static/half/img"))
-    .pipe(imageresize({ width: imagequart }))
-    .pipe(gulp.dest("themes/tinysociety/static/quart/img"))
-    .pipe(imageresize({ width: imagethumb }))
-    .pipe(gulp.dest("themes/tinysociety/static/thumb/img"))
-    .pipe(imageresize({ width: imageload }))
-    .pipe(gulp.dest("themes/tinysociety/static/load/img"));
+    .pipe(resizeMultiple(sizes));
 });
 
 // hugo production call
-gulp.task("hugo", (cb) => {
-  exec('hugo --cleanDestinationDir', (err, stdout, stderr) => {
+gulp.task("hugo", async () => {
+  try {
+    const { stdout, stderr } = await execAsync('hugo --cleanDestinationDir');
     console.log(stdout);
-    console.log(stderr);
-    cb(err);
-  });
+    if (stderr) console.error(stderr);
+  } catch (error) {
+    console.error('Hugo build failed:', error);
+    throw error;
+  }
 });
 
 gulp.task('sass', () => {
@@ -148,7 +200,7 @@ gulp.task('scripts-normal', () => {
     return gulp.src(jsFiles)
         .pipe(sourcemaps.init())
         .pipe(concat('main.min.js'))
-        .pipe(uglify())
+        .pipe(terser())
         .pipe(sourcemaps.write('maps'))
         .pipe(gulp.dest(jsDest));
 });
@@ -157,7 +209,7 @@ gulp.task('scripts-ui', () => {
     return gulp.src(jsFilesUI)
         .pipe(sourcemaps.init())
         .pipe(concat('main-with-ui.min.js'))
-        .pipe(uglify())
+        .pipe(terser())
         .pipe(sourcemaps.write('maps'))
         .pipe(gulp.dest(jsDest));
 });
@@ -166,7 +218,7 @@ gulp.task('scripts-plans', () => {
     return gulp.src(jsFilesPlans)
         .pipe(sourcemaps.init())
         .pipe(concat('main-plans.min.js'))
-        .pipe(uglify())
+        .pipe(terser())
         .pipe(sourcemaps.write('maps'))
         .pipe(gulp.dest(jsDest));
 });
@@ -175,7 +227,7 @@ gulp.task('scripts-maps', () => {
     return gulp.src(jsFilesMaps)
         .pipe(sourcemaps.init())
         .pipe(concat('main-maps.min.js'))
-        .pipe(uglify())
+        .pipe(terser())
         .pipe(sourcemaps.write('maps'))
         .pipe(gulp.dest(jsDest));
 });

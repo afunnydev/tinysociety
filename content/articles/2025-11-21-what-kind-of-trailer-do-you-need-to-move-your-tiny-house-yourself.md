@@ -17,6 +17,7 @@ listing:
     importance of quality construction to ensure stability on the road. Overall,
     the right trailer protects both your home and your journey, making the move
     smoother and safer.
+  image: /img/tiny-society-800x800.jpg
 categories:
   - Sustainable building and living
 i18nlanguage: en
