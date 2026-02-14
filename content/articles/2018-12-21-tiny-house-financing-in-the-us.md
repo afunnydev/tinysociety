@@ -120,7 +120,7 @@ Check to see if you qualify[ here.](https://www.financemytrailer.com/)
 
 ## Personal Loan
 
-For those concerned about their credit score, companies like [easyfinancial](https://www.easyfinancial.com/bad-credit-loans) offer bad credit loans, making this a viable option for anyone who wants either a tiny house on foundations or to build their own tiny house on wheels. A better credit score means you’re more likely to get a lower rate and more favorable terms. A positive of going down the personal loan route is that you often get more flexibility in terms of how the money is used. For instance, it’s possible to use the money for either a tiny house on foundations, on wheels, or even the land it sits on. 
+For those concerned about their credit score, companies like [easyfinancial](https://www.easyfinancial.com/bad-credit-loans) offer [bad credit personal loans](https://www.australianlendingcentre.com.au/bad-credit-loans/), making this a viable option for anyone who wants either a tiny house on foundations or to build their own tiny house on wheels. A better credit score means you’re more likely to get a lower rate and more favorable terms. A positive of going down the personal loan route is that you often get more flexibility in terms of how the money is used. For instance, it’s possible to use the money for either a tiny house on foundations, on wheels, or even the land it sits on. 
 
 ### Upstart
 
