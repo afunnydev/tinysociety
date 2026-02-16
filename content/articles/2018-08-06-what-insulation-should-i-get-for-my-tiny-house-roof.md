@@ -83,7 +83,7 @@ This material is created by heating natural basalt rocks at extremely high tempe
 
 *Pros:* Doesn't catch fire easily, doesn't attract rodents, is environmentally sustainable.
 
-*Cons:* Not as popular a choice in recent years due to the high potential for water damage. A lot of energy is used to create the material, as well as protective gear is needed to install it due to irritating fibers.
+*Cons:* Not as popular a choice in recent years due to its sensitivity to prolonged moisture exposure. With appropriate moisture management and professional [water damage clean-up](https://patriotrestorationtn.com/water-damage-restoration/) when needed, its insulating properties can be preserved. The manufacturing process is energy-intensive, and protective gear is required during installation due to the presence of fine fibers. A lot of energy is used to create the material, as well as protective gear is needed to install it due to irritating fibers.
 
 **Cost:** approx. $0.80 - $1.00 per square foot
 
