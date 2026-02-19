@@ -48,7 +48,7 @@ Digital nomads often travel light — tiny living encourages the same mindset. W
 
 ## 3. Cost-Effective Living Without Sacrificing Comfort
 
-Whether you’re saving for your next adventure or looking for financial freedom, tiny homes can significantly cut down on monthly expenses. Rent, utilities, and maintenance costs are usually much lower than traditional housing.
+Whether you’re saving for your next adventure or looking for financial freedom per [WallStreetZen's breakdown](https://www.wallstreetzen.com/blog/autopilot-investment-app-review/), tiny homes can significantly cut down on monthly expenses. Rent, utilities, and maintenance costs are usually much lower than traditional housing.
 
 That means more budget for what really matters to nomads: experiences, travel, and personal growth.
 
