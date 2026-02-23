@@ -1,5 +1,8 @@
 ---
 title: "Lifecycle Planning for Homes: From Construction to Long-Term Maintenance"
+description: Learn how lifecycle planning improves home design, construction,
+  maintenance, and upgrades, helping homeowners reduce long-term costs, extend
+  system lifespan, and protect property value.
 slug: lifecycle-planning-homes
 author: guest
 overlay: true
