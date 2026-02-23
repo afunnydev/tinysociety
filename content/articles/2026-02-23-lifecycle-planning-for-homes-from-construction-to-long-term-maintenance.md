@@ -1,6 +1,6 @@
 ---
 title: "Lifecycle Planning for Homes: From Construction to Long-Term Maintenance"
-slug: this-is-an-example
+slug: lifecycle-planning-homes
 author: guest
 overlay: true
 date: 2026-02-23
