@@ -1,33 +1,32 @@
 ---
 title: How to Choose the Right Tiny House Appliances
-description: >-
-  There’s a lot to consider when choosing appliances for a Tiny House. Of course
-  size an important.  If the Tiny House is intended to be off-grid, or
-  potentially off-grid at some point in the future, it’s important to take
-  appliance wattage and alternative energy compatibility into account.
+description: There’s a lot to consider when choosing appliances for a Tiny
+  House. Of course size an important.  If the Tiny House is intended to be
+  off-grid, or potentially off-grid at some point in the future, it’s important
+  to take appliance wattage and alternative energy compatibility into account.
 slug: how-to-choose-tiny-house-appliances
 author: michelleg
 image: /img/tiny-house-appliances.jpg
 overlay: true
-date: '2018-07-31'
+date: 2018-07-31
+lastmod: 2026-02-24
 notloaded:
   need: true
 listing:
   title: How to Choose the Right Tiny House Appliances
-  description: >-
-    There are plenty of options to be had when choosing Tiny House appliances.
-    The primary considerations to apply to the array of choices are budget,
-    energy source, and available space.
+  description: There are plenty of options to be had when choosing Tiny House
+    appliances. The primary considerations to apply to the array of choices are
+    budget, energy source, and available space.
   image: /img/tiny-house-appliances-square.jpg
-likes: '26'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "26"
 ---
 There’s a lot to consider when choosing appliances for a Tiny House. Of course size is an important consideration when every square foot—or even square inch—counts. If the Tiny House is intended to be off-grid, or potentially off-grid at some point in the future, it’s important to take appliance wattage and alternative energy compatibility into account. Choosing between propane, on-grid electricity, or alternative energy to power the Tiny House appliances is another important decision. In this article, I’ll take you through the considerations and options for equipping a Tiny House with appliances for the kitchen, laundry area, bathroom, and the entire Tiny House.
 
@@ -146,7 +145,7 @@ Tiny House appliances run the gamut from luxury models to budget-friendly. Here 
 
 ### Tiny House Refrigerators & Freezers
 
-** High end:**
+ **High end:**
 
 ![null](/img/refrigerator.png)
 
@@ -246,7 +245,7 @@ The Magic Chef 24 Inch Wide 2.0 Cu. Ft. Front Loading Electric Washer / Dryer Co
 
 ![null](/img/low-end-washer.jpg)
 
-<span class="figcaption">Image credit: [Laundry Alternative](http://www.laundry-alternative.com/ )</span>
+<span class="figcaption">Image credit: [Laundry Alternative](http://www.laundry-alternative.com/)</span>
 
 For the budget-minded who don’t mind powering an appliance with elbow grease, here is the WonderWash for $49. Its compact size and portability allow it to be stowed away in a closet when not in use. Its low water usage increases its eco-friendliness. It can be found [here.](https://www.laundry-alternative.com/our-products/the-wonderwash/)
 
@@ -276,7 +275,7 @@ The Stiebel Eltron Tempra 24 Plus Advanced Flow Control and Self-Modulating 24 k
 
 <span class="figcaption">Image credit: [Home Depot](https://www.homedepot.com/)</span>
 
-The EcoSmart “Eco 11” 11 kW Self-Modulating Electric Tankless Water Heater runs on electricity, as indicated in the name. It heats up to two gallons per minute, claiming to be appropriate for 2-person use in a small apartment. It runs $250. Find it [here. ](https://www.homedepot.com/p/EcoSmart-11-kW-Self-Modulating-Electric-Tankless-Water-Heater-ECO-11/203316215)
+The EcoSmart “Eco 11” 11 kW Self-Modulating Electric Tankless Water Heater runs on electricity, as indicated in the name. It heats up to two gallons per minute, claiming to be appropriate for 2-person use in a [small apartment](https://rentals.ca/toronto). It runs $250. Find it [here. ](https://www.homedepot.com/p/EcoSmart-11-kW-Self-Modulating-Electric-Tankless-Water-Heater-ECO-11/203316215)
 
 ## Where Can I Buy Tiny House Appliances?
 
