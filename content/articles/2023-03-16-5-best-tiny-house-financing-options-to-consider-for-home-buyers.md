@@ -145,7 +145,7 @@ You may choose to place your tiny home on a lot and never move it, or embrace mo
 
 Many campsites and trailer parks allow you to park on their grounds for an extended period of time, which is excellent for tiny home owners. 
 
-On the other hand, some campsites will turn tiny homes away, so you better do research on where you're allowed to stay. Also, staying at campgrounds and parks involves daily, weekly, or monthly payments, which is often more expensive than renting an apartment - depending on your location and length of stay.  
+On the other hand, some campsites will turn tiny homes away, so you better do research on where you're allowed to stay. Also, staying at campgrounds and parks involves daily, weekly, or monthly payments, which is often more expensive than [renting an apartment](https://www.rentfaster.ca/bc/vancouver/) - depending on your location and length of stay.  
 
 If you're thinking about renting your tiny house, you can also consider [a business loan](https://minikredite.org/en/business-loans/) which might come with different conditions. Popular banks usually don’t advertise tiny house loans, but you still may be able to get one, especially if you have an excellent credit score. 
 
