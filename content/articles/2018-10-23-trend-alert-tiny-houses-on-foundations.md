@@ -43,7 +43,7 @@ Unless you plan to take your house on the road, there’s really no reason to bu
 
 When you plan to build tiny houses on foundations, you will need to [buy a piece of land](https://www.tinysociety.co/articles/tips-for-buying-land-for-your-tiny-house/). Renting land might be an option for you, but it’s considered a risky one. If at some point down the line the landowner decides to sell or that they need to use the land, you can lose your tiny house. So, in these kinds of situations, it’s usually better to buy. 
 
-Working with a local [real estate agency](https://urbanacres.com/north-liberty-homes-for-sale/) can help you identify vacant lots, zoning-friendly parcels, and underutilized land that may be suitable for a tiny house foundation.
+Working with a local [real estate agency](https://urbanacres.com/) can help you identify vacant lots, zoning-friendly parcels, and underutilized land that may be suitable for a tiny house foundation.
 
 Depending on how big or small the land is, you can get a great deal. Some cities will sell small vacant lots for the average cost of under $1,000. 
 
