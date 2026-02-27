@@ -5,6 +5,7 @@ description: Learn how lifecycle planning improves home design, construction,
   system lifespan, and protect property value.
 slug: lifecycle-planning-homes
 author: guest
+image: /img/img_0193.jpg
 overlay: true
 date: 2026-02-23
 lastmod: 2026-02-23
@@ -16,6 +17,7 @@ listing:
     focusing on smart design, durable construction, preventive maintenance, and
     planned upgrades. By thinking beyond upfront costs, homeowners can reduce
     repairs, extend system lifespan, and protect long-term value.
+  image: ""
 categories:
   - Sustainable building and living
 i18nlanguage: en
