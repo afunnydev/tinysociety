@@ -133,7 +133,7 @@ The fastest and easiest option for acquiring a Tiny House is to buy one ready-ma
 
 ### A Little About Financing Your Tiny Home
 
-Traditional institutions don't allow for typical mortgage financing in most cases. Once you have decided if you want to build your own tiny home or simply purchase it from another tiny house owner, you can start thinking about financing. Read the following article If you want to know more about [tiny house financing](https://www.tinysociety.co/articles/tiny-house-financing-in-the-us/). It's a great read to see the different options for tiny home funding.
+Traditional institutions don’t allow for typical mortgage financing in most cases. Once you have decided if you want to build your own tiny home or simply purchase it from another tiny house owner, you can start thinking about financing and exploring flexible options like a [house loan](https://www.plenti.com.au/personal-loans/debt-consolidation) to help cover costs. Read the following article If you want to know more about [tiny house financing](https://www.tinysociety.co/articles/tiny-house-financing-in-the-us/). It's a great read to see the different options for tiny home funding.
 
 ## The Cost of a Pre-Owned Tiny House
 
