@@ -39,7 +39,7 @@ One of the reasons that the Tiny lifestyle is attractive to so many people is th
 
 ### How much does it cost to build your own Tiny House?
 
-The "budget-friendly" option to acquiring a Tiny House is to build it yourself. There are endless materials and design choices that will affect the final price tag of your tiny home. 
+The “budget-friendly” option to acquiring a Tiny House is to build it yourself. There are endless materials and design choices that will affect the final price tag of your tiny home, and some buyers also explore compact layouts like [10m wide house designs](https://newlivinghomes.com.au/home-designs/narrow-lot/10m-wide/) when planning efficient living spaces.
 
 **So, what is the average cost?**
 
