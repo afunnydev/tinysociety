@@ -98,7 +98,7 @@ We've been asked these questions several times, and while we don't like to brag 
 
 **Additional Outdoor Space:** While the interior layout of your tiny home is vitally important, that does not mean you should forget about the exterior. Garden roofs, drop-down decking and vegetable gardens are a few things you may want to consider, especially if you are planning a tiny house on foundation. 
 
-Another good idea is to visit the land while planning, to see where the sun rises and sets, including any shading from other homes or trees. This will give you a direction of where to place your additional outdoor space. 
+Another good idea is to visit the land while planning, to see where the sun rises and sets, including any shading from other homes or trees. This will give you a direction of where to place your additional outdoor space. For a cleaner and more low-maintenance finish, working with a [trusted artificial turf installer](https://www.turfnow.com/services/residential-landscaping/) can help you make the most of your outdoor area.
 
 **Foldable/Sliding Doors:** Should you need privacy, especially within the bedroom, you may want to consider sliding doors. They can easily be opened to let in more light for a roomy feel and closed to offer warmth and comfort in the colder months. 
 
