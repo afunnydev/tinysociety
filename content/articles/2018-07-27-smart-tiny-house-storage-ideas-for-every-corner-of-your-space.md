@@ -214,7 +214,7 @@ You can’t imagine how many of them you can make and how much stuffs it can con
 
 Wait! Stair cases can be made into storage units? What? 
 
-Yes. Although this is a common storage unit in tiny houses but most people realize after they have built the house. 
+Yes. While built-in solutions are great, they have limits; for everything else, off-site [storage units](https://www.taxibox.com.au/self-storage/sydney/) are a popular way to manage overflow without cluttering your living space.
 
 Let’s see what ideas we have.
 
