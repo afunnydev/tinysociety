@@ -51,7 +51,7 @@ When you’re looking to build your tiny house at the [lowest cost possible](htt
 * Check on Craigslist, Amazon, and eBay for free or cheap supplies.
 * Take advantage of local garage sales.
 * Borrow tools and buy materials off of friends. 
-* Keep track of demolition sites nearby.
+* Keep track of demolition sites nearby or coordinate with [Dumpster Enterprises](https://dumpsterenterprises.com/) for efficient waste management and potential material recovery during the teardown phase.
 * Shop at nonprofit stores like the [Habitat Restore](http://www.habitat.org/restores). 
 
 ## Frame Building Materials List
