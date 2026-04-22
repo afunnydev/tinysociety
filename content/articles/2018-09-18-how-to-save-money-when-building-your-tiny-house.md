@@ -132,6 +132,8 @@ Gas generators are definitely the cheaper option, but they’re known for being 
 
 Once you decide which power source works best for you, it’s best that you also have a backup method. Combining two electric systems is the only way to ensure you always have access to power. 
 
+Depending on the setup, some users also pair their main power source with a [hydraulic system](https://www.partbase.com/de) to support essential mechanical functions when electrical access is limited.
+
 ## Apply Heat Efficiently Practices To Your New Home
 
 ![tiny house loft](/img/tiny_house_3.jpg)
