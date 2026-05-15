@@ -44,7 +44,7 @@ The tiny house insurance policies include dwelling coverage up to $250,000, pers
 
 Integrating expert software development medical devices solutions can help ensure that any built-in health and safety systems comply with the highest industry standards, akin to those when finishing an [online nursing school](https://academicpartnerships.uta.edu/healthcare-nursing-online-programs/bachelor-of-science-public-health/). 
 
-You can customize your homeowner’s policy with endorsements like detached structures coverage, contents replacements cost, trip coverage, dwelling theft coverage, and personal articles coverage for valuables. 
+You can customize your homeowner’s policy with endorsements like detached structures coverage, contents replacements cost, trip coverage, dwelling theft coverage, and personal articles coverage for valuables, including protection for modern [health and safety systems](https://www.donesafe.com/au/ehs-solutions/health-safety-software/) installed in your tiny home such as smart alarms, surveillance systems, and fire prevention devices.
 
 You can also get coverage for primary and secondary tiny homes, short- and long-term rentals, and tiny vacation homes. 
 
