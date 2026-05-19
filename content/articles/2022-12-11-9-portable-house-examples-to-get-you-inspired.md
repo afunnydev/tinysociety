@@ -242,7 +242,7 @@ Compact as it is, there’s nothing boxy about KODA. Each unit has a luminous at
 
 Order one, and it’s delivered on a trailer in one piece. Installation takes less than a day, with minimal site preparation. All you need is a piece of level ground, access with a crane, and connection points for water, sewage, and electricity.
 
-Energy waste in these portable houses is minimal as the design maximizes sunlight, and has a smart HVAC system and built-in home automation.
+Energy waste in these portable houses is minimal as the design maximizes sunlight, and has a [smart HVAC system](https://www.appumps.com.au/product-category/solutions/hvac-pump-systems/) and built-in home automation.
 
 KODA is a perfect living space for 1 or 2 dwellers but you can easily reconfigure it as an office, a classroom, a studio, or an extra hotel room.
 
