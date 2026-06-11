@@ -28,12 +28,6 @@
 	<div class="price-box">
 		<p style="text-align: center">SUBTOTAL</p>
 		<p style="text-align: center; font-weight: 700; margin-bottom: 20px;">50$</p>
-		<a href='#add-to-cart' class="button button_theme button_js action_button plan_cta add_to_cart snipcart-add-item"
-			data-item-id="{{ .Params.slug }}"
-			data-item-name="{{ .Params.listing.title }}"
-			data-item-price="50"
-			data-item-url="{{ .Permalink }}"
-			data-item-description="{{ .Params.listing.description }}"
-			data-item-image="{{ $.Site.Params.siteaddressno }}{{ .Params.listing.image }}"><span class="button_label">ADD TO CART</span></a>
+		<a href='{{ .Params.stripe_payment_link }}' class="button button_theme button_js action_button plan_cta" target="_blank" rel="noopener"><span class="button_label">BUY NOW</span></a>
 	</div>
 </div>

@@ -3,6 +3,7 @@ title: Triangular Tiny Cabin | 1 Room | 1 Bathroom | 545 sq/ft
 description: >-
   This triangular shaped tiny cabin has 1 room, 1 bathroom and terraces, for a total of 624 sq/ft, with 545 habitable sq/ft. It is built on wooden poles with a diameter of 8".
 slug: 545-sq-ft-1-bathroom-1-bedroom-foundation
+stripe_payment_link: https://buy.stripe.com/9B68wQ6RW4Gz3tWfWuao801
 architect: anastasia
 image: /img/triangular-tiny-house-ext.jpg
 date: '2018-08-07'

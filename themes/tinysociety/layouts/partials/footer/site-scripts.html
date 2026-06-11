@@ -95,9 +95,7 @@ jQuery(window).load(function() {
 </script>
 {{ else if (or (eq .Type "tiny-house-plans") (isset .Params "iscollection")) }}
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-<script src="/js/main-plans.min.js"></script>
-<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YjEzZWVjYTctZDYwOS00MmRhLWIxNzctODQ4MTEyNDBlMTJkNjM2NTcxNjg0NDkwMDkzMDA5"></script>
-{{ else }}
+<script src="/js/main-plans.min.js"></script>{{ else }}
 <script src="/js/main.min.js"></script>
 {{ end }}
 <script id="mfn-dnmc-retina-js">

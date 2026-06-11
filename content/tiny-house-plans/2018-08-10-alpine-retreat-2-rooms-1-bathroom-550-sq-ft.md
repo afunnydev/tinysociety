@@ -4,6 +4,7 @@ description: >-
   This tiny house plan has 2 rooms, 1 bathroom, a terrace space and is 1355 sq/feet, with 905 habitable
   sq/ft. It is 24" by 24", excluding the terrace space. It is on a foundation.
 slug: 905-sq-ft-2-bedroom-1-bathroom-foundation
+stripe_payment_link: https://buy.stripe.com/3cIdRa3FK3Cv6G8bGeao807
 architect: hesham
 image: /img/outside-luxurious-small-home.jpg
 date: '2018-09-17'

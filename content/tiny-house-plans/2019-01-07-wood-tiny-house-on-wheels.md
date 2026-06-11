@@ -4,6 +4,7 @@ description: >-
   This wood tiny house on wheels has 1 room, 1 bathroom, some storage and a porch, for a total of
   294 sq/ft, with 245 habitable sq/ft.
 slug: 245-sq-ft-1-bedroom-1-bathroom-on-wheels
+stripe_payment_link: https://buy.stripe.com/9B6fZieko1un2pSfWuao800
 architect: anastasia
 image: /img/wood-tiny-on-wheels-interior-3.jpg
 date: '2018-08-07'

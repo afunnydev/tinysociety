@@ -3,6 +3,7 @@ title: Tiny Home Plan | 1 Room | 1 Bathroom | 443 sq/ft
 description: >-
   This tiny house has 1 room, 1 bathroom, a terrace space and is 545 sq/ft, with 443 habitable sq/ft. It is 15' by 40', including the terrace space. It is on a wooden poles foundation.
 slug: 443-sq-ft-1-bathroom-1-bedroom-foundation
+stripe_payment_link: https://buy.stripe.com/6oUcN6eko5KD1lO11Aao802
 architect: anastasia
 image: /img/tiny-home-container-size-exterior.jpg
 date: '2018-08-23'

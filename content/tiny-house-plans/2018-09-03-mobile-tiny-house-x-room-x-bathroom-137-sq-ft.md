@@ -5,6 +5,7 @@ description: >-
   bathroom and 1 bedroom and is 20' 2" by 8' 2". It is built on wheels, giving it
   its mobility.
 slug: 137-sq-ft-1-bathroom-1-bedroom-on-wheels
+stripe_payment_link: https://buy.stripe.com/7sY4gA3FK5KD8OgaCaao806
 architect: hesham
 image: /img/mobile-tiny-house-exterior-1.jpg
 date: '2018-09-10'

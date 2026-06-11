@@ -4,6 +4,7 @@ description: >-
   This solar-ready tiny House on wheels has 1 room, 1 bathroom and porch, for a total of
   338 sq/ft, with 283 habitable sq/ft.
 slug: 283-sq-ft-1-bedroom-1-bathroom-on-wheels
+stripe_payment_link: https://buy.stripe.com/00wcN62BG0qje8AdOmao804
 architect: hesham
 image: /img/simplistic-tiny-house-exterior1.jpg
 date: '2018-09-01'
