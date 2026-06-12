@@ -67,7 +67,9 @@ Experts also suggest posting a “land wanted” flyer in spots like supermarket
 
 Both [building codes and zoning laws](https://www.curbed.com/2016/9/22/13002832/tiny-house-zoning-laws-regulations) limit tiny house construction. Local building codes specify how to build the dwelling. Zoning regulations govern where the owner can place the home.
 
-Before searching for land, place a call to the local zoning office or the municipal planning department and inquire about the zoning ordinances. The staff should indicate whether there is a minimum square footage requirement—sometimes 1,000 square feet—for new homes situated on their own land. Bear in mind that it’s usually possible to apply for a variance. Also note that different states, city governments, or counties may have different building codes or zoning regulations.
+Before searching for land, place a call to the local zoning office or the municipal planning department and inquire about the zoning ordinances. The staff should indicate whether there is a minimum square footage requirement—sometimes 1,000 square feet—for new homes situated on their own land. Bear in mind that it’s usually possible to apply for a variance. 
+
+Also note that different states, city governments, or counties may have different building codes or zoning regulations. Researching the [best home loan](https://skiploans.com.au/) options for land purchases can help secure the funds needed to cover your budget, project requirements, and land preparation costs.
 
 Finally, when making contact about rural land potentially for sale, the owner of a tiny home should always keep in mind the seller’s perspective. Sellers focus on their own concerns: sales price, timeframe for selling, and other favorable terms. 
 
