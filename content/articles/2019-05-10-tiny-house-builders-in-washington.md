@@ -1,27 +1,25 @@
 ---
-title: Tiny House Builders in Washington
-description: >-
-  Washington State is a popular place for tiny house dwellers! We listed in this
-  article the tiny house builders of that State with important information about
-  their specialties! Use this article as a reference to choose your builder!
-  Feel free to contact us if you feel like we missed a good one! 
+title: All the Tiny House Builders in Washington
+description: "Washington State is a popular place for tiny house dwellers! We
+  listed in this article the tiny house builders of that State with important
+  information about their specialties! Use this article as a reference to choose
+  your builder! Feel free to contact us if you feel like we missed a good one! "
 slug: tiny-house-buiders-washington
 author: alexis
 image: /img/backcountry-tiny-homes-grizzly-model-interior-3.jpg
 overlay: true
-date: '2019-05-10'
+date: 2019-05-10
 notloaded:
   need: true
 listing:
   title: Tiny House Builders in Washington
-  description: >-
-    Washington State is a popular place for tiny house dwellers! We listed in
-    this article the tiny house builders of that State with important
+  description: "Washington State is a popular place for tiny house dwellers! We
+    listed in this article the tiny house builders of that State with important
     information about their specialties! Use this article as a reference to
     choose your builder! Feel free to contact us if you feel like we missed a
-    good one! 
+    good one! "
   image: /img/tiny-house-builders-washington-state-800px.jpg
-likes: '0'
+likes: "0"
 categories:
   - Tiny houses
   - Architecture and design
