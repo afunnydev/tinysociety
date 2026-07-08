@@ -1,17 +1,17 @@
 ---
 title: Low power air conditioner to keep you cool during the summer
-description: >-
-  It's easy for a tiny house to feel hot and stuffy. Luckily, there are several
-  options to stay cool. Whether you're interested in a portable air conditioner,
-  window air conditioner, or a mini split; there's an option for every tiny
-  house and tiny house budget. 
+description: "It's easy for a tiny house to feel hot and stuffy. Luckily, there
+  are several options to stay cool. Whether you're interested in a portable air
+  conditioner, window air conditioner, or a mini split; there's an option for
+  every tiny house and tiny house budget. "
 slug: low-power-air-conditioner-to-keep-you-cool-during-the-summer
 author: molli
 image: /img/air-conditioner-tiny-house.jpg
 overlay: true
-date: '2018-08-27'
+date: 2018-08-27
+lastmod: 2026-07-08
 notloaded:
-  need: 'true'
+  need: "true"
 listing:
   title: Low power air conditioner to keep you cool during the summer
   description: >
@@ -21,15 +21,15 @@ listing:
     Let’s take a look at some air conditioners so you’re prepared to handle the
     heat next summer. 
   image: /img/air-conditioner-tiny-house-square.jpg
-likes: '58'
 categories:
   - Tiny houses
 i18nlanguage: en
 menuid: articles
-ordre: '0'
 infographic: false
 draft: false
 noindex: false
+ordre: "0"
+likes: "58"
 ---
 While summertime brings some of the best weather of the entire year, it also brings some of the most uncomfortable days, too. I love almost everything about summer; ice-cold drinks with friends, the suntanned skin, and especially the long beach days. But one thing that I don’t love is the sticky, humidity that often comes with it. Just because the hot sun feels wonderful at the beach, doesn’t mean we want that when we come home. There’s no better feeling than bursting through the front door after a scorching day out, and feeling like you’ve entered the North Pole. Let’s take a look at some air conditioners so you’re prepared to handle the heat next summer. 
 
@@ -63,9 +63,11 @@ Although highly sustainable, this unit is tricky to install and fairly expensive
 
 The most highly recommended air conditioning systems for tiny houses are window units, portable units, and mini splits. Window units are not only affordable, but they can also be easily installed into a tiny house window with little to no hassle. Portable units are a great choice because they are also inexpensive and can cool a tiny home efficiently. On the other hand, mini split air conditioners look good, and can be mounted anywhere with a series of ductwork that runs through your tiny house. Mini splits may be more aesthetically pleasing, but window units and portable units are cheaper. Each of these air conditioning units have energy efficient options to choose from. 
 
-_**Something to Note:**_
+***Something to Note:***
 
 BTU (British Thermal Unit), is a unit of energy that tells you how much heat is needed to raise one pound of water by one degree Fahrenheit. When purchasing a cooling unit, it’s a good idea to use this [BTU calculator](https://www.calculator.net/btu-calculator.html) to make sure the system you are buying is compatible with your tiny house. 
+
+Choosing the right BTU rating is only one part of creating a comfortable indoor environment. [Improving your home’s cooling efficiency](https://gundlachsservice.com/air-conditioning/) also involves reducing heat gain by sealing air leaks, using insulated curtains or blinds, keeping air filters clean, and ensuring your air conditioner is properly maintained. These simple measures help your cooling system perform more effectively, lower energy costs, and keep your tiny house comfortable throughout the hottest months of the year.
 
 ## Recommendation #1: [Frigidaire Mini-Compact Window Air Conditioner](https://www.totalhomesupply.com/frigidaire-ffre1033u1-10-000-btu-window-unit-room-air-conditioner-energy-star/p/frigidaire-ffre1033u1)
 
@@ -93,13 +95,13 @@ Another Energy-Star certified unit, this portable air conditioner provides 12,00
 
 ## Other Cooling Options
 
-1. [**Fan**](https://www.wayfair.com/home-improvement/pdp/stadler-form-otto-14-floor-fan-szy1002.html?domain=bestproducts.com&SSAID=314743&SSAID=314743&refid=SS314743&creative=65867&m=11035)
+1. **[Fan](https://www.wayfair.com/home-improvement/pdp/stadler-form-otto-14-floor-fan-szy1002.html?domain=bestproducts.com&SSAID=314743&SSAID=314743&refid=SS314743&creative=65867&m=11035)**
 
 ![](/img/screen-shot-2018-08-27-at-12.05.14.png)
 
 A low-tech, classic form of staying cool. Although on exceptionally hot days, it can sometimes feel like a regular-old fan isn’t doing the job. Luckily, there are a variety of electric cooling fans on the market that will do more than just blow hot air around.
 
-2. [**KoolerAire**](http://www.kooleraire.com/)
+2. **[KoolerAire](http://www.kooleraire.com/)**
 
 ![](/img/air-conditioner-cooler.gif)
 
