@@ -67,7 +67,7 @@ The most highly recommended air conditioning systems for tiny houses are window 
 
 BTU (British Thermal Unit), is a unit of energy that tells you how much heat is needed to raise one pound of water by one degree Fahrenheit. When purchasing a cooling unit, it’s a good idea to use this [BTU calculator](https://www.calculator.net/btu-calculator.html) to make sure the system you are buying is compatible with your tiny house. 
 
-Choosing the right BTU rating is only one part of creating a comfortable indoor environment. [Improving your home’s cooling efficiency](https://gundlachsservice.com/air-conditioning/) also involves reducing heat gain by sealing air leaks, using insulated curtains or blinds, keeping air filters clean, and ensuring your air conditioner is properly maintained. 
+Choosing the right BTU rating is only one part of creating a comfortable indoor environment. [Improving your home’s cooling efficiency](https://www.gundlachsservice.com/air-conditioning/) also involves reducing heat gain by sealing air leaks, using insulated curtains or blinds, keeping air filters clean, and ensuring your air conditioner is properly maintained. 
 
 These simple measures help your cooling system perform more effectively, lower energy costs, and keep your tiny house comfortable throughout the hottest months of the year.
 
