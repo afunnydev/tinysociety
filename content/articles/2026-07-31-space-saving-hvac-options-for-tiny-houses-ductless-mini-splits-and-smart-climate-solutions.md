@@ -7,6 +7,7 @@ description: >
   efficiency.
 slug: space-saving-hvac-options-for-tiny-houses
 author: guest
+image: /img/space-saving-hvac-options-for-tiny-houses.jpg
 overlay: true
 date: 2026-07-31
 lastmod: 2026-07-31
@@ -18,7 +19,7 @@ listing:
     mini-splits, PTAC units, window ACs, and supplemental heaters. Learn how
     insulation, power access, mobility, and proper BTU sizing affect comfort and
     energy efficiency.
-  image: /img/space-saving-hvac-options-for-tiny-houses.jpg
+  image: ""
 categories:
   - Energy efficiency
 i18nlanguage: en
