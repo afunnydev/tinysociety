@@ -17,7 +17,7 @@ listing:
     focusing on smart design, durable construction, preventive maintenance, and
     planned upgrades. By thinking beyond upfront costs, homeowners can reduce
     repairs, extend system lifespan, and protect long-term value.
-  image: ""
+  image: /img/img_0193-square.jpeg
 categories:
   - Sustainable building and living
 i18nlanguage: en

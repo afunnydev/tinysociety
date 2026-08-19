@@ -19,7 +19,7 @@ listing:
     mini-splits, PTAC units, window ACs, and supplemental heaters. Learn how
     insulation, power access, mobility, and proper BTU sizing affect comfort and
     energy efficiency.
-  image: ""
+  image: /img/space-saving-hvac-options-for-tiny-houses-square.jpeg
 categories:
   - Energy efficiency
 i18nlanguage: en

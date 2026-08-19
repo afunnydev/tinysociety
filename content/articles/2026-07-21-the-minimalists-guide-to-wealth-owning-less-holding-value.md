@@ -19,6 +19,7 @@ listing:
     freedom. By reducing recurring expenses, avoiding impulse purchases, and
     prioritizing quality over quantity, you can build wealth with greater
     clarity and flexibility.
+  image: /img/photo_5402492817814264672_y-square.jpeg
 categories:
   - Tiny lifestyle
 i18nlanguage: en

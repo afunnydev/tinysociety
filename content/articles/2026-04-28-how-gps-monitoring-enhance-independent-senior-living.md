@@ -8,10 +8,11 @@ author: guest
 overlay: true
 date: 2026-04-28
 lastmod: 2026-04-28
+image: /img/img_1267.jpg
 notloaded:
   need: true
 listing:
-  image: /img/img_1267.jpg
+  image: /img/img_1267-square.jpeg
   title: How GPS Monitoring Enhance Independent Senior Living
   description: GPS monitoring systems are helping seniors maintain independence
     while living alone, especially in tiny homes or rural areas. With features
